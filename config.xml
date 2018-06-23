@@ -50,7 +50,7 @@
    <preference name="permissions" value="none"/>
    
 	 
-	 <gap:plugin name="cordova-plugin-admobpro" source="npm" />
+	 <!--  <gap:plugin name="cordova-plugin-admobpro" source="npm" />-->
   
     <!-- You can comment out features you aren't using -->
 	<gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />
