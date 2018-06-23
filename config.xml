@@ -3,20 +3,20 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "org.biblequizchapterwise.app"
-        version   = "1.1.3"
-		android-versionCode="10014"
+        id        = "org.mannaministryquiz.kn"
+        version   = "1"
+		android-versionCode="10000"
 		> 
 
     <!-- Change app id (above), name, description, and author. App ID can be any reverse domain name, such as com.mycompany.app -->
-    <name>Bible Quiz Chapterwise </name>
+    <name>Kannada Bible Quiz </name>
 
     <description>
-        Bible quiz Chapterwise from Law of Christ Ministries
+        Bible quiz kannada By Manna Ministry
     </description> 
 
-    <author href="http://lawofchristministries.org/" email="Rajushetty.b@gmail.com">
-        Raju Shetty
+    <author href="http://mannaministry.in" email="Rajushetty.b@gmail.com">
+        Manna Ministry
     </author>
 
   <!-- firebase push-->
