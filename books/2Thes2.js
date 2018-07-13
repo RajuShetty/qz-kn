@@ -1,4 +1,4 @@
-var quiztitle = "2 Thessalonians chapter 2";			
+var quiztitle = "2 ಥೆಸಲೋನಿಕದವರಿಗೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಇದು ಹತ್ತಿರವಾಯಿತೆಂದು ನೀವು ಚಂಚಲರಾಗಿ ಕಳವಳಪಡಬೇಡಿರಿ.	",

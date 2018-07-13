@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 1";			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
-"question" :	"	1. Which apostle wrote this letter?	",
+"question" :	"	1  ಈ ಪತ್ರಿಕೆಯನ್ನು ಬರೆದ ಅಪೋಸ್ತಲನು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. Paul	",
-	"	c. John	",
-	"	d. James	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಪೌಲ	",
+	"	C. ಯೋಹಾನ	",
+	"	D. ಯಾಕೋಬ	"
 ],			
-"correct" :	"	b. Paul	",
-"explanation" :	"	Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God.Rom1:1	",
+"correct" :	"	B. ಪೌಲ	",
+"explanation" :	"	ಯೇಸು ಕ್ರಿಸ್ತನ ದಾಸನೂ ಅಪೊಸ್ತಲನಾಗುವದಕ್ಕೆ ಕರೆಯಲ್ಪಟ್ಟವನೂ ದೇವರ ಸುವಾರ್ತೆಯನ್ನು ಸಾರುವದಕ್ಕೆ ನೇಮಿಸಲ್ಪಟ್ಟವನೂ ಆಗಿರುವ ಪೌಲನು  1:1	",
 },			
 {			
-"question" :	"	2. He was declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead.	",
+"question" :	"	2  ಪವಿತ್ರವಾದ ಆತ್ಮವುಳ್ಳವನಾಗಿದ್ದು ಸತ್ತ ಮೇಲೆ ಜೀವಿತನಾಗಿ ಎದ್ದು ಬಂದ ಮಹತ್ಕಾರ್ಯದಿಂದ ದೇವಕುಮಾರನೆಂದು ನಿರ್ಣಯಿಸಲ್ಪಟ್ಟವನು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Paul	",
-	"	b. Elisha	",
-	"	c. Jesus	",
-	"	d. Lazarus	"
+	"	A. ಪೌಲ	",
+	"	B. ಎಲೀಷ	",
+	"	C. ಯೇಸು	",
+	"	D. ಲಾಜರಸ್	"
 ],			
-"correct" :	"	c. Jesus	",
-"explanation" :	"	Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:Rom1:3,4	",
+"correct" :	"	C. ಯೇಸು	",
+"explanation" :	"	ಈ ಸುವಾರ್ತೆಯು ದೇವರ ಮಗನೂ ನಮ್ಮ ಕರ್ತನೂ ಆಗಿರುವ ಯೇಸು ಕ್ರಿಸ್ತನ ವಿಷಯವಾದದ್ದು. ಆತನು ವಂಶಕ್ರಮದಿಂದ ದಾವೀದನ ಸಂತಾನದಲ್ಲಿ ಹುಟ್ಟಿದವನೂ, ಪವಿತ್ರವಾದ ಆತ್ಮವುಳ್ಳವನಾಗಿದ್ದು ಸತ್ತಮೇಲೆ ಜೀವಿತನಾಗಿ ಎದ್ದು ಬಂದ ಮಹತ್ಕಾರ್ಯದಿಂದ ದೇವಕುಮಾರನೆಂದು ನಿರ್ಣಯಿಸಲ್ಪಟ್ಟವನೂ ಆಗಿದ್ದಾನೆ. 1:3,4	",
 },			
 {			
-"question" :	"	3. This letter was addressed to believers here.	",
+"question" :	"	3  ಇಲ್ಲಿನ ವಿಶ್ವಾಸಿಗಳಿಗಾಗಿ ಈ ಪತ್ರ ಬರೆಯಲ್ಪಟ್ಟಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rome	",
-	"	b. Jerusalem	",
-	"	c. Palestine	",
-	"	d. Corinth	"
+	"	A. ರೋಮ್	",
+	"	B. ಯೆರೂಷಲೇಮ್	",
+	"	C. ಪಾಲೇಸ್ತೀನ್	",
+	"	D. ಕೊರಿಂಥ	"
 ],			
-"correct" :	"	a. Rome	",
-"explanation" :	"	To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.Rom1:7	",
+"correct" :	"	A. ರೋಮ್	",
+"explanation" :	"	ರೋಮಾಪುರದಲ್ಲಿ ದೇವರಿಗೆ ಪ್ರಿಯರೂ ದೇವಜನರಾಗುವದಕ್ಕೆ ಕರೆಯಲ್ಪಟ್ಟವರೂ ಆಗಿರುವವರೆಲ್ಲರಿಗೆ ಬರೆಯುವದೇನಂದರೆ - ನಮ್ಮ ತಂದೆಯಾಗಿರುವ ದೇವರಿಂದಲೂ ಕರ್ತನಾದ ಯೇಸು ಕ್ರಿಸ್ತನಿಂದಲೂ ನಿಮಗೆ ಕೃಪೆಯೂ ಶಾಂತಿಯೂ ಆಗಲಿ.  1:7	",
 },			
 {			
-"question" :	"	4. The apostle states he is not ashamed of this, because it is the power of God unto salvation.	",
+"question" :	"	4  ಅಪೋಸ್ತಲನು ಹೇಳುತ್ತಾನೆ, ನಾನು ಇದಕ್ಕಾಗಿ ನಾಚಿಕೊಳ್ಳುವುದಿಲ್ಲ, ಯಾಕೆಂದರೆ ಇದು ರಕ್ಷಣೆಗಾಗಿ ದೇವರ ಬಲಸ್ವರೂಪವಾಗಿದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The gospel of Christ	",
-	"	b. The tradition of man	",
-	"	c. Hard work	",
-	"	d. Acts of righteousness	"
+	"	A. ಯೇಸುವಿನ ಸುವಾರ್ತೆ	",
+	"	B.  ಮನುಷ್ಯನ ಸಂಪ್ರದಾಯ	",
+	"	C. ಕಷ್ಟದ ಕೆಲಸ	",
+	"	D.  ನೀತಿವಂತರ ಕಾರ್ಯಗಳು	"
 ],			
-"correct" :	"	a. The gospel of Christ	",
-"explanation" :	"	For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.Rom1:16	",
+"correct" :	"	A. ಯೇಸುವಿನ ಸುವಾರ್ತೆ	",
+"explanation" :	"	ಆ ಸುವಾರ್ತೆಯು ದೇವರ ಬಲಸ್ವರೂಪವಾಗಿದ್ದು ಮೊದಲು ಯೆಹೂದ್ಯರಿಗೆ ಆಮೇಲೆ ಗ್ರೀಕರಿಗೆ ಅಂತೂ ನಂಬುವವರೆಲ್ಲರಿಗೂ ರಕ್ಷಣೆ ಉಂಟುಮಾಡುವಂಥದಾಗಿದೆ. 1:16	",
 },			
 {			
-"question" :	"	5. The just shall live by this.	",
+"question" :	"	5  ನೀತಿವಂತನು ಇದರಿಂದಲೇ ಬದುಕುವನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fear & trembling	",
-	"	b. Prayer & fasting	",
-	"	c. Faith	",
-	"	d. Honor	"
+	"	A. ಭಯದಿಂದ ನಡಗುತ್ತಾ	",
+	"	B. ಪ್ರಾರ್ಥನೆ ಉಪವಾಸಗಳಿಂದ	",
+	"	C. ನಂಬಿಕೆಯಿಂದ	",
+	"	D. ಗೌರವದಿಂದ	"
 ],			
-"correct" :	"	c. Faith	",
-"explanation" :	"	For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.Rom1:17	",
+"correct" :	"	C. ನಂಬಿಕೆಯಿಂದ	",
+"explanation" :	"	ಹೇಗಂದರೆ ದೇವರಿಂದ ದೊರಕುವ ನೀತಿಯು ಅದರಲ್ಲಿ ತೋರಿಬರುತ್ತದೆ. ನೀತಿವಂತನು ನಂಬಿಕೆಯಿಂದಲೇ ಬದುಕುವನೆಂಬ ಶಾಸ್ತ್ರೋಕ್ತಿಯ ಪ್ರಕಾರ ಆ ನೀತಿಯು ನಂಬಿಕೆಯ ಫಲವಾಗಿದ್ದು ನಂಬಿಕೆಯನ್ನು ಪ್ರಕಟಿಸುವಂಥದಾಗಿದೆ. 1:17	",
 },			
 {			
-"question" :	"	6. Those who turned from God,professed themselves as wise, and became	",
+"question" :	"	6  ದೇವರಿಂದ ದೂರ ತಿರುಗಿದವರು, ತಾವು ಜಾÐನಿಗಳೆಂದು ಹೇಳಿಕೊಂಡು……………	",
 "image" :	"",		
 "choices" : [			
-	"	a. Kings & princes.	",
-	"	b. Legends.	",
-	"	c. As dung.	",
-	"	d. Fools.	"
+	"	A.  ರಾಜರು ಮತ್ತು ರಾಜಕುಮಾರರಾದರು	",
+	"	B.  ದಂತಕಥೆಯಾದರು	",
+	"	C. ಸಗಣಿಯಾದರು	",
+	"	D.  ಹುಚ್ಚರಾದರು	"
 ],			
-"correct" :	"	d. Fools.	",
-"explanation" :	"	Professing themselves to be wise, they became fools,Rom1:22	",
+"correct" :	"	D.  ಹುಚ್ಚರಾದರು	",
+"explanation" :	"	ತಾವು ಜ್ಞಾನಿಗಳೆಂದು ಹೇಳಿಕೊಂಡು ಹುಚ್ಚರಾದರು. 1:22	",
 },			
 {			
-"question" :	"	7. They began to worship this more than the creator.	",
+"question" :	"	7  ಅವರು ಇದನ್ನು ಸೃಷ್ಟಿಕರ್ತನಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಆರಾಧಿಸಲು ಪ್ರಾರಂಭಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Honor	",
-	"	b. Faith	",
-	"	c. Righteousness	",
-	"	d. The creature	"
+	"	A. ಗೌರವ	",
+	"	B.  ನಂಬಿಕೆ	",
+	"	C.  ನೀತಿ	",
+	"	D. ಸೃಷ್ಟಿಗಳು	"
 ],			
-"correct" :	"	d. The creature	",
-"explanation" :	"	Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.Rom1:25	",
+"correct" :	"	D. ಸೃಷ್ಟಿಗಳು	",
+"explanation" :	"	ಅವರು ಸತ್ಯದೇವರನ್ನು ಬಿಟ್ಟು ಅಸತ್ಯವಾದದ್ದನ್ನು ಹಿಡಿದುಕೊಂಡು ಸೃಷ್ಟಿಕರ್ತನನ್ನು ಪೂಜಿಸದೆ ಸೃಷ್ಟಿವಸ್ತುಗಳನ್ನೇ ಪೂಜಿಸಿ ಸೇವಿಸುವವರಾದರು. ಸೃಷ್ಟಿಕರ್ತನೊಬ್ಬನೇ ನಿರಂತರ ಸ್ತುತಿಹೊಂದತಕ್ಕವನು. ಆಮೆನ್. 1:25	",
 },			
 {			
-"question" :	"	8. These men, with vile affections, lusted after	",
+"question" :	"	8  ಗಂಡಸರು ಸಹ _____ ಕಾಮಾತುರದಿಂದ ತಾಪಪಟ್ಟರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Gold.	",
-	"	b. Prestige.	",
-	"	c. One another.	",
-	"	d. Righteousness.	"
+	"	A. ಚಿನ್ನಕ್ಕಾಗಿ	",
+	"	B.  ಘನೆತೆಗಾಗಿ	",
+	"	C. ಒಬ್ಬರ ಮೇಲೊಬ್ಬರು	",
+	"	D. ನೀತಿಗಾಗಿ	"
 ],			
-"correct" :	"	c. One another.	",
-"explanation" :	"	For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.Rom1:26,27	",
+"correct" :	"	C. ಒಬ್ಬರ ಮೇಲೊಬ್ಬರು	",
+"explanation" :	"	ಅವರು ಇಂಥದನ್ನು ಮಾಡಿದ್ದರಿಂದ ದೇವರು ಅವರನ್ನು ಕೇವಲ ತುಚ್ಫವಾದ ಕಾಮಾಭಿಲಾಷೆಗೆ ಒಪ್ಪಿಸಿದನು. ಹೇಗಂದರೆ ಅವರ ಹೆಂಗಸರು ಸ್ವಾಭಾವಿಕವಾದ ಭೋಗವನ್ನು ಬಿಟ್ಟು ಸ್ವಭಾವಕ್ಕೆ ವಿರುದ್ಧವಾದ ಭೋಗವನ್ನು ಅನುಸರಿಸಿದರು. ಅದರಂತೆ ಗಂಡಸರು ಸಹ ಸ್ವಾಭಾವಿಕವಾದ ಸ್ತ್ರೀಭೋಗವನ್ನು ಬಿಟ್ಟು ಒಬ್ಬರ ಮೇಲೊಬ್ಬರು ತಮ್ಮ ಕಾಮಾತುರದಿಂದ ತಾಪಪಡುತ್ತಾ ಗಂಡಸರ ಸಂಗಡ ಗಂಡಸರು ಕೇವಲ ಅವಲಕ್ಷಣವಾದದ್ದನ್ನು ನಡಿಸಿ ತಮ್ಮ ಭ್ರಾಂತಿಗೆ ತಕ್ಕ ಫಲವನ್ನು ತಮ್ಮಲ್ಲಿ ಹೊಂದುವವರಾದರು 1:26,27	",
 },			
 {			
-"question" :	"	9. As they did not like to retain God in their mind, God did this.	",
+"question" :	"	9  ದೇವರ ಜ್ಞಾನವು ಅವರಿಗೆ ಇಷ್ಟವಿಲ್ಲದ್ದರಿಂದ, ದೇವರು ಅವರನ್ನು____	",
 "image" :	"",		
 "choices" : [			
-	"	a. Caused them to go blind	",
-	"	b. Turned them over to a reprobate mind	",
-	"	c. Sold their souls to Satan	",
-	"	d. Cursed their children	"
+	"	A. ಕುರುಡರನ್ನಾಗಿಸಿದ	",
+	"	B. ಅನಿಷ್ಟ ಭಾವಕ್ಕೆ ಒಪ್ಪಿಸಿದನು	",
+	"	C. ಅವರ ಆತ್ಮಗಳನ್ನು ಸೈತಾನನಿಗೆ ಮಾರಿದನು	",
+	"	D. ಅವರ ಮಕ್ಕಳನ್ನು ಶಪಿಸಿದರು	"
 ],			
-"correct" :	"	b. Turned them over to a reprobate mind	",
-"explanation" :	"	And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;Rom1:28	",
+"correct" :	"	B. ಅನಿಷ್ಟ ಭಾವಕ್ಕೆ ಒಪ್ಪಿಸಿದನು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ದೇವರ ಜ್ಞಾನವು ಅವರಿಗೆ ಇಷ್ಟವಿಲ್ಲದ್ದರಿಂದ ಅಲ್ಲದ ಕೃತ್ಯಗಳನ್ನು ನಡಿಸುವವರಾಗುವಂತೆ ದೇವರು ಅವರನ್ನು ಅನಿಷ್ಟಭಾವಕ್ಕೆ ಒಪ್ಪಿಸಿದನು. 1:28	",
 },			
 {			
-"question" :	"	10. Even though they knew the things they committed were worthy of death,they did this.	",
+"question" :	"	10 ತಾವು ಮಾಡುವ ಕಾರ್ಯಗಳು ಮರಣಪಾತ್ರವೆಂದು ತಿಳಿದಿದ್ದರೂ, ಅವರು ಇದನ್ನು ಮಾಡುತ್ತಾರೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hid them	",
-	"	b. Took pleasure in them	",
-	"	c. Lied about their deeds	",
-	"	d. Stood before God unashamed	"
+	"	A. ಮರೆಯಾಗಿಸುತ್ತಾರೆ	",
+	"	B. ಮಾಡುವವರನ್ನು ಅನುಮೋದಿಸುತ್ತಾರೆ	",
+	"	C. ತಮ್ಮ ಕಾರ್ಯಗಳಿಗಾಗಿ ಸುಳ್ಳು ಹೇಳುತ್ತಾರೆ.	",
+	"	D. ನಾಚಿಕೆಯಿಲ್ಲದೆ ದೇವರ ಮುಂದೆ ನಿಲ್ಲುತ್ತಾರೆ.	"
 ],			
-"correct" :	"	b. Took pleasure in them	",
-"explanation" :	"	Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.Rom1:32	",
+"correct" :	"	B. ಮಾಡುವವರನ್ನು ಅನುಮೋದಿಸುತ್ತಾರೆ	",
+"explanation" :	"	ಇಂಥವುಗಳನ್ನು ನಡಿಸುವವರು ಮರಣಕ್ಕೆ ಪಾತ್ರರಾಗಿದ್ದಾರೆಂಬ ದೇವವಿಧಿಯು ಅವರಿಗೆ ತಿಳಿದಿದ್ದರೂ ಅವರು ತಾವೇ ಅವುಗಳನ್ನು ಮಾಡುವದಲ್ಲದೆ ಮಾಡುವವರನ್ನೂ ಅನುಮೋದಿಸುತ್ತಾರೆ 1:32	",
 },			
 ]			

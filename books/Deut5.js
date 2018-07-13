@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 5";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord talked to the people this way, out of the midst of the fire.	",

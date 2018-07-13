@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 29";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 29";			
 var quiz = [			
 {			
 "question" :	"	1. In the first year of his reign,Hezekiah	",

@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 10";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. ನಾವು ಲೋಕದಲ್ಲಿದ್ದರೂ _________ ಯುದ್ಧಮಾಡುವವರಲ್ಲ.	",

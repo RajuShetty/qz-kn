@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 5";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. If a man touch any unclean thing, such as the carcass of an unclean animal, he shall	",

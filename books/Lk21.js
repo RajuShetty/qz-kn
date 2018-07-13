@@ -1,124 +1,124 @@
-var quiztitle = "Luke chapter 21";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
-"question" :	"	1. How much did the widow put in the treasury?	",
+"question" :	"	1. ಬಡವಿಧವೆಯು ಎಷ್ಟು ಕಾಣಿಕೆಯನ್ನು ಹಾಕಿದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 30 pieces of silver	",
-	"	b. 30 pieces of gold	",
-	"	c. 2 mites	",
-	"	d. 10 shekels	"
+	"	A. 30 ಬೆಳ್ಳಿ ನಾಣ್ಯ	",
+	"	B. 30 ಚಿನ್ನದ ನಾಣ್ಯ	",
+	"	C. 2 ಕಾಸು	",
+	"	D. 10 ಶೆಕೆಲ್	"
 ],			
-"correct" :	"	c. 2 mites	",
-"explanation" :	"	and He saw also a certain poor widow putting in two mites.- Lk 21:2	",
+"correct" :	"	C. 2 ಕಾಸು	",
+"explanation" :	"	ಆಗ ಒಬ್ಬ ಬಡ ವಿಧವೆಯು ಬಂದು ಎರಡು ಕಾಸನ್ನು ಹಾಕಲು ಆತನು ಅದನ್ನು ನೋಡಿ;   ಲೂಕ 21:2	",
 },			
 {			
-"question" :	"	2. What did Jesus say about the widow?	",
+"question" :	"	2. ಯೇಸು ಆ ವಿಧವೆಯ ಕುರಿತು ಏನು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. She gave more than all the others.	",
-	"	b. She was stingy.	",
-	"	c. She had money hidden.	",
-	"	d. She would remarry.	"
+	"	A. ಆಕೆಯು ಎಲ್ಲರಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಕೊಟ್ಟಳು	",
+	"	B. ಆಕೆಯು ಜಿಪುಣಿ	",
+	"	C. ಆಕೆಯು ಹಣವನ್ನು ಬಚ್ಚಿಟ್ಟಿದ್ದಾಳೆ	",
+	"	D. ಆಕೆಗೆ ಮತ್ತೆ ಮದುವೆಯಾಗಬೇಕು	"
 ],			
-"correct" :	"	a. She gave more than all the others.	",
-"explanation" :	"	So He said, Truly I say to you that this poor widow has put in more than all; - Lk 21:3	",
+"correct" :	"	A. ಆಕೆಯು ಎಲ್ಲರಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಕೊಟ್ಟಳು	",
+"explanation" :	"	ನಿಮಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ, ಈ ಬಡವಿಧವೆ ಎಲ್ಲರಿಗಿಂತಲೂ ಹೆಚ್ಚು ಹಾಕಿದ್ದಾಳೆ;   ಲೂಕ 21:3	",
 },			
 {			
-"question" :	"	3. When the people were speaking of this place, Jesus said, there would not be one stone left upon another.	",
+"question" :	"	3. ಕೆಲವರು ಈ ಸ್ಥಳದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತಿರುವಾಗ ಯೇಸು, ಈ ಸ್ಥಳದಲ್ಲಿ ಕಲ್ಲಿನ ಮೇಲೆ ಕಲ್ಲು ನಿಲ್ಲುವುದಿಲ್ಲ ಎಂದು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Heaven	",
-	"	b. Mt. Zion	",
-	"	c. The temple	",
-	"	d. Egypt	"
+	"	A. ಪರಲೋಕ	",
+	"	B. ಚಿಯೋನ್ ಪರ್ವತ	",
+	"	C. ದೇವಾಲಯ	",
+	"	D. ಐಗುಪ್ತ	"
 ],			
-"correct" :	"	c. The temple	",
-"explanation" :	"	Then, as some spoke of the temple, how it was adorned with beautiful stones and donations, He said,These things which you see--the days will come in which not one stone shall be left upon another that shall not be thrown down. - Lk 21:5-6	",
+"correct" :	"	C. ದೇವಾಲಯ	",
+"explanation" :	"	ಕೆಲವರು ದೇವಾಲಯದ ವಿಷಯದಲ್ಲಿ ಅದು ಅಂದವಾದ ಕಲ್ಲುಗಳಿಂದಲೂ ಹರಕೆಯ ಒಡವೆಗಳಿಂದಲೂ ಅಲಂಕಾರವಾಗಿದೆ ಎಂದು ಹೇಳುತ್ತಿರುವಾಗ ಆತನು - ನೀವು ಇವುಗಳನ್ನು ನೋಡುತ್ತೀರಲ್ಲಾ. ಇಲ್ಲಿ ಕಲ್ಲಿನ ಮೇಲೆ ಉಳಿಯದೆ ಎಲ್ಲಾ ಕೆಡವಲ್ಪಡುವ ದಿವಸಗಳು ಬರುವವು ಅಂದನು.   ಲೂಕ 21:5-6	",
 },			
 {			
-"question" :	"	4. Jesus said, many would come in His name	",
+"question" :	"	4.  ಯೇಸು ಹೇಳಿದ್ದು, ಅನೇಕರು ಬಂದು ನನ್ನ ಹೆಸರಿನಲ್ಲಿe	",
 "image" :	"",		
 "choices" : [			
-	"	a. Preaching Jesus.	",
-	"	b. Healing the sick.	",
-	"	c. Saying I am Christ.	",
-	"	d. Preaching the gospel of the kingdom.	"
+	"	A. ಭೋದಿಸುವರು	",
+	"	B. ರೋಗಿಗಳನ್ನು ಸೌಖ್ಯಪಡಿಸುವರು	",
+	"	C. ನಾನು ಕ್ರಿಸ್ತನು ಎಂದು ಹೇಳುವರು	",
+	"	D. ಪರಲೋಕ ರಾಜ್ಯದ ಸುವಾರ್ತೆಯನ್ನು ಸಾರುವರು	"
 ],			
-"correct" :	"	c. Saying I am Christ.	",
-"explanation" :	"	And He said: Take heed that you not be deceived. For many will come in My name, saying, 'I am He,' and, 'The time has drawn near.' Therefore do not go after them. - Lk 21:8	",
+"correct" :	"	C. ನಾನು ಕ್ರಿಸ್ತನು ಎಂದು ಹೇಳುವರು	",
+"explanation" :	"	ಆತನು ಹೇಳಿದ್ದೇನೆಂದರೆ - ನೀವು ಮೋಸಹೋಗದಂತೆ ನೋಡಿಕೊಳ್ಳಿರಿ.  ಯಾಕಂದರೆ ಅನೇಕರು ಬಂದು ನನ್ನ ಹೆಸರನ್ನು ಎತ್ತಿಕೊಂಡು ನಾನು ಕ್ರಿಸ್ತನು ನಾನು ಕ್ರಿಸ್ತನು ಎಂತಲೂ ಆ ಕಾಲ ಹತ್ತಿರವಾಯಿತು ಎಂತಲೂ ಹೇಳುವರು;   ಲೂಕ 21:8	",
 },			
 {			
-"question" :	"	5. Jesus said, do not be terrified when you hear of these.	",
+"question" :	"	5. ನೀವು ಈ ವಿಷಯಗಳನ್ನು ಕೇಳುವಾಗ ಕಳವಳಗೊಳ್ಳಬೇಡಿರಿ ಎಂದು ಯೇಸು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Elections	",
-	"	b. Locust	",
-	"	c. Wars	",
-	"	d. Snakes	"
+	"	A. ಚುನಾವಣೆ	",
+	"	 B. ಮಿಡತೆ	",
+	"	C. ಯುದ್ಧಗಳು	",
+	"	 D. ಹಾವುಗಳ	"
 ],			
-"correct" :	"	c. Wars	",
-"explanation" :	"	But when you hear of wars and commotions, do not be terrified; for these things must come to pass first, but the end will not come immediately. - Lk 21:9	",
+"correct" :	"	C. ಯುದ್ಧಗಳು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಯುದ್ಧಗಳೂ ಗಲಿಬಿಲಿಗಳೂ ಆಗುವದನ್ನು ನೀವು ಕೇಳುವಾಗ ದಿಗಿಲುಪಡಬೇಡಿರಿ;   ಲೂಕ 21:9	",
 },			
 {			
-"question" :	"	6. Jesus said, these would be in diverse places.	",
+"question" :	"	6 ಯೇಸು ಹೇಳಿದ್ದು, ಅಲ್ಲಲ್ಲಿ ಇವು ಸಂಭವಿಸುವುವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sightings of angels	",
-	"	b. An oasis of peace	",
-	"	c. Earthquakes, famines & pestilence	",
-	"	d. Revival meetings	"
+	"	 A. ದೂತರ ಪ್ರತ್ಯಕ್ಷತೆ	",
+	"	B. ಶಾಂತಿಯ ಓಯಾಸಿಸ್	",
+	"	C. ಭೂಕಂಪ, ಬರಗಾಲ ಮತ್ತು ಉಪದ್ರವ	",
+	"	D. ಉಜ್ಜೀವನ ಕೂಟಗಳು	"
 ],			
-"correct" :	"	c. Earthquakes, famines & pestilence	",
-"explanation" :	"	And there will be great earthquakes in various places, and famines and pestilences; and there will be fearful sights and great signs from heaven. - Lk 21:11	",
+"correct" :	"	C. ಭೂಕಂಪ, ಬರಗಾಲ ಮತ್ತು ಉಪದ್ರವ	",
+"explanation" :	"	ಮತ್ತು ಮಹಾಭೂಕಂಪಗಳಾಗುವವು; ಅಲ್ಲಲ್ಲಿ ಬರಗಳೂ ಉಪದ್ರವಗಳೂ ಬರುವವು; ಉತ್ಪಾತಗಳೂ ಆಕಾಶದಲ್ಲಿ ಮಹಾಸೂಚನೆಗಳೂ ತೋರುವವು;   ಲೂಕ 21:11	",
 },			
 {			
-"question" :	"	7. Jesus said for His name’s sake, all men will	",
+"question" :	"	7  ಆತನ ಹೆಸರಿನ ದೆಸೆಯಿಂದ ಎಲ್ಲಾ ಜನರೂ ನಿಮ್ಮನ್ನು ____________	",
 "image" :	"",		
 "choices" : [			
-	"	a. Respect you.	",
-	"	b. Hate you.	",
-	"	c. Honor you.	",
-	"	d. Provide for you.	"
+	"	 A. ಗೌರವಿಸುವರು	",
+	"	B. ದ್ವೇಷಿಸುವರು	",
+	"	C. ಸನ್ಮಾನಿಸುವರು	",
+	"	D. ನಿಮಗೆ ಒದಗಿಸುವರು	"
 ],			
-"correct" :	"	b. Hate you.	",
-"explanation" :	"	And you will be hated by all for My name's sake. - Lk 21:17	",
+"correct" :	"	B. ದ್ವೇಷಿಸುವರು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ನನ್ನ ಹೆಸರಿನ ನಿಮಿತ್ತ ನಿಮ್ಮನ್ನು ಎಲ್ಲರೂ ಹಗೆ ಮಾಡುವರು.   ಲೂಕ 21:17	",
 },			
 {			
-"question" :	"	8. Jesus spoke a parable, mentioning this kind of tree.	",
+"question" :	"	8 ಯೇಸು ಒಂದು ಸಾಮ್ಯದಲ್ಲಿ ಒಂದು ಮರದ ಕುರಿತು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Apple	",
-	"	b. Olive	",
-	"	c. Mustard	",
-	"	d. Fig	"
+	"	A. ಆಪಲ್	",
+	"	B. ಆಲೀವ್	",
+	"	C. ಸಾಸಿವೆ ಮರ	",
+	"	D. ಅಂಜೂರದ ಮರ	"
 ],			
-"correct" :	"	d. Fig	",
-"explanation" :	"	Then He spoke to them a parable: Look at the fig tree, and all the trees. - Lk 21:29	",
+"correct" :	"	D. ಅಂಜೂರದ ಮರ	",
+"explanation" :	"	ಆತನು ಅವರಿಗೆ ಒಂದು ಸಾಮ್ಯ ಕೊಟ್ಟು ಹೇಳಿದ್ದೇನಂದರೆ - ಅಂಜೂರ ಮುಂತಾದ ಮರಗಳನ್ನೂ ನೋಡಿರಿ.  ಲೂಕ 21:29	",
 },			
 {			
-"question" :	"	9. Jesus said, heaven and earth will pass away, but these will not.	",
+"question" :	"	9 ಭೂಮ್ಯಾಕಾಶವು ಅಳಿದುಹೋಗುವುದು ಆದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. The souls of men	",
-	"	b. His words	",
-	"	c. Tribulations	",
-	"	d. Angels	"
+	"	A. ಮನುಷ್ಯರ ಆತ್ಮ ಅಳಿದುಹೋಗುವುದಿಲ್ಲ	",
+	"	 B. ನನ್ನ ಮಾತುಗಳು ಅಳಿದುಹೋಗುವುದಿಲ್ಲ	",
+	"	C. ಸಂಕಟಗಳು ಅಳಿದುಹೋಗುವುದಿಲ್ಲ	",
+	"	D. ದೂತರು ಅಳಿದುಹೋಗುವುದಿಲ್ಲ	"
 ],			
-"correct" :	"	b. His words	",
-"explanation" :	"	Heaven and earth will pass away, but My words will by no means pass away. - Lk 21:33	",
+"correct" :	"	A. ಮನುಷ್ಯರ ಆತ್ಮ ಅಳಿದುಹೋಗುವುದಿಲ್ಲ	",
+"explanation" :	"	ಭೂಮ್ಯಾಕಾಶಗಳು ಅಳಿದುಹೋಗುವವು, ಆದರೆ ನನ್ನ ಮಾತುಗಳು ಅಳಿದುಹೋಗುವದೇ ಇಲ್ಲ;   ಲೂಕ 21:33	",
 },			
 {			
-"question" :	"	10. After teaching in the temple, Jesus abode here that night.	",
+"question" :	"	10 ದೇವಾಲಯದಲ್ಲಿ ಭೋದಿಸಿದ ನಂತರ ಯೇಸು ಆ ರಾತ್ರಿ ಇಲ್ಲಿ ತಂಗಿದರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The mount of Olives	",
-	"	b. Egypt	",
-	"	c. The valley of Salt	",
-	"	d. Mt. Sinai	"
+	"	A. ಎಣ್ಣೇ ಮರಗಳ ತೋಪು	",
+	"	B. ಐಗುಪ್ತ್ಯ	",
+	"	C. ಉಪ್ಪಿನ ಕಣಿವೆ	",
+	"	D. ಸಿನಾಯ್ ಬೆಟ್ಟ	"
 ],			
-"correct" :	"	a. The mount of Olives	",
-"explanation" :	"	And in the daytime He was teaching in the temple, but at night He went out and stayed on the mountain called Olivet. - Lk 21:37	",
+"correct" :	"	A. ಎಣ್ಣೇ ಮರಗಳ ತೋಪು	",
+"explanation" :	"	ಆತನು ಹಗಲು ದೇವಾಲಯದಲ್ಲಿ ಉಪದೇಶ ಮಾಡುತ್ತಾ ರಾತ್ರಿ ಪಟ್ಟಣದ ಹೊರಗೆ ಹೋಗಿ ಎಣ್ಣೇಮರಗಳ ತೋಪು ಎನಿಸಿಕೊಳ್ಳುವ ಗುಡ್ಡದಲ್ಲಿ ಇಳುಕೊಳ್ಳುತ್ತಾ ಇದ್ದನು.   ಲೂಕ 21:37	",
 },			
 ]			
-			

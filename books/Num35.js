@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 35";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 35";			
 var quiz = [			
 {			
 "question" :	"	1. The children of Israel were to give of their inheritance, cities for this tribe.	",

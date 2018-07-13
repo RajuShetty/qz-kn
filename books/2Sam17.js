@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 17";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. He asked Absalom for 12,000 men to pursue after David.	",
@@ -114,7 +114,7 @@ var quiz = [
 "choices" : [			
 	"	a. Shadrach, Meshach & Abednego	",
 	"	b. Ham, Shem & Japheth	",
-	"	c. James, Peter & John	",
+	"	c. ಯಾಕೋಬನು, Peter & ಯೋಹಾನ	",
 	"	d. Shobi, Machir & Barzillai	"
 ],			
 "correct" :	"	d. Shobi, Machir & Barzillai	",

@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 27";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 27";			
 var quiz = [			
 {			
 "question" :	"	1. The altar was to be made of this kind of wood.	",

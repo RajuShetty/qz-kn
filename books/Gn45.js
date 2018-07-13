@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 45";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 45";			
 var quiz = [			
 {			
 "question" :	"	1. Joseph could no longer refrain himself and	",

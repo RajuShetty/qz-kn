@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 6";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. Construction began on the house of the Lord when the children of Israel had been delivered from Egypt this many years.	",

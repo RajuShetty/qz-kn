@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 11";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
-"question" :	"	1. One of Jesus’ disciples asked Him to teach them to do this.	",
+"question" :	"	1. ಯೇಸುವಿನ ಶಿಷ್ಯರಲ್ಲಿ ಒಬ್ಬನು ಆತನಿಗೆ ನಮಗೆ ಇದನ್ನು ಕಲಿಸು ಎಂದು ಕೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pray	",
-	"	b. Preach	",
-	"	c. Sacrifice	",
-	"	d. Go to war	"
+	"	A. ಪ್ರಾರ್ಥನೆ	",
+	"	B. ಭೋದನೆ	",
+	"	C. ತ್ಯಾಗ	",
+	"	D. ಯುದ್ಧಕ್ಕೆ ಹೋಗುವುದು	"
 ],			
-"correct" :	"	a. Pray	",
-"explanation" :	"	Now it came to pass, as He was praying in a certain place, when He ceased, that one of His disciples said to Him, Lord, teach us to pray, as John also taught his disciples. - Lk 11:1	",
+"correct" :	"	A. ಪ್ರಾರ್ಥನೆ	",
+"explanation" :	"	ಆತನು ಒಂದಾನೊಂದು ಸ್ಥಳದಲ್ಲಿ ಪ್ರಾರ್ಥನೆ ಮಾಡಿ ಮುಗಿಸಿದಾಗ ಆತನ ಶಿಷ್ಯರಲ್ಲಿ ಒಬ್ಬನು ಆತನಿಗೆ - ಸ್ವಾಮೀ, ಯೋಹಾನನು ತನ್ನ ಶಿಷ್ಯರಿಗೆ ಕಲಿಸಿದ ಹಾಗೆ ನಮಗೂ ಪ್ರಾರ್ಥನೆ ಮಾಡುವುದನ್ನು ಕಲಿಸು ಎಂದು ಕೇಳಿದನು.  ಲೂಕ 11:1	",
 },			
 {			
-"question" :	"	2. Seek and ye shall	",
+"question" :	"	2. ಹುಡುಕಿರಿ ನಿಮಗೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Find.	",
-	"	b. Discover.	",
-	"	c. Be sorry.	",
-	"	d. Be persecuted.	"
+	"	A. ಸಿಕ್ಕುವುದು	",
+	"	B. ಕಂಡುಹಿಡಿಯುವಿರಿ	",
+	"	C. ಕ್ಷಮಿಸಲ್ಪಡುವಿರಿ	",
+	"	D. ಹಿಂಸಗೊಳಗಾಗುವಿರಿ	"
 ],			
-"correct" :	"	a. Find.	",
-"explanation" :	"	So I say to you, ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you. - Lk 11:9	",
+"correct" :	"	A. ಸಿಕ್ಕುವುದು	",
+"explanation" :	"	ಹಾಗೆಯೇ ನಾನು ನಿಮಗೆ ಹೇಳುವದೇನಂದರೆ - ಬೇಡಿಕೊಳ್ಳಿರಿ, ನಿಮಗೆ ದೊರೆಯುವುದು; ಹುಡುಕಿರಿ, ನಿಮಗೆ ಸಿಕ್ಕುವುದು.  ಲೂಕ 11:9	",
 },			
 {			
-"question" :	"	3. Jesus asked, what father would give this to his son, that asked for bread.	",
+"question" :	"	3.ಮೀನನ್ನು ಕೇಳುವ ಮಗನಿಗೆ ತಂದೆಯು _______ ಕೊಡುವನೇ ಎಂದು ಯೇಸು ಕೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bread	",
-	"	b. Wine	",
-	"	c. Gold	",
-	"	d. A stone	"
+	"	A. ರೊಟ್ಟಿ	",
+	"	B. ದ್ರಾಕ್ಷಾರಸ	",
+	"	C. ಚಿನ್ನ	",
+	"	D. ಹಾವು	"
 ],			
-"correct" :	"	d. A stone	",
-"explanation" :	"	If a son asks for bread from any father among you, will he give him a stone? Or if he asks for a fish, will he give him a serpent instead of a fish - Lk 11:11	",
+"correct" :	"	D. ಹಾವು	",
+"explanation" :	"	ನಿಮ್ಮಲ್ಲಿ ತಂದೆಯಾದವನು ಮೀನನ್ನು ಕೇಳುವ ಮಗನಿಗೆ ಮೀನು ಕೊಡದೆ ಹಾವನ್ನು ಕೊಡುವನೇ?   ಲೂಕ 11:11	",
 },			
 {			
-"question" :	"	4. Some said that Jesus cast out devils through the power of	",
+"question" :	"	4. ಯೇಸು ದೆವ್ವಗಳನ್ನು ಇದೆ ಸಹಾಯದಿಂದ ಬಿಡಿಸುತ್ತಾನೆಂದು ಕೆಲವರು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Beelzebub.	",
-	"	b. Moses.	",
-	"	c. David.	",
-	"	d. Abraham.	"
+	"	A. ಬೆಲ್ಜೆಬೂಲ	",
+	"	B. ಮೋಶೆ	",
+	"	C. ದಾವೀದ	",
+	"	D. ಅಬ್ರಹಾಮ	"
 ],			
-"correct" :	"	a. Beelzebub.	",
-"explanation" :	"	But some of them said, He casts out demons by Beelzebub, the ruler of the demons. - Lk 11:15	",
+"correct" :	"	A. ಬೆಲ್ಜೆಬೂಲ	",
+"explanation" :	"	ಆದರೆ ಅವರಲ್ಲಿ ಕೆಲವರು - ಇವನು ದೆವ್ವಗಳ ಒಡೆಯನಾದ ಬೆಲ್ಜೆಬೂಲನ ಸಹಾಯದಿಂದ ದೆವ್ವಗಳನ್ನು ಬಿಡಿಸುತ್ತಾನೆ ಅಂದರು.  ಲೂಕ 11:15	",
 },			
 {			
-"question" :	"	5. When an unclean spirit returns to a man and finds his house swept and garnished, how many more spirits does he bring with him?	",
+"question" :	"	5. ಮನುಷ್ಯನನ್ನು ಬಿಟ್ಟುಹೋದ ದೆವ್ವು ಹಿಂತಿರುಗಿ ಬಂದು ಮನೆಯು ಗುಡಿಸಿ ಅಲಂಕರಿಸಿದ್ದಾಗಿರುವುದನ್ನು ಕಂಡು ಹೋಗಿ ಬೇರೆ ಎಷ್ಟು ದೆವ್ವಗಳನ್ನು ಕರಕೊಂಡು ಬರುವುದು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 7	",
-	"	c. 10	",
-	"	d. 12	"
+	"	A. 2	",
+	"	B. 7	",
+	"	C. 10	",
+	"	D. 12	"
 ],			
-"correct" :	"	b. 7	",
-"explanation" :	"	Then he goes and takes with him seven other spirits more wicked than himself, and they enter and dwell there; and the last state of that man is worse than the first. - Lk 11:26	",
+"correct" :	"	B. 7	",
+"explanation" :	"	ಆ ಮನೆ ಗುಡಿಸಿ ಅಲಂಕರಿಸಿದ್ದಾಗಿರುವುದನ್ನು ಕಂಡು ಹೊರಟುಹೋಗಿ ತನಗಿಂತ ಕೆಟ್ಟವುಗಳಾದ ಬೇರೆ ಏಳು ದೆವ್ವಗಳನ್ನು ಕರಕೊಂಡು ಬರುವದು;  ಲೂಕ 11:25-26	",
 },			
 {			
-"question" :	"	6. Jesus said, this is an evil generation that seeks	",
+"question" :	"	6. ಯೇಸು ಹೇಳಿದ್ದು, ಈ ಸಂತತಿ ಕೆಟ್ಟ ಸಂತತಿಯೇ, ಇದು ___ ಅಪೇಕ್ಷಿಸುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Prosperity.	",
-	"	b. Love.	",
-	"	c. A sign.	",
-	"	d. Compassion.	"
+	"	A. ಅಭಿವೃದ್ಧಿ	",
+	"	B. ಪ್ರೀತಿ	",
+	"	C. ಸೂಚಕರ್ಯ	",
+	"	D. ಅನುಕಂಪ	"
 ],			
-"correct" :	"	c. A sign.	",
-"explanation" :	"	And while the crowds were thickly gathered together, He began to say, This is an evil generation. It seeks a sign, and no sign will be given to it except the sign of Jonah the prophet. - Lk 11:29	",
+"correct" :	"	C. ಸೂಚಕರ್ಯ	",
+"explanation" :	"	ಜನರು ಗುಂಪುಗುಂಪಾಗಿ ಕೂಡಿಬರುತ್ತಿರುವಾಗ ಆತನು ಹೇಳುವುದಕ್ಕೆ ತೊಡಗಿದ್ದೇನೆಂದರೆ  - ಈ ಸಂತತಿ ಕೆಟ್ಟ ಸಂತತಿಯೇ, ಇದು ಸೂಚಕಕಾರ್ಯವನ್ನು ನೋಡಬೇಕೆಂದು ಅಪೇಕ್ಷಿಸುತ್ತದೆ;   ಲೂಕ 11:29	",
 },			
 {			
-"question" :	"	7. No man puts a candle here.	",
+"question" :	"	7. ಯಾವ ಮನುಷ್ಯನೂ ದೀಪವನ್ನು ಇಲ್ಲಿ ಇಡುವುದಿಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. In the window	",
-	"	b. On the roof	",
-	"	c. On a table	",
-	"	d. Under a bushel	"
+	"	A. ಕಿಟಕಿಯಲ್ಲಿ	",
+	"	B. ಮೇಲ್ಚಾವಣಿಯ ಮೇಲೆ	",
+	"	C. ಮೇಜಿನ ಮೇಲೆ	",
+	"	D. ಕೊಳಗದ ಒಳಗೆ	"
 ],			
-"correct" :	"	d. Under a bushel	",
-"explanation" :	"	No one, when he has lit a lamp, puts it in a secret place or under a basket, but on a lampstand, that those who come in may see the light. - Lk 11:33	",
+"correct" :	"	D. ಕೊಳಗದ ಒಳಗೆ	",
+"explanation" :	"	ಯಾರೂ ದೀಪವನ್ನು ಹಚ್ಚಿ ಮರೆಯಲ್ಲಾಗಲಿ ಕೊಳಗದೊಳಗಾಗಲಿ ಇಡುವದಿಲ್ಲ.   ಲೂಕ 11:33	",
 },			
 {			
-"question" :	"	8. The light of the body is	",
+"question" :	"	8. ದೇಹಕ್ಕೆ ದೀಪವಾದುದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The eye.	",
-	"	b. The heart.	",
-	"	c. The mind.	",
-	"	d. The intention of the heart.	"
+	"	A. ಕಣ್ಣು	",
+	"	B. ಹೃದಯ	",
+	"	C. ಮನಸ್ಸು	",
+	"	D. ಹೃದಯದ ಉದ್ದೇಶಗಳು	"
 ],			
-"correct" :	"	a. The eye.	",
-"explanation" :	"	The lamp of the body is the eye. Therefore, when your eye is good, your whole body also is full of light. But when your eye is bad, your body also is full of darkness. - Lk 11:34	",
+"correct" :	"	A. ಕಣ್ಣು	",
+"explanation" :	"	ನಿನ್ನ ಕಣ್ಣು ದೇಹಕ್ಕೆ ದೀಪವಾಗಿದೆ.   ಲೂಕ 11:34	",
 },			
 {			
-"question" :	"	9. The Pharisees marveled, that Jesus did not do this, before eating.	",
+"question" :	"	9. ಯೇಸು ಇದನ್ನು ಮಾಡದೆ ಊಟಕ್ಕೆ ಕುಳಿತುಕೊಂಡದ್ದಕ್ಕೆ ಫರಿಸಾಯರು ಆಶ್ಚರ್ಯಪಟ್ಟರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pray	",
-	"	b. Wash	",
-	"	c. Preach	",
-	"	d. Rest	"
+	"	A. ಪ್ರಾರ್ಥಿಸದೆ	",
+	"	B. ಕೈತೊಳೆಯದೆ	",
+	"	C. ಭೋದಿಸದೆ	",
+	"	D. ವಿಶ್ರಾಂತಿಸದೆ	"
 ],			
-"correct" :	"	b. Wash	",
-"explanation" :	"	When the Pharisee saw it, he marveled that He had not first washed before dinner. - Lk 11:38	",
+"correct" :	"	B. ಕೈತೊಳೆಯದೆ	",
+"explanation" :	"	ಆತನು ತೊಳಕೊಳ್ಳದೆ ಊಟಕ್ಕೆ ಕೂತದ್ದನ್ನು ಆ ಫರಿಸಾಯನು ಕಂಡು ಆಶ್ಚರ್ಯಪಟ್ಟನು.   ಲೂಕ 11:38	",
 },			
 {			
-"question" :	"	10. Jesus told the lawyers, your fathers killed them.	",
+"question" :	"	10. ನಿಮ್ಮ ಪಿತೃಗಳು ಇವರನ್ನು ಕೊಂದರು ಎಂದು ಯೇಸು ಧರ್ಮೋಪದೇಶಕರಿಗೆ ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Devils	",
-	"	b. Goats & rams	",
-	"	c. Thieves & robbers	",
-	"	d. Prophets	"
+	"	A. ದೆವ್ವಗಳನ್ನು	",
+	"	B. ಆಡುಗಳು ಮತ್ತು ಟಗರುಗಳು	",
+	"	C. ಕಳ್ಳರು ಮತ್ತು ದರೋಡೆಕಾರರು	",
+	"	D. ಪ್ರವಾದಿಗಳು	"
 ],			
-"correct" :	"	d. Prophets	",
-"explanation" :	"	Woe to you! For you build the tombs of the prophets, and your fathers killed them. - Lk 11:47	",
+"correct" :	"	D. ಪ್ರವಾದಿಗಳು	",
+"explanation" :	"	ನಿಮ್ಮ ಗತಿಯನ್ನು ಏನು ಹೇಳಲಿ? ನೀವು ಪ್ರವಾದಿಗಳ ಗೋರಿಗಳನ್ನು ಕಟ್ಟುತ್ತೀರಿ; ಅವರನ್ನು ಕೊಂದವರು ನಿಮ್ಮ ಪಿತೃಗಳೇ;   ಲೂಕ 11:47	",
 },			
 ]			

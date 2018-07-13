@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 1";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1.  ಯಾರ ಪ್ರಕಟಣೆ ?	",

@@ -1,4 +1,4 @@
-var quiztitle = " Ruth chapter 2";			
+var quiztitle = " Ruth ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. What was the name of the kinsman of Naomi’s husband?	",

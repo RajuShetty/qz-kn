@@ -1,4 +1,4 @@
-var quiztitle = "Colossians chapter 3";			
+var quiztitle = "ಕೊಲೊಸ್ಸೆಯವರಿಗೆ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ನೀವು ಕ್ರಿಸ್ತನೊಂದಿಗೆ ಎಬ್ಬಿಸಲ್ಪಟ್ಟಿದ್ದರೆ ಇದನ್ನು ಹುಡುಕಿರಿ.	",

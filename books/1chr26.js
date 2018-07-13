@@ -1,7 +1,7 @@
-var quiztitle = " 1 Chronicles chapter 26";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 26";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter lists the	",
+"question" :	"	1. This ಅಧ್ಯಾಯ lists the	",
 "image" :	"",		
 "choices" : [			
 	"	a. Kings of Israel.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 10";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. These two men did something the Lord did not command be done?	",

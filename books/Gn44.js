@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 44";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 44";			
 var quiz = [			
 {			
 "question" :	"	1. What did Joseph command to be put in each man's sack?	",

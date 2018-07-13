@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 14";			
-var quiz = [ 	 			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 14";			
+var quiz = [ 			
 {			
-"question" :	"	1. Whether we live or die we are	",
+"question" :	"	1 ನಾವು ಬದುಕಿದರೂ ಸತ್ತರೂ ______	",
 "image" :	"",		
 "choices" : [			
-	"	a. Blessed.	",
-	"	b. Contemptible.	",
-	"	c. The Lord's.	",
-	"	d. Full of malice.	"
+	"	A. ಆಶೀರ್ವಾದಿಸಲ್ಪಡುತ್ತೇವೆ	",
+	"	B. ಅಲ್ಪರಾಗಿದ್ದೇವೆ	",
+	"	C. ಕರ್ತನಿಗಾಗಿ	",
+	"	D. ಕೆಡುಕರಾಗಿದ್ದೇವೆ	"
 ],			
-"correct" :	"	c. The Lord's.	",
-"explanation" :	"	For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord's.Rom14:8	",
+"correct" :	"	C. ಕರ್ತನಿಗಾಗಿ	",
+"explanation" :	"	ನಾವು ಬದುಕಿದರೆ ಕರ್ತನಿಗಾಗಿ ಬದುಕುತ್ತೇವೆ; ಸತ್ತರೆ ಕರ್ತನಿಗಾಗಿ ಸಾಯುತ್ತೇವೆ 14:8	",
 },			
 {			
-"question" :	"	2. Christ is Lord of both of these.	",
+"question" :	"	2 ಕ್ರಿಸ್ತನು ಇವುಗಳಿಗೆ ಒಡೆಯನಾಗಿದ್ದಾನೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Saints & sinners	",
-	"	b. The dead & living	",
-	"	c. Day & night	",
-	"	d. Heaven & hell	"
+	"	A. ಪರಿಶುದ್ಧರು ಮತ್ತು ಪಾಪಿಗಳು	",
+	"	B. ಸತ್ತವರು ಮತ್ತು ಬದುಕಿರುವವರಿಗೆ	",
+	"	C. ಹಗಲು ಮತ್ತು ರಾತ್ರಿ	",
+	"	D. ಪರಲೋಕ ಮತ್ತು ಪಾತಾಳ	"
 ],			
-"correct" :	"	b. The dead & living	",
-"explanation" :	"	For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.Rom14:9	",
+"correct" :	"	B. ಸತ್ತವರು ಮತ್ತು ಬದುಕಿರುವವರಿಗೆ	",
+"explanation" :	"	ಬದುಕಿದರೂ ಸತ್ತರೂ ನಾವು ಕರ್ತನವರೇ. ಯಾಕಂದರೆ ಸತ್ತವರಿಗೂ ಜೀವಿಸುವವರಿಗೂ ಒಡೆಯನಾಗಿರಬೇಕೆಂತಲೇ ಕ್ರಿಸ್ತನು ಸತ್ತು ಜೀವಿತನಾದನು 14:9	",
 },			
 {			
-"question" :	"	3. We shall all stand before this.	",
+"question" :	"	3 ನಾವೆಲ್ಲರೂ ಇದರ ಮುಂದೆ ನಿಲ್ಲಬೇಕು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The congregation of the righteous	",
-	"	b. The 24 elders	",
-	"	c. The judgment seat of Christ	",
-	"	d. The hope of glory	"
+	"	A. ನೀತಿವಂತರ ಸಮ್ಮುಖದಲ್ಲಿ	",
+	"	B. 24 ಹಿರಿಯರೊಂದಿಗೆ	",
+	"	C. ಕ್ರಿಸ್ತನ ನ್ಯಾಯಾಸನದ ಮುಂದೆ	",
+	"	D. ಮಹಿಮೆಯ ನಿರೀಕ್ಷೆ	"
 ],			
-"correct" :	"	c. The judgment seat of Christ	",
-"explanation" :	"	But why dost thou judge thy brother? or why dost thou set at nought thy brother? for we shall all stand before the judgment seat of Christ.Rom14:10	",
+"correct" :	"	C. ಕ್ರಿಸ್ತನ ನ್ಯಾಯಾಸನದ ಮುಂದೆ	",
+"explanation" :	"	ತಿನ್ನದವನೇ, ನಿನ್ನ ಸಹೋದರನ ವಿಷಯವಾಗಿ ನೀನು ತೀರ್ಪುಮಾಡುವದೇನು? ತಿನ್ನುವವನೇ, ನಿನ್ನ ಸಹೋದರನನ್ನು ನೀನು ಹೀನೈಸುವದೇನು? ನಾವೆಲ್ಲರೂ ದೇವರ ನ್ಯಾಯಾಸನದ ಮುಂದೆ ನಿಲ್ಲಬೇಕಲ್ಲಾ 14:10	",
 },			
 {			
-"question" :	"	4. Everyone of these shall bow before the Lord.	",
+"question" :	"	4 ಎಲ್ಲರೂ ಕರ್ತನ ಮುಂದೆ _____ ಬೀಳುವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Angel	",
-	"	b. Devil	",
-	"	c. Saint	",
-	"	d. Knee	"
+	"	A. ದೂತರು	",
+	"	B. ಸೈತಾನ	",
+	"	C. ಪರಿಶುದ್ಧರು	",
+	"	D. ಅಡ್ಡ	"
 ],			
-"correct" :	"	d. Knee	",
-"explanation" :	"	For it is written, As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.Rom14:11	",
+"correct" :	"	D. ಅಡ್ಡ	",
+"explanation" :	"	ನನ್ನ ಜೀವದಾಣೆ, ಎಲ್ಲರೂ ನನಗೆ ಅಡ್ಡ ಬೀಳುವರು, ಎಲ್ಲರೂ ನನ್ನನ್ನು ದೇವರೆಂದು ಪ್ರತಿಜ್ಞೆ ಮಾಡುವರು ಎಂಬದಾಗಿ ಕರ್ತನು ಹೇಳಿದ್ದಾನೆ ಎಂದು ಬರೆದದೆ. 14:11	",
 },			
 {			
-"question" :	"	5. Everyone shall give this to God.	",
+"question" :	"	5 ಪ್ರತಿಯೊಬ್ಬರು ದೇವರಿಗೆ ಇದನ್ನು ಕೊಡಬೇಕು	",
 "image" :	"",		
 "choices" : [			
-	"	a. A crown	",
-	"	b. An account of himself	",
-	"	c. Homage	",
-	"	d. A fit answer	"
+	"	A. ಕಿರೀಟ	",
+	"	B. ತನ್ನ ಕುರಿತು ಉತ್ತರ	",
+	"	C. ಗೌರವ	",
+	"	D. ಸೂಕ್ತ ಉತ್ತರ	"
 ],			
-"correct" :	"	b. An account of himself	",
-"explanation" :	"	 So then every one of us shall give account of himself to God.Rom14:12	",
+"correct" :	"	B. ತನ್ನ ಕುರಿತು ಉತ್ತರ	",
+"explanation" :	"	ಹೀಗಿರಲಾಗಿ ನಮ್ಮಲ್ಲಿ ಪ್ರತಿಯೊಬ್ಬನು ತನ್ನ ತನ್ನ ವಿಷಯವಾಗಿ ದೇವರ ಮುಂದೆ ಉತ್ತರಕೊಡಬೇಕು. 14:12	",
 },			
 {			
-"question" :	"	6. Let us not do this, to one another.	",
+"question" :	"	6 ನಾವು ಒಬ್ಬನ ವಿಷಯದಲ್ಲೊಬ್ಬರು ____ ಮಾಡದೇ ಇರೋಣ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Prefer	",
-	"	b. Honor	",
-	"	c. Esteem	",
-	"	d. Judge	"
+	"	A. ಮಾನ್ಯತೆ	",
+	"	B. ಗೌರವ	",
+	"	C. ಮಾನ್ಯತೆ	",
+	"	D. ತೀರ್ಪು	"
 ],			
-"correct" :	"	d. Judge	",
-"explanation" :	"	Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in his brother's way.Rom14:13	",
+"correct" :	"	D. ತೀರ್ಪು	",
+"explanation" :	"	ಆದಕಾರಣ ಇನ್ನು ಮೇಲೆ ಒಬ್ಬರ ವಿಷಯದಲ್ಲೊಬ್ಬರು ತೀರ್ಪುಮಾಡದೆ ಇರೋಣ. ಅದಕ್ಕೆ ಬದಲಾಗಿ ಸಹೋದರನ ಎದುರಿಗೆ ಅಡ್ಡಿಯನ್ನಾಗಲಿ ಎಡತಡೆಯನ್ನಾಗಲಿ ಹಾಕಬಾರದೆಂದು ತೀರ್ಮಾನಿಸಿಕೊಳ್ಳಿರಿ 14:13	",
 },			
 {			
-"question" :	"	7. Do not put this in a brother's way.	",
+"question" :	"	7 ಸಹೋದರನ ದಾರಿಯಲ್ಲಿ ಇದನ್ನು ಹಾಕಬೇಡಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Instruction	",
-	"	b. Wisdom	",
-	"	c. Prosperity	",
-	"	d. A stumbling block	"
+	"	A. ಸೂಚನೆಗಳು	",
+	"	B. ಜ್ಞಾನ	",
+	"	C. ಸಂಪತ್ತು	",
+	"	D. ಅಡೆತಡೆ	"
 ],			
-"correct" :	"	d. A stumbling block	",
-"explanation" :	"	Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in his brother's way.Rom14:13	",
+"correct" :	"	D. ಅಡೆತಡೆ	",
+"explanation" :	"	ಆದಕಾರಣ ಇನ್ನು ಮೇಲೆ ಒಬ್ಬರ ವಿಷಯದಲ್ಲೊಬ್ಬರು ತೀರ್ಪುಮಾಡದೆ ಇರೋಣ. ಅದಕ್ಕೆ ಬದಲಾಗಿ ಸಹೋದರನ ಎದುರಿಗೆ ಅಡ್ಡಿಯನ್ನಾಗಲಿ ಎಡತಡೆಯನ್ನಾಗಲಿ ಹಾಕಬಾರದೆಂದು ತೀರ್ಮಾನಿಸಿಕೊಳ್ಳಿರಿ 14:13	",
 },			
 {			
-"question" :	"	8. Do not let this be spoken of in evil.	",
+"question" :	"	8 ____ ನಿಮಗೆ ಇದರಲ್ಲಿ ದೂಷಣೆಗೆ ಆಸ್ಪದವಾಗಬಾರದು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Your good	",
-	"	b. Sin	",
-	"	c. Blasphemies	",
-	"	d. Your tribute	"
+	"	A. ನಿಮಗಿರುವ ಮೇಲೂ	",
+	"	B. ಪಾಪಗಳಲ್ಲಿ	",
+	"	C. ದೇವದೂಷಣೆ	",
+	"	D. ನಿಮ್ಮ ಸಂಕಟಗಳು	"
 ],			
-"correct" :	"	a. Your good	",
-"explanation" :	"	Let not then your good be evil spoken of:Rom14:16	",
+"correct" :	"	A. ನಿಮಗಿರುವ ಮೇಲೂ	",
+"explanation" :	"	ನಿಮಗಿರುವ ಮೇಲು ದೂಷಣೆಗೆ ಆಸ್ಪದವಾಗಬಾರದು. 14:16	",
 },			
 {			
-"question" :	"	9. This is not meat and drink, but righteousness, peace, and joy in the Holy Ghost.	",
+"question" :	"	9 ತಿನ್ನುವುದೂ ಕುಡಿಯುವುದೂ ___ ಅಲ್ಲ, ಆದರೆ ನೀತಿಯೂ ಸಮಾಧಾನವು ಪವಿತ್ರಾತ್ಮನಿಂದಾದ ಆನಂದವೂ ಆಗಿದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Prosperity	",
-	"	b. Calamity	",
-	"	c. The kingdom of God	",
-	"	d. True dignity & honor	"
+	"	A. ಐಶ್ವರ್ಯ	",
+	"	B. ವಿಪತ್ತು	",
+	"	C. ದೇವರ ರಾಜ್ಯ	",
+	"	D. ನಿಜವಾದ ಗೌರವ	"
 ],			
-"correct" :	"	c. The kingdom of God	",
-"explanation" :	"	 For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.Rom14:17	",
+"correct" :	"	C. ದೇವರ ರಾಜ್ಯ	",
+"explanation" :	"	ಯಾಕಂದರೆ ತಿನ್ನುವದೂ ಕುಡಿಯುವದೂ ದೇವರ ರಾಜ್ಯವಲ್ಲ; ನೀತಿಯೂ ಸಮಾಧಾನವೂ ಪವಿತ್ರಾತ್ಮನಿಂದಾಗುವ ಆನಂದವೂ ಆಗಿದೆ 14:17	",
 },			
 {			
-"question" :	"	10. Whatever is not of faith, is	",
+"question" :	"	10 ಯಾವುದಕ್ಕೆ ನಂಬಿಕೆಯು ಆಧಾರವಿಲ್ಲವೋ ಅದು _____	",
 "image" :	"",		
 "choices" : [			
-	"	a. Of fear.	",
-	"	b. Of self.	",
-	"	c. Sin.	",
-	"	d. Outside the realm of God.	"
+	"	A. ಭಯ	",
+	"	B. ಸ್ವಾರ್ಥ	",
+	"	C. ಪಾಪ	",
+	"	D. ದೇವರ ಚಿತ್ತಕ್ಕೆ ವಿರುದ್ಧವಾದುದು.	"
 ],			
-"correct" :	"	c. Sin.	",
-"explanation" :	"	And he that doubteth is damned if he eat, because he eateth not of faith: for whatsoever is not of faith is sin.Rom14:23	",
+"correct" :	"	C. ಪಾಪ	",
+"explanation" :	"	ಸಂಶಯಪಟ್ಟು ಉಣ್ಣುವವನು ಸಂಶಯದಿಂದ ಉಣ್ಣುವ ಕಾರಣ ದೋಷಿಯಾಗಿದ್ದಾನೆ. ಯಾವದಕ್ಕೆ ನಂಬಿಕೆಯು ಆಧಾರವಿಲ್ಲವೋ ಅದು ಪಾಪ. 14:23	",
 },			
 ]			

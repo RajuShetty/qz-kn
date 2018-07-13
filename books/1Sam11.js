@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 11";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. When Nahash the Amorite came against Jabesh, they asked Nahash	",

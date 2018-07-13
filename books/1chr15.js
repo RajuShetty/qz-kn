@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 15";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. David prepared this place for the ark of God.	",

@@ -1,4 +1,4 @@
-var quiztitle = "Galatians chapter 1";			
+var quiztitle = "ಗಲಾತ್ಯದವರಿಗೆ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. ಈ ಪತ್ರಿಕೆಯನ್ನು ಬರೆದ ಅಪೋಸ್ತಲನು ಯಾರು?	",

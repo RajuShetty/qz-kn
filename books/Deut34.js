@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 34";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 34";			
 var quiz = [			
 {			
 "question" :	"	1. Moses went up from the plains of 	",

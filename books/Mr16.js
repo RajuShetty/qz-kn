@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 16";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
-"question" :	"	1. What day of the week did the women go to the sepulcher?	",
+"question" :	"	1 ವಾರದ ಯಾವ ದಿನ ಸ್ತ್ರೀಯರು ಸಮಾಧಿಯ ಬಳಿ ಹೋದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1st	",
-	"	b. 3rd	",
-	"	c. 5th	",
-	"	d. 7th	"
+	"	A. 1ನೇ	",
+	"	B. 2ನೇ	",
+	"	C. 5ನೇ	",
+	"	D. 7ನೇ	"
 ],			
-"correct" :	"	a. 1st	",
-"explanation" :	"	Now when the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, that they might come and anoint Him.Very early in the morning, on the first day of the week, they came to the tomb when the sun had risen. - Mr 16:1-2	",
+"correct" :	"	A. 1ನೇ	",
+"explanation" :	"	ಸಬ್ಬತ್ ದಿನ ಕಳೆದ ಮೇಲೆ, ಮಗ್ದಲದ ಮರಿಯಳೂ ಯಾಕೋಬನ ತಾಯಿ ಮರಿಯಳೂ ಸಲೋಮೆಯೂ ಆತನ ದೇಹಕ್ಕೆ ಹಚ್ಚುವದಕ್ಕಾಗಿ ಸುಗಂಧದ್ರವ್ಯಗಳನ್ನು ಕೊಂಡರು.  ಮತ್ತು ವಾರದ ಮೊದಲನೆಯ ದಿನದ ಬೆಳಿಗ್ಗೆ ಹೊತ್ತು ಮೂಡುವಾಗ ಅವರು ಸಮಾಧಿಯ ಬಳಿಗೆ ಬಂದರು.  ಮಾರ್ಕ 16:1-2	",
 },			
 {			
-"question" :	"	2. What did they come to do?	",
+"question" :	"	2 ಅವರು ಏನು ಮಾಡಲಿಕ್ಕೆ ಬಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Lay a wreath at the tomb	",
-	"	b. Plant flowers	",
-	"	c. Anoint the body	",
-	"	d. See if Jesus had risen	"
+	"	A. ಸಮಾಧಿಗೆ ಹಾರ ಹಾಕಲು	",
+	"	B. ಹೂ ಗಿಡಗಳನ್ನು ನೆಡಲು	",
+	"	C. ದೇಹಕ್ಕೆ ಎಣ್ಣೆ ಹಚ್ಚಲು	",
+	"	D. ಯೇಸು ಎದ್ದಿದ್ದಾನೋ ಎಂದು ನೋಡಲು	"
 ],			
-"correct" :	"	c. Anoint the body	",
-"explanation" :	"	Now when the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, that they might come and anoint Him - Mr 16:1	",
+"correct" :	"	C. ದೇಹಕ್ಕೆ ಎಣ್ಣೆ ಹಚ್ಚಲು	",
+"explanation" :	"	ಸಬ್ಬತ್ ದಿನ ಕಳೆದ ಮೇಲೆ, ಮಗ್ದಲದ ಮರಿಯಳೂ ಯಾಕೋಬನ ತಾಯಿ ಮರಿಯಳೂ ಸಲೋಮೆಯೂ ಆತನ ದೇಹಕ್ಕೆ ಹಚ್ಚುವದಕ್ಕಾಗಿ ಸುಗಂಧದ್ರವ್ಯಗಳನ್ನು ಕೊಂಡರು. ಮಾರ್ಕ 16:1	",
 },			
 {			
-"question" :	"	3. What concern did they have?	",
+"question" :	"	3 ಅವರು ಯಾವ ವಿಷಯದ ಬಗ್ಗೆ ಯೋಚಿಸುತ್ತಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fear of the soldiers	",
-	"	b. Fear of the chief priest	",
-	"	c. Who would roll the stone away	",
-	"	d. They wouldn't be allowed near the tomb.	"
+	"	A. ಸೈನಿಕರ ಭಯ	",
+	"	B. ಮಹಾಯಾಜಕನ ಭಯ	",
+	"	C. ಕಲ್ಲನು ಉರುಳಿಸುವವರು ಯಾರು	",
+	"	D. ಅವರಿಗೆ ಸಮಾಧಿಯ ಬಳಿ ಪ್ರವೇಶ ಇರಲಿಲ್ಲ	"
 ],			
-"correct" :	"	c. Who would roll the stone away	",
-"explanation" :	"	And they said among themselves, Who will roll away the stone from the door of the tomb for us? - Mr 16:3	",
+"correct" :	"	C. ಕಲ್ಲನು ಉರುಳಿಸುವವರು ಯಾರು	",
+"explanation" :	"	ಸಮಾಧಿಗೆ ಮುಚ್ಚಿದ್ದ ಕಲ್ಲು ಬಹಳ ದೊಡ್ಡದಾಗಿದ್ದದರಿಂದ ಆ ಕಲ್ಲನ್ನು ನಮಗೋಸ್ಕರ ಉರುಳಿಸುವವರು ಯಾರಿದ್ದಾರೆ ಎಂದು ತಮ್ಮ ತಮ್ಮೊಳಗೆ ಮಾತಾಡಿಕೊಳ್ಳುತ್ತಾ ಇರಲಾಗಿ ..  ಮಾರ್ಕ 16:3	",
 },			
 {			
-"question" :	"	4. Who did they see in the sepulcher?	",
+"question" :	"	4 ಸಮಾಧಿಯ ಬಳಿ ಅವರು ಯಾರನ್ನು ನೋಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. Peter	",
-	"	c. A soldier	",
-	"	d. A young man in a long white garment	"
+	"	A. ಯೇಸು	",
+	"	B. ಪೇತ್ರ	",
+	"	C. ಸೈನಿಕ	",
+	"	D. ಬಿಳೀ ವಸ್ತ್ರ ಧರಿಸಿದ್ದ ಒಬ್ಬ ಯೌವ್ವನಸ್ಥ	"
 ],			
-"correct" :	"	d. A young man in a long white garment	",
-"explanation" :	"	And entering the tomb, they saw a young man clothed in a long white robe sitting on the right side; and they were alarmed - Mr 16:5	",
+"correct" :	"	D. ಬಿಳೀ ವಸ್ತ್ರ ಧರಿಸಿದ್ದ ಒಬ್ಬ ಯೌವ್ವನಸ್ಥ	",
+"explanation" :	"	ಅವರು ಸಮಾಧಿಯೊಳಕ್ಕೆ ಹೋಗಿ ಒಬ್ಬ ಯೌವನಸ್ಥನು ಬಿಳೀ ಅಂಗಿಯನ್ನು ತೊಟ್ಟುಕೊಂಡು ಬಲಗಡೆ ಕೂತಿರುವುದನ್ನು ಕಂಡು ಬೆಚ್ಚಿ ಬೆರಗಾದರು.  ಮಾರ್ಕ 16:5	",
 },			
 {			
-"question" :	"	5. What did he tell them?	",
+"question" :	"	5 ಆತನು ಅವರಿಗೆ ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He is risen	",
-	"	b. They were not allowed in the tomb	",
-	"	c. The stone has fallen away	",
-	"	d. God has spoken	"
+	"	A. ಆತನು ಎದ್ದಿದ್ದಾನೆ	",
+	"	B. ನಿಮ್ಮನ್ನು ಸಮಾಧಿಯ ಒಳಗೆ ಬಿಡಲಾಗುವುದಿಲ್ಲ	",
+	"	C. ಕಲ್ಲು ಉರುಳಿಸಲ್ಪಟ್ಟಿದೆ	",
+	"	D. ದೇವರು ಮಾತನಾಡಿದ್ದಾನೆ	"
 ],			
-"correct" :	"	a. He is risen	",
-"explanation" :	"	But he said to them, Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He is risen! He is not here. See the place where they laid Him. - Mr 16:6	",
+"correct" :	"	A. ಆತನು ಎದ್ದಿದ್ದಾನೆ	",
+"explanation" :	"	ಅವನು ಅವರಿಗೆ ಬೆರಗಾಗಬೇಡಿರಿ.  ಶಿಲುಬೆಗೆ ಹಾಕಲ್ಪಟ್ಟಿದ್ದ ನಜರೇತಿನ ಯೇಸುವನ್ನು ಹುಡುಕುತ್ತೀರಲ್ಲವೇ, ಆತನು ಜೀವಿತನಾಗಿ ಎದ್ದಿದ್ದಾನೆ; ಇಲ್ಲಿ ಇಲ್ಲ.   ಮಾರ್ಕ 16:6	",
 },			
 {			
-"question" :	"	6. When Mary Magdalene said Jesus was alive	",
+"question" :	"	6 ಮಗ್ಧಲದ ಮರಿಯಳು ಯೇಸು ಬದುಕಿದ್ದಾನೆ ಎಂದು ಹೇಳಿದಾಗ	",
 "image" :	"",		
 "choices" : [			
-	"	a. They believed.	",
-	"	b. They did not believe.	",
-	"	c. They praised God.	",
-	"	d. They laughed her to scorn.	"
+	"	A. ಅವರು ನಂಬಿದರು	",
+	"	B. ಅವರು ನಂಬಲಿಲ್ಲ	",
+	"	C. ಅವರು ದೇವರಿಗೆ ಸ್ತ್ರೋತ್ರ ಹೇಳಿದರು	",
+	"	D. ಆಕೆಯನ್ನು ಹಾಸ್ಯ ಮಾಡಿದರು	"
 ],			
-"correct" :	"	b. They did not believe.	",
-"explanation" :	"	Now when He rose early on the first day of the week, He appeared first to Mary Magdalene, out of whom He had cast seven demons.She went and told those who had been with Him, as they mourned and wept.	",
+"correct" :	"	B. ಅವರು ನಂಬಲಿಲ್ಲ	",
+"explanation" :	"	ವಾರದ ಮೊದಲನೆಯ ದಿನ ಬೆಳಿಗ್ಗೆ ಯೇಸು ಜೀವಿತನಾಗಿ ಎದ್ದ ಮೇಲೆ ಮಗ್ದಲದ ಮರಿಯಳಿಗೆ ಮೊದಲು ಕಾಣಿಸಿಕೊಂಡನು.  ಆಕೆಗೆ ಏಳು ದೆವ್ವಗಳನ್ನು ಬಿಡಿಸಿದ್ದನು.  ಆಕೆ ಹೋಗಿ ಆತನು ಕಾಣಿಸಿಕೊಂಡದ್ದನ್ನು ಮುಂಚೆ ಆತನ ಜೊತೆಯಲ್ಲಿದ್ದವರಿಗೆ ತಿಳಿಸಿದಳು; ಇವರು ಹಂಬಲಿಸುತ್ತಾ ಅಳುತ್ತಾ ಕೂತಿದ್ದರು.  ಆತನು ಬದುಕಿದ್ದಾನೆ, ನನಗೆ ಕಾಣಿಸಿಕೊಂಡನು ಎಂಬ ಮಾತನ್ನು ಕೇಳಿದಾಗ ಅವರು ನಂಬಲಿಲ್ಲ.  ಮಾರ್ಕ 16:9-11	",
 },			
 {			
-"question" :	"	7. Jesus said, go here and preach the gospel.	",
+"question" :	"	7 ಯೇಸು ಹೇಳಿದ್ದು:  ______ ಹೋಗಿ ಸುವಾರ್ತೆಯನ್ನು ಸಾರಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. To your homeland	",
-	"	b. To Jerusalem	",
-	"	c. Into all the world	",
-	"	d. To the mountains	"
+	"	A. ನಿಮ್ಮ ದೇಶಗಳಿಗೆ	",
+	"	B. ಯೆರೂಸಲೇಮಿಗೆ	",
+	"	C. ಲೋಕದ ಎಲ್ಲಾ ಕಡೆಗೆ	",
+	"	D. ಬೆಟ್ಟಗಳಿಗೆ	"
 ],			
-"correct" :	"	c. Into all the world	",
-"explanation" :	"	And He said to them, Go into all the world and preach the gospel to every creature. - Mr 16:15	",
+"correct" :	"	C. ಲೋಕದ ಎಲ್ಲಾ ಕಡೆಗೆ	",
+"explanation" :	"	ಆಮೇಲೆ ಅವರಿಗೆ ನೀವು ಲೋಕದ ಎಲ್ಲಾ ಕಡೆಗೆ ಹೋಗಿ ಜಗತ್ತಿಗೆಲ್ಲಾ ಸುವಾರ್ತೆಯನ್ನು ಸಾರಿರಿ.  ಮಾರ್ಕ 16:15	",
 },			
 {			
-"question" :	"	8. Jesus said he that believes, and does this, shall be saved.	",
+"question" :	"	8 ಯೇಸು ಹೇಳಿದ್ದು: ಯಾರು ನಂಬಿ  ಇದನ್ನು ಮಾಡುತ್ತಾರೋ ಅವರು ರಕ್ಷಣೆ ಹೊಂದುವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Preaches	",
-	"	b. Speaks with new tongues	",
-	"	c. Receives	",
-	"	d. Is baptized	"
+	"	A. ಭೋದನೆ	",
+	"	B. ಹೊಸ ಭಾಷೆಗಳಲ್ಲಿ ಮಾತನಾಡುತ್ತಾರೋ	",
+	"	C. ಪಡೆಯುತ್ತಾರೋ	",
+	"	D. ದೀಕ್ಷಾಸ್ನಾನ ಹೊಂದುತ್ತಾರೋ	"
 ],			
-"correct" :	"	d. Is baptized	",
-"explanation" :	"	He who believes and is baptized will be saved; but he who does not believe will be condemned. - Mr 16:16	",
+"correct" :	"	D. ದೀಕ್ಷಾಸ್ನಾನ ಹೊಂದುತ್ತಾರೋ	",
+"explanation" :	"	ನಂಬಿ ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿಕೊಳ್ಳುವವನು ರಕ್ಷಣೆಹೊಂದುವನು; ನಂಬದೇ ಹೋಗುವವನು ದಂಡನೆಗೆ ಗುರಿಯಾಗುವನು.  ಮಾರ್ಕ 16:16	",
 },			
 {			
-"question" :	"	9. The believers shall lay hands on the sick and	",
+"question" :	"	9 ನಂಬುವವರು ರೋಗಿಗಳ ಮೇಲೆ ಕೈಯಿಟ್ಟರೆ ಅವರಿಗೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hope for the best.	",
-	"	b. Pray for God’s will.	",
-	"	c. Blow on them.	",
-	"	d. They shall recover.	"
+	"	A. ಒಳ್ಳೆದಾಗುತ್ತದೆಂಬ ನಿರೀಕ್ಷೆ	",
+	"	B. ದೇವರ ಚಿತ್ತಕ್ಕಾಗಿ ಪ್ರಾರ್ಥಿಸುವುದು	",
+	"	C. ಅವರ ಮೇಲೆ ಊದಬೇಕು	",
+	"	D. ಗುಣವಾಗುವುದು	"
 ],			
-"correct" :	"	d. They shall recover.	",
-"explanation" :	"	And these signs will follow those who believe: In My name they will cast out demons; they will speak with new tongues;they will take up serpents; and if they drink anything deadly, it will by no means hurt them; they will lay hands on the sick, and they will recover. - Mr 16:17-18	",
+"correct" :	"	D. ಗುಣವಾಗುವುದು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ನಂಬುವದರಿಂದ ಈ ಸೂಚಕಕಾರ್ಯಗಳು ಉಂಟಾಗುವವು; ನನ್ನ ಹೆಸರನ್ನು ಹೇಳಿ ದೆವ್ವಗಳನ್ನು ಬಿಡಿಸುವರು; ಹೊಸಭಾಷೆಗಳಿಂದ ಮಾತಾಡುವರು; ಹಾವುಗಳನ್ನು ಎತ್ತುವರು; ವಿಷಪದಾರ್ಥವನ್ನೇನಾದರೂ ಕುಡಿದರೂ ಅವರಿಗೆ ಯಾವ ಕೇಡೂ ಆಗುವುದಿಲ್ಲ; ಅವರು ರೋಗಿಗಳ ಮೇಲೆ ಕೈಯಿಟ್ಟರೆ ಅವರಿಗೆ ಗುಣವಾಗುವುದು ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 16:17-18	",
 },			
 {			
-"question" :	"	10. Jesus said, these signs shall follow them that believe, because they do them	",
+"question" :	"	10 ಯೇಸು ಹೇಳಿದ್ದು: ________ ಈ ಸೂಚಕಕಾರ್ಯಗಳು ಉಂರ್ಟಗುವವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. By the anointing.	",
-	"	b. By faith.	",
-	"	c. In His name.	",
-	"	d. With great Indignation.	"
+	"	A. ಅಭಿಷೇಕದಿಂದ	",
+	"	B. ನಂಬುವವದರಿಂದ	",
+	"	C. ಆತನ ಹೆಸರಿನಲ್ಲಿ	",
+	"	D. ಮಹಾ ಕ್ರೋಧದಿಂದ	"
 ],			
-"correct" :	"	c. In His name.	",
-"explanation" :	"	And these signs will follow those who believe: In My name they will cast out demons; they will speak with new tongues; - Mr 16:17	",
+"correct" :	"	B. ನಂಬುವವದರಿಂದ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ನಂಬುವದರಿಂದ ಈ ಸೂಚಕಕಾರ್ಯಗಳು ಉಂಟಾಗುವವು;   ಮಾರ್ಕ 16:17	",
 },			
 ]			

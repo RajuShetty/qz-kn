@@ -1,124 +1,124 @@
-var quiztitle = "Luke chapter 18";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
-"question" :	"	1. Who did a widow continually go to, asking to avenge her of her adversary?	",
+"question" :	"	1. ಒಬ್ಬ ವಿಧವೆಯು ಯಾರ ಬಳಿ ನಿರಂತರವಾಗಿ ಬಂದು ನ್ಯಾಯವಿಚಾರಣೆ ಮಾಡಿ ವಿರೋದಿಗಳಿಂದ ನನ್ನನ್ನು ಬಿಡಿಸು ಎಂದು ಕೇಳುತ್ತಿದ್ದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A soldier	",
-	"	b. The governor	",
-	"	c. A judge	",
-	"	d. A priest	"
+	"	A. ಸೈನಿಕನು	",
+	"	B. ಮಂತ್ರಿ	",
+	"	C. ನ್ಯಾಯಾಧಿಪತಿ	",
+	"	D. ಯಾಜಕ	"
 ],			
-"correct" :	"	c. A judge	",
-"explanation" :	"	There was in a certain city a judge who did not fear God nor regard man.Now there was a widow in that city; and she came to him, saying, 'Get justice for me from my adversary. - Lk 18:2-3	",
+"correct" :	"	C. ನ್ಯಾಯಾಧಿಪತಿ	",
+"explanation" :	"	ಅದೇನಂದರೆ - ಒಂದಾನೊಂದು ಊರಿನಲ್ಲಿ ಒಬ್ಬ ನ್ಯಾಯಾಧಿಪತಿ ಇದ್ದನು; ಅವನು ದೇವರಿಗೆ ಹೆದರದೆ ಮನುಷ್ಯರನ್ನು ಲಕ್ಷ್ಯಮಾಡದೆ ಇದ್ದವನು.  ಅದೇ ಊರಿನಲ್ಲಿ ಒಬ್ಬ ವಿಧವೆ ಇದ್ದಳು.  ಆಕೆಯು ಅವನ ಬಳಿಗೆ ಬಂದು - ನ್ಯಾಯ ವಿಚಾರಣೆ ಮಾಡಿ ನನ್ನ ವಿರೋಧಿಯಿಂದ ನನ್ನನ್ನು ಬಿಡಿಸು ಎಂದು ಹೇಳಿಕೊಳ್ಳುತ್ತಿದ್ದಳು.   ಲೂಕ 18:2-3	",
 },			
 {			
-"question" :	"	2. Who stood and prayed in the temple telling God the good things he had done?	",
+"question" :	"	2. ಆಲಯದಲ್ಲಿ ನಿಂತು ತಾನು ಮಾಡಿದ ಒಳ್ಳೆಯ ಕೆಲಸಗಳನ್ನು ಹೇಳಿ ಪ್ರಾರ್ಥಿಸಿದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A Pharisee	",
-	"	b. A soldier	",
-	"	c. A publican	",
-	"	d. A Levite	"
+	"	A. ಫರಿಸಾಯ	",
+	"	B. ಸೈನಿಕನು	",
+	"	C. ಸುಂಕದವನು	",
+	"	D. ಲೇವಿಯನು	"
 ],			
-"correct" :	"	a. A Pharisee	",
-"explanation" :	"	The Pharisee stood and prayed thus with himself, 'God, I thank You that I am not like other men--extortioners, unjust, adulterers, or even as this tax collector. - Lk 18:11	",
+"correct" :	"	A. ಫರಿಸಾಯ	",
+"explanation" :	"	ಫರಿಸಾಯನು ನಿಂತುಕೊಂಡು ಪ್ರಾರ್ಥಿಸುವಾಗ ತನ್ನೊಳಗೆ - ದೇವರೇ, ಸುಲುಕೊಳ್ಳುವವರೂ ಅನ್ಯಾಯಗಾರರೂ ಹಾದರಮಾಡುವವರೂ ಆಗಿರುವ ಉಳಿದ ಜನರಂತೆ ನಾನಲ್ಲ, ಈ ಸುಂಕದವನಂತೆಯೂ ಅಲ್ಲ; ಆದದರಿಂದ ನಿನಗೆ ಸ್ತೋತ್ರ ಮಾಡುತ್ತೇನೆ;   ಲೂಕ 18:11	",
 },			
 {			
-"question" :	"	3. Who stood afar off saying, God me merciful to me a sinner?	",
+"question" :	"	3. ದೂರದಲ್ಲಿ ನಿಂತುಕೊಂಡು, ದೇವರೆ ಪಾಪಿಯಾದ ನನ್ನನ್ನು ಕರುಣಿಸು ಎಂದು ಹೇಳಿದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A Pharisee	",
-	"	b. A soldier	",
-	"	c. A publican	",
-	"	d. A Levite	"
+	"	A. ಫರಿಸಾಯ	",
+	"	B. ಸೈನಿಕನು	",
+	"	C. ಸುಂಕದವನು	",
+	"	D. ಲೇವಿಯನು	"
 ],			
-"correct" :	"	c. A publican	",
-"explanation" :	"	And the tax collector, standing afar off, would not so much as raise his eyes to heaven, but beat his breast, saying, 'God, be merciful to me a sinner!' - Lk 18:13	",
+"correct" :	"	C. ಸುಂಕದವನು	",
+"explanation" :	"	ಆದರೆ ಆ ಸುಂಕದವನು ದೂರದಲ್ಲಿ ನಿಂತು ಆಕಾಶದ ಕಡೆಗೆ ಕಣ್ಣೆತ್ತಿ ನೋಡುವದಕ್ಕೂ ಮನಸ್ಸಿಲ್ಲದೆ ಎದೆಯನ್ನು ಬಡುಕೊಳ್ಳುತ್ತಾ;   ಲೂಕ 18:13	",
 },			
 {			
-"question" :	"	4. He that humbles himself	",
+"question" :	"	4. ತನ್ನನ್ನು ತಗ್ಗಿಸಿಕೊಳ್ಳುವವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Is prudent.	",
-	"	b. Shall be exalted.	",
-	"	c. Is last in the kingdom.	",
-	"	d. Shall share his wisdom with rulers.	"
+	"	A. ವಿವೇಕವುಳ್ಳವನು	",
+	"	B. ಹೆಚ್ಚಿಸಲ್ಪಡುವನು	",
+	"	C. ಪರಲೋಕ ರಾಜ್ಯದಲ್ಲಿ ಕಡೆಯವನು	",
+	"	D. ತನ್ನ ಜ್ಞಾನವನ್ನು ಅರಸರುಗಳಿಗೆ ಹಂಚುವನು	"
 ],			
-"correct" :	"	b. Shall be exalted.	",
-"explanation" :	"	I tell you, this man went down to his house justified rather than the other; for everyone who exalts himself will be humbled, and he who humbles himself will be exalted. - Lk 18:14	",
+"correct" :	"	B. ಹೆಚ್ಚಿಸಲ್ಪಡುವನು	",
+"explanation" :	"	ಇವನು ನೀತಿವಂತನೆಂದು ನಿರ್ಣಯಿಸಲ್ಪಟ್ಟವನಾಗಿ ತನ್ನ ಮನೆಗೆ ಹೋದನು, ಆ ಫರಿಸಾಯನು ಅಂಥವನಾಗಿ ಹೋಗಲಿಲ್ಲವೆಂದು ನಿಮಗೆ ಹೇಳುತ್ತೇನೆ.  ತನ್ನನ್ನು ಹೆಚ್ಚಿಸಿಕೊಳ್ಳುವ ಪ್ರತಿಯೊಬ್ಬನು ತಗ್ಗಿಸಲ್ಪಡುವನು; ತನ್ನನ್ನು ತಗ್ಗಿಸಿಕೊಳ್ಳುವವನು ಹೆಚ್ಚಿಸಲ್ಪಡುವನು ಅಂದನ;   ಲೂಕ 18:14	",
 },			
 {			
-"question" :	"	5. Jesus told his disciples to allow them to come onto Him.	",
+"question" :	"	5. ಯೇಸು ತನ್ನ ಶಿಷ್ಯರಿಗೆ ಇವರನ್ನು ನನ್ನ ಬಳಿಗೆ ಬರಗೊಡಿಸಿ ಅಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Children	",
-	"	b. Publicans	",
-	"	c. Sinners	",
-	"	d. Soldiers	"
+	"	A. ಮಕ್ಕಳು	",
+	"	B. ಸುಂಕದವರು	",
+	"	C. ಪಾಪಿಗಳು	",
+	"	D. ಸೈನಿಕರು	"
 ],			
-"correct" :	"	a. Children	",
-"explanation" :	"	But Jesus called them to Him and said, Let the little children come to Me, and do not forbid them; for of such is the kingdom of God. - Lk 18:16	",
+"correct" :	"	A. ಮಕ್ಕಳು	",
+"explanation" :	"	ಆದರೆ ಯೇಸು ಆ ಕೂಸುಗಳನ್ನು ತನ್ನ ಬಳಿಗೆ ಕರತರಿಸಿ - ಮಕ್ಕಳನ್ನು ನನ್ನ ಹತ್ತಿರಕ್ಕೆ ಬರೊಡಿಸಿರಿ; ಅವುಗಳಿಗೆ ಅಡ್ಡಿಮಾಡಬೇಡಿರಿ; ದೇವರ ರಾಜ್ಯವು ಇಂಥವರದೇ.   ಲೂಕ 18:16	",
 },			
 {			
-"question" :	"	6. A ruler asked Jesus, what he should do	",
+"question" :	"	6. ಒಬ್ಬ ಅಧಿಕಾರಿಯು ಯೇಸುವಿನ ಬಳಿ ಬಂದು ನಾನು ಇದಕ್ಕಾಗಿ ಏನು ಮಾಡಬೇಕು ಎಂದು ಕೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. To his enemy.	",
-	"	b. To inherit eternal life.	",
-	"	c. For the priests.	",
-	"	d. For the widows & orphans.	"
+	"	A. ಅವನ ಶತೃವಿಗಾಗಿ	",
+	"	B. ನಿತ್ಯಜೀವಕ್ಕೆ ಬಾಧ್ಯನಾಗಲು	",
+	"	C. ಯಾಜಕರಿಗಾಗಿ	",
+	"	D. ವಿಧವೆಯರು ಮತ್ತು ಅನಾಥರಿಗಾಗಿ	"
 ],			
-"correct" :	"	b. To inherit eternal life.	",
-"explanation" :	"	Now a certain ruler asked Him, saying, Good Teacher, what shall I do to inherit eternal life? - Lk 18:18	",
+"correct" :	"	B. ನಿತ್ಯಜೀವಕ್ಕೆ ಬಾಧ್ಯನಾಗಲು	",
+"explanation" :	"	ಒಬ್ಬ ಅಧಿಕಾರಿಯು ಬಂದು - ಒಳ್ಳೇ ಬೋಧಕನೇ, ನಾನು ನಿತ್ಯಜೀವಕ್ಕೆ ಬಾಧ್ಯನಾಗುವಂತೆ ಏನು ಮಾಡಬೇಕು ಎಂದು ಆತನನ್ನು ಕೇಳಲಾಗಿ ;       ಲೂಕ 18:18	",
 },			
 {			
-"question" :	"	7. When Jesus answered him, the ruler	",
+"question" :	"	7. ಯೇಸು ಅವನಿಗೆ ಉತ್ತರಿಸಿದಾಗ, ಆ ಅಧಿಕಾರಿಯು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rejoiced.	",
-	"	b. Was sorrowful.	",
-	"	c. Sold his goods.	",
-	"	d. Made a peace treaty.	"
+	"	A. ಸಂತೋಷಿಸಿದನು	",
+	"	B. ಬಹಳ ವ್ಯಸನವುಳ್ಳವನಾದನು	",
+	"	C. ಅವನಿಗಿರುವುದನ್ನೆಲ್ಲಾ ಮಾರಿದನು	",
+	"	D. ಸಮಾಧಾನದ ಔತಣವನ್ನು ನೀಡಿದನು	"
 ],			
-"correct" :	"	b. Was sorrowful.	",
-"explanation" :	"	But when he heard this, he became very sorrowful, for he was very rich. - Lk 18:23	",
+"correct" :	"	B. ಬಹಳ ವ್ಯಸನವುಳ್ಳವನಾದನು	",
+"explanation" :	"	ಅವನು ಬಹಳ  ಐಶ್ವರ್ಯವಂತನಾಗಿದ್ದದರಿಂದ ಇದನ್ನು ಕೇಳಿ ಬಹಳ ವ್ಯಸನಗೊಂಡನು.   ಲೂಕ 18:23	",
 },			
 {			
-"question" :	"	8. Jesus said, it is easier for this, to go through a needle’s eye, than for a rich man to enter the kingdom of God.	",
+"question" :	"	8. ಯೇಸು ಹೇಳಿದ್ದು ಐಶ್ವರ್ಯವಂತನು ದೇವರ ರಾಜ್ಯದಲ್ಲಿ ಸೇರುವುದಕ್ಕಿಂತ ______ ಸೂಜಿಕಣ್ಣಿನಲ್ಲಿ ನುಗ್ಗುವುದು ಸುಲಭ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A camel	",
-	"	b. Thread	",
-	"	c. The wind	",
-	"	d. A finger	"
+	"	A. ಒಂಟೆ	",
+	"	B. ದಾರ	",
+	"	C. ಗಾಳಿ	",
+	"	D. ಬೆರಳು	"
 ],			
-"correct" :	"	a. A camel	",
-"explanation" :	"	For it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.- Lk 18:25	",
+"correct" :	"	A. ಒಂಟೆ	",
+"explanation" :	"	ಐಶ್ವರ್ಯವಂತನು ದೇವರ ರಾಜ್ಯದಲ್ಲಿ ಸೇರುವದಕ್ಕಿಂತ ಒಂಟೆಯು ಸೂಜೀಕಣ್ಣಿನಲ್ಲಿ ನುಗ್ಗುವದು ಸುಲಭ ಅಂದನು;   ಲೂಕ 18:25	",
 },			
 {			
-"question" :	"	9. When Jesus spoke of His suffering and death, His disciples	",
+"question" :	"	9. ಯೇಸು ತನ್ನ ಮರಣದ ಬಗ್ಗೆ ತಿಳಿಸಿದಾಗ ಆತನ ಶಿಷ್ಯರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Were sorrowful.	",
-	"	b. Rebuked Him.	",
-	"	c. Rejoiced.	",
-	"	d. Did not understand.	"
+	"	A. ದು:ಖಪಟ್ಟರು	",
+	"	B. ಆತನನ್ನು ಗದರಿಸಿದರು	",
+	"	C. ಸಂತೋಷಿಸಿದರು	",
+	"	D. ಅವರಿಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ	"
 ],			
-"correct" :	"	d. Did not understand.	",
-"explanation" :	"	But they understood none of these things; this saying was hidden from them, and they did not know the things which were spoken. - Lk 18:34	",
+"correct" :	"	D. ಅವರಿಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ	",
+"explanation" :	"	ಅವರು ಈ ಸಂಗತಿಗಳಲ್ಲಿ ಒಂದನ್ನಾದರೂ ಗ್ರಹಿಸಲಿಲ್ಲ, ಈ ಮಾತುಗಳು ಅವರಿಗೆ ಮರೆಯಾಗಿದ್ದವು, ಅವುಗಳ ಅರ್ಥ ಅವರಿಗೆ ಗೊತ್ತಾಗಲಿಲ್ಲ.   ಲೂಕ 18:34	",
 },			
 {			
-"question" :	"	10. When the blind man cried out to Jesus, those around him immediately	",
+"question" :	"	10. ಒಬ್ಬ ಕುರುಡನು ಯೇಸುವನ್ನು ಜೋರಾಗಿ ಕೂಗಿದಾಗ ಸುತ್ತಲೂ ಇದ್ದ ಜನರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Brought him to Jesus.	",
-	"	b. Cried out also.	",
-	"	c. Told him to be quiet.	",
-	"	d. Had compassion on him.	"
+	"	A. ಅವನನ್ನು ಯೇಸುವಿನ ಬಳಿ ತಂದರು	",
+	"	B. ಅವರೂ ಸಹ ಕೂಗಿದರು	",
+	"	C. ಸುಮ್ಮನಿರೆಂದು ಗದರಿಸಿದರು	",
+	"	D. ಅವನ ಮೇಲೆ ಮರುಕಗೊಂಡರು	"
 ],			
-"correct" :	"	c. Told him to be quiet.	",
-"explanation" :	"	Then those who went before warned him that he should be quiet; but he cried out all the more, Son of David, have mercy on me - Lk 18:39	",
+"correct" :	"	C. ಸುಮ್ಮನಿರೆಂದು ಗದರಿಸಿದರು	",
+"explanation" :	"	ಅವನು ಯೇಸುವೇ, ದಾವೀದನ ಕುಮಾರನೇ, ನನ್ನನ್ನು ಕರುಣಿಸು ಎಂದು ಕೂಗಿ ಕೇಳಿಕೊಂಡನು.  ಮುಂದೆ ಹೋಗುತ್ತಿದ್ದವರು ಸುಮ್ಮನಿರು ಎಂದು ಅವನನ್ನು ಗದರಿಸಲು ;   ಲೂಕ 18:37-38	",
 },			
 ]			
-			

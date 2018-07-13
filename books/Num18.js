@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 18";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord said, this man and his sons, and his father's house, would bear the iniquity of the sanctuary.	",

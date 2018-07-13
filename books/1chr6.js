@@ -1,7 +1,7 @@
-var quiztitle = " 1 Chronicles chapter 6";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter lists the genealogy of	",
+"question" :	"	1. This ಅಧ್ಯಾಯ lists the genealogy of	",
 "image" :	"",		
 "choices" : [			
 	"	a. Levi	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 20";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1. David asked Jonathan, why his father wanted to	",
@@ -58,7 +58,7 @@ var quiz = [
 	"	d. 5	"
 ],			
 "correct" :	"	b. 3	",
-"explanation" :	"	And I will shoot three arrows on the side thereof, as though I shot at a mark. 1 Sam 20:20	",
+"explanation" :	"	And I will shoot three arrows on the side thereof, as though I shot at a ಮಾರ್ಕ. 1 Sam 20:20	",
 },		 	
 {			
 "question" :	"	6. When the king sat upon his seat,this man’s place was empty.	",

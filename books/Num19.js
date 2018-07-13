@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 19";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord commanded that the children of Israel bring this.	",

@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 8";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
-"question" :	"	1. What did Jesus answer the leper who said, Lord if thou wilt, thou canst make me clean?	",
+"question" :	"	1. ಸ್ವಾಮಿ ನಿನಗೆ ಮನಸ್ಸಿದ್ದರೆ ನನ್ನನ್ನು ಶುದ್ಧಮಾಡಬಲ್ಲೆ ಎಂದು ಹೇಳಿದ ಕುಷ್ಠರೋಗಿಗೆ ಯೇಸು ಏನೆಂದು ಉತ್ತರಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. I can do all things.	",
-	"	b. Your faith has made you whole.	",
-	"	c. I will, be thou clean.	",
-	"	d. I will not.	"
+	"	A. ನಾನು ಎಲ್ಲವನ್ನೂ ಮಾಡಬಲ್ಲೆ	",
+	"	B. ನಿನ್ನ ನಂಬಿಕೆ ನಿನ್ನನ್ನು ಸ್ವಸ್ಥಮಾಡಿತು	",
+	"	C. ನನಗೆ ಮನಸ್ಸುಂಟು, ಶುದ್ಧನಾಗು	",
+	"	D. ನನಗೆ ಮನಸ್ಸಿಲ್ಲ	"
 ],			
-"correct" :	"	c. I will, be thou clean.	",
-"explanation" :	"	Then Jesus put out His hand and touched him, saying, I am willing; be cleansed.- Matt 8:3	",
+"correct" :	"	C. ನನಗೆ ಮನಸ್ಸುಂಟು, ಶುದ್ಧನಾಗು	",
+"explanation" :	"	ಆತನು ಕೈನೀಡಿ ಆತನನ್ನು ಮುಟ್ಟಿ ನನಗೆ ಮನಸ್ಸುಂಟು ಶುದ್ಧವಾಗು ಅಂದನು.  ಮತ್ತಾಯ 8:3	",
 },			
 {			
-"question" :	"	2. What was wrong with the centurion’s servant?	",
+"question" :	"	2. ಶತಾಧಿಪತಿಯ ಆಳಿಗೆ ಏನು ಸಮಸ್ಯೆ ಇತ್ತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Leprosy	",
-	"	b. The palsy	",
-	"	c. Epilepsy	",
-	"	d. He fell off a horse	"
+	"	A. ಕುಷ್ಠರೋಗ	",
+	"	B. ಪಾಶ್ರ್ವವಾಯು	",
+	"	C. ಮೂರ್ಚೆರೋಗ	",
+	"	D. ಕುದುರೆಯಿಂದ ಬಿದ್ದು ಹೋಗಿದ್ದನು	"
 ],			
-"correct" :	"	b. The palsy	",
-"explanation" :	"And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him, And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented. Matthew 8:5,6",
+"correct" :	"	B. ಪಾಶ್ರ್ವವಾಯು	",
+"explanation" :	"	ಶತಾಧಿಪತಿಯು ಆತನ ಬಳಿಗೆ ಬಂದು ಪ್ರಭುವೇ ನನ್ನ ಆಳು ಪಾಶ್ರ್ವವಾಯುವಿನಿಂದ ಬಹಳ ಕಷ್ಟಪಡುತ್ತಾ ಮನೆಯಲ್ಲಿ ಬಿದ್ದಿದ್ದಾನೆ ಎಂದು ಹೇಳಿಕೊಂಡನು. ಮತ್ತಾಯ 8:6	",
 },			
 {			
-"question" :	"	3. The centurion said, since Jesus had authority, He only needed to do this, and the servant would be healed.	",
+"question" :	"	3. ಶತಾಧಿಪತಿ ಹೇಳಿದನು, ಯೇಸುವಿಗೆ ಅಧಿಕಾರವಿರುವುದರಿಂದ ಆತನು ಕೇವಲ ಇಷ್ಟು ಮಾಡಿದರೆ ಸಾಕು, ಆತನ ಆಳು ಸೌಖ್ಯ ಹೊಂದುವನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Lay hands on him	",
-	"	b. Come to him	",
-	"	c. Speak the word	",
-	"	d. Rebuke the devil	"
+	"	A. ಅವನ ಮೇಲೆ ಕೈ ಇಡಬೇಕು	",
+	"	B. ಅವನ ಬಳಿ ಬರಬೇಕು	",
+	"	C. ಒಂದು ಮಾತು ಹೇಳಿದರೆ ಸಾಕು	",
+	"	D. ದೆವ್ವವನ್ನು ಗದರಿಸಬೇಕು	"
 ],			
-"correct" :	"	c. Speak the word	",
-"explanation" :	"	The centurion answered and said, Lord, I am not worthy that You should come under my roof. But only speak a word, and my servant will be healed.- Matt 8:8	",
+"correct" :	"	C. ಒಂದು ಮಾತು ಹೇಳಿದರೆ ಸಾಕು	",
+"explanation" :	"	ಪ್ರಭುವೇ ನೀನು ನನ್ನ ಮನೆಗೆ ಬರತಕ್ಕಷ್ಟು ಯೋಗ್ಯತೆ ನನ್ನಲ್ಲಿಲ್ಲ; ನೀನು ಒಂದು ಮಾತು ಹೇಳಿದರೆ ಸಾಕು.  ಮತ್ತಾಯ 8:8	",
 },			
 {			
-"question" :	"	4. What was wrong with Peter’s mother-in-law?	",
+"question" :	"	4. ಪೇತ್ರನ ಅತ್ತೆಯು ಯಾವುದರೀಮದ ಬಾಧಿಸಲ್ಪಡುತ್ತಿದ್ದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Palsy	",
-	"	b. Leprosy	",
-	"	c. A fever	",
-	"	d. Epilepsy	"
+	"	A. ಪಾಶ್ರ್ವವಾಯು	",
+	"	B. ಕುಷ್ಠರೋಗ	",
+	"	C. ಜ್ವರ	",
+	"	D. ಮೂರ್ಚಾರೋಗ	"
 ],			
-"correct" :	"	c. A fever	",
-"explanation" :	"	Now when Jesus had come into Peter's house, He saw his wife's mother lying sick with a fever. - Matt 8:14	",
+"correct" :	"	C. ಜ್ವರ	",
+"explanation" :	"	ಯೇಸು ಪೇತ್ರನ ಮನೆಗೆ ಬಂದು ಅವನ ಅತ್ತೆ ಜ್ವರದಲ್ಲಿ ಬಿದ್ದಿರುವದನ್ನು ಕಂಡು.. ಮತ್ತಾಯ 8: 16	",
 },			
 {			
-"question" :	"	5. When the disciples were in the ship and the storm arose, what was Jesus doing?	",
+"question" :	"	5 ಶಿಷ್ಯರು ದೋಣಿಯಲ್ಲಿರುವಾಗ, ಸಮುದ್ರದಲ್ಲಿ ಬಿರುಗಾಳಿ ಎದ್ದಿತು.  ಆಗ ಯೇಸು  ಏನು ಮಾಡುತ್ತಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sleeping	",
-	"	b. Praying	",
-	"	c. Eating	",
-	"	d. Preaching	"
+	"	A. ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದನು	",
+	"	B. ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದನು	",
+	"	C. ತಿನ್ನುತ್ತಿದ್ದನು	",
+	"	D. ಭೋದಿಸುತ್ತಿದ್ದನು	"
 ],			
-"correct" :	"	a. Sleeping	",
-"explanation" :	"	And suddenly a great tempest arose on the sea, so that the boat was covered with the waves. But He was asleep.- matt 8:24	",
+"correct" :	"	A. ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದನು	",
+"explanation" :	"	ಅವರು ಹೋಗುತ್ತಿರುವಾಗ ಸಮುದ್ರವು ಅಲ್ಲಕಲ್ಲೋಲವಾಗಿ ದೋಣಿಯು ತೆರೆಗಳಿಂದ ಮುಚ್ಚಿಹೋಯಿತು; ಆದರೆ ಆತನು ನಿದ್ದೆಹತ್ತಿ ಮಲಗಿದ್ದನು.  ಮತ್ತಾಯ 8:24	",
 },			
 {			
-"question" :	"	6. What did Jesus call the disciples when they were fearful?	",
+"question" :	"	6 ಶಿಷ್ಯರು ಭಯದಿಂದಿರುವಾಗ ಯೇಸು ಅವರನ್ನು ಏನೆಂದು ಕರೆದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ye foolish men	",
-	"	b. Children of the day	",
-	"	c. Ye of little faith	",
-	"	d. Disheartened fellows	"
+	"	A. ಮೂರ್ಖ ಜನರೇ	",
+	"	B. ಬೆಳಕಿನ ಮಕ್ಕಳೇ	",
+	"	C. ಎಲೈ ಅಲ್ಪವಿಶ್ವಾಸಿಗಳೇ	",
+	"	D. ಎದೆಗುಂದಿದವರೇ	"
 ],			
-"correct" :	"	c. Ye of little faith	",
-"explanation" :	"	But He said to them, Why are you fearful, O you of little faith? Then He arose and rebuked the winds and the sea, and there was a great calm. - Matt 8:26	",
+"correct" :	"	C. ಎಲೈ ಅಲ್ಪವಿಶ್ವಾಸಿಗಳೇ	",
+"explanation" :	"	ಅಲ್ಪವಿಶ್ವಾಸಿಗಳೇ, ಯಾಕೆ ಧೈರ್ಯಗೆಡುತ್ತೀರಿ ಎಂದು ಹೇಳಿ ಎದ್ದು ಗಾಳಿಯನ್ನೂ ಸಮುದ್ರವನ್ನೂ ಗದರಿಸಿದನು.  ಮತ್ತಾಯ 8:26	",
 },			
 {			
-"question" :	"	7. The men marveled because	",
+"question" :	"	7 ಜನರು ಬೆರಗಾದರು, ಏಕೆದರೆ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus rebuked them.	",
-	"	b. The boat was tossed.	",
-	"	c. Jesus was not afraid.	",
-	"	d. The seas & wind obeyed Jesus.	"
+	"	A. ಯೇಸು ಅವರನ್ನು ಗದರಿಸಿದನು	",
+	"	B. ದೋಣಿಯುಉ ಓಲಾಡಿತು	",
+	"	C. ಯೇಸು ಭಯಪಡಲಿಲ್ಲ	",
+	"	D. ಸಮುದ್ರ ಮತ್ತು ಗಾಳಿ ಯೇಸು ಹೇಳಿದ ಹಾಗೆ ಕೇಳಿದವು	"
 ],			
-"correct" :	"	d. The seas & wind obeyed Jesus.	",
-"explanation" :	"	So the men marveled, saying, Who can this be, that even the winds and the sea obey Him?	",
+"correct" :	"	D. ಸಮುದ್ರ ಮತ್ತು ಗಾಳಿ ಯೇಸು ಹೇಳಿದ ಹಾಗೆ ಕೇಳಿದವು	",
+"explanation" :	"	ಆ ಜನರು ಬೆರಗಾಗಿ - ಈತನು ಎಂಥವನಾಗಿರಬಹುದು, ಗಾಳಿಯೂ ಸಮುದ್ರವೂ ಸಹ ಈತನು ಹೇಳಿದ ಹಾಗೆ ಕೇಳುತ್ತವಲ್ಲಾ ಅಂದರು. ಮತ್ತಾಯ 8:27	",
 },			
 {			
-"question" :	"	8. On the other side of the sea, two people met them that	",
+"question" :	"	8 ಸಮುದ್ರ ಆಚೆದಡದಲ್ಲಿ ಇಬ್ಬರು ಬಂದು ಯೇಸುವನ್ನು ಸಂಧಿಸಿದರು, ಅವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Had palsy.	",
-	"	b. Were possessed with devils.	",
-	"	c. Were lepers.	",
-	"	d. Were soldiers.	"
+	"	A. ಪಾಶ್ರ್ವವಾಯು ಹೊಂದಿದವರು	",
+	"	B. ದೆವ್ವ ಹಿಡಿದವರು	",
+	"	C. ಕುಷ್ಠ ರೋಗಿಗಳು	",
+	"	D. ಸೈನಿಕರು	"
 ],			
-"correct" :	"	b. Were possessed with devils.	",
-"explanation" :	"	When He had come to the other side, to the country of the Gergesenes, there met Him two demon-possessed men, coming out of the tombs, exceedingly fierce, so that no one could pass that way.- matt 8:28	",
+"correct" :	"	B. ದೆವ್ವ ಹಿಡಿದವರು	",
+"explanation" :	"	ಆಮೇಲೆ ಆತನು ಆಚೇದಡಕ್ಕೆ ಗದರೇನರ ಸೀಮೆಗೆ ಮುಟ್ಟಿದಾಗ ದೆವ್ವ ಹಿಡಿದವರಿಬ್ಬರು ಸಮಾಧಿಯ ಗವಿಗಳೊಳಗಿಂದ ಹೊರಟು ..   ಮತ್ತಾಯ 8:28	",
 },			
 {			
-"question" :	"	9. Jesus cast the devils out, and they entered	",
+"question" :	"	9 ಯೇಸು ದೆವ್ವಗಳನ್ನು ಓಡಿಸಲು ಅವು ಇವುಗಳೊಳಗೆ ಹೊಕ್ಕಿತು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jerusalem.	",
-	"	b. A herd of swine.	",
-	"	c. A centurion.	",
-	"	d. The soldiers.	"
+	"	A. ಯೆರೂಷಲೇಮು	",
+	"	B. ಹಂದಿಗಳ ಗುಂಪು	",
+	"	C. ಒಬ್ಬ ಶತಾಧಿಪತಿ	",
+	"	D. ಸೈನಿಕರು	"
 ],			
-"correct" :	"	b. A herd of swine.	",
-"explanation" :	"	And He said to them, Go. So when they had come out, they went into the herd of swine. And suddenly the whole herd of swine ran violently down the steep place into the sea, and perished in the water. - Matt 8:32	",
+"correct" :	"	B. ಹಂದಿಗಳ ಗುಂಪು	",
+"explanation" :	"	ಆತನು ಹೋಗಿರಿ ಅನ್ನಲು ಅವು ಹೊರಗೆ ಬಂದು ಹಂದಿಗಳೊಳಗೆ ಹೊಕ್ಕವು. ಮತ್ತಾಯ 8:32	",
 },			
 {			
-"question" :	"	10. The swine ran violently	",
+"question" :	"	10 ಹಂದಿಗಳೆಲ್ಲಾ ರಭಸವಾಗಿ ಇಲ್ಲಿಗೆ ಓಡಿದವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Into the city.	",
-	"	b. Over their keepers.	",
-	"	c. Into the sea.	",
-	"	d. Into the mountains.	"
+	"	A. ಪಟ್ಟಣದೊಳಗೆ	",
+	"	B. ಕಾವಲುಗಾರರ ಮೇಲೆ	",
+	"	C. ಸಮುದ್ರದೊಳಗೆ	",
+	"	D. ಬೆಟ್ಟಗಳೊಳಗೆ	"
 ],			
-"correct" :	"	c. Into the sea.	",
-"explanation" :	"	And He said to them, Go. So when they had come out, they went into the herd of swine. And suddenly the whole herd of swine ran violently down the steep place into the sea, and perished in the water. - Matt 8:32	",
+"correct" :	"	C. ಸಮುದ್ರದೊಳಗೆ	",
+"explanation" :	"	ಆ ಕ್ಷಣವೇ ಆ ಗುಂಪೆಲ್ಲಾ ಓಡಿ ಕಡಿದಾದ ಸ್ಥಳದಿಂದ ಸಮುದ್ರದೊಳಗೆ ಬಿದ್ದು ನೀರಿನಲ್ಲಿ ಮುಣುಗಿ ಸತ್ತುಹೋಯಿತು. ಮತ್ತಾಯ 8:34	",
 },			
 ]			

@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 3";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. What was the name of Moses' fatherin-law?	",
@@ -106,7 +106,7 @@ var quiz = [
 	"	d. To own their own fields.	"
 ],			
 "correct" :	"	c. 3 days journey to sacrifice in the wilderness.	",
-"explanation" :	"	And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The LORD God of the Hebrews hath met with us: and now let us go, we beseech thee, three days' journey into the wilderness, that we may sacrifice to the LORD our God. Ex 3:18	",
+"explanation" :	"	And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The LORD God of the ಇಬ್ರಿಯರಿಗೆ hath met with us: and now let us go, we beseech thee, three days' journey into the wilderness, that we may sacrifice to the LORD our God. Ex 3:18	",
 },			
 {			
 "question" :	"	10. God said, when his people left, they would do this to the Egyptians.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 38";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 38";			
 var quiz = [			
 {			
 "question" :	"	1. Judah married the daughter of	",

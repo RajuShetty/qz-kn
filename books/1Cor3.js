@@ -1,4 +1,4 @@
-var quiztitle = "1 Corinthians chapter 3";			
+var quiztitle = "1 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಹೇಳಿದ್ದು: ನಾನು ಇವರಿಗೆ ತಕ್ಕಂತೆ ನಿಮ್ಮ ಸಂಗಡ ಮಾತನಾಡಬೇಕಾಯಿತು.	",

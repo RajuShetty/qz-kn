@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 1";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. After the death of this man, the children of Israel asked the Lord, who should go against the Canaanites first.	",

@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 8";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. Elisha told the woman whose son had been raised from the dead, there would be a famine for this long.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 31";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 31";			
 var quiz = [			
 {			
 "question" :	"	1. The children of Israel went to war with	",

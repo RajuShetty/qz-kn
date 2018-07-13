@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 22";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. David became captain of about this many men, who were in distress, discontented and in debt.	",

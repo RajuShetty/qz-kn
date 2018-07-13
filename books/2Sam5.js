@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 5";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. All the tribes of Israel came to David, and said, we are your 	",

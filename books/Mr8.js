@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 8";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
-"question" :	"	1. How long had the crowd been with Jesus with nothing to eat?	",
+"question" :	"	1 ಎಷ್ಟು ದಿನಗಳ ಕಾಲ ಜನರು ಗುಂಪು ಯೇಸುವಿನ ಹತ್ತಿರ ಊಟವಿಲ್ಲದೆ ಇತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. All day	",
-	"	b. 2 days	",
-	"	c. 3 days	",
-	"	d. 4 days	"
+	"	A. ಎಲ್ಲಾ ದಿನಗಳು	",
+	"	B. 2 ದಿನಗಳು	",
+	"	C. 3 ದಿನಗಳು	",
+	"	D. 4 ದಿನಗಳು	"
 ],			
-"correct" :	"	c. 3 days	",
-"explanation" :	"	I have compassion on the multitude, because they have now continued with Me three days and have nothing to eat. - Mr 8:2	",
+"correct" :	"	C. 3 ದಿನಗಳು	",
+"explanation" :	"	ಯೇಸು ತನ್ನ ಶಿಷ್ಯರನ್ನು ಹತ್ತಿರಕ್ಕೆ ಕರೆದು ಈ ಜನರನ್ನು ನೋಡಿ ಕನಿಕರಪಡುತ್ತೇನೆ, ಇವರು ನನ್ನ ಬಳಿಗೆ ಬಂದು ಮೂರು ದಿನವಾಯಿತು; ಇವರಿಗೆ ಊಟಕ್ಕೆ ಏನೂ ಇಲ್ಲ;  ಮಾರ್ಕ 8:2	",
 },			
 {			
-"question" :	"	2. How much food did the disciples have?	",
+"question" :	"	2 ಶಿಷ್ಯರ ಬಳಿ ಎಷ್ಟು ಆಹಾರವಿತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 7 fish & a few loaves	",
-	"	b. 7 loaves & a few fish	",
-	"	c. 5 fish & 3 loaves	",
-	"	d. 5 loaves & 3 fish	"
+	"	A. 7 ಮೀನು ಮತ್ತು ಕೆಲವು ರೊಟ್ಟಿ	",
+	"	B. 7 ರೊಟ್ಟಿ ಮತ್ತು ಕೆಲವು ಮೀನು	",
+	"	C. 5 ಮೀನು ಮತ್ತು 3 ರೊಟ್ಟಿ	",
+	"	D. 5 ರೊಟ್ಟಿ ಮತ್ತು 3 ಮೀನು	"
 ],			
-"correct" :	"	b. 7 loaves & a few fish	",
-"explanation" :	"	He asked them, How many loaves do you have? And they said, Seven.So He commanded the multitude to sit down on the ground. And He took the seven loaves and gave thanks, broke them and gave them to His disciples to set before them; and they set them before the multitude.They also had a few small fish; and having blessed them, He said to set them also before them.Jesus told the Pharisees and scribes, they make the word of God of none effect through this. - Mr 8:5-7	",
+"correct" :	"	B. 7 ರೊಟ್ಟಿ ಮತ್ತು ಕೆಲವು ಮೀನು	",
+"explanation" :	"	ಆತನು ನಿಮ್ಮಲ್ಲಿ ಎಷ್ಟು ರೊಟ್ಟಿಗಳಿವೆ ಎಂದು ಅವರನ್ನು ಕೇಳಿದ್ದಕ್ಕೆ ಅವರು ಏಳು ಅವೆ ಅಂದರು.  ಆಗ ಆತನು ಜನರ ಗುಂಪಿಗೆ ನೆಲದ ಮೇಲೆ ಕೂತುಕೊಳ್ಳಿರಿ ಎಂದು ಅಪ್ಪಣೆಕೊಟ್ಟು ಆ ಏಳು ರೊಟ್ಟಿಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ದೇವರ ಸ್ತೋತ್ರ ಮಾಡಿ ಅವುಗಳನ್ನು ಮುರಿದು ಹಂಚುವುದಕ್ಕಾಗಿ ತನ್ನ ಶಿಷ್ಯರ ಕೈಗೆ ಕೊಟ್ಟನು; ಅವರು ಗುಂಪಿನವರಿಗೆ ಹಂಚಿಕೊಟ್ಟರು.  ಇದಲ್ಲದೆ ಅವರಲ್ಲಿ ಕೆಲವು ಸಣ್ಣ ಮೀನುಗಳಿದ್ದವು; ಅವುಗಳನ್ನು ಆತನು ತೆಗೆದುಕೊಂಡು ದೇವರ ಸ್ತೋತ್ರ ಮಾಡಿ ಇವುಗಳನ್ನೂ ಹಂಚಿಕೊಡಿರಿ ಅಂದನು.  ಮಾರ್ಕ 8:5-7	",
 },			
 {			
-"question" :	"	3. About how many were fed?	",
+"question" :	"	3 ಸುಮಾರು ಎಷ್ಟು ಜನರು ಊಟ ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1,000	",
-	"	b. 2,000	",
-	"	c. 3,000	",
-	"	d. 4,000	"
+	"	A. 1000	",
+	"	B. 2000	",
+	"	C. 3000	",
+	"	D. 4000	"
 ],			
-"correct" :	"	d. 4,000	",
-"explanation" :	"	Now those who had eaten were about four thousand. And He sent them away,- Mr 8:9	",
+"correct" :	"	D. 4000	",
+"explanation" :	"	ಊಟ ಮಾಡಿದವರು ಹೆಚ್ಚು ಕಡಿಮೆ ನಾಲ್ಕು ಸಾವಿರ ಮಂದಿ.  ಮಾರ್ಕ 8:9	",
 },			
 {			
-"question" :	"	4. How many baskets were left over?	",
+"question" :	"	4 ಎಷ್ಟು ಹೆಡಿಗೆ ರೊಟ್ಟಿ ಮತ್ತು ಮೀನಿನ ತುಂಡುಗಳು ಮಿಕ್ಕಿದವು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 3	",
-	"	b. 5	",
-	"	c. 7	",
-	"	d. 9	"
+	"	A. 3	",
+	"	B. 5	",
+	"	C. 7	",
+	"	D. 9	"
 ],			
-"correct" :	"	c. 7	",
-"explanation" :	"	So they ate and were filled, and they took up seven large baskets of leftover fragments. - Mr 8:8	",
+"correct" :	"	C. 7	",
+"explanation" :	"	ಮಿಕ್ಕ ತುಂಡುಗಳನ್ನು ಕೂಡಿಸಲಾಗಿ ಏಳು ಹೆಡಿಗೆ ಆದವು.  ಮಾರ್ಕ 8:8	",
 },			
 {			
-"question" :	"	5. What did the Pharisees want Jesus to do?	",
+"question" :	"	5 ಯೇಸು ಏನು ಮಾಡಬೇಕೆಂದು ಫರಿಸಾಯರು ಆಸೆ ಪಟ್ಟರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Show them a sign	",
-	"	b. Preach in the synagogue	",
-	"	c. Give them bread	",
-	"	d. Pay tribute	"
+	"	A. ಅವರಿಗೆ ಒಂದು ಸೂಚನೆ ತೋರಿಸಬೇಕೆಂದು	",
+	"	B. ಸಭಾಮಂದಿರದಲ್ಲಿ ಭೋದಿಸಬೇಕೆಂದು	",
+	"	C. ಅವರಿಗೆ ರೊಟ್ಟಿ ಕೊಡಬೇಕೆಂದು	",
+	"	D. ಅವರಿಗೆ ಗೌರವ ಕೊಡಬೇಕೆಂದು	"
 ],			
-"correct" :	"	a. Show them a sign	",
-"explanation" :	"	Then the Pharisees came out and began to dispute with Him, seeking from Him a sign from heaven, testing Him. - Mr 8:11	",
+"correct" :	"	A. ಅವರಿಗೆ ಒಂದು ಸೂಚನೆ ತೋರಿಸಬೇಕೆಂದು	",
+"explanation" :	"	ತರುವಾಯ ಫರಿಸಾಯರು ಹೊರಟು ಬಂದು ಆತನ ಕೂಡ ತರ್ಕ ಮಾಡುತ್ತಾ ಪರೀಕ್ಷಿಸುವದಕ್ಕಾಗಿ ನೀನು ಆಕಾಶದಲ್ಲಿ ಒಂದು ಸೂಚಕಕಾರ್ಯವನ್ನು ತೋರಿಸಿಕೊಡಬೇಕೆಂದು ಕೇಳುತ್ತಿರಲು;  ಮಾರ್ಕ 8:11	",
 },			
 {			
-"question" :	"	6. Jesus told the disciples, they should beware of this, of the Pharisees and Herod.	",
+"question" :	"	6 ಫರಿಸಾಯರ ಮತ್ತು ಹೆರೋದನ ಯಾವ ವಿಷಯದಲ್ಲಿ ಎಚ್ಚರವಾಗಿರಬೇಕೆಂದು ಯೇಸು  ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The leaven	",
-	"	b. The signs	",
-	"	c. The violence	",
-	"	d. Imprisonment	"
+	"	A. ಹುಳಿಹಿಟ್ಟು	",
+	"	B. ಸೂಚನೆಗಳು	",
+	"	C. ಹಿಂಸಾಚಾರ	",
+	"	D. ಬಂಧನ	"
 ],			
-"correct" :	"	a. The leaven	",
-"explanation" :	"	Then He charged them, saying, Take heed, beware of the leaven of the Pharisees and the leaven of Herod. - Mr 8:11	",
+"correct" :	"	A. ಹುಳಿಹಿಟ್ಟು	",
+"explanation" :	"	ಯೇಸು ಅವರಿಗೆ ಎಚ್ಚರಿಕೆ, ಫರಿಸಾಯರ ಮತ್ತು ಹೆರೋದನ ಹುಳಿಹಿಟ್ಟಿನ ವಿಷಯದಲ್ಲಿ ನೋಡಿಕೊಳ್ಳಿರ ಎಂದು ಖಂಡಿತವಾಗಿ ಹೇಳಲು;   ಮಾರ್ಕ 8:15	",
 },			
 {			
-"question" :	"	7. The first time Jesus put his hands on the blind man, the man said, he saw men	",
+"question" :	"	7 ಮೊದಲ ಸಾರಿ ಯೇಸು ಕುರುಡು ವ್ಯಕ್ತಿಯ ಕಣ್ಣುಗಳ ಮೇಲೆ ಕೈ ಇಟ್ಟಾಗ, ಆತನಿಗೆ ಮನುಷ್ಯರು  ಯಾವ ರೀತಿ ಕಾಣುತ್ತಿದ್ದಾರೆಂದು ಆತನು ಹೇಳಿದ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Coming to get him.	",
-	"	b. As trees walking.	",
-	"	c. In a blur.	",
-	"	d. Faintly.	"
+	"	A. ಆತನನ್ನು ಗುರುತು ಹಿಡಿಯಲು ಬರುತ್ತಿದ್ದಾರೆ	",
+	"	B. ಮರಗಳು ನಡೆದಾಡುವಂತೆ	",
+	"	C. ಮಸಕು ಮಸಕಾಗಿ	",
+	"	D. ಮಂದವಾಗಿ	"
 ],			
-"correct" :	"	b. As trees walking.	",
-"explanation" :	"	And he looked up and said, I see men like trees, walking. - Mr 8:24	",
+"correct" :	"	B. ಮರಗಳು ನಡೆದಾಡುವಂತೆ	",
+"explanation" :	"	ಅವನು ತಲೆಯೆತ್ತಿ ನೋಡಿ ನನಗೆ ಜನರು ಕಾಣುತ್ತಾರೆ; ಅವರು ಮರಗಳಂತೆ ಕಾಣಿಸಿದರೂ ತಿರುಗಾಡುತ್ತಾ ಇದ್ದಾರೆ ಅಂದನು.  ಮಾರ್ಕ 8:24	",
 },			
 {			
-"question" :	"	8. When Jesus said, Whom say ye that I am, Peter answered	",
+"question" :	"	8 “ ನೀವು ನನ್ನನ್ನು ಯಾರೆನ್ನುತ್ತೀರಿ?” ಎಂದು ಯೇಸು ಕೇಳಿದಾಗ, ಪೇತ್ರನು ಏನೆಂದು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Elias.	",
-	"	b. John the Baptist	",
-	"	c. One of the prophets.	",
-	"	d. The Christ.	"
+	"	A. ಎಲೀಯ	",
+	"	B. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+	"	C. ಪ್ರವಾದಿಯಲ್ಲಿ ಒಬ್ಬನು	",
+	"	D. ಬರಬೇಕಾದ ಕ್ರಿಸ್ತನು	"
 ],			
-"correct" :	"	d. The Christ.	",
-"explanation" :	"	He said to them, But who do you say that I am? Peter answered and said to Him, You are the Christ. - Mr 8:29	",
+"correct" :	"	D. ಬರಬೇಕಾದ ಕ್ರಿಸ್ತನು	",
+"explanation" :	"	ಆತನು ಅವರನ್ನು ಆದರೆ ನೀವು ನನ್ನನ್ನು ಯಾರನ್ನುತ್ತೀರಿ? ಎಂದು ಕೇಳಲಾಗಿ ಪೇತ್ರನು ನೀನು ಬರಬೇಕಾಗಿರುವ ಕ್ರಿಸ್ತನು ಎಂದು ಉತ್ತರಕೊಟ್ಟನು.  ಮಾರ್ಕ 8:29	",
 },			
 {			
-"question" :	"	9. When Jesus began to speak of his death, who rebuked Him?	",
+"question" :	"	9 ಯೇಸು ತನ್ನ ಮರಣದ ಕುರಿತು ಮಾಡನಾಡಿದಾಗ, ಆತನನ್ನು ಯಾರು ಗದರಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Pharisees	",
-	"	b. Peter	",
-	"	c. James	",
-	"	d. John	"
+	"	A. ಫರಿಸಾಯರು	",
+	"	B. ಪೇತ್ರ	",
+	"	C. ಯಾಕೋಬ	",
+	"	D. ಯೋಹಾನ	"
 ],			
-"correct" :	"	b. Peter	",
-"explanation" :	"	And He began to teach them that the Son of Man must suffer many things, and be rejected by the elders and chief priests and scribes, and be killed, and after three days rise again.He spoke this word openly. And Peter took Him aside and began to rebuke Him. - Mr 8:31-32	",
+"correct" :	"	B. ಪೇತ್ರ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಆತನು ಮನುಷ್ಯಕುಮಾರನು ಬಹು ಕಷ್ಟಗಳನ್ನನುಭವಿಸಿ ಹಿರಿಯರಿಂದಲೂ ಮಹಾಯಾಜಕರಿಂದಲೂ ಶಾಸ್ತ್ರಿಗಳಿಂದಲೂ ನಿರಾಕೃತವಾಗಿ ಕೊಲ್ಲಲ್ಪಟ್ಟು ಮೂರು ದಿನದ ಮೇಲೆ ಜೀವಿತನಾಗಿ ಎದ್ದು ಬರಬೇಕಾಗಿದೆ ಎಂದು ಉಪದೇಶಮಾಡುವದಕ್ಕೆ ಪ್ರಾರಂಭ ಮಾಡಿದನು.  ಆತನು ಈ ಮಾತನ್ನು ಏನೂ ಗುಂಬವಿಲ್ಲದೆ ಹೇಳಿದನು, ಆಗ ಪೇತ್ರನು ಆತನ ಕೈಹಿಡಿದು ಆತನನ್ನು ಗದರಿಸುವದಕ್ಕೆ ಪ್ರಾರಂಭಿಸಲು;     ಮಾರ್ಕ 8:31-32	",
 },			
 {			
-"question" :	"	10. Jesus asked, what shall it profit a man, if he shall gain the whole world, and lose this.	",
+"question" :	"	10 ಯೇಸು ಹೇಳಿದ್ದು: “ಒಬ್ಬ ಮನುಷ್ಯನು ಲೋಕವನ್ನೆಲ್ಲಾ ಸಂಪಾದಿಸಿಕೊಂಡರೂ ………………… ಅವನಿಗೆ ಪ್ರಯೋಜನವೇನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. His mind	",
-	"	b. His family	",
-	"	c. His soul	",
-	"	d. His integrity	"
+	"	A. ಬುದ್ದಿನಷ್ಟಪಟ್ಟರೆ	",
+	"	B. ಕುಟುಂಬ ನಷ್ಟಪಟ್ಟರೆ	",
+	"	C. ಪ್ರಾಣನಷ್ಟ ಪಟ್ಟರೆ	",
+	"	D. ತನ್ನ ಒಗ್ಗಟ್ಟನ್ನು ನಷ್ಟಪಟ್ಟರೆ	"
 ],			
-"correct" :	"	c. His soul	",
-"explanation" :	"	For what will it profit a man if he gains the whole world, and loses his own soul? - mr 8:36	",
+"correct" :	"	C. ಪ್ರಾಣನಷ್ಟ ಪಟ್ಟರೆ	",
+"explanation" :	"	ಒಬ್ಬ ಮನುಷ್ಯನು ಲೋಕವನ್ನೆಲ್ಲಾ ಸಂಪಾದಿಸಿಕೊಂಡರೂ ಪ್ರಾಣನಷ್ಟಪಟ್ಟರೆ ಅವನಿಗೆ ಪ್ರಯೋಜನವೇನು?     ಮಾರ್ಕ 8:36	",
 },			
 ]			

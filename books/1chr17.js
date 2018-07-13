@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 17";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. David said, he dwells in a house made of this.	",

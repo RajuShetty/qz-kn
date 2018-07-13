@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 11";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. Rehoboam gathered 180,000 chosen men from these tribes.	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 27";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 27";			
 var quiz = [			
 {			
 "question" :	"	1. David said in his heart, I shall one day perish in the hand of	",

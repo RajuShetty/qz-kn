@@ -1,7 +1,7 @@
-var quiztitle = " Revelation chapter 22";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
-"question" :	"	1. John saw a pure river of water of	",
+"question" :	"	1. ಯೋಹಾನ saw a pure river of water of	",
 "image" :	"",		
 "choices" : [			
 	"	a. Life.	",
@@ -85,7 +85,7 @@ var quiz = [
 "explanation" :	"	And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever. Rev 22:5	",
 },			
 {			
-"question" :	"	8. John was corrected when he did this.	",
+"question" :	"	8. ಯೋಹಾನ was corrected when he did this.	",
 "image" :	"",		
 "choices" : [			
 	"	a. Lied	",
@@ -94,7 +94,7 @@ var quiz = [
 	"	d. Fell to worship an angel	"
 ],			
 "correct" :	"	d. Fell to worship an angel	",
-"explanation" :	"	And I John saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God. Rev 22:8,9	",
+"explanation" :	"	And I ಯೋಹಾನ saw these things, and heard them. And when I had heard and seen, I fell down to worship before the feet of the angel which shewed me these things.Then saith he unto me, See thou do it not: for I am thy fellowservant, and of thy brethren the prophets, and of them which keep the sayings of this book: worship God. Rev 22:8,9	",
 },			
 {			
 "question" :	"	9. There is a warning about this prophesy.	",

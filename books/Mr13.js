@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 13";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
-"question" :	"	1. When you hear of these, and rumors of these, do not be troubled.	",
+"question" :	"	1 ಈ ವಿಷಯಗಳ ಬಗ್ಗೆ ಸುದ್ದಿಗಳನ್ನು ಕೇಳಿದಾಗ ನೀವು ಕಳವಳಗೊಳ್ಳಬೇಡಿರಿ .	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wars	",
-	"	b. Funerals	",
-	"	c. Evil kings	",
-	"	d. Evil angels	"
+	"	A. ಯುದ್ಧಗಳು	",
+	"	B. ಅಂತ್ಯಕ್ರಿಯೆಗಳು	",
+	"	C. ಕೆಟ್ಟ ಅರಸರು	",
+	"	D. ಕೆಟ್ಟ ದೂತರು	"
 ],			
-"correct" :	"	a. Wars	",
-"explanation" :	"	But when you hear of wars and rumors of wars, do not be troubled; for such things must happen, but the end is not yet. - Mr 13:7	",
+"correct" :	"	A. ಯುದ್ಧಗಳು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಯುದ್ಧಗಳಾಗುವದನ್ನೂ ಯುದ್ಧವಾಗುವ ಹಾಗಿದೆ ಎಂಬ ಸುದ್ದಿಗಳನ್ನೂ ನೀವು ಕೇಳುವಾಗ ಕಳವಳಪಡಬೇಡಿರಿ.  ಮಾರ್ಕ 13:7	",
 },			
 {			
-"question" :	"	2. These are the beginning of sorrows.	",
+"question" :	"	2 ನೂತನ ಕಾಲ ಹುಟ್ಟುವ ಪ್ರಸವವೇದನೆಯ ಪ್ರಾರಂಭ ಯಾವುದು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The death of children	",
-	"	b. Strangers prospering	",
-	"	c. Earthquakes & famines	",
-	"	d. A Passover celebration	"
+	"	A. ಮಕ್ಕಳ ಮರಣ	",
+	"	B. ಅಪರಿಚಿತರು ಅಭಿವೃದ್ದಿ ಹೊಂದುವುದು	",
+	"	C. ಭೂಕಂಪನಗಳು ಮತ್ತು ಬರಗಾಲಗಳು	",
+	"	D. ಫಸ್ಕ ಹಬ್ಬದ ಆಚರಣೆ	"
 ],			
-"correct" :	"	c. Earthquakes & famines	",
-"explanation" :	"	For nation will rise against nation, and kingdom against kingdom. And there will be earthquakes in various places, and there will be famines and troubles. These are the beginnings of sorrows.- Mr13:8	",
+"correct" :	"	C. ಭೂಕಂಪನಗಳು ಮತ್ತು ಬರಗಾಲಗಳು	",
+"explanation" :	"	ಆನಕ್ಕೆ ವಿರೋಧವಾಗಿ ಜನವೂ ರಾಜ್ಯಕ್ಕೆ ವಿರೋಧವಾಗಿ ರಾಜ್ಯವೂ ಏಳುವವು; ಮತ್ತು ಭೂಕಂಪಗಳು ಅಲ್ಲಲ್ಲಿ ಆಗುವವು; ಬರಗಳು ಬರುವವು; ಇವೆಲ್ಲಾ ನೂತನ ಕಾಲವು ಹುಟ್ಟುವ ಪ್ರಸವವೇದನೆಯ ಪ್ರಾರಂಭ.  ಮಾರ್ಕ 13:8	",
 },			
 {			
-"question" :	"	3. First, this must go into all nations.	",
+"question" :	"	3 ಮೊದಲು ಎಲ್ಲಾ ರಾಜ್ಯಗಳಿಗೆ ಏನಾಗಬೇಕು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A flood	",
-	"	b. Food	",
-	"	c. The gospel	",
-	"	d. Treachery	"
+	"	A. ಪ್ರವಾಹ ಆಗಬೇಕು	",
+	"	B. ಆಹಾರ ಹೋಗಬೇಕು	",
+	"	C. ಸುವಾರ್ತೆ ಸಾರಬೇಕು	",
+	"	D. ವಿಶ್ವಾಸಘಾತಕತನ	"
 ],			
-"correct" :	"	c. The gospel	",
-"explanation" :	"	And the gospel must first be preached to all the nations. - Mr 13:10	",
+"correct" :	"	C. ಸುವಾರ್ತೆ ಸಾರಬೇಕು	",
+"explanation" :	"	ಮೊದಲು ಎಲ್ಲಾ ಜನಾಂಗಗಳಿಗೆ ಸುವಾರ್ತೆಯು ಸಾರಲ್ಪಡಬೇಕು.  ಮಾರ್ಕ 13:10	",
 },			
 {			
-"question" :	"	4. When they deliver you before councils do not prepare what to speak, for words will be given by	",
+"question" :	"	4 ನಿಮ್ಮನ್ನು ಹಿಡುಕೊಂಡು ಹೋಗಿ ಒಪ್ಪಿಸುವಾಗ ಏನು ಮಾತನಾಡಬೇಕೆಂದು ಯೋಚಿಸದಿರಿ,   ಯಾಕೆಂದರೆ ಮಾತನಾಡುವವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Angels.	",
-	"	b. Devils.	",
-	"	c. Deceivers.	",
-	"	d. The Holy Ghost.	"
+	"	A. ದೂತರು	",
+	"	B. ದೆವ್ವಗಳು	",
+	"	C. ಮೋಸಗಾರರು	",
+	"	D. ಪವಿತ್ರಾತ್ಮನು	"
 ],			
-"correct" :	"	d. The Holy Ghost.	",
-"explanation" :	"	But when they arrest you and deliver you up, do not worry beforehand, or premeditate what you will speak. But whatever is given you in that hour, speak that; for it is not you who speak, but the Holy Spirit. - Mr 13:11	",
+"correct" :	"	D. ಪವಿತ್ರಾತ್ಮನು	",
+"explanation" :	"	ನಿಮ್ಮನ್ನು ಹಿಡುಕೊಂಡುಹೋಗಿ ಒಪ್ಪಿಸುವಾಗ ಏನು ಹೇಳಬೇಕು ಎಂದು ಮುಂಚಿತವಾಗಿ ಚಿಂತೆಮಾಡಬೇಡಿರಿ; ಆ ಗಳಿಗೆಯಲ್ಲಿ ನಿಮಗೆ ಸೂಚನೆಯಾಗುವಂಥ ಮಾತನ್ನೇ ಆಡಿರಿ; ಮಾತಾಡುವವರು ನೀವಲ್ಲ, ಪವಿತ್ರಾತ್ಮನೇ.  ಮಾರ್ಕ 13:11	",
 },			
 {			
-"question" :	"	5. Those in the field	",
+"question" :	"	5 ಹೊಲದಲ್ಲಿರುವವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Should not turn back.	",
-	"	b. Will sell wheat for gold.	",
-	"	c. Will be strong.	",
-	"	d. Shall be burned by the sun.	"
+	"	A. ಹಿಂತಿರುಗಿ ಬಾರದಿರಲಿ	",
+	"	B. ಗೋಧಿಯನ್ನು ಚಿನ್ನಕ್ಕೆ ಮಾರಲಿ	",
+	"	C. ಬಲಶಾಲಿಗಳು	",
+	"	D. ಸೂರ್ಯನಿಂದ ಸುಡಲ್ಪಡುವನು	"
 ],			
-"correct" :	"	a. Should not turn back.	",
-"explanation" :	"	And let him who is in the field not go back to get his clothes. - mr 13:16	",
+"correct" :	"	A. ಹಿಂತಿರುಗಿ ಬಾರದಿರಲಿ	",
+"explanation" :	"	ಹೊಲದಲ್ಲಿರುವವನು ತನ್ನ ಹೊದಿಕೆಯನ್ನು ತೆಗೆದುಕೊಳ್ಳುವದಕ್ಕೆ ಹಿಂತಿರಿಗಿ ಬಾರದೆ ಓಡಿಹೋಗಲಿ.  ಮಾರ್ಕ13:16	",
 },			
 {			
-"question" :	"	6. Many of these shall rise and show signs and wonders.	",
+"question" :	"	6 ಇವರು ಎದ್ದು ಅನೇಕ ಸೂಚಕ ಕಾರ್ಯಗಳನ್ನು ಮಹತ್ಕಾರ್ಯಗಳನ್ನು ಮಾಡಿ ತೋರಿಸುವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Priests	",
-	"	b. Apostles	",
-	"	c. Magicians	",
-	"	d. False prophets & false Christs	"
+	"	A. ಶಾಸ್ತ್ರಿಗಳು	",
+	"	B. ಅಪೋಸ್ತಲರು	",
+	"	C. ಜಾದೂಗಾರರು	",
+	"	D. ಸುಳ್ಳು ಪ್ರವಾದಿಗಳು ಮತ್ತು ಸುಳ್ಳು ಕ್ರಿಸ್ತರು	"
 ],			
-"correct" :	"	d. False prophets & false Christs	",
-"explanation" :	"	For false christs and false prophets will rise and show signs and wonders to deceive, if possible, even the elect. - Mr 13:22	",
+"correct" :	"	D. ಸುಳ್ಳು ಪ್ರವಾದಿಗಳು ಮತ್ತು ಸುಳ್ಳು ಕ್ರಿಸ್ತರು	",
+"explanation" :	"	ಸುಳ್ಳು ಕ್ರಿಸ್ತರೂ ಸುಳ್ಳು ಪ್ರವಾದಿಗಳೂ ಎದ್ದು ಸಾಧ್ಯವಾದರೆ ದೇವರಾದುಕೊಂಡವರನ್ನು ಮೋಸಗೊಳಿಸುವದಕ್ಕೋಸ್ಕರ ಸೂಚಕಕಾರ್ಯಗಳನ್ನೂ ಅದ್ಭುತ ಕಾರ್ಯಗಳನ್ನೂ ಮಾಡಿ ತೋರಿಸುವರು.  ಮಾರ್ಕ 13:22	",
 },			
 {			
-"question" :	"	7. This shall be darkened.	",
+"question" :	"	7 ಯಾವುದು ಕತ್ತಲಾಗುವುದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The water	",
-	"	b. The eyes	",
-	"	c. The winds	",
-	"	d. The sun	"
+	"	A. ನೀರು	",
+	"	B. ಕಣ್ಣುಗಳು	",
+	"	C. ಗಾಳಿ	",
+	"	D. ಸೂರ್ಯ	"
 ],			
-"correct" :	"	d. The sun	",
-"explanation" :	"	But in those days, after that tribulation, the sun will be darkened, and the moon will not give its light - Mr 13:24	",
+"correct" :	"	D. ಸೂರ್ಯ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಆ ದಿನಗಳಲ್ಲಿ ಆ ಸಂಕಟ ತೀರಿದ ಮೇಲೆ ಸೂರ್ಯನು ಕತ್ತಲಾಗಿ ಹೋಗುವನು;  ಮಾರ್ಕ 13:24	",
 },			
 {			
-"question" :	"	8. The Son of Man shall come in this, with power & glory.	",
+"question" :	"	8 ಮನುಷ್ಯಕುಮಾರನು ಅಧಿಕಾರದಿಂದ ಮತ್ತು ಮಹಿಮೆಯಿಂದ ಎಲ್ಲಿಗೆ ಬರುವನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Spirit	",
-	"	b. The clouds	",
-	"	c. Sorrow	",
-	"	d. The wind	"
+	"	A. ಆತ್ಮದಲ್ಲಿ	",
+	"	B. ಮೇಘದಲ್ಲಿ	",
+	"	C. ದು:ಖದಲ್ಲಿ	",
+	"	D. ಗಾಳಿಯಲ್ಲಿ	"
 ],			
-"correct" :	"	b. The clouds	",
-"explanation" :	"	Then they will see the Son of Man coming in the clouds with great power and glory. - mr 13:26	",
+"correct" :	"	B. ಮೇಘದಲ್ಲಿ	",
+"explanation" :	"	ಆಗ ಮನುಷ್ಯಕುಮಾರನು ಬಹು ಬಲದಿಂದಲೂ ಮಹಿಮೆಯಿಂದಲೂ ಮೇಘಗಳಲ್ಲಿ ಬರುವದನ್ನು ಕಾಣುವರು.  ಮಾರ್ಕ 13:26	",
 },			
 {			
-"question" :	"	9. Jesus said, heaven and earth shall pass away	",
+"question" :	"	9 ಯಾಸು ಹೇಳಿದ್ದು: ಭೂಮ್ಯಾಕಾಶಗಳು ಅಳಿದು ಹೋಗುವವು,	",
 "image" :	"",		
 "choices" : [			
-	"	a. In a cloud.	",
-	"	b. With fire.	",
-	"	c. As the prophets proclaimed.	",
-	"	d. But My words shall not pass away.	"
+	"	A. ಮೋಡಗಳಲ್ಲಿ	",
+	"	B. ಬೆಂಕಿಯೊಂದಿಗೆ	",
+	"	C. ಪ್ರವಾದಿಗಳು ಪ್ರಕಟಿಸಿದ ಹಾಗೆ	",
+	"	D. ಆದರೆ ನನ್ನ ಮಾತುಗಳು ಅಳಿದು ಹೋಗುವದೇ ಇಲ್ಲ.	"
 ],			
-"correct" :	"	d. But My words shall not pass away.	",
-"explanation" :	"	Heaven and earth will pass away, but My words will by no means pass away. - Mr 13:31	",
+"correct" :	"	D. ಆದರೆ ನನ್ನ ಮಾತುಗಳು ಅಳಿದು ಹೋಗುವದೇ ಇಲ್ಲ.	",
+"explanation" :	"	ಭೂಮ್ಯಾಕಾಶಗಳು ಅಳಿದುಹೋಗುವವು, ಆದರೆ ನನ್ನ ಮಾತುಗಳು ಅಳಿದು ಹೋಗುವದೇ ಇಲ್ಲ.  ಮಾರ್ಕ 13:31	",
 },			
 {			
-"question" :	"	10. Since no man knows the day or the hour of the Son of Man's coming, Jesus instructs us to	",
+"question" :	"	10 ಮನುಷ್ಯಕುಮಾರನು ಬರುವ ದಿನವಾಗಲಿ ಗಳಿಗೆಯಾಗಲಿ ತಿಳಿಯದೇ ಇರುವುದರಿಂದ, ಯೇಸು   ನಮಗೆ ಏನೆಂದು ಎಚ್ಚರಿಸುತ್ತಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hide.	",
-	"	b. Watch & pray.	",
-	"	c. Mourn.	",
-	"	d. Lament.	"
+	"	A. ಬಚ್ಚಿಟ್ಟುಕೊಳ್ಳಿರಿ	",
+	"	B. ನೋಡಿಕೊಳ್ಳಿರಿ ಮತ್ತು ಜಾಗರೂಕರಾಗಿರಿ	",
+	"	C. ಗೋಳಾಡಿರಿ	",
+	"	D. ಪ್ರಲಾಪಿಸಿ	"
 ],			
-"correct" :	"	b. Watch & pray.	",
-"explanation" :	"	But of that day and hour no one knows, not even the angels in heaven, nor the Son, but only the Father.Take heed, watch and pray; for you do not know when the time is. - Mr 13:32-33	",
+"correct" :	"	B. ನೋಡಿಕೊಳ್ಳಿರಿ ಮತ್ತು ಜಾಗರೂಕರಾಗಿರಿ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಆ ದಿನದ ವಿಷಯವಾಗಲಿ ಆ ಗಳಿಗೆಯ ವಿಷಯವಾಗಲಿ ನನ್ನ ತಂದೆಗೆ ತಿಳಿಯುವದೇ ಹೊರತು ಮತ್ತಾರಿಗೂ ತಿಳಿಯದು; ಪರಲೋಕದಲ್ಲಿರುವ ದೂತರಿಗೂ ತಿಳಿಯದು; ಮಗನಿಗೂ ತಿಳಿಯದು.  ಆ ಕಾಲವು ಯಾವಾಗ ಬರುವದೋ ನಿಮಗೆ ಗೊತ್ತಿಲ್ಲವಾದ್ದರಿಂದ ನೋಡಿಕೊಳ್ಳಿರಿ, ಜಾಗರೂಕರಾಗಿರಿ.  ಮಾರ್ಕ 13: 32-33	",
 },			
 ]			

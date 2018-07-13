@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 10";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. After Abimelech, this man arose.	",

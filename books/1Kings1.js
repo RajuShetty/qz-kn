@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 1";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. This man exalted himself saying I will be king.	",

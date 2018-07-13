@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 6";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. ಬಿಳಿ ಕುದುರೆ ಮೇಲೆ ಕೂತಿದ್ದವನ ಕೈಯಲ್ಲಿ ಬಿಲ್ಲು ಇತ್ತು; ಅವನಿಗೆ ಜಯಮಾಲೆ ಕೊಡಲ್ಪಟ್ಟಿತು; ಅವನು	",

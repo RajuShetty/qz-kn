@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 4";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. ನಾವು ಯಾವುದನ್ನು ಹುಟ್ಟಿಸುವ ಗುಪ್ತ ಕಾರ್ಯಗಳನ್ನು ಬಿಟ್ಟುಬಿಡಬೇಕೆಂದು ಪೌಲನು ಹೇಳುತ್ತಾನೆ?	",

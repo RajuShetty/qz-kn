@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 12";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. What was the name of Jehoash’s mother? 	",

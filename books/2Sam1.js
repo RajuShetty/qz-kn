@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 1";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. A man came to David saying he had escaped from this camp.	",

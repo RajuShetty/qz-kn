@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 9";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
-"question" :	"	1. How long had the man been blind?	",
+"question" :	"	1  ಆ ಮನುಷ್ಯನು ಎಷ್ಟು ದಿನಗಳಿಂದ ಕುರುಡನಾಗಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1 year	",
-	"	b. 5 years	",
-	"	c. 38 years	",
-	"	d. Since birth	"
+	"	A. 1 ವರ್ಷ	",
+	"	B. 5 ವರ್ಷ	",
+	"	C. 38 ವರ್ಷ	",
+	"	D. ಹುಟ್ಟಿದಂದಿನಿಂದ	"
 ],			
-"correct" :	"	d. Since birth	",
-"explanation" :	"	Now as Jesus passed by, He saw a man who was blind from birth.- Jn 9:1	",
+"correct" :	"	D. ಹುಟ್ಟಿದಂದಿನಿಂದ	",
+"explanation" :	"	ಯೇಸು ಹಾದುಹೋಗುತ್ತಿರುವಾಗ ಒಬ್ಬ ಹುಟ್ಟುಕುರುಡನನ್ನು ಕಂಡನು. 9:1	",
 },			
 {			
-"question" :	"	2. What did the disciples ask Jesus when they saw the blind man?	",
+"question" :	"	2  ಕುರುಡನನ್ನು ನೋಡಿದಾಗ ಶಿಷ್ಯರು ಯೇಸುವನ್ನು ಏನು ಕೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wilt thou be made whole?	",
-	"	b. Who sinned this man or his parents?	",
-	"	c. Will you heal him?	",
-	"	d. Is he not a Samaritan?	"
+	"	A. ಈತನನ್ನು ಶುದ್ಧ ಮಾಡುವಿಯೋ	",
+	"	B. ಪಾಪ ಮಾಡಿರುವವರು ಯಾರು, ಇವನೋ? ಇವನ ತಂದೆ ತಾಯಿಗಳೋ?	",
+	"	C. ನೀನು ಅವನನ್ನು ಸ್ವಸ್ಥಮಾಡುತ್ತೀಯೋ?	",
+	"	D. ಅವನು ಸಮಾರ್ಯದವನಲ್ಲ	"
 ],			
-"correct" :	"	b. Who sinned this man or his parents?	",
-"explanation" :	"	And His disciples asked Him, saying, Rabbi, who sinned, this man or his parents, that he was born blind? - Jn 9:2	",
+"correct" :	"	B. ಪಾಪ ಮಾಡಿರುವವರು ಯಾರು, ಇವನೋ? ಇವನ ತಂದೆ ತಾಯಿಗಳೋ?	",
+"explanation" :	"	ಆತನ ಶಿಷ್ಯರು - ಗುರುವೇ, ಇವನು ಕುರುಡನಾಗಿ ಹುಟ್ಟಿರುವದಕ್ಕೆ ಯಾರು ಪಾಪಮಾಡಿದರು? ಇವನೋ? ಇವನ ತಂದೆತಾಯಿಗಳೋ? ಎಂದು ಆತನನ್ನು ಕೇಳಿದ್ದಕ್ಕೆ 9:2	",
 },			
 {			
-"question" :	"	3. Jesus said, as long as He is in the world	",
+"question" :	"	3  ಯೇಸು ಹೇಳಿದ್ದು, ನಾನು ಲೋಕದಲ್ಲಿರುವಾಗ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Evil will decrease.	",
-	"	b. Joy will increase.	",
-	"	c. He is glorified.	",
-	"	d. He is the light of the world.	"
+	"	A. ಕೆಟ್ಟತನವು ಕಡಿಮೆಯಾಗುವುದು	",
+	"	B. ಸಂತೋಷವು ಹೆಚ್ಚಾಗುವುದು	",
+	"	C. ಮಹಿಮೆ ಹೊಂದುವೆನು	",
+	"	D. ಲೋಕಕ್ಕೆ ಬೆಳಕಾಗಿದ್ದೇನೆ.	"
 ],			
-"correct" :	"	d. He is the light of the world.	",
-"explanation" :	"	As long as I am in the world, I am the light of the world.- Jn 9:5	",
+"correct" :	"	D. ಲೋಕಕ್ಕೆ ಬೆಳಕಾಗಿದ್ದೇನೆ.	",
+"explanation" :	"	ನಾನು ಲೋಕದಲ್ಲಿರುವಾಗ ಲೋಕಕ್ಕೆ ಬೆಳಕಾಗಿದ್ದೇನೆ ಅಂದನು 9:5	",
 },			
 {			
-"question" :	"	4. What did Jesus put on the man’s eyes?	",
+"question" :	"	4  ಆ ಮನುಷ್ಯನ ಕಣ್ಣುಗಳಿಗೆ ಯೇಸು ಏನು ಹಚ್ಚಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Clay	",
-	"	b. His hands	",
-	"	c. Ointment	",
-	"	d. Oil	"
+	"	A. ಕೆಸರು	",
+	"	B. ತನ್ನ ಕೈಗಳು	",
+	"	C. ಮುಲಾಮು	",
+	"	D. ಎಣ್ಣೆ	"
 ],			
-"correct" :	"	a. Clay	",
-"explanation" :	"	When He had said these things, He spat on the ground and made clay with the saliva; and He anointed the eyes of the blind man with the clay. Jn 9:6	",
+"correct" :	"	A. ಕೆಸರು	",
+"explanation" :	"	ಇದನ್ನು ಹೇಳಿ ನೆಲದ ಮೇಲೆ ಉಗುಳಿ ಆ ಉಗುಳಿನಿಂದ ಕೆಸರುಮಾಡಿ ಆ ಕೆಸರನ್ನು ಅವನ ಕಣ್ಣುಗಳಿಗೆ ಹಚ್ಚಿ 9:6	",
 },			
 {			
-"question" :	"	5. What was the name of the pool where the man washed?	",
+"question" :	"	5  ಆ ಕುರುಡನು ಕೆಸರನ್ನು ತೊಳಕೊಂಡ ಕೊಳದ ಹೆಸರು ಏನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bethesda	",
-	"	b. Siloam	",
-	"	c. Galilee	",
-	"	d. Tiberias	"
+	"	A. ಬೇತ್ಸದ	",
+	"	B. ಸಿಲೋವ	",
+	"	C. ಗಲಿಲಾಯ	",
+	"	D. ತಿಬೇರಿಯದ	"
 ],			
-"correct" :	"	b. Siloam	",
-"explanation" :	"	And He said to him, Go, wash in the pool of Siloam So he went and washed, and came back seeing. Jn 9:7	",
+"correct" :	"	B. ಸಿಲೋವ	",
+"explanation" :	"	ನೀನು ಸಿಲೋವ ಕೊಳಕ್ಕೆ ಹೋಗಿ ತೊಳಕೋ ಅಂದನು. (ಸಿಲೋವ ಎಂಬ ಮಾತಿಗೆ ಕಳುಹಿಸಲ್ಪಟ್ಟವನು ಎಂದರ್ಥ.) ಅವನು ಹೋಗಿ ತೊಳಕೊಂಡು ಕಣ್ಣು ಹೊಂದಿದವನಾಗಿ ಬಂದನು. 9:7	",
 },			
 {			
-"question" :	"	6. What day were the man’s eyes opened?	",
+"question" :	"	6 ಯೇಸು ಆ ಕುರುಡನಿಗೆ ಕಣ್ಣು ಕೊಟ್ಟಿದ್ದು ಯಾವ ದಿನ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The first day of the week	",
-	"	b. The day of Atonement	",
-	"	c. The Sabbath	",
-	"	d. The Lord’s day	"
+	"	A. ವಾರದ ಮೊದಲನೇ ದಿನ	",
+	"	B. ಪ್ರಾಯಶ್ಚಿತ್ತದ ದಿನ	",
+	"	C. ಸಬ್ಬತ್ ದಿನ	",
+	"	D. ಕರ್ತನ ದಿನ	"
 ],			
-"correct" :	"	c. The Sabbath	",
-"explanation" :	"	Now it was a Sabbath when Jesus made the clay and opened his eyes. Jn 9:14	",
+"correct" :	"	C. ಸಬ್ಬತ್ ದಿನ	",
+"explanation" :	"	ಯೇಸು ಕೆಸರುಮಾಡಿ ಅವನಿಗೆ ಕಣ್ಣು ಕೊಟ್ಟ ದಿವಸವು ಸಬ್ಬತ್‍ದಿವಸವಾಗಿತ್ತು 9:14	",
 },			
 {			
-"question" :	"	7. When the Pharisees did not believe the man who had been blind, whom did they question?	",
+"question" :	"	7  ಫರಿಸಾಯರು ಸೌಖ್ಯ ಹೊಂದಿದ ಕುರುಡನನ್ನು ನಂಬದೇ ಹೋದಾಗ ಅವರು ಯಾರನ್ನು  ವಿಚಾರಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The disciples	",
-	"	b. John the Baptist	",
-	"	c. Jesus	",
-	"	d. The man’s parents	"
+	"	A. ಶಿಷ್ಯರು	",
+	"	B. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+	"	C. ಯೇಸು	",
+	"	D. ಆತನ ತಂದೆ ತಾಯಿಗಳು	"
 ],			
-"correct" :	"	d. The man’s parents	",
-"explanation" :	"	But the Jews did not believe concerning him, that he had been blind and received his sight, until they called the parents of him who had received his sight.And they asked them, saying, Is this your son, who you say was born blind? How then does he now see? Jn 9:18-19	",
+"correct" :	"	D. ಆತನ ತಂದೆ ತಾಯಿಗಳು	",
+"explanation" :	"	ಆದರೆ ಕಣ್ಣುಬಂದವನ ವಿಷಯವಾಗಿ ಆ ಯೆಹೂದ್ಯರು - ಇವನು ಕುರುಡನಾಗಿದ್ದು ಈಗ ಕಣ್ಣುಳ್ಳವನಾದನೆಂದು ನಂಬದೆ ಅವನ ತಂದೆತಾಯಿಗಳನ್ನು ಕರೆಯಿಸಿ - ಕುರುಡನಾಗಿ ಹುಟ್ಟಿದನೆಂದು ನೀವು ಹೇಳುವಂಥ ನಿಮ್ಮ ಮಗನು ಇವನೋ? ಈಗ ಇವನಿಗೆ ಕಣ್ಣು ಹೇಗೆ ಬಂದವು ಎಂದು ಅವರನ್ನು ಕೇಳಿದರು. 9:18-19	",
 },			
 {			
-"question" :	"	8. Whose disciples did the Pharisees claim to be?	",
+"question" :	"	8  ಫರಿಸಾಯರು ಯಾರ ಶಿಷ್ಯರೆಂದು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. John the Baptist	",
-	"	b. Jesus	",
-	"	c. Abraham	",
-	"	d. Moses	"
+	"	A. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+	"	B. ಯೇಸು	",
+	"	C. ಅಬ್ರಹಾಮ	",
+	"	D. ಮೋಶೆ	"
 ],			
-"correct" :	"	d. Moses	",
-"explanation" :	"	Then they reviled him and said, You are His disciple, but we are Moses disciples. Jn 9:28	",
+"correct" :	"	D. ಮೋಶೆ	",
+"explanation" :	"	ಅದಕ್ಕೆ ಅವರು ಅವನನ್ನು ಬೈದು - ನೀನು ಆ ಮನುಷ್ಯನ ಶಿಷ್ಯ; ನಾವು ಮೋಶೆಯ ಶಿಷ್ಯರು 9:28	",
 },			
 {			
-"question" :	"	9. The man that had been blind said, we know that God does not hear	",
+"question" :	"	9  ಕುರುಡನಾಗಿದ್ದವನು ಹೇಳಿದ್ದು, ________ ಪ್ರಾರ್ಥನೆಯನ್ನು ದೇವರು ಕೇಳುವುದಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. The prayers of saints.	",
-	"	b. The prayers of sinners.	",
-	"	c. The cries of the dead.	",
-	"	d. The Pharisees.	"
+	"	A. ಸಂತರ ಪ್ರಾರ್ಥನೆ	",
+	"	B. ಪಾಪಿಗಳ ಪ್ರಾರ್ಥನೆ	",
+	"	C. ಸತ್ತವರ ಕೂಗು	",
+	"	D. ಫರಿಸಾಯರ	"
 ],			
-"correct" :	"	b. The prayers of sinners.	",
-"explanation" :	"	The man answered and said to them, Why, this is a marvelous thing, that you do not know where He is from; yet He has opened my eyes Now we know that God does not hear sinners; but if anyone is a worshiper of God and does His will, He hears him. Jn 9:30-31	",
+"correct" :	"	B. ಪಾಪಿಗಳ ಪ್ರಾರ್ಥನೆ	",
+"explanation" :	"	ಅದಕ್ಕೆ ಆ ಮನುಷ್ಯನು - ಆತನು ನನಗೆ ಕಣ್ಣುಕೊಟ್ಟರೂ ಆತನು ಎಲ್ಲಿಯವನೋ ನಿಮಗೆ ಗೊತ್ತಿಲ್ಲದೆ ಇರುವದು ಆಶ್ಚರ್ಯವಲ್ಲವೇ. ಭಕ್ತಿಹೀನರ ಪ್ರಾರ್ಥನೆಯನ್ನು ದೇವರು ಕೇಳುವದಿಲ್ಲ; ಯಾವನು ಭಕ್ತನಾಗಿದ್ದು ಆತನ ಚಿತ್ತದಂತೆ ನಡೆಯುತ್ತಾನೋ ಅವನ ಪ್ರಾರ್ಥನೆಯನ್ನು ಕೇಳುತ್ತಾನೆಂದು ಬಲ್ಲೆವು.  9:30-31	",
 },			
 {			
-"question" :	"	10. Jesus told the Pharisees, if they were blind they would	",
+"question" :	"	10  ಯೇಸು ಫರಿಸಾಯರಿಗೆ ಹೇಳಿದ್ದು, ನೀವು ಕುರುಡರಾಗಿದ್ದರೆ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. Stumble.	",
-	"	b. Want their sight.	",
-	"	c. Have no sin.	",
-	"	d. Beg for alms.	"
+	"	A. ಎಡವುತ್ತಿದ್ದೀರಿ.	",
+	"	B. ನಿಮಗೆ ದೃಷ್ಟಿ ಬೇಕಾಗಿದ್ದಿತು	",
+	"	C. ನಿಮಗೆ ಪಾಪವು ಇರುತ್ತಿರಲಿಲ್ಲ	",
+	"	D. ಕಾಣಿಕೆಗಾಗಿ ಬೇಡುತ್ತಿದ್ದಿರಿ	"
 ],			
-"correct" :	"	c. Have no sin.	",
-"explanation" :	"	Then some of the Pharisees who were with Him heard these words, and said to Him, Are we blind also?Jesus said to them, If you were blind, you would have no sin; but now you say, We see. Therefore your sin remains. Jn 9:40-41	",
+"correct" :	"	C. ನಿಮಗೆ ಪಾಪವು ಇರುತ್ತಿರಲಿಲ್ಲ	",
+"explanation" :	"	ಇದನ್ನು ಆತನ ಸಂಗಡ ಇದ್ದ ಫರಿಸಾಯರು ಕೇಳಿ - ನಾವೂ ಕುರುಡರೇನು? ಎಂದು ಕೇಳಿದಾಗ ಯೇಸು ಅವರಿಗೆ - ನೀವು ಕುರುಡರಾಗಿದ್ದರೆ ನಿಮಗೆ ಪಾಪವು ಇರುತ್ತಿರಲಿಲ್ಲ; ನಮಗೆ ಕಣ್ಣು ಕಾಣುತ್ತವೆ ಅನ್ನುತ್ತೀರಾದ್ದರಿಂದ ನಿಮ್ಮ ಪಾಪವು ಉಳಿದದೆ. 9:40-41	",
 },			
 ]			

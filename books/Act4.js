@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 4";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
-"question" :	"	1. How many men heard and believed the word?	",
+"question" :	"	1 ವಾಕ್ಯವನ್ನು ಕೇಳಿ ನಂಬಿದ ಗಂಡಸರ ಸಂಖ್ಯೆ ಎಷ್ಟು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. About 1,000	",
-	"	b. About 2,000	",
-	"	c. About 3,000	",
-	"	d. About 5,000 	"
+	"	A. ಸುಮಾರು 1000	",
+	"	B. ಸುಮಾರು 2000	",
+	"	C. ಸುಮಾರು 3000	",
+	"	D. ಸುಮಾರು 5000	"
 ],			
-"correct" :	"	d. About 5,000 	",
-"explanation" :	"	However, many of those who heard the word believed; and the number of the men came to be about five thousand.Acts4:4	",
+"correct" :	"	D. ಸುಮಾರು 5000	",
+"explanation" :	"	ಆದರೆ ವಾಕ್ಯವನ್ನು ಕೇಳಿದವರಲ್ಲಿ ಅನೇಕರು ನಂಬಿದರು; ಗಂಡಸರ ಸಂಖ್ಯೆ ಸುಮಾರು ಐದುಸಾವಿರ ತನಕ ಬೆಳೆಯಿತು. 4:4	",
 },			
 {			
-"question" :	"	2. Who was the high priest?	",
+"question" :	"	2 ಆಗ ಮಹಾಯಾಜಕರು ಯಾರಾಗಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Annas	",
-	"	b. Jephthah	",
-	"	c. Nathan	",
-	"	d. Amos	"
+	"	A. ಅನ್ನ	",
+	"	B. ಯೊಪ್ತಾಹ	",
+	"	C. ನಾತಾನ್	",
+	"	D. ಆಮೋಸ್	"
 ],			
-"correct" :	"	a. Annas	",
-"explanation" :	"	as well as Annas the high priest, Caiaphas, John, and Alexander, and as many as were of the family of the high priest, were gathered together at Jerusalem.Acts4:6	",
+"correct" :	"	A. ಅನ್ನ	",
+"explanation" :	"	ಅನ್ನನೆಂಬ ಮಹಾಯಾಜಕನೂ ಕಾಯಫನೂ ಯೋಹಾನನೂ ಅಲೆಕ್ಸಾಂದ್ರನೂ ಮಹಾಯಾಜಕನ ಸಂಬಂಧಿಗಳೆಲ್ಲರೂ ಇದ್ದರು.  4:6	",
 },			
 {			
-"question" :	"	3. By what name did Peter say the impotent man was made whole?	",
+"question" :	"	3 ಯಾವ ನಾಮದಿಂದ ಪೇತ್ರನು ಅಂಗಹೀನ ಮನುಷ್ಯನನ್ನು ಸ್ವಸ್ಥ ಮಾಡಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Baal	",
-	"	b. Heaven	",
-	"	c. Jesus	",
-	"	d. Peter	"
+	"	A. ಬಾಳ	",
+	"	B. ಪರಲೋಕ	",
+	"	C. ಯೇಸು	",
+	"	D. ಪೇತ್ರ	"
 ],			
-"correct" :	"	c. Jesus	",
-"explanation" :	"	If we this day are judged for a good deed done to a helpless man, by what means he has been made well,let it be known to you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom you crucified, whom God raised from the dead, by Him this man stands here before you whole.Acts4:9,10	",
+"correct" :	"	C. ಯೇಸು	",
+"explanation" :	"	ಒಬ್ಬ ಅಂಗಹೀನನಿಗೆ ಆದ ಉಪಕಾರದ ವಿಷಯದಲ್ಲಿ ಅವನಿಗೆ ಯಾತರಿಂದ ನೆಟ್ಟಗಾಯಿತು ಎಂಬದಾಗಿ ನಮ್ಮನ್ನು ಈ ಹೊತ್ತು ವಿಚಾರಣೆ ಮಾಡುವದಾದರೆ ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಇಸ್ರಾಯೇಲ್ ಜನರೆಲ್ಲರಿಗೂ ತಿಳಿಯಬೇಕಾದದ್ದೇನಂದರೆ - ನೀವು ಶಿಲುಬೆಗೆ ಹಾಕಿಸಿದಂಥ ಮತ್ತು ದೇವರು ಸತ್ತವರೊಳಗಿಂದ ಎಬ್ಬಿಸಿದಂಥ ನಜರೇತಿನ ಯೇಸು ಕ್ರಿಸ್ತನ ಹೆಸರಿನಿಂದಲೇ ಈ ಮನುಷ್ಯನು ನಿಮ್ಮೆದುರಿನಲ್ಲಿ ಸ್ವಸ್ಥನಾಗಿ ನಿಂತಿರುತ್ತಾನೆ 4:9,10	",
 },			
 {			
-"question" :	"	4. This is not in any name in heaven or earth, except Jesus.	",
+"question" :	"	4 ಯೇಸು ಎಂಬ ಹೆಸರಿನಿಂದ ಹೊರತು ಆಕಾಶದ ಕೆಳಗೆ ಮನುಷ್ಯರೊಳಗೆ ಕೊಡಲ್ಪಟ್ಟಿರುವ ಬೇರೆ ಯಾವ  ಹೆಸರಿನಿಂದಲೂ ನಮಗೆ ______  ಆಗುವುದಿಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hope	",
-	"	b. Salvation	",
-	"	c. Tribulation	",
-	"	d. Persecution 	"
+	"	A. ನಿರೀಕ್ಷೆ	",
+	"	B. ರಕ್ಷಣೆ	",
+	"	C. ಸಂಕಟ	",
+	"	D. ಹಿಂಸೆ	"
 ],			
-"correct" :	"	b. Salvation	",
-"explanation" :	"	 let it be known to you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom you crucified, whom God raised from the dead, by Him this man stands here before you whole.This is the ‘stone which was rejected by you builders, which has become the chief cornerstone.Nor is there salvation in any other, for there is no other name under heaven given among men by which we must be saved.Acts4:10-12	",
+"correct" :	"	B. ರಕ್ಷಣೆ	",
+"explanation" :	"	ನಿಮ್ಮೆಲ್ಲರಿಗೂ ಇಸ್ರಾಯೇಲ್ ಜನರೆಲ್ಲರಿಗೂ ತಿಳಿಯಬೇಕಾದದ್ದೇನಂದರೆ - ನೀವು ಶಿಲುಬೆಗೆ ಹಾಕಿಸಿದಂಥ ಮತ್ತು ದೇವರು ಸತ್ತವರೊಳಗಿಂದ ಎಬ್ಬಿಸಿದಂಥ ನಜರೇತಿನ ಯೇಸು ಕ್ರಿಸ್ತನ ಹೆಸರಿನಿಂದಲೇ ಈ ಮನುಷ್ಯನು ನಿಮ್ಮೆದುರಿನಲ್ಲಿ ಸ್ವಸ್ಥನಾಗಿ ನಿಂತಿರುತ್ತಾನೆ. ಮನೆ ಕಟ್ಟುವವರಾದ ನೀವು ಹೀನೈಸಿದ ಕಲ್ಲು ಆತನು; ಆತನೇ ಮುಖ್ಯವಾದ ಮೂಲೆಗಲ್ಲಾದನು. ಬರಬೇಕಾದ ರಕ್ಷಣೆಯು ಇನ್ನಾರಲ್ಲಿಯೂ ಸಿಕ್ಕುವದಿಲ್ಲ; ಆ ಹೆಸರಿನಿಂದಲೇ ಹೊರತು ಆಕಾಶದ ಕೆಳಗೆ ಮನುಷ್ಯರೊಳಗೆ ಕೊಡಲ್ಪಟ್ಟಿರುವ ಬೇರೆ ಯಾವ ಹೆಸರಿನಿಂದಲೂ ನಮಗೆ ರಕ್ಷಣೆಯಾಗುವದಿಲ್ಲ ಎಂದು ಹೇಳಿದನು. 4:10-12	",
 },			
 {			
-"question" :	"	5. When the priests and Sadducees conferred among themselves, they could not deny this.	",
+"question" :	"	5 ಫರಿಸಾಯರು ಮತ್ತು ಸದ್ದುಕಾಯರು ತಮ್ಮತಮ್ಮಲ್ಲಿ ಆಲೋಚನೆ ಮಾಡಿಕೊಂಡಾಗ ಯಾವುದನ್ನು   ಅವರು ಅಲ್ಲಗೆಳೆಯಲಾಗುವುದಿಲ್ಲ ಎಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus is the Christ	",
-	"	b. A miracle had been done	",
-	"	c. There was freedom of speech	",
-	"	d. The disciple's priesthood	"
+	"	A. ಯೇಸುವೆ ಕ್ರಿಸ್ತನು	",
+	"	B. ಒಂದು ಸೂಚಕ ಕಾರ್ಯವು ನಡೆದಿದೆ	",
+	"	C. ಮಾತನಾಡಲು ಸ್ವತಂತ್ರ್ಯ ಉಂಟು.	",
+	"	D. ಶಿಷ್ಯರ ಯಾಜಕತ್ವ	"
 ],			
-"correct" :	"	b. A miracle had been done	",
-"explanation" :	"	What shall we do to these men? For, indeed, that a notable miracle has been done through them is evident to all who dwell in Jerusalem, and we cannot deny it.Acts4:16	",
+"correct" :	"	B. ಒಂದು ಸೂಚಕ ಕಾರ್ಯವು ನಡೆದಿದೆ	",
+"explanation" :	"	ಈ ಮನುಷ್ಯರಿಗೆ ನಾವೇನು ಮಾಡೋಣ? ಪ್ರಸಿದ್ಧವಾದ ಒಂದು ಸೂಚಕಕಾರ್ಯವು ಇವರ ಮೂಲಕವಾಗಿ ನಡೆಯಿತೆಂಬದು ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ವಾಸಮಾಡುವವರೆಲ್ಲರಿಗೂ ಗೊತ್ತಾಗಿದೆಯಷ್ಟೆ; ಅದು ಆಗಲಿಲ್ಲವೆನ್ನುವದಕ್ಕಾಗದು.  4:16	",
 },			
 {			
-"question" :	"	6. The priests and Sadducees commanded Peter and John not to speak	",
+"question" :	"	6 ಫರಿಸಾಯರು ಮತ್ತು ಸದ್ದುಕಾಯರು ಪೇತ್ರ ಮತ್ತು ಯೋಹಾನರಿಗೆ ಇದನ್ನು ಮಾತನಾಡಬಾರದೆಂದು ಆಜ್ಞಾಪಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The name of Jesus.	",
-	"	b. Blasphemies.	",
-	"	c. In the temple.	",
-	"	d. To strangers.	"
+	"	A. ಯೇಸುವಿನ ಹೆಸರು	",
+	"	B. ದೇವದೂಷಣೆ	",
+	"	C. ದೇವಾಲಯದಲ್ಲಿ	",
+	"	D. ಅಪರಿಚಿತರೊಂದಿಗೆ	"
 ],			
-"correct" :	"	a. The name of Jesus.	",
-"explanation" :	"	So they called them and commanded them not to speak at all nor teach in the name of Jesus. Acts4:18	",
+"correct" :	"	A. ಯೇಸುವಿನ ಹೆಸರು	",
+"explanation" :	"	ಅವರನ್ನು ಕರೆಯಿಸಿ - ಆ ಯೇಸುವಿನ ಹೆಸರನ್ನು ಎತ್ತಿ ಹೇಗೂ ಮಾತಾಡಬಾರದು, ಉಪದೇಶ ಮಾಡಲೂಬಾರದು ಎಂದು ಅವರಿಗೆ ಖಂಡಿತವಾಗಿ ಅಪ್ಪಣೆಕೊಟ್ಟರು.  4:18	",
 },			
 {			
-"question" :	"	7. The man, who was miraculously healed, was above this age.	",
+"question" :	"	7 ಸೂಚಕ ಕಾರ್ಯದಿಂದ ಸ್ವಸ್ಥ ಹೊಂದಿದ ಮನುಷ್ಯನಿಗೆ ____ ಹೆಚ್ಚು ವಯಸ್ಸಾಗಿತ್ತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 40	",
-	"	b. 50	",
-	"	c. 60	",
-	"	d. 70	"
+	"	A. 40	",
+	"	B. 50	",
+	"	C. 60	",
+	"	D. 70	"
 ],			
-"correct" :	"	a. 40	",
-"explanation" :	"	For the man was over forty years old on whom this miracle of healing had been performed.Acts4:22	",
+"correct" :	"	A. 40	",
+"explanation" :	"	ಈ ಸೂಚಕಕಾರ್ಯದಿಂದ ಸ್ವಸ್ಥತೆಹೊಂದಿದ ಆ ಮನುಷ್ಯನಿಗೆ ನಾಲ್ವತ್ತು ವರುಷಕ್ಕಿಂತ ಹೆಚ್ಚು ವಯಸ್ಸಾಗಿತ್ತು. 4:22	",
 },			
 {			
-"question" :	"	8. Through this servant the Lord asked,why did the heathen rage and the people imagine vain things.	",
+"question" :	"	8 ದೇವರು ಯಾರ ಮುಖಾಂತರವಾಗಿ, ‘ಅನ್ಯಜನಗಳು ಯಾಕೆ ರೇಗಿದರು, ಜನಾಂಗಗಳವರು ವ್ಯರ್ಥಕಾರ್ಯಗಳನ್ನು ಯಾಕೆ ಯೋಚಿಸಿದರು? ಎಂದು ಹೇಳಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. David	",
-	"	b. Hosea	",
-	"	c. Isaiah	",
-	"	d. Obadiah 	"
+	"	A. ದಾವೀದ	",
+	"	B. ಹೋಶೇಯ	",
+	"	C. ಯೇಶಾಯ	",
+	"	D. ಓಬೇದ್ಯ	"
 ],			
-"correct" :	"	a. David	",
-"explanation" :	"	who by the mouth of Your servant David have said:‘Why did the nations rage,And the people plot vain things? Acts4:25	",
+"correct" :	"	A. ದಾವೀದ	",
+"explanation" :	"	ನೀನು ಪವಿತ್ರಾತ್ಮ ಮೂಲಕವಾಗಿ ನಿನ್ನ ಸೇವಕನಾಗಿದ್ದ ನಮ್ಮ ಪಿತೃವಾದ ದಾವೀದನ ಬಾಯಿಂದ - ಅನ್ಯಜನಗಳು ಯಾಕೆ ರೇಗಿದರು? ಜನಾಂಗಗಳವರು ವ್ಯರ್ಥಕಾರ್ಯಗಳನ್ನು ಯಾಕೆ ಯೋಚಿಸಿದರು?4:25	",
 },			
 {			
-"question" :	"	9. When the disciples prayed, the place was shaken, and they were all filled with	",
+"question" :	"	9 ಶಿಷ್ಯರು ಪ್ರಾರ್ಥಿಸಿದಾಗ ಆ ಸ್ಥಳವು ನಡುಗಿತು, ಮತ್ತು ಅವರೆಲ್ಲರೂ ________ ತುಂಬಲ್ಪಟ್ಟರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Great fear.	",
-	"	b. Joy.	",
-	"	c. Great love.	",
-	"	d. The Holy Ghost.	"
+	"	A. ಮಹಾ ಭಯ	",
+	"	B. ಸಂತೋಷ	",
+	"	C. ಮಹಾ ಪ್ರೀತಿ	",
+	"	D. ಪವಿತ್ರಾತ್ಮ	"
 ],			
-"correct" :	"	d. The Holy Ghost.	",
-"explanation" :	"	And when they had prayed, the place where they were assembled together was shaken; and they were all filled with the Holy Spirit, and they spoke the word of God with boldness.Acts4:31	",
+"correct" :	"	D. ಪವಿತ್ರಾತ್ಮ	",
+"explanation" :	"	ಹೀಗೆ ಪ್ರಾರ್ಥನೆ ಮಾಡಿದ ಮೇಲೆ ಅವರು ಕೂಡಿದ್ದ ಸ್ಥಳವು ನಡುಗಿತು, ಅವರೆಲ್ಲರು ಪವಿತ್ರಾತ್ಮಭರಿತರಾಗಿ ದೇವರ ವಾಕ್ಯವನ್ನು ಧೈರ್ಯದಿಂದ ಹೇಳುವವರಾದರು. 4:31	",
 },			
 {			
-"question" :	"	10. This man sold land and brought the money to the apostles.	",
+"question" :	"	10 ಈ ಮನುಷ್ಯನು ಹೊಲವನ್ನು ಮಾರಿ ಹಣವನ್ನು ಅಪೋಸ್ತಲರ ಬಳಿಗೆ ತಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Saul	",
-	"	b. Barnabas	",
-	"	c. Timothy	",
-	"	d. Stephen	"
+	"	A. ಸೌಲ	",
+	"	B. ಬಾರ್ನಬನು	",
+	"	C. ತಿಮೋಥಿ	",
+	"	D. ಸ್ತೆಫನ್	"
 ],			
-"correct" :	"	b. Barnabas	",
-"explanation" :	"	And Joses who was also named Barnabas by the apostles (which is translated Son of Encouragement), a Levite of the country of Cyprus, having land, sold it, and brought the money and laid it at the apostles’ feet.Acts4:36,37	",
+"correct" :	"	B. ಬಾರ್ನಬನು	",
+"explanation" :	"	ಈ ಪ್ರಕಾರ ಮಾಡಿದವರೊಳಗೆ ಕುಪ್ರದ್ವೀಪದಲ್ಲಿ  ಹುಟ್ಟಿದ ಲೇವಿಯನಾಗಿದ್ದ ಯೋಸೇಫನೆಂಬವನು ಒಬ್ಬನು. ಅವನಿಗೆ ಅಪೊಸ್ತಲರು ಬಾರ್ನಬ ಅಂದರೆ ಧೈರ್ಯದಾಯಕ ಎಂದು ಹೆಸರಿಟ್ಟಿದ್ದರು. ಅವನು ತನಗಿದ್ದ ಭೂಮಿಯನ್ನು ಮಾರಿ ಬಂದ ಹಣವನ್ನು ತಂದು ಅಪೊಸ್ತಲರ ಪಾದಗಳ ಬಳಿಯಲ್ಲಿ ಇಟ್ಟನು. 4:36,37	",
 },			
 ]			

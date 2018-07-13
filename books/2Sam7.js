@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 7";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. David said I dwell in a house of	",

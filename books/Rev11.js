@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 11";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. ಯೋಹಾನನ ಕೈಗೆ ಏನು ಕೊಡಲ್ಪಟ್ಟಿತು?	",

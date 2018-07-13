@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 50";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 50";			
 var quiz = [			
 {			
 "question" :	"	1. What did Joseph command the physicians to do?	",
@@ -42,7 +42,7 @@ var quiz = [
 "choices" : [			
 	"	a. He loathed Egypt.	",
 	"	b. He promised his father.	",
-	"	c. The Egyptians didn't allow Hebrews to be buried there.	",
+	"	c. The Egyptians didn't allow ಇಬ್ರಿಯರಿಗೆ to be buried there.	",
 	"	d. He wanted a priest to bless the body.	"
 ],			
 "correct" :	"	b. He promised his father.	",

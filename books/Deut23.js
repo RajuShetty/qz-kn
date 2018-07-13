@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 23";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
 "question" :	"	1. An Ammonite or Moabite shall not enter	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 5";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. They took the ark of God.	",

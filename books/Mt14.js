@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 14";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
-"question" :	"	1. Herod had this man put in prison.	",
+"question" :	"	1. ಹೆರೋದನು ಈ ಮನುಷ್ಯನನ್ನು ಸೆರೆಗೆ ಹಾಕಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. Paul	",
-	"	c. John the Baptist	",
-	"	d. Silas	"
+	"	A. ಯೇಸು	",
+	"	B. ಪೌಲ	",
+	"	C. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+	"	D. ಸೀಲ	"
 ],			
-"correct" :	"	c. John the Baptist	",
-"explanation" :	"	For Herod had laid hold of John and bound him, and put him in prison for the sake of Herodias, his brother Philip's wife. - Matt 14:3	",
+"correct" :	"	C. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+"explanation" :	"	ಹೆರೋದನು ಹೆರೋದ್ಯಳ ನಿಮಿತ್ತ ಯೋಹಾನನನ್ನು ಹಿಡಿದು ಕಟ್ಟಿಸಿ ಸೆರೆಯಲ್ಲಿ ಹಾಕಿಸಿದ್ದನು.  ಮತ್ತಾಯ 14:3	",
 },			
 {			
-"question" :	"	2. What did Herodias’ daughter do to please Herod?	",
+"question" :	"	2. ಹೆರೋದನು ಸಂತೋಷಪಡುವಂತೆ ಹೆರೋದ್ಯಳ ಮಗಳು ಏನು ಮಾಡಿದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Danced	",
-	"	b. Consented to be his wife	",
-	"	c. Served a feast	",
-	"	d. Killed John	"
+	"	A. ನೃತ್ಯ	",
+	"	B. ಆತನ ಹೆಂಡತಿಯಾಗುವುದಕ್ಕೆ ಒಪ್ಪಿದಳು	",
+	"	C. ಔತಣವನ್ನು ಉಣಿಸಿದಳು	",
+	"	D. ಯೋಹಾನನ್ನು ಕೊಂದಳು	"
 ],			
-"correct" :	"	a. Danced	",
-"explanation" :	"	But when Herod's birthday was celebrated, the daughter of Herodias danced before them and pleased Herod. - Matt 14:6	",
+"correct" :	"	A. ನೃತ್ಯ	",
+"explanation" :	"	ಆದರೆ ಹೆರೋದನ ಹುಟ್ಟಿದ ದಿನದ ಹಬ್ಬವು ನಡೆಯುವಾಗ ಹೆರೋದ್ಯಳ ಮಗಳು ಬಂದವರ ಮುಂದೆ ನಾಟ್ಯವಾಡಿ ಹೆರೋದನನ್ನು ಮೆಚ್ಚಿಸಿದ್ದರಿಂದ ____ ಮತ್ತಾಯ 14:6	",
 },			
 {			
-"question" :	"	3. What did Herodias tell her daughter to request?	",
+"question" :	"	3. ಹೆರೋದ್ಯಳು ತನ್ನ ಮಗಳಿಗೆ ಏನನ್ನು ಕೇಳಿಕೊಳ್ಳಬೇಕೆಂದು ತಿಳಿಸಿದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Gold	",
-	"	b. 30 pieces of silver	",
-	"	c. Half of his kingdom	",
-	"	d. The head of John the Baptist	"
+	"	A. ದೇವರು	",
+	"	B. 30 ಬೆಳ್ಳಿ ನಾಣ್ಯಗಳು	",
+	"	C. ಅರ್ಧ ರಾಜ್ಯ	",
+	"	D. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನ ತಲೆ	"
 ],			
-"correct" :	"	d. The head of John the Baptist	",
-"explanation" :	"	So she, having been prompted by her mother, said, Give me John the Baptist's head here on a platter. - Matt 14:8	",
+"correct" :	"	D. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನ ತಲೆ	",
+"explanation" :	"	ಆಗ ಅವಳು ತನ್ನ ತಾಯಿಯ ಬೋಧನೆಯನ್ನು ಕೇಳಿ ಇಲ್ಲಿಯೇ ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನ ತಲೆಯನ್ನು ಪರಾತಿನಲ್ಲಿ ನನಗೆ ತರಿಸಿಕೊಡು ಅಂದಳು.  ಮತ್ತಾಯ: 14:8	",
 },			
 {			
-"question" :	"	4. Who did Herod think was John the Baptist raised from the dead?	",
+"question" :	"	4. ಹೆರೋದನು ಯಾರ ವಿಷಯವಾಗಿ ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು ತಿರುಗಿ ಬದುಕಿ  ಬಂದಿದ್ದಾನೆ ಎಂದು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. Peter	",
-	"	c. Philip	",
-	"	d. Herodias	"
+	"	A. ಯೇಸು	",
+	"	B. ಪೇತ್ರ	",
+	"	C. ಪಿಲಿಪ್ಪಿ	",
+	"	D. ಹೆರೋದ್ಯಳು	"
 ],			
-"correct" :	"	a. Jesus	",
-"explanation" :	"	At that time Herod the tetrarch heard the report about Jesus and said to his servants, This is John the Baptist; he is risen from the dead, and therefore these powers are at work in him.- Matt14:1,2	",
+"correct" :	"	A. ಯೇಸು	",
+"explanation" :	"	ಆ ಕಾಲದಲ್ಲಿ ಉಪರಾಜನಾದ ಹೆರೋದನು ಯೇಸುವಿನ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ತನ್ನ ಪರಿವಾರದವರಿಗೆ ಇವನು ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು ತಿರುಗಿ ಬದುಕಿ ಬಂದಿದ್ದಾನೆ.  ಮತ್ತಾಯ 14:1,2	",
 },			
 {			
-"question" :	"	5. What did Jesus use to feed the multitude?	",
+"question" :	"	5  ಜನರ ಗುಂಪಿಗೆ ಉಣಿಸಲು ಯೇಸು ಏನನ್ನು ಬಳಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2 fish & 2 loaves	",
-	"	b. 5 fish & 2 loaves	",
-	"	c. 5 fish & 5 loaves	",
-	"	d. 2 fish & 5 loaves	"
+	"	A. 2.ಮೀನು 5 ರೊಟ್ಟಿ	",
+	"	B. 5.ಮೀನು 4.ರೊಟ್ಟಿ	",
+	"	C. 5.ಮೀನು 5 ರೊಟ್ಟಿ	",
+	"	D. 5.ಮೀನು 5 ರೊಟ್ಟಿ	"
 ],			
-"correct" :	"	d. 2 fish & 5 loaves	",
-"explanation" :	"	And they said to Him, We have here only five loaves and two fish.He said, Bring them here to Me Then He commanded the multitudes to sit down on the grass. And He took the five loaves and the two fish, and looking up to heaven, He blessed and broke and gave the loaves to the disciples; and the disciples gave to the multitudes.So they all ate and were filled, and they took up twelve baskets full of the fragments that remained. - Matt 14:17 to 20	",
+"correct" :	"	A. 2 ಮೀನು 5 ರೊಟ್ಟಿ	",
+"explanation" :	"	ಜನರಿಗೆ ಹುಲ್ಲಿನ ಮೇಲೆ ಕೂತುಕೊಳ್ಳುವದಕ್ಕೆ ಹೇಳಿ ಆ ಐದು ರೊಟ್ಟಿ ಎರಡು ಮೀನುಗಳನ್ನು ತಕ್ಕೊಂಡು ಆಕಾಶದ ಕಡೆಗೆ ನೋಡಿ ___ ಮತ್ತಾಯ 14:19	",
 },			
 {			
-"question" :	"	6. How much did they have left over?	",
+"question" :	"	6 ಅವರಿಗೆ ಎಷ್ಟು ಪುಟ್ಟಿ ಉಳಿಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 10 baskets	",
-	"	b. 2 baskets	",
-	"	c. 12 baskets	",
-	"	d. 5 baskets	"
+	"	A. 10 ಪುಟ್ಟಿ	",
+	"	B.  2 ಪುಟ್ಟಿ	",
+	"	C. 12 ಪುಟ್ಟಿ	",
+	"	D.  5 ಪುಟ್ಟಿ	"
 ],			
-"correct" :	"	c. 12 baskets	",
-"explanation" :	"	So they all ate and were filled, and they took up twelve baskets full of the fragments that remained.- Matt 14:20	",
+"correct" :	"	C. 12 ಪುಟ್ಟಿ	",
+"explanation" :	"	ಮಿಕ್ಕ ತುಂಡುಗಳನ್ನು ಕೂಡಿಸಲಾಗಿ ಹನ್ನೆರಡು ಪುಟ್ಟಿ ತುಂಬಿತು.  ಮತ್ತ 14:20	",
 },			
 {			
-"question" :	"	7. When the disciples saw Jesus walking across the water in the storm, they thought	",
+"question" :	"	7 ಯೇಸುವು ಬಿರುಗಾಳಿಯಲ್ಲಿ ಸಮುದ್ರದಲ್ಲಿ ನಡೆದು ಬರುತ್ತಿರುವುದನ್ನು ನೋಡಿ, ಶಿಷ್ಯರು  ಏನೆಂದು ಕೊಂಡರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He would drown.	",
-	"	b. They had died.	",
-	"	c. He was a spirit.	",
-	"	d. He was an angel.	"
+	"	A. ಅವನು ಮುಳುಗಿ ಹೋಗಬಹುದು	",
+	"	B. ಅವರು ಸತ್ತುಹೋಗುವರು	",
+	"	C. ಆತನು ಭೂತ	",
+	"	D. ಆತನು ದೇವದೂತ	"
 ],			
-"correct" :	"	c. He was a spirit.	",
-"explanation" :	"	And Peter answered Him and said, Lord, if it is You, command me to come to You on the water. - Matt14:28	",
+"correct" :	"	C. ಆತನು ಭೂತ	",
+"explanation" :	"	ಸಮುದ್ರದ ಮೇಲೆ ನಡೆಯುವ ಆತನನ್ನು ಶಿಷ್ಯರು ನೋಡಿ ಭೂತವೆಂದು ತತ್ತರಿಸಿ ಭಯದಿಂದ ಕೂಗಿದರು.  ಮತ್ತಾಯ 14:26	",
 },			
 {			
-"question" :	"	8. What did Peter say when he began to sink?	",
+"question" :	"	8  ಪೇತ್ರನು ಮುಳುಗಲು ಪ್ರಾರಂಭಿಸಿದಾಗ ಅವನು ಏನೆಂದು ಕೂಗಿಕೊಂಡನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Lord, help me!	",
-	"	b. Lord, save me!	",
-	"	c. Lord, forgive me!	",
-	"	d. Lord, touch me!	"
+	"	A. ಕರ್ತನೇ, ಸಹಾಯ ಮಾಡು	",
+	"	B. ಕರ್ತನೇ, ನನ್ನನ್ನು ಕಾಪಾಡು	",
+	"	C. ಕರ್ತನೇ ನನ್ನನ್ನು ಕ್ಷಮಿಸು	",
+	"	D. ಕರ್ತನೇ, ನನ್ನನ್ನು ಮುಟ್ಟು	"
 ],			
-"correct" :	"	b. Lord, save me!	",
-"explanation" :	"	Then those who were in the boat came and worshiped Him, saying, Truly You are the Son of God. - Matt 14:30	",
+"correct" :	"	B. ಕರ್ತನೇ, ನನ್ನನ್ನು ಕಾಪಾಡು	",
+"explanation" :	"	ಆದರೆ ಗಾಳಿಯನ್ನು ನೋಡಿ ಭಯಪಟ್ಟು ಮುಣುಗುತ್ತಾ ಸ್ವಾಮೀ, ನನ್ನನ್ನು ಕಾಪಾಡು ಎಂದು ಕೂಗಿಕೊಂಡನು.  ಮತ್ತಾಯ 14:30	",
 },			
 {			
-"question" :	"	9. What happened when Jesus & Peter got in the ship?	",
+"question" :	"	9 ಯೇಸು ಮತ್ತು ಪೇತ್ರನು ದೋಣಿಯೊಳಕ್ಕೆ ಹೋದಾಗ ಏನಾಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The wind stopped.	",
-	"	b. It began to sink.	",
-	"	c. Angels appeared.	",
-	"	d. The others wanted to walk on water.	"
+	"	A. ಗಾಳಿಯು ನಿಂತುಹೋಯಿತು	",
+	"	B. ಅದು ಮುಳುಗಲು ಪ್ರಾರಂಭಿಸಿತು	",
+	"	C. ದೂತರು ಕಾಣಿಸಿಕೊಂಡರು	",
+	"	D. ಬೇರೆಯವರೂ ಸಹ ನೀರಿನ ಮೇಲೆ ನಡೆಯಲು ಆಸೆಪಟ್ಟರು	"
 ],			
-"correct" :	"	a. The wind stopped.	",
-"explanation" :	"	And when they got into the boat, the wind ceased. - Matt 14:32	",
+"correct" :	"	A. ಗಾಳಿಯು ನಿಂತುಹೋಯಿತು	",
+"explanation" :	"	ತರುವಾಯ ಅವರು ದೋಣಿಯನ್ನು ಹತ್ತಿದ ಮೇಲೆ ಗಾಳಿ ನಿಂತು ಹೋಯಿತು. ಮತ್ತಾಯ 14:32	",
 },			
 {			
-"question" :	"	10. When Jesus was in Gennesaret, what did the sick people do so that they were made perfectly whole?	",
+"question" :	"	10 ಯೇಸು ಗೆನಜರೇತು ಪ್ರಾಂತ್ಯದಲ್ಲಿದ್ದಾಗ, ಅಲ್ಲಿದ್ದ ರೋಗಿಗಳು ತಾವು ಪರಿಪೂರ್ಣ  ಸೌಖ್ಯರಾಗಲು ಏನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Prayed	",
-	"	b. Worshipped Him	",
-	"	c. Walked in His shadow	",
-	"	d. Touched the hem of His garment	"
+	"	A. ಪ್ರಾರ್ಥಿಸಿದರು	",
+	"	B. ಆತನನ್ನು ಆರಾಧಿಸಿದರು	",
+	"	C. ಆತನ ನೆರಾಳಲ್ಲಿ ನಡೆದಾಡಿದರು	",
+	"	D. ಆತನ ವಸ್ತ್ರದ ಗೊಂಡೆಯನ್ನು ಮುಟ್ಟಿದರು	"
 ],			
-"correct" :	"	d. Touched the hem of His garment	",
-"explanation" :	"	When they had crossed over, they came to the land of Gennesaret.And when the men of that place recognized Him, they sent out into all that surrounding region, brought to Him all who were sick,and begged Him that they might only touch the hem of His garment. And as many as touched it were made perfectly well. - Matt 14:34 to 36	",
+"correct" :	"	D. ಆತನ ವಸ್ತ್ರದ ಗೊಂಡೆಯನ್ನು ಮುಟ್ಟಿದರು	",
+"explanation" :	"	ನಿನ್ನ ಉಡುಪಿನ ಗೊಂಡೆಯನ್ನಾದರೂ ಮುಟ್ಟಗೊಡಿಸಬೇಕೆಂದು ಬೇಡಿಕೊಂಡರು.  ಮತ್ತಾಯ 14:36	",
 },			
 ]			

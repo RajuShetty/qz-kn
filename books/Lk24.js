@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 24";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 24";			
 var quiz = [			
 {			
-"question" :	"	1. Two men in shining apparel asked those at the tomb, why they sought	",
+"question" :	"	1 ಹೊಳೆಯುವ ವಸ್ತ್ರಧಾರಿಗಳಾದ ಇಬ್ಬರು ಸಮಾಧಿಯ ಬಳಿ ಇರುವವರನ್ನು __________ ಹುಡುಕುವುದೇಕೆ ಎಂದು ಕೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The living among the dead.	",
-	"	b. Jesus.	",
-	"	c. Truth & righteousness.	",
-	"	d. The things of the world.	"
+	"	A. ಸತ್ತವರೊಳಗೆ ಬದುಕಿರುವವನನ್ನು ಹುಡುಕುವುದೇನು?	",
+	"	B. ಯೇಸುವನ್ನು	",
+	"	C. ಸತ್ಯ ಮತ್ತು ನೀತಿಯನ್ನು	",
+	"	D. ಲೋಕದ ವಿಷಯಗಳನ್ನು	"
 ],			
-"correct" :	"	a. The living among the dead.	",
-"explanation" :	"	And it happened, as they were greatly perplexed about this, that behold, two men stood by them in shining garments.Then, as they were afraid and bowed their faces to the earth, they said to them, Why do you seek the living among the dead? - Lk 24:4-5	",
+"correct" :	"	A. ಸತ್ತವರೊಳಗೆ ಬದುಕಿರುವವನನ್ನು ಹುಡುಕುವುದೇನು?	",
+"explanation" :	"	ಈ ವಿಷಯದಲ್ಲಿ ಅವರಿಗೆ ಗಲಿಬಿಲಿ ಉಂಟಾದಾಗ ಹೊಳೆಯುವ ುಡುಪನ್ನು ಧರಿಸಿದ್ದ ಇಬ್ಬರು ಪುರುಷರು ಅಕಸ್ಮಾತ್ತಾಗಿ ಅವರ ಬಳಿಯಲ್ಲಿ ನಿಂತುಕೊಂಡರು.  ಆ ಸ್ತ್ರೀಯರು ಭಯ  ಹಿಡಿದವರಾಗಿ ತಮ್ಮ ಮುಖಗಳನ್ನು ನೆಲದ ಕಡೆಗೆ ಬೊಗ್ಗಿಸಿಕೊಂಡಿರುವಾಗ ಆ ಪುರುಷರು ಅವರಿಗೆ - ಸತ್ತವರೊಳಗೆ ಬದುಕಿರುವವನನ್ನು ಹುಡುಕುವದೇನು? ಆತನು ಇಲ್ಲಿ ಇಲ್ಲ, ಎದ್ದಿದ್ದಾನೆ;   ಲೂಕ 24:4-5	",
 },			
 {			
-"question" :	"	2. They are named among the women who told the apostles the things they had seen at the tomb.	",
+"question" :	"	2. ಸಮಾಧಿಯ ಬಳಿ ಕಂಡದ್ದನ್ನು ಅಪೋಸ್ತಲರಿಗೆ ಹೇಳಿದ ಸ್ತ್ರೀಯರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rebekah, Rachel & Leah	",
-	"	b. Martha, Rhoda & Deborah	",
-	"	c. Mary Magdalene, Joanna & Mary	",
-	"	d. Ruth, Naomi & Sandra	"
+	"	A. ರೆಬೆಕ್ಕ, ರಾಚೆಲ್ ಮತ್ತು ಲೇಹ	",
+	"	B. ಮಾರ್ಥ, ರೋಧ ಮತ್ತು ದೆಬೋರ	",
+	"	C. ಮಗ್ಥಲದ ಮರಿಯಳು, ಯೊಹಾನ್ನ ಮತ್ತು ಮರಿಯಳು	",
+	"	D. ರೂತ್, ನವೋಮಿ ಮತ್ತು ಸಾಂದ್ರ	"
 ],			
-"correct" :	"	c. Mary Magdalene, Joanna & Mary	",
-"explanation" :	"	It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them, who told these things to the apostles. - Lk 24:10	",
+"correct" :	"	C. ಮಗ್ಧಲದ ಮರಿಯಳು, ಯೊಹಾನ್ನ ಮತ್ತು ಮರಿಯಳು	",
+"explanation" :	"	ಆ ಸ್ತ್ರೀಯರು ಯಾರಂದರೆ ಮಗ್ದಲದ ಮರಿಯಳು, ಯೋಹಾನಳು, ಯಾಕೋಬನ ತಾಯಿಯಾದ ಮರಿಯಳು ಇವರೇ;   ಲೂಕ 24:8	",
 },			
 {			
-"question" :	"	3. What did the women bring to the tomb?	",
+"question" :	"	3. ಸ್ತ್ರೀಯರು ಸಮಾಧಿಯ ಬಳಿಗೆ ಏನನ್ನು ತಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bibles	",
-	"	b. Swords	",
-	"	c. Spices	",
-	"	d. Lanterns	"
+	"	A. ಸತ್ಯವೇದ	",
+	"	B. ಕತ್ತಿಗಳು	",
+	"	C. ಸುಗಂಧ ದ್ರವ್ಯಗಳು	",
+	"	D. ಚಿಮಣಿ ದೀಪಗಳು	"
 ],			
-"correct" :	"	c. Spices	",
-"explanation" :	"	Now on the first day of the week, very early in the morning, they, and certain other women with them, came to the tomb bringing the spices which they had prepared. - Lk 24:1	",
+"correct" :	"	C. ಸುಗಂಧ ದ್ರವ್ಯಗಳು	",
+"explanation" :	"	ಆ ಸ್ತ್ರೀಯರು ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ  ಧರ್ಮನಿಯಮದ ಪ್ರಕಾರ ವಿಶ್ರಮಿಸಿಕೊಂಡು ವಾರದ ಮೊದಲನೆಯ ದಿವಸದಲ್ಲಿ ಇನ್ನೂ ಮೊಬ್ಬಿರುವಾಗ ತಾವು ಸಿದ್ಧಮಾಡಿದ್ದ ಸುಗಂಧದ್ರವ್ಯಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಸಮಾಧಿಗೆ ಬಂದರು.   ಲೂಕ 24:1	",
 },			
 {			
-"question" :	"	4. When the women told these things to the apostles, they	",
+"question" :	"	4. ಈ ಸಂಗತಿಗಳನ್ನು ಅಪೋಸ್ತಲರಿಗೆ ತಿಳಿಸಿದಾಗ ಅವರು ______	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rejoiced.	",
-	"	b. Reported it to the priests.	",
-	"	c. Did not believe them.	",
-	"	d. Offered a sacrifice.	"
+	"	A. ಸಂತೋಷಿಸಿದರು	",
+	"	B. ಯಾಜಕರಿಗೆ ಅದನ್ನು ತಿಳಿಸಿದರು	",
+	"	C. ಅವರನ್ನು ನಂಬಲಿಲ್ಲ	",
+	"	D. ಬಲಿಯನ್ನು ಅರ್ಪಿಸಿದರು	"
 ],			
-"correct" :	"	c. Did not believe them.	",
-"explanation" :	"	And their words seemed to them like idle tales, and they did not believe them. - Lk 24:11	",
+"correct" :	"	C. ಅವರನ್ನು ನಂಬಲಿಲ್ಲ	",
+"explanation" :	"	ಅವರು ನಂಬಲಿಲ್ಲ; ಆ ಮಾತುಗಳು ಅವರಿಗೆ ಬರೀ ಹರಟೆಯಾಗಿ ತೋರಿದವು.   ಲೂಕ 24:11	",
 },			
 {			
-"question" :	"	5. This apostle ran to the sepulcher and saw the linen clothes, and went away wondering.	",
+"question" :	"	5. ಈ ಅಪೋಸ್ತಲನು ಸಮಾಧಿಯ ಬಳಿಗೆ ಓಡಿ ಹೋಗಿ ಅಲ್ಲಿ ನಾರುಬಟ್ಟೆಗಳನ್ನು ಮಾತ್ರ ನೋಡಿ ತನ್ನಲ್ಲಿ ಆಶ್ಚರ್ಯ ಪಡುತ್ತಾ ಅಲ್ಲಿಂದ ಹೋದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. James	",
-	"	c. John	",
-	"	d. Andrew	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಯಾಕೋಬ	",
+	"	C. ಯೋಹಾನ	",
+	"	D. ಆಂದ್ರೇಯ	"
 ],			
-"correct" :	"	a. Peter	",
-"explanation" :	"	But Peter arose and ran to the tomb; and stooping down, he saw the linen cloths lying by themselves; and he departed, marveling to himself at what had happened. - Lk 24:12	",
+"correct" :	"	A. ಪೇತ್ರ	",
+"explanation" :	"	ಆದರೆ ಪೇತ್ರನು ಎದ್ದು ಸಮಾಧಿಗೆ ಓಡಿಹೋಗಿ ಬೊಗ್ಗಿನೋಡಿ ನಾರುಬಟ್ಟೆಗಳನ್ನು ಮಾತ್ರ ಕಂಡು ನಡೆದ ಸಂಗತಿಗಳಿಗೆ ತನ್ನಲ್ಲಿ ಆಶ್ಚರ್ಯಪಡುತ್ತಾ ಹೊರಟುಹೋದನು.   ಲೂಕ 24:12	",
 },			
 {			
-"question" :	"	6. The men who met Jesus on the road to Emmaus did not recognize Him until He	",
+"question" :	"	6 ಎಮ್ಮಾಹುವಿಗೆ ಹೋಗುವ ಮಾರ್ಗದಲ್ಲಿ ಇಬ್ಬರು ಶಿಷ್ಯರು ಯೇಸುವನ್ನು ಸಂಧಿಸಿದರೂ ಎಲ್ಲಿಯವರೆಗೆ ಆತನ ಗುರುತು ಸಿಗಲಿಲ್ಲ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Told them plainly it was He.	",
-	"	b. Blessed & broke the bread.	",
-	"	c. Read the scripture.	",
-	"	d. Called fire from heaven.	"
+	"	A. ಆತನು ದು:ಖದಿಂದ ನಾನೇ ಅದು ಎಂದು ಹೇಳುವವರೆಗೂ	",
+	"	B. ಆಶೀರ್ವಾದಿಸಿ ರೊಟ್ಟಿ ಮುರಿಯುವವರೆಗೂ	",
+	"	C. ವಚನ ಓದುವವರೆಗೂ	",
+	"	D. ಆಕಾಶದಿಂದ ಬೆಂಕಿಯನ್ನು ಕರೆಯುವವರೆಗೂ	"
 ],			
-"correct" :	"	b. Blessed & broke the bread.	",
-"explanation" :	"	Now it came to pass, as He sat at the table with them, that He took bread, blessed and broke it, and gave it to them.Then their eyes were opened and they knew Him; and He vanished from their sight. - Lk 24:30-31	",
+"correct" :	"	B. ಆಶೀರ್ವಾದಿಸಿ ರೊಟ್ಟಿ ಮುರಿಯುವವರೆಗೂ	",
+"explanation" :	"	ಆತನು ಅವರ ಸಂಗಡ ಊಟಕ್ಕೆ ಕೂತುಕೊಂಡಾಗ ರೊಟ್ಟಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ದೇವರ ಸ್ತೋತ್ರ ಮಾಡಿ ಮುರಿದು ಅವರಿಗೆ ಕೊಡುತ್ತಿರಲಾಗಿ ಅವರ ಕಣ್ಣುಗಳು ತೆರೆದವು;   ಲೂಕ 24:30	",
 },			
 {			
-"question" :	"	7. When the disciples saw Jesus, immediately they	",
+"question" :	"	7. ಶಿಷ್ಯರು ಯೇಸುವನ್ನು ನೋಡಿದ ಕೂಡಲೇ ಅವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rejoiced.	",
-	"	b. Were terrified.	",
-	"	c. Fled.	",
-	"	d. Wept.	"
+	"	A. ಸಂತೋಷಿಸಿದರು	",
+	"	B. ಭಯಭ್ರಾಂತರಾದರು	",
+	"	C. ಓಡಿಹೋದರು	",
+	"	D. ಅತ್ತರು	"
 ],			
-"correct" :	"	b. Were terrified.	",
-"explanation" :	"	Now as they said these things, Jesus Himself stood in the midst of them, and said to them, Peace to you.But they were terrified and frightened, and supposed they had seen a spirit. - Lk 24:36-37	",
+"correct" :	"	B. ಭಯಭ್ರಾಂತರಾದರು	",
+"explanation" :	"	ಅವರು ಈ ಸಂಗತಿಯನ್ನು ಕುರಿತು ಮಾತಾಡುತ್ತಿರುವಾಗ ಆತನೇ ಅವರ ನಡುವೆ ನಿಂತು - ನಿಮಗೆ ಮನಶ್ಯಾಂತಿಯಾಗಲಿ ಎಂದು ಅವರಿಗೆ ಹೇಳಿದನು.  ಅವರು ದಿಗಿಲುಬಿದ್ದು ಭಯಹಿಡಿದಿವರಾಗಿ ತಾವು ಕಂಡದ್ದನ್ನು ಭೂತವೆಂದು ಭಾವಿಸಿದರು.   ಲೂಕ 24:36-37	",
 },			
 {			
-"question" :	"	8. A spirit does not have	",
+"question" :	"	8. ಆತ್ಮನಿಗೆ ಇದು ಇರುವುದಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Power.	",
-	"	b. Love.	",
-	"	c. Flesh & bones.	",
-	"	d. Authority.	"
+	"	A. ಶಕ್ತಿ	",
+	"	B. ಪ್ರೀತಿ	",
+	"	C. ಮಾಂಸ ಮತ್ತು ಮೂಳೆ	",
+	"	D. ಅಧಿಕಾರ	"
 ],			
-"correct" :	"	c. Flesh & bones.	",
-"explanation" :	"	Behold My hands and My feet, that it is I Myself. Handle Me and see, for a spirit does not have flesh and bones as you see I have. - Lk 24:39	",
+"correct" :	"	C. ಮಾಂಸ ಮತ್ತು ಮೂಳೆ	",
+"explanation" :	"	ನನ್ನನ್ನು ಮುಟ್ಟಿನೋಡಿರಿ, ನಿಮಗೆ ಕಾಣುವ ಪ್ರಕಾರ ನನಗೆ ಮಾಂಸವೂ ಎಲುಬುಗಳೂ ಉಂಟು; ಅವು ಭೂತಕ್ಕಿಲ್ಲ ಎಂದು ಹೇಳಿದನು.   ಲೂಕ 24:39	",
 },			
 {			
-"question" :	"	9. They gave this to Jesus to eat.	",
+"question" :	"	9. ಅವರು ಯೇಸುವಿಗೆ ಇದನ್ನು ತಿನ್ನಲು ಕೊಟ್ಟರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fish & honeycomb	",
-	"	b. Bacon & eggs	",
-	"	c. Figs	",
-	"	d. Lamb & olives	"
+	"	A. ಸುಟ್ಟ ಮೀನು	",
+	"	 B. ಒಣಗಿದ ಹಂದಿಮಾಂಸ ಮತ್ತು ಮೊಟ್ಟೆಗಳು	",
+	"	C. ಅಂಜೂರಗಳು	",
+	"	D. ಆಡು ಮತ್ತು ಆಲೀವ್ ಗಳು	"
 ],			
-"correct" :	"	a. Fish & honeycomb	",
-"explanation" :	"	So they gave Him a piece of a broiled fish and some honeycomb. - Lk 24:42	",
+"correct" :	"	A. ಸುಟ್ಟ ಮೀನು	",
+"explanation" :	"	ಅವರು ಸುಟ್ಟ ಮೀನಿನ ಒಂದು ತುಂಡನ್ನು ಆತನಿಗೆ ಕೊಟ್ಟರು. ಲೂಕ 24:42	",
 },			
 {			
-"question" :	"	10. Jesus told His disciples to tarry here, until they were endued with power from on high.	",
+"question" :	"	10. ದೇವರು ಮೇಲಣ ಲೋಕದಿಂದ ನಿಮಗೆ ಶಕ್ತಿಯನ್ನು ಹೊದಿಸುವ ತನಕ _________ ಪಟ್ಟಣದಲ್ಲೇ ಕಾದುಕೊಂಡಿರ್ರಿ ಎಂದು ಯೇಸು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Canaan	",
-	"	b. Jerusalem	",
-	"	c. Bethlehem	",
-	"	d. Nazareth	"
+	"	A. ಕಾನಾ	",
+	"	B. ಯೆರೂಷಲೇಮು	",
+	"	C. ಬೆತ್ಲೆಹೇಮು	",
+	"	D. ನಜರೇತು	"
 ],			
-"correct" :	"	b. Jerusalem	",
-"explanation" :	"	Behold, I send the Promise of My Father upon you; but tarry in the city of Jerusalem until you are endued with power from on high. - Lk 24:49	",
+"correct" :	"	B. ಯೆರೂಷಲೇಮು	",
+"explanation" :	"	ಇಗೋ ನನ್ನ ತಂದೆಯು ವಾಗ್ದಾನ ಮಾಡಿದ್ದನ್ನು ನಿಮಗೆ ಕಳುಹಿಸಿಕೊಡುತ್ತೇನೆ.  ದೇವರು ಮೇಲಣ ಲೋಕದಿಂದ ನಿಮಗೆ ಶಕ್ತಿಯನ್ನು ಹೊದಿಸುವ ತನಕ ಈ ಪಟ್ಟಣದಲ್ಲೇ ಕಾದುಕೊಂಡಿರಿ ಎಂದು ಹೇಳಿದನು.   ಲೂಕ 24:49	",
 },			
 ]			

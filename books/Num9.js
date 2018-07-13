@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 9";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord spoke to Moses in the wilderness here.	",
@@ -28,7 +28,7 @@ var quiz = [
 "question" :	"	3. Some men asked if they could offer an offering since they were	",
 "image" :	"",		
 "choices" : [			
-	"	a. Not Hebrews.	",
+	"	a. Not ಇಬ್ರಿಯರಿಗೆ.	",
 	"	b. Poor.	",
 	"	c. Sick.	",
 	"	d. Defiled by a dead body.	"

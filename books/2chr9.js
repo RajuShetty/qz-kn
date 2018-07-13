@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 9";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. This queen came to see Solomon.	",

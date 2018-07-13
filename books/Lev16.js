@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 16";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord spoke to Moses after this man’s two sons died.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 9";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. Who shall go before the people as they go to possess nations mightier than them?	",

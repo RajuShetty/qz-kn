@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 6";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord told Joshua He had given this into his hand.	",

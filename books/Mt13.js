@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 13";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
-"question" :	"	1. What happened to the seeds that fell by the wayside?	",
+"question" :	"	1. ದಾರಿಯ ಮಗ್ಗುಲಲ್ಲಿ ಬಿದ್ದ ಬೀಜಗಳು ಏನಾದವು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The sun scorched them.	",
-	"	b. They grew quickly.	",
-	"	c. The weeds choked them.	",
-	"	d. The birds ate them.	"
+	"	A. ಸೂರ್ಯನು ಅವುಗಳನ್ನು ಬಾಡಿಸಿದನು	",
+	"	B. ಅವು ಬೇಗ ಬೆಳೆದವು	",
+	"	C. ಮುಳ್ಳುಗಿಡಗಳು ಅವುಗಳನ್ನು ತುಳಿದುಬಿಟ್ಟವು	",
+	"	D. ಹಕ್ಕಿಗಳು ಅವುಗಳನ್ನು ತಿಂದುಬಿಟ್ಟವು	"
 ],			
-"correct" :	"	d. The birds ate them.	",
-"explanation" :	"	And as he sowed, some seed fell by the wayside; and the birds came and devoured them	",
+"correct" :	"	D. ಹಕ್ಕಿಗಳು ಅವುಗಳನ್ನು ತಿಂದುಬಿಟ್ಟವು	",
+"explanation" :	"	ಅವನು ಬಿತ್ತುವಾಗ ಕೆಲವು ಬೀಜ ದಾರಿಯ ಮಗ್ಗುಲಲ್ಲಿ ಬಿದ್ದವು; ಹಕ್ಕಿಗಳು ಬಂದು ಅವುಗಳನ್ನು ತಿಂದುಬಿಟ್ಟವು.  ಮತ್ತಾಯ 13:4	",
 },			
 {			
-"question" :	"	2. What happened to the seeds that fell on stony ground?	",
+"question" :	"	2. ಬಂಡೆಯ ನೆಲದಲ್ಲಿ ಬಿದ್ದ ಬೀಜಗಳು ಏನಾದವು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. They withered away because they had no root.	",
-	"	b. The weeds choked them.	",
-	"	c. They grew 30, 60 & 100 fold.	",
-	"	d. The birds ate them.	"
+	"	A. ಬೇರಿಲ್ಲದ ಕಾರಣ ಅವು ಒಣಗಿಹೋದವು	",
+	"	B. ಮುಳ್ಳುಗಿಡಗಳು ಅವುಗಳನ್ನು ತುಳಿದುಬಿಟ್ಟವು	",
+	"	C. ಅವು 30, 60 & 100 ರಷ್ಟು ಫಲ ಕೊಟ್ಟವು	",
+	"	D. ಹಕ್ಕಿಗಳು ಅವುಗಳನ್ನು ತಿಂದುಬಟ್ಟವು	"
 ],			
-"correct" :	"	a. They withered away because they had no root.	",
-"explanation" :	"	Some fell on stony places, where they did not have much earth; and they immediately sprang up because they had no depth of earth.But when the sun was up they were scorched, and because they had no root they withered away.- matt 13:5,6	",
+"correct" :	"	A. ಬೇರಿಲ್ಲದ ಕಾರಣ ಅವು ಒಣಗಿಹೋದವು	",
+"explanation" :	"	ಕೆಲವು ಬೀಜ ಬಹಳ ಮಣ್ಣಿಲ್ಲದ ಬಂಡೆಯ ನೆಲದಲ್ಲಿ ಬಿದ್ದವು; ಅಲ್ಲಿ ಮಣ್ಣು ತೆಳ್ಳಗಿದ್ದದರಿಂದ ಅವು ಬೇಗ ಮೊಳಿತವು; ಆದರೆ ಬಿಸಿಲೇರಿದಾಗ ಬಾಡಿ ಬೇರಿಲ್ಲದ ಕಾರಣ ಒಣಗಿಹೋದವು.  ಮತ್ತಾಯ 13:5-6	",
 },			
 {			
-"question" :	"	3. What happened to the seeds that fell among the thorns?	",
+"question" :	"	3. ಮುಳ್ಳುಗಿಡಗಳಲ್ಲಿ ಬಿದ್ದ ಬೀಜಗಳು ಏನಾದವು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. They were choked.	",
-	"	b. The sun withered them away.	",
-	"	c. The birds ate them.	",
-	"	d. They grew 30, 60 & 100 fold.	"
+	"	A. ಅವು ನಾಶವಾದವು	",
+	"	B. ಸೂರ್ಯನು ಅವುಗಳನ್ನು ಬಾಡಿಸಿದನು	",
+	"	C. ಹಕ್ಕಿಗಳು ಅವುಗಳನ್ನು ತಿಂದುಬಿಟ್ಟವು	",
+	"	D. ಅವು 30, 60 & 100 ರಷ್ಟು ಫಲ ಕೊಟ್ಟವು	"
 ],			
-"correct" :	"	a. They were choked.	",
-"explanation" :	"	And some fell among thorns, and the thorns sprang up and choked them.- Matt 13:7	",
+"correct" :	"	A. ಅವು ನಾಶವಾದವು	",
+"explanation" :	"	ಮತ್ತೆ ಕೆಲವು ಬೀಜ ಮುಳ್ಳುಗಿಡಗಳಲ್ಲಿ ಬಿದ್ದವು; ಮುಳ್ಳುಗಿಡಗಳು ಬೆಳೆದು ಅವುಗಳನ್ನು ಅಡಗಿಸಿಬಿಟ್ಟವು.  ಮತ್ತಾಯ 13:7	",
 },			
 {			
-"question" :	"	4. What happened to the seeds that fell on good ground?	",
+"question" :	"	4. ಒಳ್ಳೆ ನೆಲದಲ್ಲಿ ಬಿದ್ದ ಬೀಜಗಳು ಏನಾದವು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The birds ate some.	",
-	"	b. The thorns outgrew them.	",
-	"	c. They brought forth fruit.	",
-	"	d. The sun scorched them.	"
+	"	A. ಹಕ್ಕಿಗಳು ತಿಂದುಬಿಟ್ಟವು	",
+	"	B. ಮುಳ್ಳುಗಳು ಅವುಗಳನ್ನು ಬೆಳೆಯಗೊಡಿಸಲಿಲ್ಲ	",
+	"	C. ಅವು ಫಲ ನೀಡಿದವು	",
+	"	D. ಸೂರ್ಯನು ಅವುಗಳನ್ನು ಬಾಡಿಸಿದನು	"
 ],			
-"correct" :	"	c. They brought forth fruit.	",
-"explanation" :	"	But others fell on good ground and yielded a crop: some a hundredfold, some sixty, some thirty.- matt 13:8	",
+"correct" :	"	C. ಅವು ಫಲ ನೀಡಿದವು	",
+"explanation" :	"	ಇನ್ನು ಕೆಲವು ಒಳ್ಳೆಯ ನೆಲದಲ್ಲಿ ಬಿದ್ದು ಒಂದು ನೂರರಷ್ಟು, ಒಂದು ಅರವತ್ತರಷ್ಟು, ಒಂದು ಮೂವತ್ತರಷ್ಟು ಫಲವನ್ನು ಕೊಟ್ಟವು.  ಮತ್ತಾಯ 13:8	",
 },			
 {			
-"question" :	"	5. What crop were the tares sown among?	",
+"question" :	"	5 ಯಾವ ಬೆಳೆಯ ನಡುವೆ ಹಣಜಿ ಬಿತ್ತಲ್ಪಟ್ಟಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wheat	",
-	"	b. Corn	",
-	"	c. Oats	",
-	"	d. Barley	"
+	"	A. ಗೋಧಿ	",
+	"	B. ಜೋಳ	",
+	"	C. ಓಟ್ಸ್	",
+	"	D. ಜವೆಗೋಧಿ	"
 ],			
-"correct" :	"	a. Wheat	",
-"explanation" :	"	but while men slept, his enemy came and sowed tares among the wheat and went his way.- matt 13:25	",
+"correct" :	"	A. ಗೋಧಿ	",
+"explanation" :	"	ಆದರೆ ಜನರು ನಿದ್ರೆ ಮಾಡುವ ಕಾಲದಲ್ಲಿ ಅವನ ವೈರಿಯು ಬಂದು ಗೋದಿಯ ನಡುವೆ ಹಣಜಿ ಬಿತ್ತಿ ಹೋದನು.  ಮತ್ತಾಯ 13:25	",
 },			
 {			
-"question" :	"	6. What kind of seed did Jesus compare the kingdom of heaven to?	",
+"question" :	"	6 ಪರಲೋಕ ರಾಜ್ಯವನ್ನು ಯೇಸು ಯಾವ ಬೀಜಕ್ಕೆ ಹೋಲಿಸಿದ್ದಾರೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mustard	",
-	"	b. Corn	",
-	"	c. Barley	",
-	"	d. Dandelion	"
+	"	A. ಸಾಸಿವೆ	",
+	"	B. ಜೋಳ	",
+	"	C. ಜವೆಗೋಧಿ	",
+	"	D. ದಾಂಡೇಲಿಯನ್	"
 ],			
-"correct" :	"	a. Mustard	",
-"explanation" :	"	Another parable He put forth to them, saying: The kingdom of heaven is like a mustard seed, which a man took and sowed in his field,- Matt 13:31	",
+"correct" :	"	A. ಸಾಸಿವೆ	",
+"explanation" :	"	ಆತನು ಮತ್ತೊಂದು ಸಾಮ್ಯವನ್ನು ಅವರಿಗೆ ಹೇಳಿದನು; ಅದೇನಂದರೆ, ಪರಲೋಕರಾಜ್ಯವು ಸಾಸಿವೆ ಕಾಳಿಗೆ ಹೋಲಿಕೆಯಾಗಿದೆ.  ಮತ್ತಾಯ 13:31	",
 },			
 {			
-"question" :	"	7. Jesus also compared the kingdom of heaven, to this, that a woman hid in her meal.	",
+"question" :	"	7 ಒಬ್ಬ ಸ್ತ್ರೀಯು ತನ್ನ ಅಡುಗೆ ಹಿಟ್ಟಿನಲ್ಲಿ ಕಲಿಸುವ ಯಾವುದಕ್ಕೆ ಪರಲೋಕರಾಜ್ವವನ್ನು  ಯೇಸು ಹೋಲಿಸಿದ್ದಾರೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wheat	",
-	"	b. Tares	",
-	"	c. Oil	",
-	"	d. Leaven	"
+	"	A. ಗೋಧಿ	",
+	"	B. ಹಣಜಿ	",
+	"	C. ಎಣ್ಣೆ	",
+	"	D. ಹುಳಿಹಿಟ್ಟು	"
 ],			
-"correct" :	"	d. Leaven	",
-"explanation" :	"	Another parable He spoke to them: The kingdom of heaven is like leaven, which a woman took and hid in three measures of meal till it was all leavened.- Matt 13:33	",
+"correct" :	"	D. ಹುಳಿಹಿಟ್ಟು	",
+"explanation" :	"	ಮತ್ತೊಂದು ಸಾಮ್ಯವನ್ನು ಅವರಿಗೆ ಹೇಳಿದನು, ಅದೇನಂದರೆ, ಪರಲೋಕ ರಾಜ್ಯವು ಹುಳಿಹಿಟ್ಟಿಗೆ ಹೋಲಿಕೆಯಾಗಿದೆ.  ಮತ್ತಾಯ 13:33	",
 },			
 {			
-"question" :	"	8. Jesus said, the kingdom of heaven is like a merchant that sold all that he had to buy this.	",
+"question" :	"	8 ಯೇಸು ಹೇಳಿದ್ದು, ಒಬ್ಬ ವ್ಯಾಪಾರಿಯು ತನ್ನ ಬದುಕನ್ನೆಲ್ಲಾ ಮಾರಿ ________ ಕೊಂಡುಕೊಳ್ಳುವುದಕ್ಕೆ ಪರಲೋಕರಾಜ್ಯವು ಹೋಲಿಕೆಯಾಗಿದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fine linen	",
-	"	b. A ship	",
-	"	c. A diamond	",
-	"	d. A pearl	"
+	"	A. ನೂಲಿನ ವಸ್ತ್ರ	",
+	"	B. ಹಡಗು	",
+	"	C. ವಜ್ರಗಳನ್ನು	",
+	"	D. ಮುತ್ತುಗಳನ್ನು	"
 ],			
-"correct" :	"	d. A pearl	",
-"explanation" :	"	Again, the kingdom of heaven is like a merchant seeking beautiful pearls,who, when he had found one pearl of great price, went and sold all that he had and bought it.- matt 13:45,46	",
+"correct" :	"	D. ಮುತ್ತುಗಳನ್ನು	",
+"explanation" :	"	ಅವನು ಬಹು ಬೆಲೆಯುಳ್ಳ ಒಂದು ಮುತ್ತನ್ನು ಕಂಡು ತನ್ನ ಬದುಕನ್ನೆಲ್ಲಾ ಮಾರಿ ಬಂದು ಅದನ್ನು ಕೊಂಡುಕೊಂಡನು.  ಮತ್ತಾಯ 13:46	",
 },			
 {			
-"question" :	"	9. When Jesus compared the kingdom of heaven to a net of fish, what did He say was done with the bad ones?	",
+"question" :	"	9 ಯೇಸು ಪರಲೋಕರಾಜ್ಯವನ್ನು ಮೀನಿನ ಬಲೆಗೆ ಹೋಲಿಸಿದಾಗ, ಕೆಟ್ಟಮೀನುಗಳನ್ನು ಏನು ಮಾಡುವರೆಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. They were seasoned.	",
-	"	b. They were gathered in vessels.	",
-	"	c. They were scaled.	",
-	"	d. They were cast away.	"
+	"	A. ಅವು ಆ ಕಾಲಮಾನದವು	",
+	"	B. ಅವುಗಳನ್ನು ಪಾತ್ರೆಗಳಲ್ಲಿ ಒಟ್ಟುಗೂಡಿಸುವರು	",
+	"	C. ಅವುಗಳನ್ನು ಅಳತೆ ಮಾಡುವರು	",
+	"	D. ಅವುಗಳನ್ನು ಹೊರಗೆ ಬಿಸಾಡುಬಿಡುವರು	"
 ],			
-"correct" :	"	d. They were cast away.	",
-"explanation" :	"	but while men slept, his enemy came and sowed tares among the wheat and went his way.- Matt 13:25	",
+"correct" :	"	D. ಅವುಗಳನ್ನು ಹೊರಗೆ ಬಿಸಾಡುಬಿಡುವರು	",
+"explanation" :	"	ಅದು ತುಂಬಿದ ಮೇಲೆ ಅದನ್ನು ದಡಕ್ಕೆ ಎಳೆದು ಕೂತುಕೊಂಡು ಒಳ್ಳೆಯ ಮೀನುಗಳನ್ನು ಪುಟ್ಟಿಗಳಲ್ಲಿ ತುಂಬಿಕೊಂಡು ಕೆಟ್ಟ ಮೀನುಗಳನ್ನು ಬಿಸಾಟುಬಿಟ್ಟರು.  ಮತ್ತಾಯ: 13:48	",
 },			
 {			
-"question" :	"	10. Why did Jesus not do many mighty works in His own country?	",
+"question" :	"	10  ಯೇಸು ತನ್ನ ಸ್ವಂತ ಗ್ರಾಮದಲ್ಲಿ ಅನೇಕ ಅದ್ಭುತಗಳನ್ನು ಮಾಡಲಾಗಲಿಲ್ಲ. ಏಕೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. So the Pharisees would not find Him.	",
-	"	b. There were very few sick among them.	",
-	"	c. Because of their unbelief.	",
-	"	d. The people feared Him.	"
+	"	A. ಆದುದರಿಂದ ಫರಿಸಾಯರು ಆತನನ್ನು ಕಂಡುಕೊಳ್ಳಲಾಗುವುದಿಲ್ಲ.	",
+	"	B. ಅವರಲ್ಲಿ ಕೆಲವೇ ಜನರು ಅಸ್ವಸ್ಥರಾಗಿದ್ದರು	",
+	"	C. ಅವರ ಅಪನಂಬಿಕೆಯಿಂದ	",
+	"	D. ಜನರು ಆತನಿಗೆ ಭಯಪಟ್ಟರು.	"
 ],			
-"correct" :	"	c. Because of their unbelief.	",
-"explanation" :	"	So they were offended at Him. But Jesus said to them, A prophet is not without honor except in his own country and in his own house.Now He did not do many mighty works there because of their unbelief.- Matt 13:57,58	",
+"correct" :	"	C. ಅವರ ಅಪನಂಬಿಕೆಯಿಂದ	",
+"explanation" :	"	ಅವರು ಆತನನ್ನು ನಂಬದೆ ಹೋದದರಿಂದ ಆತನು ಅಲ್ಲಿ ಅನೇಕ ಮಹತ್ಕಾರ್ಯಗಳನ್ನು ಮಾಡಲಿಲ್ಲ. ಮತ್ತಾಯ 13:58	",
 },			
 ]			

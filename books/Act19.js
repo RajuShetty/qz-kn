@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 19";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
-"question" :	"	1. When Paul inquired of disciples at Ephesus, they said they had not so much heard whether there be	",
+"question" :	"	1 ಪೌಲನು ಎಫೆಸದ ವಿಶ್ವಾಸಿಗಳನ್ನು ವಿಚಾರಿಸಿದಾಗ, ಅವರು ತಾವು ಇದರ ಕುರಿತು ಹೆಚ್ಚಾಗಿ ಕೇಳಳಿಲ್ಲವೆಂದು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Any heaven.	",
-	"	b. Any Holy Ghost.	",
-	"	c. Any justification.	",
-	"	d. Any sanctification.	"
+	"	A. ಯಾವುದೇ ಪರಲೋಕ	",
+	"	B. ಯಾವುದೇ ಪರಿಶುದ್ಧಾತ್ಮ	",
+	"	C. ಯಾವುದೇ ನ್ಯಾಯತೀರ್ಪು	",
+	"	D. ಯಾವುದೇ ಪವಿತ್ರೀಕರಣ	"
 ],			
-"correct" :	"	b. Any Holy Ghost.	",
-"explanation" :	"	And it came to pass, that, while Apollos was at Corinth, Paul having passed through the upper coasts came to Ephesus: and finding certain disciples, He said unto them, Have ye received the Holy Ghost since ye believed? And they said unto him, We have not so much as heard whether there be any Holy Ghost.Acts19:1,2	",
+"correct" :	"	B. ಯಾವುದೇ ಪರಿಶುದ್ಧಾತ್ಮ	",
+"explanation" :	"	ಅಪೊಲ್ಲೋಸನು ಕೊರಿಂಥದಲ್ಲಿದ್ದಾಗ ಪೌಲನು ಮಲೆನಾಡಿನಲ್ಲಿ ಸಂಚಾರಮಾಡಿ ಎಫೆಸಕ್ಕೆ ಬಂದು ಕೆಲವು ಮಂದಿ ಶಿಷ್ಯರನ್ನು ಕಂಡು - 2ನೀವು ನಂಬಿದಾಗ ಪವಿತ್ರಾತ್ಮವರವನ್ನು ಹೊಂದಿದಿರೋ ಎಂದು ಅವರನ್ನು ಕೇಳಲು ಅವರು ಅವನಿಗೆ - ಇಲ್ಲ, ಪವಿತ್ರಾತ್ಮವರವು  ಉಂಟೆಂಬದನ್ನೇ ನಾವು ಕೇಳಲಿಲ್ಲ ಅಂದರು. 19:1,2	",
 },			
 {			
-"question" :	"	2. The diseases departed from sick people, when handkerchiefs or aprons from this man's body were brought to them.	",
+"question" :	"	2 ಈ ಮನುಷ್ಯನಿಗೆ ಸೋಕಿಸಿದ ಕರವಸ್ತ್ರವನ್ನು ರೋಗಿಗಳಿಗೆ ತಾಕಿಸಿದಾಗ ಅವರ ರೋಗಗಳು ಸೌಖ್ಯವಾದವು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Paul	",
-	"	b. Peter	",
-	"	c. Jesus	",
-	"	d. Apollos	"
+	"	A. ಪೌಲ	",
+	"	B. ಪೇತ್ರ	",
+	"	C. ಯೇಸು	",
+	"	D. ಅಪೊಲ್ಲೋಸ	"
 ],			
-"correct" :	"	a. Paul	",
-"explanation" :	"	 And God wrought special miracles by the hands of Paul: So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.Acts19:11,12	",
+"correct" :	"	A. ಪೌಲ	",
+"explanation" :	"	ದೇವರು ಪೌಲನ ಕೈಯಿಂದ ವಿಶೇಷವಾದ ಮಹತ್ಕಾರ್ಯಗಳನ್ನು ನಡಿಸುತ್ತಾ ಇದ್ದದರಿಂದ ಜನರು ಅವನ ಮೈಮೇಲಿನಿಂದ ಕೈವಸ್ತ್ರಗಳನ್ನೂ ಉಡಿವಸ್ತ್ರಗಳನ್ನೂ ತಂದು ರೋಗಿಗಳ ಮೇಲೆ ಹಾಕಲು ಅವರವರ ರೋಗಗಳು ವಾಸಿಯಾದವು, ದೆವ್ವಗಳೂ ಬಿಟ್ಟುಹೋದವು 19:11,12	",
 },			
 {			
-"question" :	"	3. Some exorcists began to use this name, over evil spirits.	",
+"question" :	"	3 ಕೆಲವು ಮಾಂತ್ರಿಕರು, ದೆವ್ವ ಬಿಡಿಸುವವರು ಈ ನಾಮವನ್ನು ದುರಾತ್ಮಗಳ ವಿರುದ್ದ ಉಪಯೋಗಿಸಿದರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Satan	",
-	"	b. Paul	",
-	"	c. Jesus	",
-	"	d. Diana	"
+	"	A. ಸಾತಾನ್	",
+	"	B. ಪೌಲ	",
+	"	C. ಯೇಸು	",
+	"	D. ಡಯಾನ	"
 ],			
-"correct" :	"	c. Jesus	",
-"explanation" :	"	Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth.Acts19:13	",
+"correct" :	"	C. ಯೇಸು	",
+"explanation" :	"	ದೆವ್ವಬಿಡಿಸುವವರೆನಿಸಿಕೊಂಡು ದೇಶಸಂಚಾರಿಗಳಾದ ಯೆಹೂದ್ಯರಿದ್ದರು. ಅವರಲ್ಲಿ ಕೆಲವರು ದೆವ್ವಹಿಡಿದವರ ಮೇಲೆ - ಪೌಲನು ಸಾರುವ ಯೇಸುವಿನ ಆಣೆ ಎಂದು ಹೇಳಿ ಕರ್ತನಾದ ಯೇಸುವಿನ ಹೆಸರನ್ನು ಪ್ರಯೋಗಮಾಡುವದಕ್ಕೆ ತೊಡಗಿದರು. 19:13	",
 },			
 {			
-"question" :	"	4. This man had seven sons, who tried to use that name over an evil spirit, but it did not recognize them.	",
+"question" :	"	4 ಈ ಮನುಷ್ಯನಿಗೆ ಏಳು ಜನ ಮಕ್ಕಳಿದ್ದರು, ಅವರು ಆ ನಾಮವನ್ನು ದುರಾತ್ಮಗಳ ಮೇಲೆ ಪ್ರಯೋಗಿಸಿದರು, ಆದರೆ ಅವು ಅವರ ಗುರುತು ಹಿಡಿಯಲಿಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ananias	",
-	"	b. Barnabas	",
-	"	c. Justin	",
-	"	d. Sceva	"
+	"	A. ಅನನೀಯ	",
+	"	B. ಬಾರ್ನಬ	",
+	"	C. ಜಸ್ಟಿನ್	",
+	"	D. ಸ್ಕೇವ	"
 ],			
-"correct" :	"	d. Sceva	",
-"explanation" :	"	And there were seven sons of one Sceva, a Jew, and chief of the priests, which did so.And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye? Acts19:14,15	",
+"correct" :	"	D. ಸ್ಕೇವ	",
+"explanation" :	"	ಮಹಾಯಜಕ ಸ್ಕೇವನೆಂಬ ಒಬ್ಬ ಯೆಹೂದ್ಯನ ಏಳು ಮಂದಿ ಮಕ್ಕಳು ಹಾಗೆ ಮಾಡುತ್ತಿದ್ದರು. ಆದರೆ ದೆವ್ವವು ಅವರಲ್ಲಿ ಇಬ್ಬರಿಗೆ - ಯೇಸುವಿನ ಗುರುತು ನನಗುಂಟು, ಪೌಲನನ್ನೂ ಬಲ್ಲೆನು, ನೀವಾದರೆ ಯಾರು? ಎಂದು ಹೇಳಿತು 19:14,15	",
 },			
 {			
-"question" :	"	5. Many which had used curious arts,believed and burned their books that were worth this much.	",
+"question" :	"	5 ಮಾಟ ಮಂತ್ರಗಳನ್ನು ನಡೆಸುವವರಲ್ಲಿ ನಂಬಿದವರು ಅನೇಕರು ತಮ್ಮ ಪುಸ್ತಕಗಳನ್ನು ತಂದು ಸುಟ್ಟು ಬಿಟ್ಟು ಅದರ ಕ್ರಯವನ್ನು ಲೆಕ್ಕಹಾಕಿದಾಗ ಅದು _________ ಆಗಿತ್ತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 50 pieces of silver	",
-	"	b. 500 pieces of silver	",
-	"	c. 5,000 pieces of silver	",
-	"	d. 50,000 pieces of silver	"
+	"	A. 50 ಬೆಳ್ಳಿಯ ನಾಣ್ಯಗಳು	",
+	"	B. 500 ಬೆಳ್ಳಿಯ ನಾಣ್ಯಗಳು	",
+	"	C. 5000 ಬೆಳ್ಳಿಯ ನಾಣ್ಯಗಳು	",
+	"	D. 50000 ಬೆಳ್ಳಿಯ ನಾಣ್ಯಗಳು	 ",
 ],			
-"correct" :	"	d. 50,000 pieces of silver	",
-"explanation" :	"	Many of them also which used curious arts brought their books together, and burned them before all men: and they counted the price of them, and found it fifty thousand pieces of silver.Acts19:19	",
+"correct" :	"	D. 50000 ಬೆಳ್ಳಿಯ ನಾಣ್ಯಗಳು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಮಾಟ ಮಂತ್ರಗಳನ್ನು ನಡಿಸಿದವರಲ್ಲಿ ಅನೇಕರು ತಮ್ಮ ಪುಸ್ತಕಗಳನ್ನು ತಂದು ಕೂಡಿಸಿ ಎಲ್ಲರ ಮುಂದೆ ಸುಟ್ಟುಬಿಟ್ಟರು. ಅವುಗಳ ಕ್ರಯವನ್ನು ಲೆಕ್ಕಮಾಡಿ ಐವತ್ತು ಸಾವಿರ ಬೆಳ್ಳೀ ನಾಣ್ಯ ಆಯಿತೆಂದು ತಿಳಿದುಕೊಂಡರು. 19:19	",
 },			
 {			
-"question" :	"	6. Paul sent these two men to Macedonia.	",
+"question" :	"	6 ಪೌಲನು ಈ ಇಬ್ಬರನ್ನು ಮೆಕದೋನ್ಯಕ್ಕೆ ಕಳುಹಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Silas & Apollos	",
-	"	b. Timotheus & Erastus	",
-	"	c. John & James	",
-	"	d. Peter & John	"
+	"	A. ಸೀಲ ಮತ್ತು ಅಪೊಲ್ಲೋಸ	",
+	"	B. ತಿಮೋಥಿ ಮತ್ತು ಎರಾಸ್ತನು	",
+	"	C. ಯೋಹಾನ ಮತ್ತು ಯಾಕೋಬ	",
+	"	D. ಪೇತ್ರ ಮತ್ತು ಯೋಹಾನ	"
 ],			
-"correct" :	"	b. Timotheus & Erastus	",
-"explanation" :	"	So he sent into Macedonia two of them that ministered unto him, Timotheus and Erastus; but he himself stayed in Asia for a season.Acts19:22	",
+"correct" :	"	B. ತಿಮೋಥಿ ಮತ್ತು ಎರಾಸ್ತನು	",
+"explanation" :	"	ಆದರೆ ಅವನು ತನಗೆ ಸೇವೆಮಾಡುವವರಲ್ಲಿ ಇಬ್ಬರಾದ ತಿಮೊಥೆಯನನ್ನೂ ಎರಸ್ತನನ್ನೂ ಮಕೆದೋನ್ಯಕ್ಕೆ ಕಳುಹಿಸಿ ತಾನು ಆಸ್ಯಸೀಮೆಯಲ್ಲಿ ಕೆಲವು ಕಾಲ ನಿಂತನು. 19:22	",
 },			
 {			
-"question" :	"	7. This silversmith made much money, making shrines for a goddess.	",
+"question" :	"	7 ಈ ಅಕ್ಕಸಾಲಿಗನು, ದೇವಿಯ ಚಿಕ್ಕ ಚಿಕ್ಕ ಗುಡಿಗಳನ್ನು ಮಾಡಿ ಹಣವನ್ನು ಸಂಪಾದಿಸುತ್ತಿದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Demetrius	",
-	"	b. Gaius	",
-	"	c. Sopater	",
-	"	d. Nimrod	"
+	"	A. ದೇಮಿತ್ರಿ	",
+	"	B. ಗಾಯ	",
+	"	C. ಶೋಪಾಟರ್	",
+	"	D. ನಿಮ್ರೋದ್	"
 ],			
-"correct" :	"	a. Demetrius	",
-"explanation" :	"	For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;Acts19:24	",
+"correct" :	"	A. ದೇಮಿತ್ರಿ	",
+"explanation" :	"	ಹೇಗಂದರೆ ದೇಮೇತ್ರಿಯನೆಂಬ ಒಬ್ಬ ಅಕ್ಕಸಾಲಿಗನು ಬೆಳ್ಳಿಯಿಂದ ಅರ್ತೆಮೀದೇವಿಯ ಗುಡಿಯಂತೆ ಸಣ್ಣ ಸಣ್ಣ ಗುಡಿಗಳನ್ನು ಮಾಡಿಸುವವನಾಗಿದ್ದು ಆ ಕಸಬಿನವರಿಗೆ ಬಹಳ ಕೆಲಸಕೊಡುತ್ತಿದ್ದನು.  19:24	",
 },			
 {			
-"question" :	"	8. Who was the goddess?	",
+"question" :	"	8 ಆ ದೇವತೆಯ ಹೆಸರು ಏನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Santana	",
-	"	b. Diana	",
-	"	c. Jezebel	",
-	"	d. Lydia	"
+	"	A. ಸಂತಾನ	",
+	"	B. ಅರ್ತೆಮಿದೇವಿ	",
+	"	C. ಈಜೆಬೇಲ್	",
+	"	D. ಲುದ್ಯ	"
 ],			
-"correct" :	"	b. Diana	",
-"explanation" :	"	For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;Acts19:24	",
+"correct" :	"	B. ಅರ್ತೆಮಿದೇವಿ	",
+"explanation" :	"	ಹೇಗಂದರೆ ದೇಮೇತ್ರಿಯನೆಂಬ ಒಬ್ಬ ಅಕ್ಕಸಾಲಿಗನು ಬೆಳ್ಳಿಯಿಂದ ಅರ್ತೆಮೀದೇವಿಯ ಗುಡಿಯಂತೆ ಸಣ್ಣ ಸಣ್ಣ ಗುಡಿಗಳನ್ನು ಮಾಡಿಸುವವನಾಗಿದ್ದು ಆ ಕಸಬಿನವರಿಗೆ ಬಹಳ ಕೆಲಸಕೊಡುತ್ತಿದ್ದನು.  19:24	",
 },			
 {			
-"question" :	"	9. This man was not allowed to speak to the assembly when they knew he was	",
+"question" :	"	9 ಈ ಮನುಷ್ಯನು ಯೆಹೂದ್ಯನು ಎಂದು ತಿಳಿದಾಗ ಆತನಿಗೆ ಸಭೆಯಲ್ಲಿ ಮಾತನಾಡಲು ಅವಕಾಶ ನೀಡಲಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Paul	",
-	"	b. Silas	",
-	"	c. Peter	",
-	"	d. Alexander	"
+	"	A. ಪೌಲ	",
+	"	B. ಸೀಲ	",
+	"	C. ಪೇತ್ರ	",
+	"	D. ಅಲೆಕ್ಸಾಂಡರ್	"
 ],			
-"correct" :	"	d. Alexander	",
-"explanation" :	"	And they drew Alexander out of the multitude, the Jews putting him forward. And Alexander beckoned with the hand, and would have made his defence unto the people.But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great is Diana of the Ephesians.Acts19:33,34	",
+"correct" :	"	D. ಅಲೆಕ್ಸಾಂಡರ್	",
+"explanation" :	"	ಯೆಹೂದ್ಯರು ಅಲೆಕ್ಸಾಂದ್ರನನ್ನು ಮುಂದಕ್ಕೆ ನೂಕಲು ಗುಂಪಿನಲ್ಲಿ ಕೆಲವರು ಅವನಿಗೆ ಸೂಚನೆ ಕೊಟ್ಟರು. ಆಗ ಅಲೆಕ್ಸಾಂದ್ರನು ಕೈಸನ್ನೆ ಮಾಡಿ ಕೂಡಿದ್ದ ಜನರಿಗೆ ಪ್ರತಿವಾದ ಮಾಡಬೇಕೆಂದಿದ್ದನು. ಆದರೆ ಅವನು ಯೆಹೂದ್ಯನೆಂದು ತಿಳಿದಾಗ ಎಲ್ಲರೂ ಒಂದೇ ಶಬ್ದದಿಂದ - ಎಫೆಸದವರ ಅರ್ತೆಮೀದೇವಿ ಮಹಾದೇವಿ ಎಂದು ಎರಡು ಗಂಟೆ ಹೊತ್ತು ಕೂಗಿದರು. 19:33,34	",
 },			
 {			
-"question" :	"	10. The people cried this out, for two hours.	",
+"question" :	"	10. ಜನಗಳು ಸುಮಾರು ಎಡರು ಗಂಟೆಗಳ ಹೊತ್ತು ಹೀಗೆ ಕೂಗಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Crucify him	",
-	"	b. Hosanna	",
-	"	c. Jesus is Lord	",
-	"	d. Great is Diana	"
+	"	A. ಅವನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕಿರಿ	",
+	"	B. ಹೊಸಾನ್ನ	",
+	"	C. ಯೇಸುವೆ ಕರ್ತನು	",
+	"	D. ಅರ್ತೆಮಿದೇವಿ ಮಹಾದೇವಿ	"
 ],			
-"correct" :	"	d. Great is Diana	",
-"explanation" :	"	But when they knew that he was a Jew, all with one voice about the space of two hours cried out, Great is Diana of the Ephesians.Acts19:34	",
+"correct" :	"	D. ಅರ್ತೆಮಿದೇವಿ ಮಹಾದೇವಿ	",
+"explanation" :	"	ಆದರೆ ಅವನು ಯೆಹೂದ್ಯನೆಂದು ತಿಳಿದಾಗ ಎಲ್ಲರೂ ಒಂದೇ ಶಬ್ದದಿಂದ - ಎಫೆಸದವರ ಅರ್ತೆಮೀದೇವಿ ಮಹಾದೇವಿ ಎಂದು ಎರಡು ಗಂಟೆ ಹೊತ್ತು ಕೂಗಿದರು 19:34	",
 },			
 ]			

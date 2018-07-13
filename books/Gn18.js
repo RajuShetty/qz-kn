@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 18";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. How many men came to Abraham?	",

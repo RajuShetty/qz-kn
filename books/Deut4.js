@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 4";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. Israel was told, hear the statutes and judgments, and do them, that you may	",

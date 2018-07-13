@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 2";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. His twelve sons are first listed in this chapter.	",

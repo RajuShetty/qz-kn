@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 16";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus said the disciples would be	",
+"question" :	"	1  ಯೇಸು ಹೇಳಿದ್ದು, ಶಿಷ್ಯರನ್ನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Honored in the synagogue.	",
-	"	b. Put out of the synagogue.	",
-	"	c. Loved by the Pharisees.	",
-	"	d. Honored by religious rulers.	"
+	"	A. ಸಭಾಮಂದಿರದಲ್ಲಿ ಮಹಿಮೆಪಡಿಸುವರು	",
+	"	B. ಸಭಾಮಂದಿರದಿಂದ ಬಹಿಷ್ಕಾರ ಹಾಕುವರು	",
+	"	C. ಫರಿಸಾಯರಿಂದ ಪ್ರೀತಿಸಲ್ಪಡುವರು	",
+	"	D. ಧರ್ಮಾಧಿಕಾರಿಗಳಿಂದ ಗೌರವ ಹೊಂದುವರು	"
 ],			
-"correct" :	"	b. Put out of the synagogue.	",
-"explanation" :	"	They will put you out of the synagogues; yes, the time is coming that whoever kills you will think that he offers God service.Jn16:2	",
+"correct" :	"	B. ಸಭಾಮಂದಿರದಿಂದ ಬಹಿಷ್ಕಾರ ಹಾಕುವರು	",
+"explanation" :	"	 ನಿಮಗೆ ಬಹಿಷ್ಕಾರ ಹಾಕುವರು; ಅದಲ್ಲದೆ ನಿಮ್ಮನ್ನು ಕೊಲ್ಲುವವನು ತಾನು ದೇವರಿಗೆ ಯಜ್ಞವನ್ನು ಮಾಡಿದ್ದೇನೆಂದು ನೆನಸುವ ಕಾಲ ಬರುತ್ತದೆ. 16:2	",
 },			
 {			
-"question" :	"	2. The time would come, when men would think they were doing God a service, by doing this, to Jesus’disciples.	",
+"question" :	"	2  ನಿಮ್ಮನ್ನು ____________ ತಾನು ದೇವರಿಗೆ ಯಜ್ಞವನ್ನು ಮಾಡಿದ್ದೇನೆಂದು ನೆನಸುವ ಕಾಲ   ಬರುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Honoring	",
-	"	b. Feeding	",
-	"	c. Clothing	",
-	"	d. Killing	"
+	"	A. ಗೌರವಿಸುವವನು	",
+	"	B. ಉಣಿಸುವವನು	",
+	"	C. ವಸ್ತ್ರ ಹೊದಿಸುವವನು	",
+	"	D. ಕೊಲ್ಲುವವನು	"
 ],			
-"correct" :	"	d. Killing	",
-"explanation" :	"	They will put you out of the synagogues; yes, the time is coming that whoever kills you will think that he offers God service.Jn16:2	",
+"correct" :	"	D. ಕೊಲ್ಲುವವನು	",
+"explanation" :	"	ನಿಮಗೆ ಬಹಿಷ್ಕಾರ ಹಾಕುವರು; ಅದಲ್ಲದೆ ನಿಮ್ಮನ್ನು ಕೊಲ್ಲುವವನು ತಾನು ದೇವರಿಗೆ ಯಜ್ಞವನ್ನು ಮಾಡಿದ್ದೇನೆಂದು ನೆನಸುವ ಕಾಲ ಬರುತ್ತದೆ. 16:2	",
 },			
 {			
-"question" :	"	3. This filled the disciples’ hearts when Jesus said He must go.	",
+"question" :	"	3  ಯೇಸು ಈಗ ನಾನು ಹೋಗುತ್ತೇನೆ ಎಂದು ಹೇಳಿದಾಗ ಶಿಷ್ಯರ ಹೃದಯವು ಯಾವುದರಿಂದ  ತುಂಬಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Joy	",
-	"	b. Anger	",
-	"	c. Fear	",
-	"	d. Sorrow	"
+	"	A. ಸಂತೋಷ	",
+	"	B. ಕೋಪ	",
+	"	C. ಭಯ	",
+	"	D. ದು:ಖ	"
 ],			
-"correct" :	"	d. Sorrow	",
-"explanation" :	"	But because I have said these things to you, sorrow has filled your heart Jn16:6	",
+"correct" :	"	D. ದು:ಖ	",
+"explanation" :	"	ಆದರೆ ನಾನು ಈ ಮಾತುಗಳನ್ನು ನಿಮಗೆ ಹೇಳಿದ್ದರಿಂದ ನಿಮ್ಮ ಹೃದಯವು ದುಃಖದಿಂದ ತುಂಬಿಯದೆ.  16:6	",
 },			
 {			
-"question" :	"	4. Jesus said He must go, but He would send	",
+"question" :	"	4  ಯೇಸು ಹೇಳಿದ್ದು, ಈಗ ನಾನು ಹೋಗಬೇಕು, ಆದರೆ ನಿಮ್ಮ ಬಳಿಗೆ ಇವನನ್ನು ಕಳುಹಿಸುತ್ತೇನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Prophets.	",
-	"	b. Guardian angels.	",
-	"	c. The Comforter.	",
-	"	d. Hope.	"
+	"	A. ಪ್ರವಾದಿಯನ್ನು	",
+	"	B. ಕಾವಲು ದೂತರನ್ನು	",
+	"	C. ಸತ್ಯದ ಆತ್ಮನನ್ನು	",
+	"	D. ನಿರೀಕ್ಷೆಯನ್ನು	"
 ],			
-"correct" :	"	c. The Comforter.	",
-"explanation" :	"	Nevertheless I tell you the truth. It is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I depart, I will send Him to you.Jn16:7	",
+"correct" :	"	C. ಸತ್ಯದ ಆತ್ಮನನ್ನು	",
+"explanation" :	"	ಆದರೂ ನಾನು ನಿಮಗೆ ಸತ್ಯವನ್ನು ಹೇಳುತ್ತೇನೆ, ಕೇಳಿರಿ; ನಾನು ಹೋಗುವದು ನಿಮಗೆ ಹಿತಕರವಾಗಿದೆ; ಹೇಗಂದರೆ ನಾನು ಹೋಗದಿದ್ದರೆ ಆ ಸಹಾಯಕನು ನಿಮ್ಮ ಬಳಿಗೆ ಬರುವದಿಲ್ಲ; ನಾನು ಹೋದರೆ ಆತನನ್ನು ನಿಮ್ಮ ಬಳಿಗೆ ಕಳುಹಿಸಿಕೊಡುತ್ತೇನೆ 16:7	",
 },			
 {			
-"question" :	"	5. The Spirit shall not	",
+"question" :	"	5  ಸತ್ಯದ ಆತ್ಮನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Honor God.	",
-	"	b. Speak of Himself.	",
-	"	c. Be righteous.	",
-	"	d. Be despised.	"
+	"	A. ದೇವರನ್ನು ಮಹಿಮೆಪಡಿಸುವುದಿಲ್ಲ	",
+	"	B. ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಮಾತನಾಡುವುದಿಲ್ಲ	",
+	"	C. ನೀತಿವಂತನಾಗಿರುವುದಿಲ್ಲ	",
+	"	D. ತಿರಸ್ಕಾರ ಮಾಡುವವನಲ್ಲ	"
 ],			
-"correct" :	"	b. Speak of Himself.	",
-"explanation" :	"	However, when He, the Spirit of truth, has come, He will guide you into all truth; for He will not speak on His own authority, but whatever He hears He will speak; and He will tell you things to come Jn16:13	",
+"correct" :	"	B. ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಮಾತನಾಡುವುದಿಲ್ಲ	",
+"explanation" :	"	ಸತ್ಯದ ಆತ್ಮನು ಬಂದಾಗ ಆತನು ನಿಮ್ಮನ್ನು ನಡಿಸಿಕೊಂಡು ಹೋಗಿ ಸಕಲ ವಿಷಯದಲ್ಲಿಯೂ ಸತ್ಯಕ್ಕೆ ಸೇರಿಸುವನು. ಆತನು ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಮಾತಾಡದೆ ಕೇಳಿದ ಮಾತುಗಳನ್ನೇ ಆಡುವನು; ಮತ್ತು ಮುಂದಾಗುವ ಸಂಗತಿಗಳನ್ನು ನಿಮಗೆ ತಿಳಿಸುವನು 16:13	",
 },			
 {			
-"question" :	"	6. Jesus said, a little while and you shall not see Me, and again a little while and you shall see Me,because I go	",
+"question" :	"	6  ಯೇಸು ಹೇಳಿದ್ದು, ಸ್ವಲ್ಪಕಾಲವಾದ ಮೇಲೆ ನಾನು ನಿಮಗೆ ಕಾಣುವದಿಲ್ಲ; ಅನಂತರ ಸ್ವಲ್ಪ  ಕಾಲವಾದ ಮೇಲೆ ನನ್ನನ್ನು ನೋಡುವಿರಿ; ಯಾಕೆಂದರೆ ನಾನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. To the Father.	",
-	"	b. To the belly of the earth.	",
-	"	c. To the lost tribe of Israel.	",
-	"	d. Forth with a new doctrine.	"
+	"	A. ತಂದೆಯ ಬಳಿಗೆ ಹೋಗುವದರಿಂದ	",
+	"	B. ಭೂಮಿಯ ಗರ್ಭದೊಳಗೆ ಹೋಗುವುದರಿಂದ	",
+	"	C. ಇಸ್ರಾಯೇಲ್ಯರ ಕಟ್ಟಕಡೆಯ ಕುಲದವರೆಗೂ ಹೋಗುವುದರಿಂದ	",
+	"	D. ಹೊಸ ಸೇವೆಯೊಂದಿಗೆ ಮುಂದು ಹೋಗುವುದರಿಂದ	"
 ],			
-"correct" :	"	a. To the Father.	",
-"explanation" :	"	A little while, and you will not see Me; and again a little while, and you will see Me, because I go to the Father.Jn16:16	",
+"correct" :	"	A. ತಂದೆಯ ಬಳಿಗೆ ಹೋಗುವದರಿಂದ	",
+"explanation" :	"	ಸ್ವಲ್ಪಕಾಲವಾದ ಮೇಲೆ ನಾನು ನಿಮಗೆ ಕಾಣುವದಿಲ್ಲ; ಅನಂತರ ಸ್ವಲ್ಪಕಾಲವಾದ ಮೇಲೆ ನನ್ನನ್ನು ನೋಡುವಿರಿ ಅಂದನು. 16:16	",
 },			
 {			
-"question" :	"	7. What would the world do when the disciples were weeping and lamenting?	",
+"question" :	"	7  ನೀವು ಅಳುತ್ತಾ ಗೋಳಾಡುತ್ತಾ ಇರುವಿರಿ, ಆದರೆ ಲೋಕವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Weep & lament	",
-	"	b. Rejoice	",
-	"	c. Tremble with fear	",
-	"	d. Cry unto God	"
+	"	A. ಅಳುತ್ತಾ ಗೋಳಾಡುವುದು	",
+	"	B. ಸಂತೋಷಿಸುವುದು	",
+	"	D. ಭಯದಿಂದ ನಡಗುವುದು	",
+	"	D. ದೇವರನ್ನು ಕೂಗಿಕೊಳ್ಳುವುದು	"
 ],			
-"correct" :	"	b. Rejoice	",
-"explanation" :	"	Most assuredly, I say to you that you will weep and lament, but the world will rejoice; and you will be sorrowful, but your sorrow will be turned into joy.Jn16:20	",
+"correct" :	"	B. ಸಂತೋಷಿಸುವುದು	",
+"explanation" :	"	ನಿಮಗೆ ನಿಜನಿಜವಾಗಿ ಹೇಳುತ್ತೇನೆ, ನೀವು ಅಳುತ್ತಾ ಗೋಳಾಡುತ್ತಾ ಇರುವಿರಿ, ಆದರೆ ಲೋಕವು ಸಂತೋಷಿಸುವದು; ನಿಮಗೆ ದುಃಖವಾಗುವದು, ಆದರೆ ನಿಮ್ಮ ದುಃಖವು ಹೋಗಿ ಆನಂದ ಬರುವದು 16:20	",
 },			
 {			
-"question" :	"	8. Jesus said, in that day,whatsoever you ask the Father this way, He will give it you.	",
+"question" :	"	8  ಯೇಸು ಹೇಳಿದ್ದು; ನಿಮಗೆ ನಿಜನಿಜವಾಗಿ ಹೇಳುತ್ತೇನೆ, ನೀವು ತಂದೆಯನ್ನು  ಏನಾದರೂ ಬೇಡಿಕೊಂಡರೆ ಅದನ್ನು ಆತನು _________________ ನಿಮಗೆ ಕೊಡುವನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fasting & praying	",
-	"	b. With sacrifices	",
-	"	c. Carrying alms	",
-	"	d. In My name	"
+	"	A. ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಉಪವಾಸದ ಮೇಲೆ	",
+	"	B. ಯಜ್ಞಗಳಿಂದ	",
+	"	C. ಕಾಣಿಕೆಯ ಮೇಲೆ	",
+	"	D. ನನ್ನ ಹೆಸರಿನ ಮೇಲೆ	"
 ],			
-"correct" :	"	d. In My name	",
-"explanation" :	"	And in that day you will ask Me nothing. Most assuredly, I say to you, whatever you ask the Father in My name He will give you.Jn16:23	",
+"correct" :	"	D. ನನ್ನ ಹೆಸರಿನ ಮೇಲೆ	",
+"explanation" :	"	ಆ ದಿನದಲ್ಲಿ ನೀವು ನನಗೆ ಯಾವ ಪ್ರಶ್ನೆಯನ್ನೂ ಮಾಡುವದಿಲ್ಲ 16:23	",
 },			
 {			
-"question" :	"	9. The hour was coming when all the disciples would	",
+"question" :	"	9  ಎಲ್ಲಾ ಶಿಷ್ಯರು _________ ಕಾಲ ಸಮೀಪಿಸಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Be scattered.	",
-	"	b. Be honored.	",
-	"	c. Ascend to heaven.	",
-	"	d. Write the bible.	"
+	"	A. ಚದರಿಹೋಗುವ	",
+	"	B. ಮಹಿಮೆ ಹೊಂದುವ	",
+	"	C. ಪರಲೋಕಕ್ಕೆ ಏರಿ ಹೋಗುವ	",
+	"	D. ಸತ್ಯವೇದ ಬರೆಯುವ	"
 ],			
-"correct" :	"	a. Be scattered.	",
-"explanation" :	"	Indeed the hour is coming, yes, has now come, that you will be scattered, each to his own, and will leave Me alone. And yet I am not alone, because the Father is with Me.Jn16:32	",
+"correct" :	"	A. ಚದರಿಹೋಗುವ	",
+"explanation" :	"	ನೋಡಿರಿ, ನಿಮ್ಮಲ್ಲಿ ಒಬ್ಬೊಬ್ಬನು ತನ್ನತನ್ನ ಸ್ಥಳಕ್ಕೆ ಚದರಿಹೋಗಿ ನನ್ನನ್ನು ಒಂಟಿಗನಾಗಿ ಬಿಡುವ ಕಾಲ ಬರುವದು, ಈಗ ಬಂದಿದೆ. ಆದರೆ ನಾನು ಒಂಟಿಗನಲ್ಲ, ತಂದೆಯು ನನ್ನ ಸಂಗಡ ಇದ್ದಾನೆ 16:32	",
 },			
 {			
-"question" :	"	10. Jesus said, in the world you shall have tribulation, but be of good cheer	",
+"question" :	"	10  ಲೋಕದಲ್ಲಿ ನಿಮಗೆ ಸಂಕಟವುಂಟು, ಧೈರ್ಯವಾಗಿರಿ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. Your adversaries shall fall.	",
-	"	b. The earth shall pass away.	",
-	"	c. I have overcome the world.	",
-	"	d. A better world awaits you.	"
+	"	A. ನಿಮ್ಮ ವಿರೋಧಿಗಳೆಲ್ಲಾ ಬಿದ್ದುಹೋದರು	",
+	"	B. ಭೂಮಿಯು ನಾಶವಾಗುವುದು	",
+	"	C. ನಾನು ಲೋಕವನ್ನು ಜೈಸಿದ್ದೇನೆ	",
+	"	D. ಒಳ್ಳೆಯ ಲೋಕ ನಿಮಗಾಗಿ ಕಾದಿದೆ.	"
 ],			
-"correct" :	"	c. I have overcome the world.	",
-"explanation" :	"	hese things I have spoken to you, that in Me you may have peace. In the world you will have tribulation; but be of good cheer, I have overcome the world.Jn16:33	",
+"correct" :	"	C. ನಾನು ಲೋಕವನ್ನು ಜೈಸಿದ್ದೇನೆ	",
+"explanation" :	"	ನೀವು ನನ್ನಲ್ಲಿದ್ದು ಮನಶ್ಶಾಂತಿಯನ್ನು ಹೊಂದಿದವರಾಗಿರಬೇಕೆಂದು ಇದನ್ನೆಲ್ಲಾ ನಿಮಗೆ ಹೇಳಿದ್ದೇನೆ. ಲೋಕದಲ್ಲಿ ನಿಮಗೆ ಸಂಕಟ ಉಂಟು; ಧೈರ್ಯವಾಗಿರಿ, ನಾನು ಲೋಕವನ್ನು ಜಯಿಸಿದ್ದೇನೆ ಎಂದು ಹೇಳಿದನು. 16:33	",
 },			
 ]			

@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 6";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus and His disciples picked this, and ate it on the Sabbath.	",
+"question" :	"	1. ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಯೇಸು ಮತ್ತು ಆತನ ಶಿಷ್ಯರು ಇದನ್ನು ಕಿತ್ತುಕೊಂಡು ತಿಂದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Grain	",
-	"	b. Figs	",
-	"	c. Wheat	",
-	"	d. Olives	"
+	"	A. ತೆನೆಗಳು	",
+	"	B. ಅಂಜೂರ	",
+	"	C. ಗೋಧಿ	",
+	"	D. ಆಲೀವ್	"
 ],			
-"correct" :	"	a. Grain	",
-"explanation" :	"	Now it happened on the second Sabbath after the first that He went through the grainfields. And His disciples plucked the heads of grain and ate them, rubbing them in their hands. - Lk 6:1	",
+"correct" :	"	A. ತೆನೆಗಳು	",
+"explanation" :	"	ಒಂದಾನೊಂದು ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಯೇಸು ಪೈರಿನ ಹೊಲಗಳನ್ನು ಹಾದು ಹೋಗುತ್ತಿರುವಾಗ ಆತನ ಶಿಷ್ಯರು ತೆನೆಗಳನ್ನು ಮುರಿದು ಕೈಗಳಲ್ಲಿ ಹೊಸಗಿಕೊಂಡು ತಿನ್ನುತ್ತಿದ್ದರು.  ಲೂಕ 6:1	",
 },			
 {			
-"question" :	"	2. This man, and his men, ate the showbread.	",
+"question" :	"	2. ನೈವೇದ್ಯದ ರೊಟ್ಟಿಯನ್ನು ಈತನು ಮತ್ತು ಈತನ ಸಂಗಡವಿದ್ದವರು ತಿಂದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. David	",
-	"	b. Saul	",
-	"	c. Moses	",
-	"	d. Samson	"
+	"	A. ದಾವೀದ	",
+	"	B. ಸೌಲ	",
+	"	C. ಮೋಶೆ	",
+	"	D. ಸಂಸೋನ	"
 ],			
-"correct" :	"	a. David	",
-"explanation" :	"	But Jesus answering them said, Have you not even read this, what David did when he was hungry, he and those who were with him:how he went into the house of God, took and ate the showbread, and also gave some to those with him, which is not lawful for any but the priests to eat? - Lk 6:3-4	",
+"correct" :	"	A. ದಾವೀದ	",
+"explanation" :	"	ಯೇಸು ಅವರಿಗೆ - ದಾವೀದನು ತಾನೂ ತನ್ನ ಸಂಗಡ ಿದ್ದವರೂ ಹಸಿದಾಗ ಏನು ಮಾಡಿದನೆಂಬದನ್ನು ನೀವು ಓದಲಿಲ್ಲವೋ?  ಅವನು ದೇವರ ಮಂದಿರದೊಳಕ್ಕೆ ಹೋಗಿ ಯಾಜಕರು ಮಾತ್ರವೇ ಹೊರತು ಮತ್ತಾರೂ ತಿನ್ನಬಾರದ ನೈವೇದ್ಯದ ರೊಟ್ಟಿಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ತಿಂದು ತನ್ನ ಸಂಗಡ ಇದ್ದವರಿಗೂ ಕೊಟ್ಟನಲ್ಲಾ ಎಂದು ಉತ್ತರಕೊಟ್ಟು;  ಲೂಕ 6:3-4	",
 },			
 {			
-"question" :	"	3. The scribes and Pharisees watched to see if Jesus would heal the man with the withered hand, because	",
+"question" :	"	3. ಯೇಸು ಕೈಬತ್ತಿಹೋದ ಮನುಷ್ಯನನ್ನು ಸ್ವಸ್ಥ ಮಾಡುವನೋ ಏನೋ ಎಂದು ಶಾಸ್ತ್ರಿಗಳು ಮತ್ತು ಫರಿಸಾಯರು ಗಮನಿಸುತ್ತಿದ್ದರು, ಏಕೆಂದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. He was a stranger.	",
-	"	b. He was a sinner.	",
-	"	c. It was the Sabbath.	",
-	"	d. The man hated Jesus.	"
+	"	A. ಅವನು ಅಪರಿಚಿತನಾಗಿದ್ದನು	",
+	"	B. ಅವನು ಪಾಪಿ	",
+	"	C. ಅದು ಸಬ್ಬತ್ ದಿನವಾಗಿತ್ತು	",
+	"	D. ಆ ಮನುಷ್ಯನು ಯೇಸುವನ್ನು ದ್ವೇಷಿಸುತ್ತಿದ್ದನು	"
 ],			
-"correct" :	"	c. It was the Sabbath.	",
-"explanation" :	"	Now it happened on another Sabbath, also, that He entered the synagogue and taught. And a man was there whose right hand was withered.So the scribes and Pharisees watched Him closely, whether He would heal on the Sabbath, that they might find an accusation against Him. - Lk 6:6-7	",
+"correct" :	"	C. ಅದು ಸಬ್ಬತ್ ದಿನವಾಗಿತ್ತು	",
+"explanation" :	"	ಮತ್ತೊಂದು ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಆತನು ಸಭಾಮಂದಿರಕ್ಕೆ ಹೋಗಿ ಉಪದೇಶಮಾಡುತ್ತಿದ್ದಾಗ ಅಲ್ಲಿ ಬಲಗೈ ಬತ್ತಿದವನೊಬ್ಬನು ಇದ್ದನು.  ಶಾಸ್ತ್ರಿಗಳೂ ಫರಿಸಾಯರೂ ಆತನ ಮೇಲೆ ತಪ್ಪು ಹೊರಿಸುವದಕ್ಕೆ ಆಸ್ಪದ ಸಿಕ್ಕಬೇಕೆಂದು ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಸ್ವಸ್ಥಮಾಡುವನೋ ಏನೋ ಎಂದು ಆತನನ್ನು ಹೊಂಚಿನೋಡುತ್ತಿದ್ದರು.  ಲೂಕ 6:6-7	",
 },			
 {			
-"question" :	"	4. Jesus chose twelve men, that He called	",
+"question" :	"	4. ಯೇಸು 12 ಮಂದಿಯನ್ನು ಆರಿಸಿಕೊಂಡು ಅವರನ್ನು ಹೀಗೆಂದು ಕರೆದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sanctified.	",
-	"	b. Friends.	",
-	"	c. Apostles.	",
-	"	d. Bishops.	"
+	"	A. ಮೀಸಲಾಗಿರುವವರು	",
+	"	B. ಸ್ನೇಹಿತರು	",
+	"	C. ಅಪೋಸ್ತಲರು	",
+	"	D. ಬಿಷಪ್	"
 ],			
-"correct" :	"	c. Apostles.	",
-"explanation" :	"	And when it was day, He called His disciples to Himself; and from them He chose twelve whom He also named apostles:- Lk 6:13	",
+"correct" :	"	C. ಅಪೋಸ್ತಲರು	",
+"explanation" :	"	ಬೆಳಗಾದ ಮೇಲೆ ಆತನು ತನ್ನ ಶಿಷ್ಯರನ್ನು ಹತ್ತಿರಕ್ಕೆ ಕರೆದು ಅವರಲ್ಲಿ ಹನ್ನೆರಡು ಮಂದಿಯನ್ನು ಆರಿಸಿಕೊಂಡು ಅವರಿಗೆ ಅಪೋಸ್ತಲರೆಂತ ಹೆಸರಿಟ್ಟನು.  ಲೂಕ 6:13	",
 },			
 {			
-"question" :	"	5. Everyone who touched Jesus	",
+"question" :	"	5. ಯೇಸುವನ್ನು ಮುಟ್ಟಿದ ಎಲ್ಲರೂ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Went to heaven.	",
-	"	b. Was healed.	",
-	"	c. Fell backward.	",
-	"	d. Became an apostle.	"
+	"	A. ಪರಲೋಕಕ್ಕೆ ಹೋದರು	",
+	"	B. ಗುಣಹೊಂದಿದರು	",
+	"	C. ಹಿಂದಕ್ಕೆ ಬಿದ್ದರು	",
+	"	D. ಅಪೋಸ್ತಲರಾದರು	"
 ],			
-"correct" :	"	b. Was healed.	",
-"explanation" :	"	And the whole multitude sought to touch Him, for power went out from Him and healed them all. - Lk 6:19	",
+"correct" :	"	B. ಗುಣಹೊಂದಿದರು	",
+"explanation" :	"	ಮತ್ತು ಆತನಿಂದ ಶಕ್ತಿ ಹೊರಟು ಎಲ್ಲರನ್ನು ವಾಸಿಮಾಡುತ್ತಿದ್ದದರಿಂದ ಆ ಗುಂಪಿನ ಜನರೆಲ್ಲಾ ಆತನನ್ನು ಮುಟ್ಟುವದಕ್ಕೆ ಪ್ರಯತ್ನಮಾಡಿದರು.  ಲೂಕ 6:19	",
 },			
 {			
-"question" :	"	6. Blessed be ye poor, for yours is	",
+"question" :	"	6. ಬಡವರಾಗಿರುವವರು ಧನ್ಯರು,  _______ ನಿಮ್ಮದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Power & might.	",
-	"	b. The kingdom of God.	",
-	"	c. Freedom.	",
-	"	d. Hope.	"
+	"	A. ಅಧಿಕಾರ ಮತ್ತು ಘನತೆ	",
+	"	B. ದೇವರ ರಾಜ್ಯ	",
+	"	C. ಬಿಡುಗಡೆ	",
+	"	D. ನಿರೀಕ್ಷೆ	"
 ],			
-"correct" :	"	b. The kingdom of God.	",
-"explanation" :	"	Then He lifted up His eyes toward His disciples, and said: Blessed are you poor, For yours is the kingdom of God.- Lk 6:20	",
+"correct" :	"	B. ದೇವರ ರಾಜ್ಯ	",
+"explanation" :	"	ಬಡವರಾದ ನೀವು ಧನ್ಯರು; ದೇವರ ರಾಜ್ಯ ನಿಮ್ಮದೇ;  ಲೂಕ 6:21	",
 },			
 {			
-"question" :	"	7. Jesus said, love your	",
+"question" :	"	7. ಯೇಸು ಹೇಳಿದ್ದು, ನಿಮ್ಮ ______ ಪ್ರೀತಿಸಿರಿ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Children.	",
-	"	b. Parents.	",
-	"	c. God.	",
-	"	d. Enemies.	"
+	"	A. ಮಕ್ಕಳನ್ನು	",
+	"	B. ತಂದೆ ತಾಯಿಗಳನ್ನು	",
+	"	C. ದೇವರನ್ನು	",
+	"	D. ಶತೃಗಳನ್ನು	"
 ],			
-"correct" :	"	d. Enemies.	",
-"explanation" :	"	But I say to you who hear: Love your enemies, do good to those who hate you, - Lk 6:27	",
+"correct" :	"	D. ಶತೃಗಳನ್ನು	",
+"explanation" :	"	ಕೇಳುವವರಾದ ನಿಮಗೆ ನಾನು ಹೇಳುವದೇನಂದರೆ - ನಿಮ್ಮ ವೈರಿಗಳನ್ನು ಪ್ರೀತಿಸಿರಿ; ಹಗೆ ಮಾಡುವವರಿಗೆ ಉಪಕಾರ ಮಾಡಿರಿ;  ಲೂಕ 6:27	",
 },			
 {			
-"question" :	"	8. Jesus asked, how can you see the mote in your brother’s eye, when you cannot see this in your eye?	",
+"question" :	"	8. ಯೇಸು ಹೇಳಿದ್ದು, ನಿನ್ನ ಕಣ್ಣಿನಲ್ಲಿರುವ ________ ತೆಗೆಯದೆ, ನಿನ್ನ ಸಹೋದರನ ಕಣ್ಣಿನಲ್ಲಿರುವ ರವೆಯನ್ನು ತೆಗೆಯುವುದು ಹೇಗೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The mote	",
-	"	b. The plank	",
-	"	c. The camel	",
-	"	d. The lash	"
+	"	A. ರವೆ	",
+	"	B. ತೊಲೆ	",
+	"	C. ಒಂಟೆ	",
+	"	D. ಹಲಗೆ	"
 ],			
-"correct" :	"	b. The plank	",
-"explanation" :	"	And why do you look at the speck in your brother's eye, but do not perceive the plank in your own eye - Lk 6:41	",
+"correct" :	"	B. ತೊಲೆ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ನೀನು ನಿನ್ನ ಕಣ್ಣಿನಲ್ಲಿರುವ ತೊಲೆಯನ್ನು ಯೋಚಿಸದೆ ನಿನ್ನ ಸಹೋದರನ ಕಣ್ಣಿನಲ್ಲಿರುವ ರವೆಯನ್ನು ಯೋಚಿಸುವದೇಕೆ?  ಲೂಕ 6:41	",
 },			
 {			
-"question" :	"	9. Every tree is known by	",
+"question" :	"	9.  ______________ ಮರವು ಗೊತ್ತಾಗುವುದು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. God.	",
-	"	b. Man.	",
-	"	c. A good farmer.	",
-	"	d. Its fruit.	"
+	"	A. ದೇವರಿಂದ	",
+	"	B. ಮನುಷ್ಯರಿಂದ	",
+	"	C. ಒಳ್ಳೆಯ ತೋಟಗಾರನಿಂದ 	",
+	"	D. ತನ್ನ ಫಲದಿಂದ	"
 ],			
-"correct" :	"	d. Its fruit.	",
-"explanation" :	"	For every tree is known by its own fruit. For men do not gather figs from thorns, nor do they gather grapes from a bramble bush. - Lk 6:44	",
+"correct" :	"	D. ತನ್ನ ಫಲದಿಂದ	",
+"explanation" :	"	ಪ್ರತಿಯೊಂದು ಮರದ ಗುಣವು ಅದರ ಫಲದಿಂದಲೇ ಗೊತ್ತಾಗುವದು.    ಲೂಕ 6:44	",
 },			
 {			
-"question" :	"	10. Whoever hears the sayings of Jesus, and does them, is like a man that builds his house	",
+"question" :	"	10. ಯೇಸು ಹೇಳಿದ್ದನ್ನು ಕೇಳಿ ಅದರಂತೆ ಮಾಡುವವನು ________ ಮನೆಯನ್ನು ಕಟ್ಟಿದ ಮನುಷ್ಯನನ್ನು ಹೋಲುವನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. By the sea.	",
-	"	b. On a rock.	",
-	"	c. On the sand.	",
-	"	d. On a hill.	"
+	"	A. ಸಮುದ್ರದ ಬಳಿ	",
+	"	B. ಬಂಡೆಯ ಮೇಲೆ	",
+	"	C. ಮರಳಿನ ಮೇಲೆ	",
+	"	D. ಬೆಟ್ಟದ ಮೇಲೆ	"
 ],			
-"correct" :	"	b. On a rock.	",
-"explanation" :	"	Whoever comes to Me, and hears My sayings and does them, I will show you whom he is like:He is like a man building a house, who dug deep and laid the foundation on the rock. And when the flood arose, the stream beat vehemently against that house, and could not shake it, for it was founded on the rock. - Lk 6:47-48	",
+"correct" :	"	B. ಬಂಡೆಯ ಮೇಲೆ	",
+"explanation" :	"	ನನ್ನ ಬಳಿಗೆ ಬಂದು ನನ್ನ ಮಾತುಗಳನ್ನು ಕೇಳಿ ಅವುಗಳಂತೆ ನಡೆಯುವವನು ಯಾರಿಗೆ ಸಮಾನನೆಂಬದನ್ನು ನಿಮಗೆ ತೋರಿಸುತ್ತೇನೆ.  ಅವನು ಆಳವಾಗಿ ಅಗೆದು ಬಂಡೆಯ ಮೇಲೆ ಅಸ್ತಿವಾರವನ್ನು ಹಾಕಿ ಮನೇ ಕಟ್ಟಿದವನಿಗೆ ಸಮಾನನು;  ಲೂಕ 6:47-48	",
 },			
 ]			

@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 7";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. How many covered wagons did the princes bring?	",

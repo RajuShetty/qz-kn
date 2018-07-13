@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 6";			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
-"question" :	"	1. God forbid, we should continue in this.	",
+"question" :	"	1 ದೇವರ ಕೃಪೆಯು ಹೆಚ್ಚಲಿ ಎಂದು ---- ಇನ್ನೂ ಇರಬೇಕೋ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Righteousness	",
-	"	b. Holiness	",
-	"	c. Sin	",
-	"	d. Grace	"
+	"	A. ನೀತಿಯಲ್ಲಿ	",
+	"	B. ಪರಿಶುದ್ಧದಲ್ಲಿ	",
+	"	C. ಪಾಪದಲ್ಲಿ	",
+	"	D. ಕೃಪೆಯಲ್ಲಿ	"
 ],			
-"correct" :	"	c. Sin	",
-"explanation" :	"	What shall we say then? Shall we continue in sin, that grace may abound? God forbid. How shall we, that are dead to sin, live any longer therein? Rom6:1,2	",
+"correct" :	"	C. ಪಾಪದಲ್ಲಿ	",
+"explanation" :	"	ಹಾಗಾದರೆ ಏನು ಹೇಳೋಣ? ದೇವರ ಕೃಪೆಯು ಹೆಚ್ಚಲಿ ಎಂದು ನಾವು ಪಾಪದಲ್ಲಿ ಇನ್ನೂ ಇರಬೇಕೋ? ಎಂದಿಗೂ ಇರಬಾರದು. ಪಾಪದ ಪಾಲಿಗೆ ಸತ್ತವರಾದ ನಾವು ಇನ್ನೂ ಅದರಲ್ಲೇ ಬದುಕುವದು ಹೇಗೆ? 6:1,2	",
 },			
 {			
-"question" :	"	2. We are buried with Jesus by this.	",
+"question" :	"	2 ಇದರಿಂದಾಗಿ ನಾವು ಯೇಸುವಿನೊಂದಿಗೆ ಹೂಣಲ್ಪಟ್ಟೆವು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sin	",
-	"	b. Holiness	",
-	"	c. Baptism	",
-	"	d. Prayer	"
+	"	A. ಪಾಪ	",
+	"	B. ಪರಿಶುದ್ಧತನ	",
+	"	C. ದೀಕ್ಷಾಸ್ನಾನ	",
+	"	D. ಪ್ರಾರ್ಥನೆ	"
 ],			
-"correct" :	"	c. Baptism	",
-"explanation" :	"	Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life.Rom6:4	",
+"correct" :	"	C. ದೀಕ್ಷಾಸ್ನಾನ	",
+"explanation" :	"	ಹೀಗಿರಲಾಗಿ ನಾವು ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿಕೊಂಡಾಗ ಆತನ ಮರಣದಲ್ಲಿ ಪಾಲುಗಾರರಾಗಿ ಆತನೊಂದಿಗೆ ಹೂಣಲ್ಪಟ್ಟೆವು. ಆದದರಿಂದ ಕ್ರಿಸ್ತನು ಸತ್ತು ತಂದೆಯ ಮಹಿಮೆಯಿಂದ ಜೀವಿತನಾಗಿ ಎಬ್ಬಿಸಲ್ಪಟ್ಟಂತೆಯೇ ನಾವು ಕೂಡ ಜೀವದಿಂದೆದ್ದು ಹೊಸಬರಾಗಿ ನಡಕೊಳ್ಳಬೇಕು. 6:4	",
 },			
 {			
-"question" :	"	3. Our old man is crucified, therefore we should no longer serve this.	",
+"question" :	"	3 ನಮ್ಮ ಪೂರ್ವ ಸ್ವಭಾವವು ಶಿಲುಬೆಗೆ ಹಾಕಲ್ಪಟ್ಟಿದ್ದರಿಂದ ನಾವು ಇದನ್ನು ಸೇವಿಸುವ ಹಂಗಿನಲ್ಲಿಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Righteousness	",
-	"	b. God	",
-	"	c. Holiness	",
-	"	d. Sin	"
+	"	A. ನೀತಿ	",
+	"	B. ದೇವರು	",
+	"	C. ಪರಿಶುದ್ಧತನ	",
+	"	D. ಪಾಪ	"
 ],			
-"correct" :	"	d. Sin	",
-"explanation" :	"	 Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin.Rom6:6	",
+"correct" :	"	D. ಪಾಪ	",
+"explanation" :	"	ಪಾಪಾಧೀನಸ್ವಭಾವವು ನಾಶವಾಗಿ ನಾವು ಇನ್ನೂ ಪಾಪದ ವಶದಲ್ಲಿರದಂತೆ ನಮ್ಮ ಪೂರ್ವಸ್ವಭಾವವು ಕ್ರಿಸ್ತನ ಕೂಡ ಶಿಲುಬೆಗೆ ಹಾಕಲ್ಪಟ್ಟಿತೆಂದು ತಿಳಿದಿದ್ದೇವೆ 6:6	",
 },			
 {			
-"question" :	"	4. He that is dead, is freed from this.	",
+"question" :	"	4 ಸತ್ತವನು, ಇದರಿಂದ ಬಿಡುಗಡೆ ಹೊಂದಿರುವನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hell	",
-	"	b. Destruction	",
-	"	c. Responsibility	",
-	"	d. Sin	"
+	"	A. ನರಕ	",
+	"	B. ನಾಶ	",
+	"	C. ಜವಾಬ್ಧಾರಿ	",
+	"	D. ಪಾಪ	"
 ],			
-"correct" :	"	d. Sin	",
-"explanation" :	"	For he that is dead is freed from sin.Rom6:7	",
+"correct" :	"	D. ಪಾಪ	",
+"explanation" :	"	ಸತ್ತವನು ಪಾಪದ ವಶದಿಂದ ಬಿಡುಗಡೆ ಹೊಂದಿದ್ದಾನಷ್ಟೆ. 6:7	",
 },			
 {			
-"question" :	"	5. Consider yourself to be dead unto sin,but alive unto	",
+"question" :	"	5 ನೀವು ಪಾಪದ ಪಾಲಿಗೆ ಸತ್ತವರೂ, __ ಜೀವಿಸುವರೂ ಎಂದು ಎಣಿಸಿಕೊಳ್ಳಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Good works.	",
-	"	b. God.	",
-	"	c. Separation.	",
-	"	d. Predestination.	"
+	"	A. ಒಳ್ಳೇ ಕಾರ್ಯಗಳಿಗಾಗಿ	",
+	"	B. ದೇವರಿಗಾಗಿ	",
+	"	C. ಬೇರ್ಪಡುವಿಕೆಗಾಗಿ	",
+	"	D. ದೈವ ನಿರ್ಣಯದಂತೆ	"
 ],			
-"correct" :	"	b. God.	",
-"explanation" :	"	Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.Rom6:11	",
+"correct" :	"	B. ದೇವರಿಗಾಗಿ	",
+"explanation" :	"	ಅದೇ ಪ್ರಕಾರ ನೀವು ಸಹ ನಿಮ್ಮನ್ನು ಕ್ರಿಸ್ತ ಯೇಸುವಿನ ಐಕ್ಯದಿಂದ ಪಾಪದ ಪಾಲಿಗೆ ಸತ್ತವರೂ ದೇವರಿಗಾಗಿ ಜೀವಿಸುವವರೂ ಎಂದು ಎಣಿಸಿಕೊಳ್ಳಿರಿ. 6:11	",
 },			
 {			
-"question" :	"	6. Do not let this reign in your body.	",
+"question" :	"	6 ಇದು ನಿಮ್ಮ ದೇಹದಲ್ಲಿ ಆಳ್ವಿಕೆ ಮಾಡದಂತೆ ನೋಡಿಕೊಳ್ಳಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Holiness	",
-	"	b. Justification	",
-	"	c. Sin	",
-	"	d. Good works	"
+	"	A. ಪರಿಶುದ್ದತ್ವ	",
+	"	B. ನ್ಯಾಯ	",
+	"	C. ಪಾಪ	",
+	"	D. ಒಳ್ಳೇ ಕಾರ್ಯಗಳು	"
 ],			
-"correct" :	"	c. Sin	",
-"explanation" :	"	Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.Rom6:12	",
+"correct" :	"	C. ಪಾಪ	",
+"explanation" :	"	ಹೀಗಿರುವದರಿಂದ ಸಾಯತಕ್ಕ ನಿಮ್ಮ ದೇಹದ ಮೇಲೆ ಪಾಪಗಳನ್ನು ಆಳಗೊಡಿಸಿ ನೀವು ದೇಹದ ದುರಾಶೆಗಳಿಗೆ ಒಳಪಡಬೇಡಿರಿ. 6:12	",
 },			
 {			
-"question" :	"	7. We are not under the law, but rather under this.	",
+"question" :	"	7 ನೀವು ಧರ್ಮಶಾಸ್ತ್ರಕ್ಕೆ ಅಧೀನರಲ್ಲ, _________ ಅಧೀನರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bondage	",
-	"	b. Grace	",
-	"	c. Works	",
-	"	d. Tradition of men	"
+	"	A. ಬಂಧನಕ್ಕೆ	",
+	"	B. ಕೃಪೆಗೆ	",
+	"	C. ಕೆಲಸಗಳಿಗೆ	",
+	"	D. ಮನುಷ್ಯರ ಸಂಪ್ರದಾಯಗಳು	"
 ],			
-"correct" :	"	b. Grace	",
-"explanation" :	"	For sin shall not have dominion over you: for ye are not under the law, but under grace.Rom6:14	",
+"correct" :	"	B. ಕೃಪೆಗೆ	",
+"explanation" :	"	ಯಾಕಂದರೆ ಪಾಪವು ನಿಮ್ಮ ಮೇಲೆ ಅಧಿಕಾರನಡಿಸದು; ನೀವು ಧರ್ಮಶಾಸ್ತ್ರಕ್ಕೆ ಅಧೀನರಲ್ಲ, ಕೃಪೆಗೆ ಅಧೀನರಾಗಿದ್ದೀರಷ್ಟೆ. 6:14	",
 },			
 {			
-"question" :	"	8. Being made free from sin, you become the servant of	",
+"question" :	"	8 ಪಾಪದಿಂದ ಬಿಡುಗಡೆ ಹೊಂದಿ ____ ದಾಸರಾಗಿದ್ದೀರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The devil.	",
-	"	b. Righteousness.	",
-	"	c. The world.	",
-	"	d. The night.	"
+	"	A. ದೆವ್ವಗಳಿಗೆ	",
+	"	B. ನೀತಿಗೆ	",
+	"	C. ಲೋಕಕ್ಕೆ	",
+	"	D. ಇರುಳಿಗೆ	"
 ],			
-"correct" :	"	b. Righteousness.	",
-"explanation" :	"	Being then made free from sin, ye became the servants of righteousness.Rom6:18	",
+"correct" :	"	B. ನೀತಿಗೆ	",
+"explanation" :	"	ಪಾಪದಿಂದ ಬಿಡುಗಡೆಯನ್ನು ಹೊಂದಿ ನೀತಿಗೆ ದಾಸರಾದದರಿಂದಲೂ ದೇವರಿಗೆ ಸ್ತೋತ್ರವಾಗಲಿ.  6:18	",
 },			
 {			
-"question" :	"	9. The wages of sin is	",
+"question" :	"	9 ಪಾಪದ ಸಂಬಳ ______	",
 "image" :	"",		
 "choices" : [			
-	"	a. Abundant.	",
-	"	b. Death.	",
-	"	c. Without remorse.	",
-	"	d. Of God.	"
+	"	A. ಅಪರಿಮಿತ	",
+	"	B. ಮರಣ	",
+	"	C. ಕನಿಕರವಿಲ್ಲದೆ	",
+	"	D. ದೇವರದು	"
 ],			
-"correct" :	"	b. Death.	",
-"explanation" :	"	For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.Rom6:23	",
+"correct" :	"	B. ಮರಣ	",
+"explanation" :	"	ಯಾಕಂದರೆ ಪಾಪವು ಕೊಡುವ ಸಂಬಳ ಮರಣ; ದೇವರ ಉಚಿತಾರ್ಥವರವು ನಮ್ಮ ಕರ್ತನಾದ ಕ್ರಿಸ್ತ ಯೇಸುವಿನಲ್ಲಿರುವ ನಿತ್ಯಜೀವ. 6:23	",
 },			
 {			
-"question" :	"	10. The gift of God 	",
+"question" :	"	10 ದೇವರ ಉಚಿತಾರ್ಥ ವರವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Is eternal life.	",
-	"	b. Comes with a price.	",
-	"	c. Cannot be renamed.	",
-	"	d. Is received by the righteous.	"
+	"	A. ನಿತ್ಯಜೀವವು	",
+	"	ಆ ಬೆಲೆಯೊಂದಿಗೆ ಸಿಗುವುದು	",
+	"	C. ಮತ್ತೆ ಹೆಸರಿಸಲಾಗುವುದಿಲ್ಲ	",
+	"	D. ನೀತಿವಂತರು ಹೊಂದುವರು	"
 ],			
-"correct" :	"	a. Is eternal life.	",
-"explanation" :	"	For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.Rom6:23	",
+"correct" :	"	A. ನಿತ್ಯಜೀವವು	",
+"explanation" :	"	ಯಾಕಂದರೆ ಪಾಪವು ಕೊಡುವ ಸಂಬಳ ಮರಣ; ದೇವರ ಉಚಿತಾರ್ಥವರವು ನಮ್ಮ ಕರ್ತನಾದ ಕ್ರಿಸ್ತ ಯೇಸುವಿನಲ್ಲಿರುವ ನಿತ್ಯಜೀವ. 6:23	",
 },			
 ]			

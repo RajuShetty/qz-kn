@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 13";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. David asked the captains, and leaders, and congregation, about getting this.	",

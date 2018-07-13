@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 22";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. He was Ahaziah’s father.	",

@@ -1,7 +1,7 @@
-var quiztitle = " Joshua  chapter 15";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter gives an account of the area assigned to this tribe.	",
+"question" :	"	1. This ಅಧ್ಯಾಯ gives an account of the area assigned to this tribe.	",
 "image" :	"",		
 "choices" : [			
 	"	a. Judah	",

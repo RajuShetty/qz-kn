@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 15";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus said, the scribes and Pharisees made this commandment, of none effect by their tradition.	",
+"question" :	"	1 ಯೇಸು ಹೇಳಿದ್ದು, ಸದ್ದುಕಾಯರು ಮತ್ತು ಫರಿಸಾಯರು ಈ ಆಜ್ಞೆಯನ್ನು  ನಿರರ್ಥಕ ಪಡಿಸಿದ್ದಾರೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Thou shalt not lie	",
-	"	b. Thou shalt not steal	",
-	"	c. Remember the Sabbath day to keep it holy	",
-	"	d. Honor thy father & thy mother	"
+	"	A. ನೀನು ಸುಳ್ಳು ಹೇಳಬಾರದು	",
+	"	B. ನೀನು ಕದಿಯಬಾರದು	",
+	"	C. ಸಬ್ಬತ್ ದಿನವನ್ನು ಪರಿಶುದ್ದವಾಗಿಡಲು ಮರೆಯಬಾರದು	",
+	"	D. ನಿನ್ನ ತಂದೆ ತಾಯಿಯನ್ನು ಸನ್ಮಾನಿಸಬೇಕು	"
 ],			
-"correct" :	"	d. Honor thy father & thy mother	",
-"explanation" :	"	For God commanded, saying, 'Honor your father and your mother'; and, He who curses father or mother, let him be put to death.But you say, Whoever says to his father or mother, Whatever profit you might have received from me is a gift to God--then he need not honor his father or mother. Thus you have made the commandment of God of no effect by your tradition. - Matt 15:4 to 6	",
+"correct" :	"	D. ನಿನ್ನ ತಂದೆ ತಾಯಿಯನ್ನು ಸನ್ಮಾನಿಸಬೇಕು	",
+"explanation" :	"	ನಾನು ನಿನ್ನ ಸಂರಕ್ಷಣೆಗಾಗಿ ಕೊಡತಕ್ಕದ್ದನ್ನು ದೇವರಿಗಾಗಿ ಇಟ್ಟಿದ್ದೇನೆ ಎಂದು ಹೇಳುವದಾದರೆ ಅವನಿಗೆ ತನ್ನ ತಂದೆತಾಯಿಗಳನ್ನು ಸನ್ಮಾನಿಸಬೇಕಾದದ್ದಿಲ್ಲ ಅನ್ನುತ್ತೀರಿ.  ಹೀಗೆ ನಿಮ್ಮ ಸಂಪ್ರದಾಯದ ನಿಮಿತ್ತ ದೇವರ ವಾಕ್ಯವನ್ನು ನಿರರ್ಥಕ ಮಾಡಿದ್ದೀರಿ.  ಮತ್ತಾಯ 15:5-6	",
 },			
 {			
-"question" :	"	2. Isaiah prophesied saying, the people honor me with their lips, but this is far from me.	",
+"question" :	"	2 ಯೆಶಾಯನು ಹೀಗೆ ಪ್ರವಾದಿಸಿದನು, ಈ ಮನುಷ್ಯರೋ ಮಾತಿನಿಂದ ನನ್ನನ್ನು  ಸನ್ಮಾನಿಸುತ್ತಾರೆ, ಆದರೆ ಇದು ನನಗೆ ದೂರವಾಗಿದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Their actions	",
-	"	b. Their minds	",
-	"	c. Their thoughts	",
-	"	d. Their hearts	"
+	"	A. ಅವರ ಕೃತ್ಯಗಳು	",
+	"	B. ಅವರ ಮನಸು	",
+	"	C. ಅವರ ಯೋಚನೆಗಳು	",
+	"	D. ಅವರ ಹೃದಯ	"
 ],			
-"correct" :	"	d. Their hearts	",
-"explanation" :	"	Hypocrites! Well did Isaiah prophesy about you, saying:These people draw near to Me with their mouth, And honor Me with their lips, But their heart is far from Me. - Matt 15:7 to 8	",
+"correct" :	"	B. ಅವರ ಮನಸು	",
+"explanation" :	"	ಈ ಜನರು ಮಾತಿನಿಂದ ನನ್ನನ್ನು ಸನ್ಮಾನಿಸುತ್ತಾರೆ, ಆದರೆ ಅವರ ಮನಸ್ಸು ನನಗೆ ದೂರವಾಗಿದೆ.  ಮತ್ತಾಯ 15:8	",
 },			
 {			
-"question" :	"	3. What will happen if the blind lead the blind?	",
+"question" :	"	3. ಕುರುಡನು ಕುರುಡನಿಗೆ ದಾರಿ ತೋರಿಸಿದರೆ ಏನಾಗುತ್ತದೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. They will both fall in a ditch.	",
-	"	b. They will both find their way.	",
-	"	c. They will both be healed.	",
-	"	d. One shall fall, the other lift him up.	"
+	"	A. ಇಬ್ಬರೂ ಹಳ್ಳದಲ್ಲಿ ಬೀಳುವರು	",
+	"	B. ಇಬ್ಬರೂ ತಮ್ಮ ದಾರಿಯನ್ನು ಕಂಡುಕೊಳ್ಳುವರು	",
+	"	C. ಅವರಿಬ್ಬರೂ ಗುಣಹೊಂದುವರು	",
+	"	D. ಒಬ್ಬನೂ ಬಿದ್ದು ಹೋದರೂ, ಇನ್ನೊಬ್ಬನು ಎತ್ತುವನು.	"
 ],			
-"correct" :	"	a. They will both fall in a ditch.	",
-"explanation" :	"	Let them alone. They are blind leaders of the blind. And if the blind leads the blind, both will fall into a ditch. - Matt 15:14	",
+"correct" :	"	A. ಇಬ್ಬರೂ ಹಳ್ಳದಲ್ಲಿ ಬೀಳುವರು	",
+"explanation" :	"	ತಾವೇಕುರುಡರು, ಮತ್ತೊಬ್ಬರಿಗೆ ದಾರಿ ತೋರಿಸುವದಕ್ಕೆ ಹೋಗುತ್ತಾರೆ; ಕುರುಡನು ಕುರುಡನಿಗೆ ದಾರಿತೋರಿಸಿದರೆ ಅವರಿಬ್ಬರೂ ಕುಣಿಯಲ್ಲಿ ಬೀಳುವರು.  ಮತ್ತಾಯ 15:15	",
 },			
 {			
-"question" :	"	4. Jesus said, the things that proceed from the mouth	",
+"question" :	"	4. ಯೇಸು ಹೇಳಿದ್ದು, _________ ಬಾಯಲ್ಲಿ ಬರುವುದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Come from the brain.	",
-	"	b. Can cause strife.	",
-	"	c. Come from the heart.	",
-	"	d. Cannot be taken back.	"
+	"	A. ಮೆದುಳಿನಲ್ಲಿರುವುದೇ	",
+	"	B. ಜಗಳ ಮಾಡುವುದೇ	",
+	"	C. ಮನಸ್ಸಿನೊಳಗಿಂದ	",
+	"	D. ಹಿಂತೆಗೆದುಕೊಳ್ಳಲಾಗುವುದಿಲ್ಲ	"
 ],			
-"correct" :	"	c. Come from the heart.	",
-"explanation" :	"	But those things which proceed out of the mouth come from the heart, and they defile a man.- Matt 15:18	",
+"correct" :	"	C. ಮನಸ್ಸಿನೊಳಗಿಂದ	",
+"explanation" :	"	ಆದರೆ ಬಾಯೊಳಗಿಂದ ಹೊರಡುವಂಥವುಗಳು ಮನಸ್ಸಿನೊಳಗಿಂದ ಬರುತ್ತವೆ  ಮತ್ತಾಯ 15:18	",
 },			
 {			
-"question" :	"	5. When a woman from Canaan wanted Jesus to heal her daughter that was vexed with a devil, what was His first answer?	",
+"question" :	"	5 ಕಾನಾನ್ಯ ಸ್ತ್ರೀಯು ಯೇಸುವನ್ನು ದೆವ್ವಗಳಿಂದ ಪೀಡಿಸಲ್ಪಡುತ್ತಿರುವ ತನ್ನ ಮಗಳನ್ನು ಸೌಖ್ಯಪಡಿಸು ಎಂದು ಕೇಳಿದಾಗ ಯೇಸು ಮೊದಲು ಹೇಳಿದ್ದೇನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. I shall heal her.	",
-	"	b. Be it according to your faith.	",
-	"	c. I am not sent, but to the lost sheep of Israel.	",
-	"	d. Your faith is not strong enough.	"
+	"	A. ನಾನು ಆಕೆಯನ್ನು ಸೌಖ್ಯ ಮಾಡುತ್ತೇನೆ	",
+	"	B. ನಿನ್ನ ನಂಬಿಕಯಂತೆಯೇ ಆಗುವುದು	",
+	"	C. ತಪ್ಪಿಹೋದ ಕುರಿಗಳಂತಿರುವ ಇಸ್ರಾಯೇಲ್ಯರ ಬಳಿಗೇ ಹೊರತು ಇನ್ಯಾರ ಬಳಿಗೂ ಕಳುಹಿಷಲ್ಪಟ್ಟವನಲ್ಲ	",
+	"	D. ನಿಮ್ಮ ನಂಬಿಕೆಯು ಸಾಕಾಗಿಲ್ಲ	"
 ],			
-"correct" :	"	c. I am not sent, but to the lost sheep of Israel.	",
-"explanation" :	"	And behold, a woman of Canaan came from that region and cried out to Him, saying, Have mercy on me, O Lord, Son of David! My daughter is severely demon-possessed.But He answered her not a word. And His disciples came and urged Him, saying, Send her away, for she cries out after us.But He answered and said, I was not sent except to the lost sheep of the house of Israel. - Matt 15:22 to 24	",
+"correct" :	"	C. ತಪ್ಪಿಹೋದ ಕುರಿಗಳಂತಿರುವ ಇಸ್ರಾಯೇಲ್ಯರ ಬಳಿಗೇ ಹೊರತು ಇನ್ಯಾರ ಬಳಿಗೂ ಕಳುಹಿಷಲ್ಪಟ್ಟವನಲ್ಲ	",
+"explanation" :	"	ಅದಕ್ಕಾತನು, ತಪ್ಪಿಸಿಕೊಂಡ ಕುರಿಗಳಂತಿರುವ ಇಸ್ರಾಯೇಲಿನ ಮನೆತನದವರ ಬಳಿಗೇ ಹೊರತು ಮತ್ತಾರ ಬಳಿಗೂ ನಾನು ಕಳುಹಿಸಲ್ಪಟ್ಟವನಲ್ಲ ಅಂದನು.  ಮತ್ತಾಯ 15:24	",
 },			
 {			
-"question" :	"	6. What did the woman say the dogs are allowed to eat?	",
+"question" :	"	6 ನಾಯಿಗಳು ಯಾವುದನ್ನು ತಿಂದು ಬದುಕುತ್ತವೆ ಎಂದು ಆ ಸ್ತ್ರೀ ಹೇಳಿದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bones	",
-	"	b. Crumbs	",
-	"	c. Meat	",
-	"	d. Lost sheep	"
+	"	A. ಮೂಳೆ	",
+	"	B. ರೊಟ್ಟಿ ತುಣುಕುಗಳೂ	",
+	"	C. ಮಾಂಸ	",
+	"	D. ತಪ್ಪಿಹೋದ ಕುರಿ	"
 ],			
-"correct" :	"	b. Crumbs	",
-"explanation" :	"	And she said, Yes, Lord, yet even the little dogs eat the crumbs which fall from their masters' table. - Matt 15:27	",
+"correct" :	"	B. ರೊಟ್ಟಿ ತುಣುಕುಗಳೂ	",
+"explanation" :	"	ಸ್ವಾಮೀ, ಆ ಮಾತು ನಿಜವೇ, ನಾಯಿಮರಿಗಳಂತೂ ತಮ್ಮ ಯಜಮಾನರ ಮೇಜಿನಿಂದ ಬೀಳುವ ರೊಟ್ಟಿಯ ತುಂಡುಗಳನ್ನು ತಿನ್ನುತ್ತವಲ್ಲಾ ಅಂದಳು.      ಮತ್ತಾಯ 15: 27	",
 },			
 {			
-"question" :	"	7. What did Jesus tell the woman?	",
+"question" :	"	7 ಯೇಸು ಆ ಹೆಂಗಸಿಗೆ ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. You are part of the fold.	",
-	"	b. My sheep know my voice.	",
-	"	c. See that you tell no man.	",
-	"	d. Great is thy faith.	"
+	"	A. ನೀನು ಆ ಗುಂಪಿನಲ್ಲಿ ಒಬ್ಬಳು	",
+	"	B. ನನ್ನ ಕುರಿಗಳು ನನ್ನ ಸ್ವರವನ್ನು ತಿಳಿದಿವೆ	",
+	"	C. ನೀನು ಯಾರಿಗು ಹೇಳಬೇಡ ನೋಡು	",
+	"	D. ನಿನ್ನ ನಂಬಿಕೆಯು ಬಹಳ	"
 ],			
-"correct" :	"	c. See that you tell no man.	",
-"explanation" :	"	And behold, a woman of Canaan came from that region and cried out to Him, saying, Have mercy on me, O Lord, Son of David! My daughter is severely demon-possessed.But He answered her not a word. And His disciples came and urged Him, saying, Send her away, for she cries out after us. - Matt 15:22 to 23	",
+"correct" :	"	D. ನಿನ್ನ ನಂಬಿಕೆಯು ಬಹಳ	",
+"explanation" :	"	ಆಗ ಯೇಸು ಆಕೆಗೆ, ಅಮ್ಮಾ ನಿನ್ನ ನಂಬಿಕೆ ಬಹಳ; ನಿನ್ನ ಮನಸ್ಸಿನಂತೆ ಆಗಲಿ ಎಂದು ಉತ್ತರಕೊಟ್ಟನು.  ಮತ್ತಾಯ 15:28	",
 },			
 {			
-"question" :	"	8. What did Jesus use to feed the multitude?	",
+"question" :	"	8 ಜನರ ಗುಂಪಿಗೆ ಉಣಿಸಲು ಯೇಸು ಏನನ್ನು ಬಳಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 7 loaves & a few fish	",
-	"	b. 7 fish & 3 loaves	",
-	"	c. 2 loaves & 5 fish	",
-	"	d. 5 loaves & 5 fish	"
+	"	A. 7 ರೊಟ್ಟಿ ಮತ್ತು ಕೆಲವು ಮೀನುಗಳು]	",
+	"	B. 7 ಮೀನು ಮತ್ತು 5 ರೊಟ್ಟಿ	",
+	"	C. 2 ರೊಟ್ಟಿ ಮತ್ತು 5 ಮೀನು	",
+	"	D. 5 ರೊಟ್ಟಿ ಮತ್ತು 5 ಮೀನು	"
 ],			
-"correct" :	"	a. 7 loaves & a few fish	",
-"explanation" :	"	But He answered and said, I was not sent except to the lost sheep of the house of Israel. - Matt 15:24	",
+"correct" :	"	A. 7 ರೊಟ್ಟಿ ಮತ್ತು ಕೆಲವು ಮೀನುಗಳು]	",
+"explanation" :	"	ಯೇಸು ನಿಮ್ಮಲ್ಲಿ ಎಷ್ಟು ರೊಟ್ಟಿಗಳಿವೆ ಎಂದು ಕೇಳಿದ್ದಕ್ಕೆ ಅವರು ಏಳು ರೊಟ್ಟಿಗಳು ಮತ್ತು ಕೆಲವು ಸಣ್ಣ ಮೀನುಗಳು ಅವೆ ಅಂದರು.  ಮತ್ತಾಯ 15:24	",
 },			
 {			
-"question" :	"	9. How many basketsful were left over?	",
+"question" :	"	9 ಎಷ್ಟು ಹೆಡಿಗೆಗಳು ಮಿಕ್ಕಿದವು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1	",
-	"	b. 6	",
-	"	c. 7	",
-	"	d. 12	"
+	"	A. 1	",
+	"	B. 6	",
+	"	C. 7	",
+	"	D. 12	"
 ],			
-"correct" :	"	c. 7	",
-"explanation" :	"	So they all ate and were filled, and they took up seven large baskets full of the fragments that were left. - Matt 15:37	",
+"correct" :	"	C. 7	",
+"explanation" :	"	ಮಿಕ್ಕ ತುಂಡುಗಳನ್ನು ಕೂಡಿಸಲಾಗಿ ಏಳು ಹೆಡಿಗೆ ತುಂಬಿದವು    ಮತ್ತಾಯ 15:37	",
 },			
 {			
-"question" :	"	10. How many men were fed?	",
+"question" :	"	10 ಎಷ್ಟು ಜನ ಗಂಡಸರು ಊಟ ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1,000	",
-	"	b. 2,000	",
-	"	c. 3,000	",
-	"	d. 4,000	"
+	"	A. 1000	",
+	"	B. 2000	",
+	"	C. 3000	",
+	"	D. 4000	"
 ],			
-"correct" :	"	d. 4,000	",
-"explanation" :	"	Now those who ate were four thousand men, besides women and children. - Matt 15:38	",
+"correct" :	"	D. 4000	",
+"explanation" :	"	ಊಟ ಮಾಡಿದವರು ಹೆಂಗಸರು ಮಕ್ಕಳು ಅಲ್ಲದೆ ಗಂಡಸರೇ ನಾಲ್ಕು ಸಾವಿರ ಮಂದಿ. ಮತ್ತಾಯ 15:38	",
 },			
 ]			

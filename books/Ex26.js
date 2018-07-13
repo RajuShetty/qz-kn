@@ -1,7 +1,7 @@
-var quiztitle = " Exodus   chapter 26";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 26";			
 var quiz = [			
 {			
-"question" :	"	1. In this chapter God is giving Moses instructions to make	",
+"question" :	"	1. In this ಅಧ್ಯಾಯ God is giving Moses instructions to make	",
 "image" :	"",		
 "choices" : [			
 	"	a. The ark of the covenant.	",

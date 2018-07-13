@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 15";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
-"question" :	"	1. What did the people cry should be done to Jesus?	",
+"question" :	"	1 ಯೇಸುವಿಗೆ ಏನು ಮಾಡಬೇಕೆಂದು ಜನರು ಕೂಗಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Release Him.	",
-	"	b. Scourge Him.	",
-	"	c. Crucify Him.	",
-	"	d. Praise Him.	"
+	"	A. ಆತನನ್ನು ಬಿಟ್ಟುಬಿಡಬೇಕು	",
+	"	B. ಆತನಿಗೆ ಛಡಿ ಏಟು ನೀಡಬೇಕು	",
+	"	C. ಆತನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕಬೇಕು	",
+	"	D. ಆತನಿಗೆ ಸ್ತೂತ್ರ ಸಲ್ಲಿಸಬೇಕು	"
 ],			
-"correct" :	"	c. Crucify Him.	",
-"explanation" :	"	Pilate answered and said to them again, What then do you want me to do with Him whom you call the King of the Jews?So they cried out again, Crucify Him - Mr 15:12-13	",
+"correct" :	"	C. ಆತನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕಬೇಕು	",
+"explanation" :	"	ಅದಕ್ಕೆ ಪಿಲಾತನು ತಿರಿಗಿ ಅವರನ್ನು ಹಾಗಾದರೆ ನೀವು ಹೇಳುವ ಯೆಹೂದ್ಯರ ಅರಸನನ್ನು ನಾನೇನು ಮಾಡಲಿ ಎಂದು ಕೇಳಲು ಅವರು ಅವನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕಿಸು ಎಂದು ತಿರುಗಿ ಬೊಬ್ಬೆ ಹಾಕಿದರು.  ಮಾರ್ಕ 15:12-13	",
 },			
 {			
-"question" :	"	2. What did Pilate do to Jesus?	",
+"question" :	"	2 ಪಿಲಾತನು ಯೇಸುವಿಗೆ ಏನು ಮಾಡಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Released Him	",
-	"	b. Scourged Him	",
-	"	c. Beheaded Him	",
-	"	d. Had mercy on Him	"
+	"	A. ಆತನನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟನು	",
+	"	B. ಆತನನ್ನು ಕೊರಡೆಗಳಿಂದ ಹೊಡೆಸಿದನು	",
+	"	C. ಆತನ ತಲೆ ತೆಗೆಸಿದನು	",
+	"	D. ಆತನ ಮೇಲೆ ಕರುಣೆ ಹೊಂದಿದನು	"
 ],			
-"correct" :	"	b. Scourged Him	",
-"explanation" :	"	So Pilate, wanting to gratify the crowd, released Barabbas to them; and he delivered Jesus, after he had scourged Him, to be crucified. - Mr 15:15	",
+"correct" :	"	B. ಆತನನ್ನು ಕೊರಡೆಗಳಿಂದ ಹೊಡೆಸಿದನು	",
+"explanation" :	"	ಅದಕ್ಕೆ ಪಿಲಾತನು ಜನರ ಮನಸ್ಸನ್ನು ಸಮಾಧಾನಪಡಿಸಬೇಕೆಂದು ಬರಬ್ಬನನ್ನು ಅವರಿಗೆ ಬಿಟ್ಟುಕೊಟ್ಟು ಯೇಸುವನ್ನು ಕೊರಡೆಗಳಿಂದ ಹೊಡಿಸಿ ಶಿಲುಬೆಗೆ ಹಾಕುವದಕ್ಕೆ ಒಪ್ಪಿಸಿದನು.  ಮಾರ್ಕ 15:14-15	",
 },			
 {			
-"question" :	"	3. What did the soldiers put on Jesus' head?	",
+"question" :	"	3 ಯೇಸುವಿನ ತಲೆಯ ಮೇಲೆ ಸೈನಿಕರು ಏನು ಇಟ್ಟರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A bowl	",
-	"	b. A gold crown	",
-	"	c. A crown of thorns	",
-	"	d. Vinegar	"
+	"	A. ಒಂದು ಬಟ್ಟಲು	",
+	"	B. ಚಿನ್ನದ ಕಿರೀಟ	",
+	"	C. ಮುಳ್ಳಿನ ಕಿರೀಟ	",
+	"	D. ಹುಳಿರಸ	"
 ],			
-"correct" :	"	c. A crown of thorns	",
-"explanation" :	"	And they clothed Him with purple; and they twisted a crown of thorns, put it on His head, - Mr 15:17	",
+"correct" :	"	C. ಮುಳ್ಳಿನ ಕಿರೀಟ	",
+"explanation" :	"	ಆತನಿಗೆ ಕೆಂಪು ಒಲ್ಲಿಯನ್ನು ಹೊದಿಸಿ ಮುಳ್ಳಿನ ಕಿರೀಟವನ್ನು ಹೆಣೆದು ಆತನಿಗಿಟ್ಟು..  ಮಾರ್ಕ 15:17	",
 },			
 {			
-"question" :	"	4. They compelled this Cyrenian to carry the cross.	",
+"question" :	"	4 ಶಿಲುಬೆಯನ್ನು ಹೊರುವುದಕ್ಕೆ ಅವರು ಕುರೇನ ಪಟ್ಟಣದ ಯಾರನ್ನು ಬಿಟ್ಟೀ ಹಿಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Simon	",
-	"	b. Enoch	",
-	"	c. Ramath	",
-	"	d. Barabbas	"
+	"	A. ಸೀಮೋನ	",
+	"	B. ಹನೋಕ	",
+	"	C. ರಾಮತ್	",
+	"	D. ಬರಬ್ಬರ	"
 ],			
-"correct" :	"	a. Simon	",
-"explanation" :	"	Then they compelled a certain man, Simon a Cyrenian, the father of Alexander and Rufus, as he was coming out of the country and passing by, to bear His cross. - Mr 15:21	",
+"correct" :	"	A. ಸೀಮೋನ	",
+"explanation" :	"	ಆಗ ಹೊಲದಿಂದ ಹೊರಟು ಆ ಮಾರ್ಗವಾಗಿ ಬರುತ್ತಿದ್ದ ಒಬ್ಬನನ್ನು ಆತನ ಶಿಲುಬೆಯನ್ನು ಹೊರುವದಕ್ಕೆ ಬಿಟ್ಟೀ ಹಿಡಿದರು.  ಮಾರ್ಕ 15:21	",
 },			
 {			
-"question" :	"	5. What did they do with Jesus clothes?	",
+"question" :	"	5 ಯೇಸುವಿನ ಬಟ್ಟೆಯನ್ನು ಅವರು ಏನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sold them	",
-	"	b. Burned them	",
-	"	c. Cast lots for them	",
-	"	d. Gave them to His mother	"
+	"	A. ಅವುಗಳನ್ನು ಮಾರಿದರು	",
+	"	B. ಅವುಗಳನ್ನು ಸುಟ್ಟುಹಾಕಿದರು	",
+	"	C. ಅವುಗಳಿಗಾಗಿ ಚೀಟು ಹಾಕಿದರು	",
+	"	D. ಅವುಗಳನ್ನು ಅವನ ತಾಯಿಗೆ ನೀಡಿದರು	"
 ],			
-"correct" :	"	c. Cast lots for them	",
-"explanation" :	"	And when they crucified Him, they divided His garments, casting lots for them to determine what every man should take. - Mr 15:24	",
+"correct" :	"	C. ಅವುಗಳಿಗಾಗಿ ಚೀಟು ಹಾಕಿದರು	",
+"explanation" :	"	ಅವರು ಆತನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕಿ ಆತನ ಬಟ್ಟೆಗಳಲ್ಲಿ ಯಾವ ಯಾವದು ಯಾರಾರಿಗೆ ಆಗಬೇಕೆಂದು ಚೀಟುಹಾಕಿ ಪಾಲುಮಾಡಿಕೊಂಡರು.  ಮಾರ್ಕ 15:24	",
 },			
 {			
-"question" :	"	6. Jesus was crucified between two	",
+"question" :	"	6 ಯೇಸು ಎರಡು ___________ ನಡುವೆ ಶಿಲುಬೆಗೆ ಹಾಕಲ್ಪಟ್ಟರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rocks.	",
-	"	b. Trees.	",
-	"	c. Mountains.	",
-	"	d. Thieves.	"
+	"	A. ಬಂಡೆಗಳ	",
+	"	B. ಮರಗಳ	",
+	"	C. ಬೆಟ್ಟಗಳ	",
+	"	D. ಕಳ್ಳರ	"
 ],			
-"correct" :	"	d. Thieves.	",
-"explanation" :	"	With Him they also crucified two robbers, one on His right and the other on His left. - Mr 15:27	",
+"correct" :	"	D. ಕಳ್ಳರ	",
+"explanation" :	"	ಅದಲ್ಲದೆ ಇಬ್ಬರು ಕಳ್ಳರನ್ನು ತಂದು ಒಬ್ಬನನ್ನು ಆತನ ಬಲಗಡೆಯಲ್ಲಿ ಒಬ್ಬನನ್ನು ಎಡಗಡೆಯಲ್ಲಿ ಆತನ ಸಂಗಡ ಶಿಲುಬೆಗೆ ಹಾಕಿದರು.  ಮಾರ್ಕ 15:27	",
 },			
 {			
-"question" :	"	7. At the cross they wagged their heads mocking, saying	",
+"question" :	"	7 ಅಲ್ಲಿ ಹಾದು ಹೋದವರು ತಲೆ ಆಡಿಸಿ ಏನಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. How big thou art now.	",
-	"	b. Save thyself.	",
-	"	c. Master, Master.	",
-	"	d. Thou Son of David.	"
+	"	A. ಈಗ ನೀನು ಎಷ್ಟು ದೊಡ್ಡವನು	",
+	"	B. ನಿನ್ನನ್ನು ರಕ್ಷಿಸಿಕೋ	",
+	"	C. ಗುರುವೇ ಗುರುವೇ	",
+	"	D. ನೀನು ದಾವೀದನ ಮಗನು	"
 ],			
-"correct" :	"	b. Save thyself.	",
-"explanation" :	"	And those who passed by blasphemed Him, wagging their heads and saying, Aha! You who destroy the temple and build it in three days,save Yourself, and come down from the cross - Mr 15:29-30	",
+"correct" :	"	B. ನಿನ್ನನ್ನು ರಕ್ಷಿಸಿಕೋ	",
+"explanation" :	"	ಅಲ್ಲಿ ಹಾದುಗೋಗುವವರು ತಲೇ ಆಡಿಸಿ ಆಹಾ, ದೇವಾಲಯವನ್ನು ಕೆಡವಿ ಮೂರು ದಿನದಲ್ಲಿ ಕಟ್ಟುವವನೇ, ಶಿಲುಬೆಯಿಂದ ಇಳಿದು ನಿನ್ನನ್ನು ರಕ್ಷಿಸಿಕೋ ಎಂದು ಆತನನ್ನು ಹಂಗಿಸುತ್ತಿದ್ದರು.  ಮಾರ್ಕ 15:29-30	",
 },			
 {			
-"question" :	"	8. This happened in the middle of the day for three hours.	",
+"question" :	"	8 ಇದು ಮದ್ಯಾಹ್ನದಿಂದ ಸಾಯಂಕಾಲ ಮೂರು ಗಂಟೆಯ ತನಕ ಇತ್ತು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The marketplace was closed.	",
-	"	b. There was a parade.	",
-	"	c. There was a celebration.	",
-	"	d. Darkness covered the land.	"
+	"	A. ಮಾರುಕಟ್ಟೆಯು ಮುಚ್ಚಲ್ಪಟ್ಟಿದ್ದು	",
+	"	B. ಅಲ್ಲಿ ಕವಾಯತು ನಡೆದಿತ್ತು	",
+	"	C. ಅಲ್ಲಿ ಸಂಭ್ರಮಾಚರಣೆ ಇತ್ತು	",
+	"	D. ದೇಶದ ಮೇಲೆಲ್ಲಾ ಕತ್ತಲು ಕವಿಯಿತು	"
 ],			
-"correct" :	"	d. Darkness covered the land.	",
-"explanation" :	"	Now when the sixth hour had come, there was darkness over the whole land until the ninth hour. - Mr 15:33	",
+"correct" :	"	D. ದೇಶದ ಮೇಲೆಲ್ಲಾ ಕತ್ತಲು ಕವಿಯಿತು	",
+"explanation" :	"	ಮಧ್ಯಾಹ್ನವಾದಾಗ ದೇಶದ ಮೇಲೆಲ್ಲಾ ಕತ್ತಲೆ ಕವಿದು ಸಾಯಂಕಾಲ ಮೂರು ಗಂಟೆಯ ತನಕ ಇತ್ತು.  ಮಾರ್ಕ 15:33	",
 },			
 {			
-"question" :	"	9. What did the centurion at the cross say, when Jesus gave up the ghost?	",
+"question" :	"	9 ಯೇಸು ಪ್ರಾಣ ಬಿಟ್ಟದ್ದನ್ನು ನೋಡಿ ಹತ್ತಿರದಲ್ಲಿದ್ದ ಶತಾಧಿಪತಿಯು ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He was a false prophet.	",
-	"	b. This was not fair.	",
-	"	c. Truly this man was the Son of God.	",
-	"	d. Man shall never be the same.	"
+	"	A. ಆತನು ಸುಳ್ಳು ಪ್ರವಾದಿ	",
+	"	B. ಇದು ನ್ಯಾಯವಲ್ಲ	",
+	"	C. ನಿಜವಾಗಿ ಈ ಮನುಷ್ಯನು ದೇವಕುಮಾರನಾಗಿದ್ದನು	",
+	"	D. ಮನುಷ್ಯರು ಎಂದಿಗೂ ಒಂದೇಯಾಗಿರುವುದಿಲ್ಲ	"
 ],			
-"correct" :	"	c. Truly this man was the Son of God.	",
-"explanation" :	"	So when the centurion, who stood opposite Him, saw that He cried out like this and breathed His last, he said, Truly this Man was the Son of God - Mr 15:39	",
+"correct" :	"	C. ನಿಜವಾಗಿ ಈ ಮನುಷ್ಯನು ದೇವಕುಮಾರನಾಗಿದ್ದನು	",
+"explanation" :	"	ಆತನು ಹೀಗೆ ಪ್ರಾಣಬಿಟ್ಟದ್ದನ್ನು ಆತನ ಹತ್ತಿರ ಎದುರಿಗೆ ನಿಂತಿದ್ದ ಶತಾಧಿಪತಿಯು ನೋಡಿ ನಿಜವಾಗಿ ಈ ಮನುಷ್ಯನು ದೇವಕುಮಾರನಾಗಿದ್ದನು ಅಂದನು.  ಮಾರ್ಕ 15:39	",
 },			
 {			
-"question" :	"	10. Jesus was crucified	",
+"question" :	"	10 ಯೇಸು ಶಿಲುಬೆಗೆ ಹಾಕಲ್ಪಟ್ಟಿದ್ದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The 1st day of the week.	",
-	"	b. The 3rd day of the week.	",
-	"	c. The day before the Sabbath.	",
-	"	d. The Sabbath.	"
+	"	A. ವಾರದ ಮೊದಲನೇ ದಿನ	",
+	"	B. ವಾರದ ಮೂರನೇ ದಿನ	",
+	"	C. ಸಬ್ಬತ್ ದಿನದ ಹಿಂದಿನ ದಿನ	",
+	"	D. ಸಬ್ಬತ್ ದಿನ	"
 ],			
-"correct" :	"	c. The day before the Sabbath.	",
-"explanation" :	"	Now when evening had come, because it was the Preparation Day, that is, the day before the Sabbath, - Mr 15:42	",
+"correct" :	"	C. ಸಬ್ಬತ್ ದಿನದ ಹಿಂದಿನ ದಿನ	",
+"explanation" :	"	ಆಗಲೇ ಸಂಜೆಯಾಗಿತ್ತು; ಮತ್ತು ಆ ದಿನವು ಸೌರಣೆಯ ದಿನ, ಅಂದರೆ ಸಬ್ಬತ್ ದಿನದ ಹಿಂದಿನ ದಿನ ಆಗಿತ್ತು.  ಮಾರ್ಕ 15: 42	",
 },			
 ]			

@@ -1,4 +1,4 @@
-var quiztitle = "2 Timothy chapter 2";			
+var quiztitle = "2 ತಿಮೊಥೆಯನಿಗೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಇದರಂತೆ ಶ್ರಮೆಯನ್ನನುಭವಿಸು.	",

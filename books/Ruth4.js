@@ -1,4 +1,4 @@
-var quiztitle = " Ruth chapter 4";			
+var quiztitle = " Ruth ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. Boaz sat here, and the kinsman came by.	",

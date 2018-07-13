@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 23";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
 "question" :	"	1. Jehoiada gathered those from this tribe to Jerusalem.	",

@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 7";			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
-"question" :	"	1. A woman is bound by the law to her husband	",
+"question" :	"	1 ಗಂಡನು _____ ಹೆಂಡತಿಯು ನ್ಯಾಯದ ಪ್ರಕಾರ ಅವನಿಗೆ ಬದ್ಧಳಾಗುವಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Through eternity.	",
-	"	b. As long as he lives.	",
-	"	c. Unless she pays for her freedom.	",
-	"	d. Until he breaks the law.	"
+	"	A. ನಿತ್ಯತ್ವದ ಮೂಲಕ	",
+	"	B. ಜೀವದಿಂದಿರುವವರೆಗೂ	",
+	"	C. ಆಕೆ ತನ್ನ ಬಿಡುಗಡೆಗಾಗಿ ಹಣ ಸಲ್ಲಿಸುವವರೆಗೂ	",
+	"	D. ಅವನು ನ್ಯಾಯ ಪ್ರಮಾಣ ಮುರಿಯುವವರೆಗೂ	"
 ],			
-"correct" :	"	b. As long as he lives.	",
-"explanation" :	"	For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband.Rom7:2	",
+"correct" :	"	B. ಜೀವದಿಂದಿರುವವರೆಗೂ	",
+"explanation" :	"	ಅದಕ್ಕೆ ದೃಷ್ಟಾಂತ - ಗಂಡನು ಜೀವದಿಂದಿರುವ ತನಕ ಹೆಂಡತಿಯು ನ್ಯಾಯದ ಪ್ರಕಾರ ಅವನಿಗೆ ಬದ್ಧಳಾಗಿರುವಳು; ಗಂಡನು ಸತ್ತರೆ ಗಂಡನ ಹಂಗು ಆಕೆಗೆ ತಪ್ಪುವದು 7:2	",
 },			
 {			
-"question" :	"	2. If a woman marry another when her husband is alive, she shall	",
+"question" :	"	2 ಗಂಡ ಬದುಕಿರುವಾಗಲೇ ಒಬ್ಬ ಮಹಿಳೆ ಇನ್ನೊಂದು ಮದುವೆ ಮಾಡಿಕೊಂಡರೆ, ಆಕೆ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. Be called an adulteress.	",
-	"	b. Be free.	",
-	"	c. Return to the first.	",
-	"	d. Die in her sin.	"
+	"	A. ವ್ಯಭಿಚಾರಿ ಎನಿಸಿಕೊಳ್ಳುವಳು	",
+	"	B. ಬಿಡುಗಡೆ ಹೊಂದುವಳು	",
+	"	C. ಮೊದಲನೆಯವನ ಬಳಿಗೆ ಹಿಂತಿರುಗುವಳು	",
+	"	D. ಅವಳ ಪಾಪದಲ್ಲಿ ಸಾಯುವಳು	"
 ],			
-"correct" :	"	a. Be called an adulteress.	",
-"explanation" :	"	 So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.Rom7:3	",
+"correct" :	"	A. ವ್ಯಭಿಚಾರಿ ಎನಿಸಿಕೊಳ್ಳುವಳು	",
+"explanation" :	"	ಹೀಗಿರಲಾಗಿ ಗಂಡನು ಜೀವದಿಂದಿರುವಾಗ ಆಕೆ ಬೇರೊಬ್ಬನನ್ನು ಸೇರಿದರೆ ವ್ಯಭಿಚಾರಿಣಿ ಎನಿಸಿಕೊಳ್ಳುವಳು. ಆದರೆ ಗಂಡನು ಸತ್ತ ಮೇಲೆ ಅವನ ಹಂಗು ತಪ್ಪಿದ್ದರಿಂದ ಆಕೆ ಮತ್ತೊಬ್ಬ ಗಂಡನನ್ನು ಮಾಡಿಕೊಂಡರೂ ವ್ಯಭಿಚಾರಿಣಿಯಲ್ಲ.  7:3	",
 },			
 {			
-"question" :	"	3. When we were in the flesh, sin worked in our members to bring forth fruit unto	",
+"question" :	"	3 ನಾವು ಶರೀರಸ್ವಭಾವದವರಾಗಿದ್ದಾಗ, ಪಾಪವು ನಮ್ಮಲ್ಲಿ ಕ್ರಿಯೆ ಮಾಡುತ್ತಾ ಯಾವುದಕ್ಕೆ ಫಲವನ್ನು ಹುಟ್ಟಿಸುತ್ತಿತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Satan.	",
-	"	b. God.	",
-	"	c. Life.	",
-	"	d. Death.	"
+	"	A. ಸೈತಾನ	",
+	"	B. ದೇವರು	",
+	"	C. ಜೀವ	",
+	"	D. ಮರಣ	"
 ],			
-"correct" :	"	d. Death.	",
-"explanation" :	"	For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.Rom7:5	",
+"correct" :	"	D. ಮರಣ	",
+"explanation" :	"	ನಾವು ಶರೀರಾಧೀನಸ್ವಭಾವವನ್ನು ಅನುಸರಿಸುತ್ತಿದ್ದಾಗ ದುರಾಶೆಗಳು ಧರ್ಮಶಾಸ್ತ್ರದಿಂದಲೇ ಪ್ರೇರಿತವಾಗಿ ನಮ್ಮ ಅಂಗಗಳಲ್ಲಿ ಯತ್ನೈಸುತ್ತಾ ಮರಣಕ್ಕೆ ಫಲವನ್ನು ಹುಟ್ಟಿಸುತ್ತಿದ್ದವು 7:5	",
 },			
 {			
-"question" :	"	4. Now that we are delivered from the law, we should serve in	",
+"question" :	"	4 ನಾವು ಧರ್ಮಶಾಸ್ತ್ರದಿಂದ ಬಿಡುಗಡೆ ಹೊಂದಿರುವವರಾಗಿ, ಈಗ ನಾವು ಹೇಗೆ ಸೇವಿಸಬೇಕು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sympathy.	",
-	"	b. Newness of spirit.	",
-	"	c. Death.	",
-	"	d. Agony.	"
+	"	A. ಅನುಕಂಪದಿಂದ	",
+	"	B. ನೂತನ ಆತ್ಮದಿಂದ	",
+	"	C. ಮರಣ	",
+	"	D. ವೇದನೆ	"
 ],			
-"correct" :	"	b. Newness of spirit.	",
-"explanation" :	"	But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.Rom7:6	",
+"correct" :	"	B. ನೂತನ ಆತ್ಮದಿಂದ	",
+"explanation" :	"	ಈಗಲಾದರೋ ನಮ್ಮನ್ನು ವಶಮಾಡಿಕೊಂಡಿದ್ದ ಧರ್ಮಶಾಸ್ತ್ರದ ಪಾಲಿಗೆ ನಾವು ಸತ್ತಕಾರಣ ಆ ಧರ್ಮಶಾಸ್ತ್ರದಿಂದ ವಿಮುಕ್ತರಾಗಿದ್ದೇವೆ. ಹೀಗಿರಲಾಗಿ ಶಾಸ್ತ್ರದ ಹೊರಗಣ ಅರ್ಥಕ್ಕೆ ಅನುಕೂಲವಾದ ಹಳೇ ರೀತಿಯಲ್ಲಿ ನಾವು ದೇವರನ್ನು ಸೇವಿಸುವವರಲ್ಲ. ಪವಿತ್ರಾತ್ಮಪ್ರೇರಿತವಾದ ಹೊಸ ರೀತಿಯಲ್ಲಿ ಆತನನ್ನು ಸೇವಿಸುವವರಾಗಿದ್ದೇವೆ. 7:6	",
 },			
 {			
-"question" :	"	5. We do not serve in the oldness of	",
+"question" :	"	5 ಹೀಗಿರಲಾಗಿ ನಾವು ಹಳೇ ರೀತಿಯಲ್ಲಿ ____ ಸೇವಿಸುವುದಿಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Generations.	",
-	"	b. The letter.	",
-	"	c. Body.	",
-	"	d. Honor.	"
+	"	A. ತಲೆಮಾರುಗಳನ್ನು	",
+	"	B. ಪತ್ರಗಳನ್ನು	",
+	"	C. ದೇಹವನ್ನು	",
+	"	D. ಗೌರವವನ್ನು	"
 ],			
-"correct" :	"	b. The letter.	",
-"explanation" :	"	But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not in the oldness of the letter.Rom7:6	",
+"correct" :	"	B. ಪತ್ರಗಳನ್ನು	",
+"explanation" :	"	ಈಗಲಾದರೋ ನಮ್ಮನ್ನು ವಶಮಾಡಿಕೊಂಡಿದ್ದ ಧರ್ಮಶಾಸ್ತ್ರದ ಪಾಲಿಗೆ ನಾವು ಸತ್ತಕಾರಣ ಆ ಧರ್ಮಶಾಸ್ತ್ರದಿಂದ ವಿಮುಕ್ತರಾಗಿದ್ದೇವೆ. ಹೀಗಿರಲಾಗಿ ಶಾಸ್ತ್ರದ ಹೊರಗಣ ಅರ್ಥಕ್ಕೆ ಅನುಕೂಲವಾದ ಹಳೇ ರೀತಿಯಲ್ಲಿ ನಾವು ದೇವರನ್ನು ಸೇವಿಸುವವರಲ್ಲ. ಪವಿತ್ರಾತ್ಮಪ್ರೇರಿತವಾದ ಹೊಸ ರೀತಿಯಲ್ಲಿ ಆತನನ್ನು ಸೇವಿಸುವವರಾಗಿದ್ದೇವೆ. 7:6	",
 },			
 {			
-"question" :	"	6. I would not have known sin except by this.	",
+"question" :	"	6 ಇದರಿಂದಾಗಿ ಹೊರತು ನನಗೆ ಪಾಪದ ಅರಿವು ಇರುತ್ತಿರಲಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. The law	",
-	"	b. Enticing words	",
-	"	c. The works of men	",
-	"	d. The words of angels	"
+	"	A. ಧರ್ಮಶಾಸ್ತ್ರ	",
+	"	B. ಆಕರ್ಷಕ ಮಾತುಗಳು	",
+	"	C. ಮನುಷ್ಯರ ಕಾರ್ಯಗಳು	",
+	"	D. ದೂತರ ಮಾತುಗಳು	"
 ],			
-"correct" :	"	a. The law	",
-"explanation" :	"	What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.Rom7;7	",
+"correct" :	"	A. ಧರ್ಮಶಾಸ್ತ್ರ	",
+"explanation" :	"	ಹಾಗಾದರೆ ಏನು ಹೇಳೋಣ? ಧರ್ಮಶಾಸ್ತ್ರವು ಪಾಪಸ್ವರೂಪವೋ? ಎಂದಿಗೂ ಅಲ್ಲ. ಧರ್ಮಶಾಸ್ತ್ರದಿಂದಲೇ ಹೊರತು ಪಾಪವೆಂಬದು ಏನೋ ನನಗೆ ಗೊತ್ತಾಗುತ್ತಿರಲಿಲ್ಲ. ದೃಷ್ಟಾಂತವಾಗಿ, ಆಶಿಸಬಾರದೆಂದು ಧರ್ಮಶಾಸ್ತ್ರವು ಹೇಳದಿದ್ದರೆ ದುರಾಶೆಯೆಂದರೆ ಏನೋ ನನಗೆ ತಿಳಿಯುತ್ತಿದ್ದಿಲ್ಲ. 7;7	",
 },			
 {			
-"question" :	"	7. Without the law, sin was	",
+"question" :	"	7 ಧರ್ಮಶಾಸ್ತ್ರವು ಇಲ್ಲದಿರುವಾಗ ಪಾಪವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Worse.	",
-	"	b. Dead.	",
-	"	c. Alive.	",
-	"	d. In hell.	"
+	"	A. ಕೆಟ್ಟದ್ದಾಗಿದೆ	",
+	"	B. ಅಚೇತನವಾಗಿದೆ	",
+	"	C. ಜೀವಂತವಾಗಿದೆ	",
+	"	D. ನರಕದಲ್ಲಿದೆ	"
 ],			
-"correct" :	"	b. Dead.	",
-"explanation" :	"	But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin was dead.Rom7:8	",
+"correct" :	"	B. ಅಚೇತನವಾಗಿದೆ	",
+"explanation" :	"	ಆದರೆ ಪಾಪವು ಈ ಆಜ್ಞೆಯಿಂದ ಅನುಕೂಲ ಹೊಂದಿ ಸಕಲವಿಧವಾದ ದುರಾಶೆಗಳನ್ನು ನನ್ನಲ್ಲಿ ಹುಟ್ಟಿಸಿತು. ಧರ್ಮಶಾಸ್ತ್ರವು ಇಲ್ಲದಿರುವಾಗ ಪಾಪವು ಅಚೇತನವಾಗಿದೆ. 7:8	",
 },			
 {			
-"question" :	"	8. The law is	",
+"question" :	"	8 ಧರ್ಮಶಾಸ್ತ್ರವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Unfair.	",
-	"	b. For Gentiles & Jews.	",
-	"	c. For Jews only.	",
-	"	d. Holy.	"
+	"	A. ಅನ್ಯಾಯಕರ	",
+	"	B. ಯೆಹೂದ್ಯರು ಮತ್ತು ಅನ್ಯರಿಗಾಗಿ	",
+	"	C. ಯೆಹೂದ್ಯರಿಗೆ ಮಾತ್ರ	",
+	"	D. ಪರಿಶುದ್ಧವಾದವರಿಗೆ	"
 ],			
-"correct" :	"	d. Holy.	",
-"explanation" :	"	Wherefore the law is holy, and the commandment holy, and just, and good.Rom7:12	",
+"correct" :	"	D. ಪರಿಶುದ್ಧವಾದವರಿಗೆ	",
+"explanation" :	"	ಹೀಗಿರಲಾಗಿ ಧರ್ಮಶಾಸ್ತ್ರವು ಪರಿಶುದ್ಧವಾದದ್ದು. ಮತ್ತು ಆಜ್ಞೆಯು ಪರಿಶುದ್ಧವೂ ನ್ಯಾಯವೂ ಹಿತವೂ ಆಗಿರುವಂಥದು ಸರಿ. 7:12	",
 },			
 {			
-"question" :	"	9. We are carnal, but the law is	",
+"question" :	"	9 ನಾನು ದೇಹಧರ್ಮಕ್ಕೆ ಒಳಗಾದವನಾದರೂ, ಧರ್ಮಶಾಸ್ತ್ರವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Invisible.	",
-	"	b. Spiritual.	",
-	"	c. Foolish.	",
-	"	d. Carnal also.	"
+	"	B. ಅಗೋಚರವಾದದ್ದು	",
+	"	B. ಪಾರಮಾರ್ಥಿಕವಾದದ್ದು	",
+	"	C. ಮೂರ್ಖತನದ್ದು	",
+	"	D. ದೇಹಧರ್ಮಕ್ಕೆ ಒಳಗಾದದು	"
 ],			
-"correct" :	"	b. Spiritual.	",
-"explanation" :	"	 For we know that the law is spiritual: but I am carnal, sold under sin.Rom7:14	",
+"correct" :	"	B. ಪಾರಮಾರ್ಥಿಕವಾದದ್ದು	",
+"explanation" :	"	ಧರ್ಮಶಾಸ್ತ್ರವು ಪಾರಮಾರ್ಥಿಕವಾದದ್ದೆಂದು ನಾವು ಬಲ್ಲೆವು. ಆದರೆ ನಾನು ದೇಹಧರ್ಮಕ್ಕೆ ಒಳಗಾದವನೂ ಪಾಪದ ಸ್ವಾಧೀನದಲ್ಲಿರುವದಕ್ಕೆ ಮಾರಲ್ಪಟ್ಟವನೂ ಆಗಿದ್ದೇನೆ. 7:14	",
 },			
 {			
-"question" :	"	10. With my mind, I serve the law of God,but with my flesh I serve	",
+"question" :	"	10 ಮನಸ್ಸಿನಿಂದ ನಾನು ದೇವರಿಗೆ ಆಳಾಗಿಯೂ, ದೇಹದಿಂದ ನಾನು ____ ಆಳಾಗಿಯೂ ಇದ್ದೇನೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Man.	",
-	"	b. The law of sin.	",
-	"	c. The law of God also.	",
-	"	d. Time.	"
+	"	A. ಮನುಷ್ಯ	",
+	"	B. ಪಾಪವೆಂಬ ನಿಯಮಕ್ಕೆ	",
+	"	C. ದೇವರ ನಿಯಮಕ್ಕೆ	",
+	"	D. ಸಮಯಕ್ಕೆ	"
 ],			
-"correct" :	"	b. The law of sin.	",
-"explanation" :	"	I thank God through Jesus Christ our Lord. So then with the mind I myself serve the law of God; but with the flesh the law of sin.Rom7:25	",
+"correct" :	"	B. ಪಾಪವೆಂಬ ನಿಯಮಕ್ಕೆ	",
+"explanation" :	"	ಬಿಡಿಸುವವನು ಇದ್ದಾನೆಂಬದಕ್ಕಾಗಿ ನಮ್ಮ ಕರ್ತನಾದ ಯೇಸು ಕ್ರಿಸ್ತನ ಮೂಲಕ ದೇವರಿಗೆ ಸ್ತೋತ್ರ. ಹೀಗಿರಲಾಗಿ ನನ್ನಷ್ಟಕ್ಕೆ ನಾನೇ ಮನಸ್ಸಿನಿಂದ ದೇವರ ನಿಯಮಕ್ಕೆ ಆಳಾಗಿಯೂ ಶರೀರಭಾವದಿಂದ ಪಾಪವೆಂಬ ನಿಯಮಕ್ಕೆ ಆಳಾಗಿಯೂ ನಡಕೊಳ್ಳುವವನಾಗಿದ್ದೇನೆ. 7:25	",
 },			
 ]			

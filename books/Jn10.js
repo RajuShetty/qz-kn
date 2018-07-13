@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 10";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
-"question" :	"	1. He that enters into the sheepfold in a way other than the door is	",
+"question" :	"	1  ಕುರೀ ಹಟ್ಟಿಯೊಳಗೆ ಬಾಗಲಿಂದ ಬಾರದೆ ಮತ್ತೆಲ್ಲಿಂದಾದರೂ ಹತ್ತಿ ಬರುವವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wise.	",
-	"	b. A thief.	",
-	"	c. A good shepherd.	",
-	"	d. A wolf.	"
+	"	A. ಬುದ್ದಿವಂತನು	",
+	"	B. ಕಳ್ಳನು	",
+	"	C. ಒಳ್ಳೆಯ ಕುರುಬನು	",
+	"	D. ತೋಳ	"
 ],			
-"correct" :	"	b. A thief.	",
-"explanation" :	"	I say to you, he who does not enter the sheepfold by the door, but climbs up some other way, the same is a thief and a robber. Jn 10:1	",
+"correct" :	"	B. ಕಳ್ಳನು	",
+"explanation" :	"	ನಿಮಗೆ ನಿಜನಿಜವಾಗಿ ಹೇಳುತ್ತೇನೆ, ಕುರೀಹಟ್ಟಿಯೊಳಗೆ ಬಾಗಲಿಂದ ಬಾರದೆ ಮತ್ತೆಲ್ಲಿಂದಾದರೂ ಹತ್ತಿಬರುವವನು ಕಳ್ಳನೂ ಸುಲುಕೊಳ್ಳುವವನೂ ಆಗಿದ್ದಾನೆ. 10:1	",
 },			
 {			
-"question" :	"	2. The sheep know the voice of the shepherd and	",
+"question" :	"	2  ಕುರಿಗಳು ಕುರುಬನ ಸ್ವರವನ್ನು ತಿಳಿದುಕೊಂಡು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Flee.	",
-	"	b. Fear.	",
-	"	c. Follow him.	",
-	"	d. Are at ease.	"
+	"	A. ಓಡಿ ಹೋಗುತ್ತವೆ	",
+	"	B. ಭಯ ಪಡುತ್ತವೆ	",
+	"	C. ಅವನನ್ನು ಹಿಂಬಾಲಿಸುತ್ತವೆ	",
+	"	D. ಸಮಾಧಾನವಾಗಿರುತ್ತವೆ	"
 ],			
-"correct" :	"	c. Follow him.	",
-"explanation" :	"	And when he brings out his own sheep, he goes before them; and the sheep follow him, for they know his voice. Jn10:4	",
+"correct" :	"	C. ಅವನನ್ನು ಹಿಂಬಾಲಿಸುತ್ತವೆ	",
+"explanation" :	"	ಅವನು ಸ್ವಂತ ಕುರಿಗಳನ್ನು ಹೆಸರು ಹೇಳಿ ಕರೆದು ಹೊರಗೆ ಬಿಡುತ್ತಾನೆ. ಸ್ವಂತ ಕುರಿಗಳನ್ನೆಲ್ಲಾ ಹೊರಗೆ ಬಿಟ್ಟ ಮೇಲೆ ತಾನು ಅವುಗಳ ಮುಂದೆ ಹೋಗುತ್ತಾನೆ; ಕುರಿಗಳು ಅವನ ಸ್ವರವನ್ನು ತಿಳುಕೊಂಡು ಅವನ ಹಿಂದೆ ಹೋಗುತ್ತವೆ 10:4	",
 },			
 {			
-"question" :	"	3. He comes to steal, kill and destroy.	",
+"question" :	"	3 ____________ ಕದ್ದುಕೊಳ್ಳುವುದಕ್ಕೂ, ಕೊಲ್ಲುವುದಕ್ಕೂ ಮತ್ತು ನಾಶ ಮಾಡುವುದಕ್ಕೂ  ಬರುವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. The good shepherd	",
-	"	c. The wolf	",
-	"	d. The thief	"
+	"	A. ಯೇಸು	",
+	"	B. ಒಳ್ಳೆ ಕುರುಬನು	",
+	"	C. ತೋಳ	",
+	"	D. ಕಳ್ಳನು	"
 ],			
-"correct" :	"	d. The thief	",
-"explanation" :	"	The thief does not come except to steal, and to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly. Jn 10:10	",
+"correct" :	"	D. ಕಳ್ಳನು	",
+"explanation" :	"	ಕಳ್ಳನು ಕದ್ದುಕೊಳ್ಳುವದಕ್ಕೂ ಕೊಯ್ಯುವದಕ್ಕೂ ಹಾಳುಮಾಡುವದಕ್ಕೂ ಬರುತ್ತಾನೆ ಹೊರತು ಮತ್ತಾವದಕ್ಕೂ ಬರುವದಿಲ್ಲ; ನಾನಾದರೋ ಅವುಗಳಿಗೆ ಜೀವವು ಇರಬೇಕೆಂತಲೂ ಅದು ಸಮೃದ್ಧಿಯಾಗಿ ಇರಬೇಕೆಂತಲೂ ಬಂದೆನು. 10:10	",
 },			
 {			
-"question" :	"	4. Jesus said, the good shepherd would do this for his sheep.	",
+"question" :	"	4 ಯೇಸು ಹೇಳಿದ್ದು, ಒಳ್ಳೆಯ ಕುರುಬನು ತನ್ನ ಕುರಿಗಳಿಗಾಗಿ ಇದನ್ನು ಮಾಡುವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Give them food	",
-	"	b. Give his life	",
-	"	c. Lead them beside still waters	",
-	"	d. Lead them to green pastures	"
+	"	A. ಆಹಾರ ನೀಡುವನು	",
+	"	B. ತನ್ನ ಪ್ರಾಣವನ್ನು ಕೊಡುವನು	",
+	"	C. ನೀರಿನ ಬುಗ್ಗೆಗಳ ಬಳಿ ನಡೆಸುವನು	",
+	"	D. ಹಸಿರು ಗಾವಲುಗಳಿಗೆ ನಡೆಸುವನು	"
 ],			
-"correct" :	"	b. Give his life	",
-"explanation" :	"	I am the good shepherd. The good shepherd gives His life for the sheep.Jn 10:11	",
+"correct" :	"	B. ತನ್ನ ಪ್ರಾಣವನ್ನು ಕೊಡುವನು	",
+"explanation" :	"	ನಾನೇ ಒಳ್ಳೇ ಕುರುಬನು; ಒಳ್ಳೇ ಕುರುಬನು ತನ್ನ ಕುರಿಗಳಿಗೋಸ್ಕರ ತನ್ನ ಪ್ರಾಣವನ್ನು ಕೊಡುತ್ತಾನೆ. 10:11	",
 },			
 {			
-"question" :	"	5. What will the hireling do when he sees the wolf come?	",
+"question" :	"	5  ತೋಳ ಬರುವುದನ್ನು ಕಾಣುತ್ತಲೇ ಕೂಲಿಯಾಳು ಏನು ಮಾಡುವನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Flee	",
-	"	b. Lay down his life	",
-	"	c. Call for help	",
-	"	d. Slay the wolf	"
+	"	A. ಓಡಿ ಹೋಗುವನು	",
+	"	B. ತನ್ನ ಪ್ರಾಣವನ್ನು ನೀಡುವನು	",
+	"	C. ಸಹಾಯಕ್ಕಾಗಿ ಕೂಗುವನು	",
+	"	D. ತೋಳವನ್ನು ಕೊಲ್ಲುವನು	"
 ],			
-"correct" :	"	a. Flee	",
-"explanation" :	"	But a hireling, he who is not the shepherd, one who does not own the sheep, sees the wolf coming and leaves the sheep and flees; and the wolf catches the sheep and scatters them. Jn 10:12	",
+"correct" :	"	A. ಓಡಿ ಹೋಗುವನು	",
+"explanation" :	"	ಕೂಲಿಯಾಳು ಕುರುಬನೂ ಕುರಿಗಳ ಒಡೆಯನೂ ಆಗಿರದೆ ತೋಳ ಬರುವದನ್ನು ಕಾಣುತ್ತಲೇ ಕುರಿಗಳನ್ನು ಬಿಟ್ಟು ಓಡಿಹೋಗುತ್ತಾನೆ; ತೋಳವು ಅವುಗಳನ್ನು ಹಿಡುಕೊಂಡು ಹಿಂಡನ್ನು ಚದರಿಸುತ್ತದೆ 10:12	",
 },			
 {			
-"question" :	"	6. Jesus referred to Himself as	",
+"question" :	"	6  ಯೇಸು ತನ್ನನ್ನು ತಾನು ಹೀಗೆಂದು ಪ್ರಕಟಿಸಿಕೊಂಡಿದ್ದಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Mighty Wolf	",
-	"	b. A Sacred Lamb	",
-	"	c. The Good Shepherd	",
-	"	d. The Porter	"
+	"	A. ಮಹಾ ತೋಳ	",
+	"	B. ಪರಿಶುದ್ಧ ಕುರಿ	",
+	"	C. ಒಳ್ಳೆಯ ಕುರಿ	",
+	"	D. ಕೂಲಿಯಾಳು	"
 ],			
-"correct" :	"	c. The Good Shepherd	",
-"explanation" :	"	I am the good shepherd; and I know My sheep, and am known by My own.Jn 10:14	",
+"correct" :	"	C. ಒಳ್ಳೆಯ ಕುರಿ	",
+"explanation" :	"	ನಾನೇ ಒಳ್ಳೇ ಕುರುಬನು; ತಂದೆಯು ನನ್ನನ್ನು ನಾನು ತಂದೆಯನ್ನು ತಿಳಿದಿರುವಂತೆಯೇ ನಾನು ನನ್ನ ಕುರಿಗಳನ್ನು ತಿಳಿದಿದ್ದೇನೆ; ನನ್ನ ಕುರಿಗಳು ನನ್ನನ್ನು ತಿಳಿದವೆ; ಮತ್ತು ಕುರಿಗಳಿಗೋಸ್ಕರ ನನ್ನ ಪ್ರಾಣವನ್ನು ಕೊಡುತ್ತೇನೆ.10:14	",
 },			
 {			
-"question" :	"	7. Jesus said, He would lay this down, and pick it up again.	",
+"question" :	"	7  ಯೇಸು ಹೇಳಿದ್ದು, ಇದನ್ನು ನನ್ನಷ್ಟಕ್ಕೆ ನಾನೇ ಕೊಡುತ್ತೇನೆ ಮತ್ತು ನಾನೇ ಅದನ್ನು ತಿರುಗಿ  ಪಡೆದುಕೊಳ್ಳುತ್ತೇನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The temple	",
-	"	b. His life	",
-	"	c. The wolf	",
-	"	d. The wind	"
+	"	A. ದೇವಾಲಯ	",
+	"	B. ತನ್ನ ಪ್ರಾಣ	",
+	"	C. ತೋಳ	",
+	"	D. ಗಾಳಿ	"
 ],			
-"correct" :	"	b. His life	",
-"explanation" :	"	Therefore My Father loves Me, because I lay down My life that I may take it again.No one takes it from Me, but I lay it down of Myself. I have power to lay it down, and I have power to take it again. This command I have received from My Father. Jn10:17-18	",
+"correct" :	"	B. ತನ್ನ ಪ್ರಾಣ	",
+"explanation" :	"	ನಾನು ತಿರಿಗಿ ಪಡಕೊಳ್ಳುತ್ತೇನೆಂದು ನನ್ನ ಪ್ರಾಣವನ್ನು ಕೊಡುತ್ತೇನೆ; ಅದರ ನಿಮಿತ್ತವಾಗಿ ತಂದೆಯು ನನ್ನನ್ನು ಪ್ರೀತಿಸುತ್ತಾನೆ. ನನ್ನ ಪ್ರಾಣವನ್ನು ಯಾರೂ ನನ್ನಿಂದ ತೆಗೆಯರು, ನನ್ನಷ್ಟಕ್ಕೆ ನಾನೇ ಅದನ್ನು ಕೊಡುತ್ತೇನೆ; ಅದನ್ನು ಕೊಡುವದಕ್ಕೆ ನನಗೆ ಅಧಿಕಾರ ಉಂಟು, ಅದನ್ನು ತಿರಿಗಿ ಪಡಕೊಳ್ಳುವದಕ್ಕೆ ನನಗೆ ಅಧಿಕಾರ ಉಂಟು; ಈ ಅಪ್ಪಣೆಯನ್ನು ನನ್ನ ತಂದೆಯಿಂದ ಹೊಂದಿದ್ದೇನೆ ಅಂದನು. 10:17-18	",
 },			
 {			
-"question" :	"	8. Jesus went in the temple in this porch.	",
+"question" :	"	8  ಯೇಸು ದೇವಾಲಯದ ಈ ಮಂಟಪದೊಳಕ್ಕೆ ಹೋದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Solomon’s	",
-	"	b. David’s	",
-	"	c. Joseph’s	",
-	"	d. Abraham’s	"
+	"	A. ಸೊಲೋಮೋನನ ಮಂಟಪ	",
+	"	B. ದಾವೀದನ ಮಂಟಪ	",
+	"	C. ಯೋಸೇಫನ ಮಂಟಪ	",
+	"	D. ಅಬ್ರಹಾಮನ ಮಂಟಪ	"
 ],			
-"correct" :	"	a. Solomon’s	",
-"explanation" :	"	And Jesus walked in the temple, in Solomon’s porch. jn10:23	",
+"correct" :	"	A. ಸೊಲೋಮೋನನ ಮಂಟಪ	",
+"explanation" :	"	ಯೇಸು ದೇವಾಲಯದೊಳಗೆ ಸೊಲೊಮೋನನ ಮಂಟಪದಲ್ಲಿ ತಿರುಗಾಡುತ್ತಾ ಇರುವಾಗ ಯೆಹೂದ್ಯರು ಆತನನ್ನು ಸುತ್ತಿಕೊಂಡು 10:23	",
 },			
 {			
-"question" :	"	9. Jesus said, no man can do this, to those His Father gives Him.	",
+"question" :	"	9  ಯೇಸು ಹೇಳಿದ್ದು, ತಂದೆಯು ನನ್ನ ಕೈಗೆ ಕೊಟ್ಟಿರುವುದನ್ನು  ಯಾವ ಮನುಷ್ಯನೂ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Kill	",
-	"	b. Persecute	",
-	"	c. Reject	",
-	"	d. Pluck them from His hand	"
+	"	A. ಕೊಲ್ಲಲಾರನು	",
+	"	B. ಹಿಂಸೆಪಡಿಸಲಾರನು	",
+	"	C. ತಿರಸ್ಕರಿಸಲಾರನು	",
+	"	D. ನನ್ನ ಕೈಗಳಿಂದ ಕಸಕೊಳ್ಳಲಾರನು	"
 ],			
-"correct" :	"	d. Pluck them from His hand	",
-"explanation" :	"	And I give them eternal life, and they shall never perish; neither shall anyone snatch them out of My hand. My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of My Father’s hand. Jn 10:28-29	",
+"correct" :	"	D. ನನ್ನ ಕೈಗಳಿಂದ ಕಸಕೊಳ್ಳಲಾರನು	",
+"explanation" :	"	ನಾನು ಅವುಗಳಿಗೆ ನಿತ್ಯಜೀವವನ್ನು ಕೊಡುತ್ತೇನೆ; ಅವು ಎಂದಿಗೂ ನಾಶವಾಗುವದೇ ಇಲ್ಲ; ಅವುಗಳನ್ನು ಯಾರೂ ನನ್ನ ಕೈಯೊಳಗಿಂದ ಕಸಕೊಳ್ಳರು. ನನ್ನ ತಂದೆಯು ನನಗೆ ಕೊಟ್ಟದ್ದು ಎಲ್ಲಾದ್ದಕ್ಕಿಂತ ದೊಡ್ಡದು; ಅದನ್ನು ಕೆಲವು ಪ್ರತಿಗಳಲ್ಲಿ - ಅವುಗಳನ್ನು ನನಗೆ ಕೊಟ್ಟ ನನ್ನ ತಂದೆಯು ಎಲ್ಲರಿಗಿಂತ ದೊಡ್ಡವನಾಗಿದ್ದಾನೆ; ಅವುಗಳನ್ನು. ತಂದೆಯ ಕೈಯೊಳಗಿಂದ ಯಾರೂ ಕಸಕೊಳ್ಳಲಾರರು. 10:28-29	",
 },			
 {			
-"question" :	"	10. For what reason did the Jews say they wanted to stone Jesus?	",
+"question" :	"	10  ಯಾವ ಕಾರಣದಿಂದ ಯೆಹೂದ್ಯರು ಯೇಸುವಿಗೆ ಕಲ್ಲೆಸೆಯಬೇಕೆಂದಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Blasphemy	",
-	"	b. Theft	",
-	"	c. Murder	",
-	"	d. Perjury	"
+	"	A. ದೇವದೂಷಣೆ	",
+	"	B. ಕಳ್ಳತನ	",
+	"	C. ಕೊಲೆ	",
+	"	D. ಸುಳ್ಳು ಸಾಕ್ಷಿ	"
 ],			
-"correct" :	"	a. Blasphemy	",
-"explanation" :	"	The Jews answered Him, saying, For a good work we do not stone You, but for blasphemy, and because You, being a Man, make Yourself God.Jn 10:33	",
+"correct" :	"	A. ದೇವದೂಷಣೆ	",
+"explanation" :	"	ಯೆಹೂದ್ಯರು - ನಾವು ನಿನ್ನ ಮೇಲೆ ಕಲ್ಲೆಸೆಯುವದು ಒಳ್ಳೇ ಕಾರ್ಯದ ದೆಸೆಯಿಂದಲ್ಲ, ದೇವದೂಷಣೆಯ ದೆಸೆಯಿಂದಲೂ ನೀನು ಮನುಷ್ಯನಾಗಿದ್ದು ನಿನ್ನನ್ನು ನೀನೇ ದೇವರನ್ನಾಗಿ ಮಾಡಿಕೊಳ್ಳುವದರ ದೆಸೆಯಿಂದಲೂ ನಿನ್ನ ಮೇಲೆ ಕಲ್ಲೆಸೆಯುತ್ತೇವೆ ಅಂದರು.  10:33	",
 },			
 ]			

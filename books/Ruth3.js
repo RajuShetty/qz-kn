@@ -1,4 +1,4 @@
-var quiztitle = " Ruth chapter 3";			
+var quiztitle = " Ruth ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. Naomi told Ruth, this man was kindred.	",
@@ -17,7 +17,7 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. The temple	",
-	"	b. The marketplace	",
+	"	b. The ಮಾರ್ಕetplace	",
 	"	c. The threshing floor	",
 	"	d. The gate of the city	"
 ],			
@@ -58,7 +58,7 @@ var quiz = [
 	"	d. Feet.	"
 ],			
 "correct" :	"	d. Feet.	",
-"explanation" :	"	And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do. Ruth 3:4	",
+"explanation" :	"	And it shall be, when he lieth down, that thou shalt ಮಾರ್ಕ the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do. Ruth 3:4	",
 },		 	
 {			
 "question" :	"	6. Ruth said, Boaz would	",
@@ -70,7 +70,7 @@ var quiz = [
 	"	d. Give her a ring.	"
 ],			
 "correct" :	"	b. Tell her what to do.	",
-"explanation" :	"	And it shall be, when he lieth down, that thou shalt mark the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do. Ruth 3:4	",
+"explanation" :	"	And it shall be, when he lieth down, that thou shalt ಮಾರ್ಕ the place where he shall lie, and thou shalt go in, and uncover his feet, and lay thee down; and he will tell thee what thou shalt do. Ruth 3:4	",
 },		 	
 {			
 "question" :	"	7. When did Boaz realize she was there?	",

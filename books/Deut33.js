@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 33";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 33";			
 var quiz = [			
 {			
 "question" :	"	1. Moses did this to the children of Israel before his death.	",

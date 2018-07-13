@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 3";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. There was war between the house of David and the house of 	",

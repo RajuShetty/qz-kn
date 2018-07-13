@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 9";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. David asked, if there was anyone left of this man’s house.	",
@@ -31,7 +31,7 @@ var quiz = [
 	"	a. Ziba	",
 	"	b. Abner	",
 	"	c. Nabal	",
-	"	d. Philemon	"
+	"	d. ಫಿಲೆಮೋನನಿಗೆ	"
 ],			
 "correct" :	"	a. Ziba	",
 "explanation" :	"	And there was of the house of Saul a servant whose name wasZiba. And when they had called him unto David, the king said unto him, Art thou Ziba? And he said, Thy servant is he. 2 Sam 9:2	",

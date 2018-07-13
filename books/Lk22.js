@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 22";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
-"question" :	"	1. This disciple conspired with the chief priests, how he would betray Jesus.	",
+"question" :	"	1 ಈ ಶಿಷ್ಯನು ಮಹಾಯಾಜಕರ ಬಳಿ ಯೇಸುವನ್ನು ಹಿಡಿದುಕೊಡಲು ಸಂಚನ್ನು ರೂಪಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Judas Iscariot	",
-	"	b. Andrew	",
-	"	c. Peter	",
-	"	d. John	"
+	"	A. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+	"	 B. ಆಂದ್ರೇಯ	",
+	"	C. ಪೇತ್ರ	",
+	"	 D. ಯೋಹಾನ	"
 ],			
-"correct" :	"	a. Judas Iscariot	",
-"explanation" :	"	Then Satan entered Judas, surnamed Iscariot, who was numbered among the twelve. So he went his way and conferred with the chief priests and captains, how he might betray Him to them. - Lk 22:3-4	",
+"correct" :	"	A. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+"explanation" :	"	ಆಗ ಸೈತಾನನು ಹನ್ನೆರಡು ಮಂದಿ ಶಿಷ್ಯರ ಲೆಕ್ಕದಲ್ಲಿ ಸೇರಿದವನಾದ ಇಸ್ಕರಿಯೋತೆಂಬ ಯೂದನಲ್ಲಿ ಪ್ರವೇಶಿಸಲು ಅವನು ಮಹಾಯಾಜಕರ ಬಳಿಗೂ ಕಾವಲಿನ ದಳವಾಯಿಗಳ ಬಳಿಗೂ ಹೋಗಿ ತಾನು ಯೇಸುವನ್ನು ಹಿಡುಕೊಡುವ ುಪಾಯವನ್ನು ಕುರಿತು ಅವರ ಸಂಗಡ ಮಾತಾಡಿದನು.   ಲೂಕ 22:3-4	",
 },			
 {			
-"question" :	"	2. Jesus sent Peter and John to prepare for this feast.	",
+"question" :	"	2 ಯೇಸು ಪೇತ್ರ ಮತ್ತು ಯೋಹಾನರನ್ನು ಈ ಔತಣಕ್ಕೆ ಸಿದ್ಧಪಡಿಸಲು ಕಳುಹಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Yom Kipper	",
-	"	b. Passover	",
-	"	c. Jubilee	",
-	"	d. Feast of the Harvest	"
+	"	 A. ಯೋಮ್ ಕಿಪ್ಪರ್	",
+	"	B. ಫಸ್ಕ	",
+	"	 C. ಜುಬಿಲೀ	",
+	"	D. ಸುಗ್ಗೀ ಕಾಲದ ಹಬ್ಬ	"
 ],			
-"correct" :	"	b. Passover	",
-"explanation" :	"	And He sent Peter and John, saying, Go and prepare the Passover for us, that we may eat. - Lk 22:8	",
+"correct" :	"	B. ಫಸ್ಕ	",
+"explanation" :	"	ಯೇಸು ಪೇತ್ರನಿಗೂ ಯೋಹಾನನಿಗೂ ನೀವು ಹೋಗಿ ನಾವು ಪಸ್ಕದ ಊಟ ಮಾಡುವಂತೆ ಸಿದ್ಧಮಾಡಿರಿ ಎಂದು ಹೇಳಿ ಅವರನ್ನು ಕಳುಹಿಸಿದನು.   ಲೂಕ 22:8	",
 },			
 {			
-"question" :	"	3. Jesus said, the bread represents	",
+"question" :	"	3 ರೊಟ್ಟಿಯು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The world.	",
-	"	b. His body.	",
-	"	c. His spirit.	",
-	"	d. The Father.	"
+	"	A. ಈ ಲೋಕ	",
+	"	B. ಆತನ ಶರೀರ	",
+	"	C. ಆತನ ಆತ್ಮ	",
+	"	D. ತಂದೆ	"
 ],			
-"correct" :	"	b. His body.	",
-"explanation" :	"	And He took bread, gave thanks and broke it, and gave it to them, saying, This is My body which is given for you; do this in remembrance of Me. - Lk 22:19	",
+"correct" :	"	B. ಆತನ ಶರೀರ	",
+"explanation" :	"	ಬಳಿಕ ಆತನು ರೊಟ್ಟಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಸ್ತೋತ್ರಮಾಡಿ ಮುರಿದು ಅವರಿಗೆ ಕೊಟ್ಟು - ಇದು ನಿಮಗೋಸ್ಕರ ಕೊಟ್ಟಿರುವ ನನ್ನ ದೇಹ; ನನ್ನನ್ನು ನೆನಸಿಕೊಳ್ಳುವದಕ್ಕೋಸ್ಕರ ಹೀಗೆ ಮಾಡಿರಿ ಅಂದನು.   ಲೂಕ 21:19	",
 },			
 {			
-"question" :	"	4. Jesus said, the fruit of the vine represents	",
+"question" :	"	4.  ದ್ರಾಕ್ಷಾರಸವು ಸೂಚಿಸುವುದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sin.	",
-	"	b. Faith.	",
-	"	c. Tribulation.	",
-	"	d. His blood.	"
+	"	A. ಪಾಪ	",
+	"	B. ನಂಬಿಕೆ	",
+	"	C. ಸಂಕಟಗಳು	",
+	"	D. ಆತನ ರಕ್ತ	"
 ],			
-"correct" :	"	d. His blood.	",
-"explanation" :	"	Then He took the cup, and gave thanks, and said, Take this and divide it among yourselves;for I say to you, I will not drink of the fruit of the vine until the kingdom of God comes.And He took bread, gave thanks and broke it, and gave it to them, saying, This is My body which is given for you; do this in remembrance of Me.Likewise He also took the cup after supper, saying, This cup is the new covenant in My blood, which is shed for you. - Lk 22:17-20	",
+"correct" :	"	D. ಆತನ ರಕ್ತ	",
+"explanation" :	"	ಊಟವಾದ ಮೇಲೆ ಆತನು ಅದೇ ರೀತಿಯಾಗಿ ಪಾತ್ರೆಯನ್ನು ತೆಗೆದುಕೊಂಡು - ಈ ಪಾತ್ರೆಯು ನಿಮಗೋಸ್ಕರ ಸುರಿಸಲ್ಪಡುವ ನನ್ನ ರಕ್ತದಿಂದ ಸ್ಥಾಪಿತವಾಗುವ ಹೊಸ ಒಡಂಬಡಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ;   ಲೂಕ 22:20	",
 },			
 {			
-"question" :	"	5. Jesus told this disciple that he would deny knowing Jesus three times.	",
+"question" :	"	 5. ಈ ಶಿಷ್ಯನು ನನ್ನನ್ನು ಮೂರು ಸಾರಿ ಅರಿಯೆನೆಂದು ಹೇಳುವನು ಎಂದು ಯೇಸು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. James	",
-	"	b. Andrew	",
-	"	c. Peter	",
-	"	d. Judas	"
+	"	A. ಯಾಕೋಬ	",
+	"	B. ಆಂದ್ರೇಯ	",
+	"	C. ಪೇತ್ರ	",
+	"	D. ಯೂದ	"
 ],			
-"correct" :	"	c. Peter	",
-"explanation" :	"	Then He said, I tell you, Peter, the rooster shall not crow this day before you will deny three times that you know Me - Lk 22:34	",
+"correct" :	"	C. ಪೇತ್ರ	",
+"explanation" :	"	ಆತನು - ಪೇತ್ರನೇ, ನನ್ನ ವಿಷಯದಲ್ಲಿ - ಇವನನ್ನು ಅರಿಯೆನೆಂದು ನೀನು ಮೂರು ಸಾರಿ ಹೇಳುವ ತನಕ ಈಹೊತ್ತು ಕೋಳಿ ಕೂಗುವುದಿಲ್ಲವೆಂದು ನಿನಗೆ ಹೇಳುತ್ತೇನೆ ಅಂದನು;   ಲೂಕ 22:34	",
 },			
 {			
-"question" :	"	6. Who came and strengthened Jesus when He was praying?	",
+"question" :	"	6. ಯೇಸು ಪ್ರಾರ್ಥಿಸುವಾಗ ಆತನನ್ನು ಯಾರು ಬಂದು ಬಲಪಡಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. An angel	",
-	"	b. The Holy Ghost	",
-	"	c. Satan	",
-	"	d. John	"
+	"	A. ದೂತರು	",
+	"	B. ಪವಿತ್ರಾತ್ಮನು	",
+	"	C. ಸೈತಾನನು	",
+	"	D. ಯೋಹಾನನು	"
 ],			
-"correct" :	"	a. An angel	",
-"explanation" :	"	Then an angel appeared to Him from heaven, strengthening Him. - Lk 22:43	",
+"correct" :	"	A. ದೂತರು	",
+"explanation" :	"	ಆಗ ಪರಲೋಕದಿಂದ ಬಂದ ಒಬ್ಬ ದೇವದೂತನು ಆತನಿಗೆ ಕಾಣಿಸಿಕೊಂಡು ಆತನನ್ನು ಬಲಪಡಿಸಿದನು.   ಲೂಕ 22:43	",
 },			
 {			
-"question" :	"	7. What did Jesus’ disciples do asJesus prayed?	",
+"question" :	"	7. ಯೇಸು ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದಾಗ ಅತನ ಶಿಷ್ಯರು ಏನು ಮಾಡುತ್ತಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Prayed	",
-	"	b. Slept	",
-	"	c. Wept	",
-	"	d. Sang hymns	"
+	"	A. ಪ್ರಾರ್ಥನೆ	",
+	"	B. ನಿದ್ರೆ	",
+	"	C. ಅಳುತ್ತಿದ್ದರು	",
+	"	D. ಕೀರ್ತನೆ ಹಾಡುತ್ತಿದ್ದರು	"
 ],			
-"correct" :	"	b. Slept	",
-"explanation" :	"	When He rose up from prayer, and had come to His disciples, He found them sleeping from sorrow. - Lk 22:45	",
+"correct" :	"	B. ನಿದ್ರೆ	",
+"explanation" :	"	ಆತನು ಪ್ರಾರ್ಥನೆ ಮುಗಿಸಿ ಎದ್ದು ಶಿಷ್ಯರ ಬಳಿಗೆ ಬಂದು ದು:ಖಭಾರದಿಂದ ಇವರಿಗೆ ನಿದ್ರೆ ಹತ್ತಿರುವದನ್ನು ಕಂಡು;   ಲೂಕ 22:45	",
 },			
 {			
-"question" :	"	8. When one of the disciples cut off the ear of a servant of the high priest	",
+"question" :	"	8. ಒಬ್ಬ ಶಿಷ್ಯನು ಮಹಾಯಾಜಕನ  ಆಳಿನ ಕಿವಿಯನ್ನು ಕತ್ತರಿಸಿದಾಗ 	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus thanked the disciple.	",
-	"	b. Jesus healed the ear.	",
-	"	c. The servant struck Jesus.	",
-	"	d. The high priest struck Jesus.	"
+	"	A. ಯೇಸು ಆ ಶಿಷ್ಯನನ್ನು ಹೊಗಳಿದರು	",
+	"	B. ಯೇಸು ಆ ಕಿವಿಯನ್ನು ಸೌಖ್ಯಪಡಿಸಿದರು	",
+	"	C. ಆ ಆಳು ಯೇಸುವನ್ನು ಹೊಡೆದನು	",
+	"	D. ಮಹಾಯಾಜಕನು ಯೇಸುವನ್ನು ಹೊಡೆದನು	"
 ],			
-"correct" :	"	b. Jesus healed the ear.	",
-"explanation" :	"	And one of them struck the servant of the high priest and cut off his right ear.But Jesus answered and said, Permit even this.And He touched his ear and healed him. - Lk 22:50-51	",
+"correct" :	"	B. ಯೇಸು ಆ ಕಿವಿಯನ್ನು ಸೌಖ್ಯಪಡಿಸಿದರು	",
+"explanation" :	"	ಅವರಲ್ಲಿ ಒಬ್ಬನು ಮಹಾಯಾಜಕನ ಆಳನ್ನು ಹೊಡೆದು ಅವನ ಬಲಗಿವಿಯನ್ನು ಕಡಿದುಹಾಕಿದನು.  ಆದರೆ ಯೇಸು - ಇಷ್ಟಕ್ಕೇ ಬಿಡಿರಿ ಎಂದು ಹೇಳಿ ಆ ಕಿವಿಯನ್ನು ಮುಟ್ಟಿ ಅವನಿಗೆ ವಾಸಿ ಮಾಡಿದನು.     ಲೂಕ 22:50-51	",
 },			
 {			
-"question" :	"	9. After the cock crew and Peter remembered the words of Jesus	",
+"question" :	"	9 ಕೋಳಿ ಕೂಗಿದ ನಂತರ, ಪೇತ್ರನು ಯೇಸುವಿನ ಮಾತುಗಳನ್ನು ನೆನೆಸಿಕೊಂಡಾಗ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter rejoiced.	",
-	"	b. Peter wept bitterly.	",
-	"	c. Peter died.	",
-	"	d. Peter was arrested.	"
+	"	 A. ಪೇತ್ರನು ಸಂತೋಷಿಸಿದನು	",
+	"	B. ಪೇತ್ರನು ಜೋರಾಗಿ ಅತ್ತನು	",
+	"	C. ಪೇತ್ರನು ಸತ್ತು ಹೋದನು	",
+	"	D. ಪೇತ್ರನು ಬಂಧಿಸಲ್ಪಟ್ಟನು	"
 ],			
-"correct" :	"	b. Peter wept bitterly.	",
-"explanation" :	"	And the Lord turned and looked at Peter. And Peter remembered the word of the Lord, how He had said to him, Before the rooster crows, you will deny Me three times.So Peter went out and wept bitterly. - Lk 22:61-62	",
+"correct" :	"	B. ಪೇತ್ರನು ಜೋರಾಗಿ ಅತ್ತನು	",
+"explanation" :	"	ಸ್ವಾಮಿಯು ಹಿಂತಿರುಗಿಕೊಂಡು ಪೇತ್ರನನ್ನು ದೃಷ್ಟಿಸಿ ನೋಡಿದನು, ಆಗ ಪೇತ್ರನು - ಈ ಹೊತ್ತು ಕೋಳಿ ಕೂಗುವದಕ್ಕಿಂತ ಮುಂಚೆ ಮೂರು ಸಾರಿ ನನ್ನ ವಿಷಯವಾಗಿ ಅವನನ್ನು ಅರಿಯೆನೆಂಬದಾಗಿ ಹೇಳುವಿ ಎಂದು ಸ್ವಾಮಿ ನುಡಿದ ಮಾತನ್ನು ನೆನಸಿ ಹೊರಗೆ ಹೋಗಿ ಬಹು ವ್ಯಥೆಪಟ್ಟು ಅತ್ತನು.   ಲೂಕ 22:61-62	",
 },			
 {			
-"question" :	"	10. The men that held Jesus blindfolded Him and smote Him, saying	",
+"question" :	"	10. ಯೇಸುವನ್ನು ಹಿಡಿದವರು ಆತನಿಗೆ ಮುಸುಕು ಹಾಕಿ, ಆತನನ್ನು ಹೊಡೆದು ಹೀಗಂದರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. We do the will of God.	",
-	"	b. Prophesy who smote you.	",
-	"	c. Thou son of David.	",
-	"	d. You are a thief.	"
+	"	 A. ನಾವು ದೇವರ ಚಿತ್ತವನ್ನು ನೆರವೇರಿಸುತ್ತಿದ್ದೇವೆ	",
+	"	B. ನಿನ್ನನ್ನು ಹೊಡೆದವರು ಯಾರು, ಪ್ರವಾದನೆ ಹೇಳು	",
+	"	C. ನೀನು ದಾವೀದ ಕುಮಾರನು	",
+	"	D. ನೀನೊಬ್ಬ ಕಳ್ಳನು	"
 ],			
-"correct" :	"	b. Prophesy who smote you.	",
-"explanation" :	"	And having blindfolded Him, they struck Him on the face and asked Him, saying, Prophesy! Who is the one who struck You? - Lk 22:64	",
+"correct" :	"	B. ನಿನ್ನನ್ನು ಹೊಡೆದವರು ಯಾರು, ಪ್ರವಾದನೆ ಹೇಳು	",
+"explanation" :	"	ಆತನಿಗೆ ಮುಸುಕುಹಾಕಿ ಹೊಡೆದು - ನಿನ್ನನ್ನು ಹೊಡೆದವನಾರು? ಪ್ರವಾದನೆ ಹೇಳು ಎಂದು ಆತನನ್ನು ಕೇಳಿದರು.   ಲೂಕ 22:64	",
 },			
 ]			

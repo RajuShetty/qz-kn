@@ -1,7 +1,7 @@
-var quiztitle = " Leviticus  chapter 13";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter addresses this disease.	",
+"question" :	"	1. This ಅಧ್ಯಾಯ addresses this disease.	",
 "image" :	"",		
 "choices" : [			
 	"	a. Palsy	",

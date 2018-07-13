@@ -1,4 +1,4 @@
-var quiztitle = "1 Timothy chapter 3 ";			
+var quiztitle = "1 ತಿಮೊಥೆಯನಿಗೆ ಅಧ್ಯಾಯ 3 ";			
 var quiz = [			
 {			
 "question" :	"	1. ಸಭಾಧ್ಯಕ್ಷನ ಉದ್ಯೋಗವನ್ನು ಪಡಕೊಳ್ಳಬೇಕೆಂದಿರುವವನು ಯಾವುದನ್ನು ಅಪೇಕ್ಷಿಸಬೇಕು?	",

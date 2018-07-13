@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 9";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus healed a man sick with	",
+"question" :	"	1. ಯೇಸು ಈ ರೋಗದಿಂದ ನರಳುತ್ತಿರುವ ಮನುಷ್ಯನನ್ನು ಗುಣಪಡಿಸಿದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fever.	",
-	"	b. Leprosy.	",
-	"	c. Palsy.	",
-	"	d. Mad cow disease.	"
+	"	A. ಜ್ವರ	",
+	"	B. ಕುಷ್ಠ	",
+	"	C. ಪಾಶ್ರ್ವವಾಯು	",
+	"	D. ಹುಚ್ಚು ಹಸುವಿನ ರೋಗ	"
 ],			
-"correct" :	"	c. Palsy.	",
-"explanation" :	"	And, behold, they brought to him a man sick of the palsy, lying on a bed: and Jesus seeing their faith said unto the sick of the palsy; Son, be of good cheer; thy sins be forgiven thee - matt 9:2	",
+"correct" :	"	C. ಪಾಶ್ರ್ವವಾಯು	",
+"explanation" :	"	ಅಲ್ಲಿಗೆ ಬಂದಾಗ ಹಾಸಿಗೆಯ ಮೇಲೆ ಬಿದ್ದು ಕೊಂಡಿರುವ ಒಬ್ಬ ಪಾಶ್ರ್ವವಾಯು ರೋಗಿಯನ್ನು ಆತನ ಬಳಿಗೆ ..  ಮತ್ತಾಯ 9:2	",
 },			
 {			
-"question" :	"	2. Which disciple did Jesus call at the receipt of custom?	",
+"question" :	"	2. ಸುಂಕಕ್ಕೆ ಕೂತಿದ್ದ ಯಾವ ಶಿಷ್ಯನನ್ನು ಯೇಸು ಕರೆದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mark	",
-	"	b. Peter	",
-	"	c. John	",
-	"	d. Matthew	"
+	"	A. ಮಾರ್ಕ	",
+	"	B. ಪೇತ್ರ	",
+	"	C. ಯೋಹಾನ	",
+	"	D. ಮತ್ತಾಯ	"
 ],			
-"correct" :	"	d. Matthew	",
-"explanation" :	"And as Jesus passed forth from thence, he saw a man, named Matthew, sitting at the receipt of custom: and he saith unto him, Follow me. And he arose, and followed him. - matt 9:9	",
+"correct" :	"	D. ಮತ್ತಾಯ	",
+"explanation" :	"	ಯೇಸು ಅಲ್ಲಿಂದ ಹೋಗುತ್ತಿರುವಾಗ ಸುಂಕಕ್ಕೆ ಕೂತಿದ್ದ ಮತ್ತಾಯನೆಂಬ ಒಬ್ಬ ಮನುಷ್ಯನನ್ನು ನೋಡಿ..     ಮತ್ತಾಯ 9:9	",
 },			
 {			
-"question" :	"	3. A ruler came to Jesus, and asked Him to lay hands on	",
+"question" :	"	3. ಒಬ್ಬ ಅಧಿಕಾರಿಯು ಯೇಸುವಿನ ಬಳಿ ಬಂದು ಯಾರ ಮೇಲೆ ಕೈ ಇಡಬೇಕೆಂದು  ಕೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. His servant.	",
-	"	b. His wife.	",
-	"	c. His daughter.	",
-	"	d. His son.	"
+	"	A. ತನ್ನ ಸೇವಕ	",
+	"	B. ತನ್ನ ಹೆಂಡತಿ	",
+	"	C. ತನ್ನ ಮಗಳು	",
+	"	D. ತನ್ನ ಮಗನು	"
 ],			
-"correct" :	"	c. His daughter.	",
-"explanation" :	"	While He spoke these things to them, behold, a ruler came and worshiped Him, saying, My daughter has just died, but come and lay Your hand on her and she will live.- matt 9:18	",
+"correct" :	"	C. ತನ್ನ ಮಗಳು	",
+"explanation" :	"	ಒಬ್ಬ ಅಧಿಕಾರಿ ಬಂದು ಆತನಿಗೆ ಅಡ್ಡಬಿದ್ದು ನನ್ನ ಮಗಳು ಈಗಲೇ ತೀರಿಹೋದಳು ಆದಾಗ್ಯೂ ನೀನು ಬಂದು ಆಕೆಯ ಮೇಲೆ ಕೈ ಇಟ್ಟರೆ ಬದುಕುವಳು ಎಂದು .. ಮತ್ತಾಯ 9:18	",
 },			
 {			
-"question" :	"	4. A woman approached Jesus who had been sick for	",
+"question" :	"	4. ಎಷ್ಟು ವರ್ಷದಿಂದ ರೋಗದಲ್ಲಿದ್ದ ಸ್ತ್ರೀಯು ಯೇಸುವಿನ ಬಳಿಗೆ ಬಂದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A short time.	",
-	"	b. 12 years.	",
-	"	c. 1 year.	",
-	"	d. 10 months.	"
+	"	A. ಸ್ವಲ್ಪ ಕಾಲದಿಂದ	",
+	"	B. 12 ವರ್ಷ	",
+	"	C. 3 ವರ್ಷ	",
+	"	D. 10 ತಿಂಗಳು	"
 ],			
-"correct" :	"	b. 12 years.	",
-"explanation" :	"	And suddenly, a woman who had a flow of blood for twelve years came from behind and touched the hem of His garment. - Matt 9:20	",
+"correct" :	"	B. 12 ವರ್ಷ	",
+"explanation" :	"	ಅಷ್ಟರಲ್ಲಿ ಹನ್ನೆರಡು ವರುಷದಿಂದ ರಕ್ತ ಕುಸುಮರೋಗವಿದ್ದ ಒಬ್ಬ ಹೆಂಗಸು .. ಮತ್ತಾಯ 9:20	",
 },			
 {			
-"question" :	"	5. What did Jesus say to the woman?	",
+"question" :	"	5 ಯೇಸು ಆ ಸ್ತ್ರೀಗೆ ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. I give you life.	",
-	"	b. I give you healing.	",
-	"	c. Be thou well.	",
-	"	d. Thy faith hath made thee whole.	"
+	"	A. ನಾನು ನಿನಗೆ ಜೀವ ಕೊಡುತ್ತೇನೆ	",
+	"	B. ನಾನು ನಿನಗೆ ಸ್ವಸ್ಥತೆಯನ್ನು ನೀಡುತ್ತೇನೆ	",
+	"	C. ನೀನು ಸೌಖ್ಯವಾಗು	",
+	"	D. ನಿನ್ನ ನಂಬಿಕೆಯೇ ನಿನ್ನನ್ನು ಸ್ವಸ್ಥ ಮಾಡಿತು	"
 ],			
-"correct" :	"	d. Thy faith hath made thee whole.	",
-"explanation" :	"But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour. - matt 9:22	",
+"correct" :	"	D. ನಿನ್ನ ನಂಬಿಕೆಯೇ ನಿನ್ನನ್ನು ಸ್ವಸ್ಥ ಮಾಡಿತು	",
+"explanation" :	"	ಯೇಸು ಹಿಂತಿರುಗಿ ಆಕೆಯನ್ನು ನೋಡಿ, ಮಗಳೇ ಧೈರ್ಯವಾಗಿರು, ನಿನ್ನ ನಂಬಿಕೆಯೇ ನಿನ್ನನ್ನು ಸ್ವಸ್ಥಮಾಡಿತು ಅಂದನು. ಮತ್ತಾಯ 9:22	",
 },			
 {			
-"question" :	"	6. When Jesus arrived at the ruler’s house, Jesus told the mourners	",
+"question" :	"	6 ಯೇಸು ಅಧಿಕಾರಿಯ ಮನೆಗೆ ಬಂದಾಗ, ಅಲ್ಲಿ ಗದ್ದಲ ಮಾಡುವವರಿಗೆ ಯೇಸು ಏನು  ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. I have come to bring life.	",
-	"	b. The maid shall live again.	",
-	"	c. The maid is not dead, but sleeping.	",
-	"	d. Bring the maid before me.	"
+	"	A. ನಾನು ಇಲ್ಲಿ ಜೀವ ತರಲು ಬಂದಿದ್ದೇನೆ	",
+	"	B. ಹುಡುಗಿ ಮತ್ತೆ ಬದುಕುವಳು	",
+	"	C. ಹುಡುಗಿ ಸತ್ತಿಲ್ಲ, ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದಾಳೆ	",
+	"	D. ಹುಡುಗಿಯನ್ನು ನನ್ನ ಬಳಿ ತನ್ನಿರಿ	"
 ],			
-"correct" :	"	c. The maid is not dead, but sleeping.	",
-"explanation" :	"He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn. - matt 9:24	",
+"correct" :	"	C. ಹುಡುಗಿ ಸತ್ತಿಲ್ಲ, ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದಾಳೆ	",
+"explanation" :	"	ಹೊರಗೆ ಹೋಗಿರಿ, ಹುಡುಗಿ ಸತ್ತಿಲ್ಲ, ನಿದ್ದೆ ಮಾಡುತ್ತಾಳೆ ಅನ್ನಲು ಅವರು .. ಮತ್ತಾಯ 9:24	",
 },			
 {			
-"question" :	"	7. When Jesus said this, the people	",
+"question" :	"	7 ಯೇಸು ಇದನ್ನು ಹೇಳಿದಾಗ, ಜನರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Brought forth the maid.	",
-	"	b. Believed Him.	",
-	"	c. Laughed Him to scorn.	",
-	"	d. Cried all the more.	"
+	"	A. .ಹುಡುಗಿಯನ್ನು ತಂದರು	",
+	"	B. ಆತನನ್ನು ನಂಬಿದರು	",
+	"	C. ಆತನನ್ನು ಹಾಸ್ಯ ಮಾಡಿದರು	",
+	"	D. ಇನ್ನೂ ಜೋರಾಗಿ ಅತ್ತರು	"
 ],			
-"correct" :	"	c. Laughed Him to scorn.	",
-"explanation" :	"	He said unto them, Give place: for the maid is not dead, but sleepeth. And they laughed him to scorn. - matt 9:24	",
+"correct" :	"	C. ಆತನನ್ನು ಹಾಸ್ಯ ಮಾಡಿದರು	",
+"explanation" :	"	ಹೊರಗೆ ಹೋಗಿರಿ, ಹುಡುಗಿ ಸತ್ತಿಲ್ಲ, ನಿದ್ದೆ ಮಾಡುತ್ತಾಳೆ ಅನ್ನಲು ಅವರು ಆತನನ್ನು ಹಾಸ್ಯ ಮಾಡಿದರು. ಮತ್ತಾಯ 9:24	",
 },			
 {			
-"question" :	"	8. Two blind men followed Jesus, crying	",
+"question" :	"	8 ಇಬ್ಬರು ಕುರುಡರು ಏನೆಂದು ಕೂಗುತ್ತಾ ಯೇಸುವನ್ನು ಹಿಂಬಾಲಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. We cannot see!	",
-	"	b. Touch our eyes!	",
-	"	c. Where is the Lord?	",
-	"	d. Son of David, have mercy on us!	"
+	"	A. ನಾವು ನೋಡಲಾಗುತ್ತಿಲ್ಲ	",
+	"	B. ನಮ್ಮ ಕಣ್ಣುಗಳನ್ನು ಮುಟ್ಟು	",
+	"	C. ದೇವರು ಎಲ್ಲಿದ್ದಾನೆ?	",
+	"	D. ದಾವೀದನ ಕುಮಾರನೇ, ನಮ್ಮನ್ನು ಕರುಣಿಸು	"
 ],			
-"correct" :	"	d. Son of David, have mercy on us!	",
-"explanation" :	"	When Jesus departed from there, two blind men followed Him, crying out and saying, Son of David, have mercy on us - matt 9:27	",
+"correct" :	"	D. ದಾವೀದನ ಕುಮಾರನೇ, ನಮ್ಮನ್ನು ಕರುಣಿಸು	",
+"explanation" :	"	ಯೇಸು ಅಲ್ಲಿಂದ ಹೋಗುವಾಗ ಇಬ್ಬರು ಕುರುಡರು ದಾವೀದನ ಕುಮಾರನೇ, ನಮ್ಮನ್ನು ಕರುಣಿಸು ಎಂದು ಕೂಗುತ್ತಾ ಆತನ ಹಿಂದೆ ಹೋದರು. ಮತ್ತಾಯ 9: 27	",
 },			
 {			
-"question" :	"	9. What did Jesus do when a dumb man possessed with a devil, was brought to him?	",
+"question" :	"	9 ದೆವ್ವ ಹಿಡಿದ ಒಬ್ಬ ಮೂಕನನ್ನು ಯೇಸುವಿನ ಬಳಿಗೆ ತಂದಾಗ, ಯೇಸು ಏನು  ಮಾಡಿದ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rebuked them for bringing the man to Him	",
-	"	b. Cast the devil out	",
-	"	c. Took him to the priest	",
-	"	d. Sent him away from the city	"
+	"	A. ಆ ಮನುಷ್ಯನನ್ನು ತನ್ನ ಬಳಿಗೆ ತಂದಿದ್ದಕ್ಕಾಗಿ ಗದರಿಸಿದನು	",
+	"	B. ದೆವ್ವವನ್ನು ಓಡಿಸಿದನು	",
+	"	C. ಆತನನ್ನು ಯಾಜಕನ ಬಳಿಗೆ ಕರೆದೊಯ್ದನು	",
+	"	D. ಆತನನ್ನು ಪಟ್ಟಣದಿಂದ ದೂರ ಕಳುಹಿಸಿದನು	"
 ],			
-"correct" :	"	b. Cast the devil out	",
-"explanation" :	"And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel. - matt 9:33	",
+"correct" :	"	B. ದೆವ್ವವನ್ನು ಓಡಿಸಿದನು	",
+"explanation" :	"	ಅವರು ಹೊರಟುಹೋಗುತ್ತಿರುವಾಗ ದೆವ್ವ ಹಿಡಿದ ಒಬ್ಬ ಮೂಕನನ್ನು ಆತನ ಬಳಿಗೆ ಕರತಂದರು. ಆತನು ದೆವ್ವ ಬಿಡಿಸಿದ ಮೇಲೆ ..  ಮತ್ತಾಯ 9:32	",
 },			
 {			
-"question" :	"	10. Pray for laborers, because the harvest is plenteous, but laborers	",
+"question" :	"	10 ಕೆಲಸಗಾರರಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿರಿ, ಏಕೆಂದರೆ ಬೆಳೆಯು ಬಹಳ, ಕೆಲಸಗಾರರು .........	",
 "image" :	"",		
 "choices" : [			
-	"	a. Are few.	",
-	"	b. Are busy.	",
-	"	c. Are missing.	",
-	"	d. Are the more plenteous.	"
+	"	A. ಕಡಿಮೆ	",
+	"	B. ಕಾರ್ಯನಿರತರಾಗಿದ್ದಾರೆ	",
+	"	C. ತಪ್ಪಿಹೋಗಿದ್ದಾರೆ	",
+	"	D. ತುಂಬಾ ಹೆಚ್ಚಾಗಿದ್ದರೆ	"
 ],			
-"correct" :	"	a. Are few.	",
-"explanation" :	"	Then He said to His disciples, The harvest truly is plentiful, but the laborers are few. Therefore pray the Lord of the harvest to send out laborers into His harvest - matt 9:37,38	",
+"correct" :	"	A. ಕಡಿಮೆ	",
+"explanation" :	"	ಬೆಳೆಯು ಬಹಳ, ಕೆಲಸದವರು ಸ್ವಲ್ಪ ಆದುದರಿಂದ ಬೆಳೆಯ ಯಜಮಾನನನ್ನು ನಿನ್ನ ಬೆಳೆಗೆ ಕೆಲಸದವರನ್ನು ಕಳುಹಿಸಬೇಕೆಂದು ಬೇಡಿಕೊಳ್ಳಿರಿ ಎಂದು ಹೇಳಿದನು. ಮತ್ತಾಯ 9¼38	",
 },			
 ]			

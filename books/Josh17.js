@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 17";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. Who was the first born of Joseph?	",

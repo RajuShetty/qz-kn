@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 8";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. After Solomon built the house of the Lord, and his own house, he built	",

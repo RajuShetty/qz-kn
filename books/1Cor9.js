@@ -1,4 +1,4 @@
-var quiztitle = "1 Corinthians chapter 9";			
+var quiztitle = "1 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಹೇಳುತ್ತಾನೆ: ನಾನು _______ ಕಂಡವನಲ್ಲವೇ.	",

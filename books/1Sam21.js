@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 21";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1. David came to the priest at this place.	",

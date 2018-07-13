@@ -1,4 +1,4 @@
-var quiztitle = "Colossians chapter 4";			
+var quiztitle = "ಕೊಲೊಸ್ಸೆಯವರಿಗೆ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. ಯಜಮಾನರು ತಮ್ಮ ದಾಸರಿಗೆ ನ್ಯಾಯವಾದದ್ದನ್ನು ಮಾಡಬೇಕು ಯಾಕಂದರೆ ಅವರಿಗೂ	",

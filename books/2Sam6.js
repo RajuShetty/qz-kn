@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 6";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. How many chosen men of Israel did David gather together?	",

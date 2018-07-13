@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 15";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. Samuel gave this instruction from the Lord to Saul, before he went against Amalek.	",

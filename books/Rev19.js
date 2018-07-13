@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 19";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. ಪರಲೋಕದಲ್ಲಿ ದೊಡ್ಡ ಗುಂಪು ಏನೆಂದು ಕೂಗುತ್ತಿದ್ದರು.	",

@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 18";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
-"question" :	"	1. This disciple brought a band of men and officers to the garden where Jesus was.	",
+"question" :	"	1  ಈ ಶಿಷ್ಯನು ಸೈನಿಕರ ಪಟಾಲಮ್ಮನ್ನೂ ಮತ್ತು ಅಧಿಕಾರಿಗಳನ್ನು ಕರೆದುಕೊಂಡು ಯೇಸು ಇದ್ದ  ತೋಟಕ್ಕೆ ಹೋದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. Judas	",
-	"	c. Barabbas	",
-	"	d. John	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+	"	C. ಬರಬ್ಬರ	",
+	"	D. ಯೋಹಾನ	"
 ],			
-"correct" :	"	b. Judas	",
-"explanation" :	"	Then Judas, having received a detachment of troops, and officers from the chief priests and Pharisees, came there with lanterns, torches, and weapons.Jn18:3	",
+"correct" :	"	B. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+"explanation" :	"	ಹೀಗಿರಲಾಗಿ ಯೂದನು ಸಿಪಾಯಿಗಳ ಪಟಾಲಮನ್ನೂ ಮಹಾಯಾಜಕರು ಮತ್ತು ಫರಿಸಾಯರು ಕೊಟ್ಟ ಓಲೇಕಾರರನ್ನೂ ಕರಕೊಂಡು ದೀವಿಟಿಗಳನ್ನೂ ಪಂಜುಗಳನ್ನೂ ಆಯುಧಗಳನ್ನೂ ಹಿಡಿಸಿಕೊಂಡು ಅಲ್ಲಿಗೆ ಬಂದನು 18:3	",
 },			
 {			
-"question" :	"	2. When Jesus answered them saying, I am He	",
+"question" :	"	2  ನಾನೇ ಅವನು ಎಂದು ಯೇಸು ಹೇಳಿದಾಗ	",
 "image" :	"",		
 "choices" : [			
-	"	a. They immediately bound Him.	",
-	"	b. They all fell backward to the ground.	",
-	"	c. Fire fell from heaven.	",
-	"	d. An angel appeared.	"
+	"	A. ಅವರು ತಕ್ಷಣವೇ ಆತನನ್ನು ಹಿಡಿದರು	",
+	"	B. ಅವರು ಹಿಂದೆ ಸರಿದು ನೆಲದ ಮೇಲೆ ಬಿದ್ದರು	",
+	"	C. ಆಕಾಶದಿಂದ ಬೆಂಕಿ ಬಿದ್ದಿತು	",
+	"	D. ಒಬ್ಬ ದೂತನು ಕಾಣಿಸಿಕೊಂಡನು	"
 ],			
-"correct" :	"	b. They all fell backward to the ground.	",
-"explanation" :	"	Now when He said to them, I am He, they drew back and fell to the ground.Jn18:6	",
+"correct" :	"	B. ಅವರು ಹಿಂದೆ ಸರಿದು ನೆಲದ ಮೇಲೆ ಬಿದ್ದರು	",
+"explanation" :	"	ಆತನು ಅವರಿಗೆ - ನಾನೇ ಅವನು ಎಂದು ಹೇಳಿದಾಗ ಅವರು ಹಿಂದಕ್ಕೆ ಸರಿದು ನೆಲದ ಮೇಲೆ ಬಿದ್ದರು 18:6	",
 },			
 {			
-"question" :	"	3. He drew his sword and smote one of the high priest’s servants.	",
+"question" :	"	3  ಈತನು ತನ್ನ ಕತ್ತಿಯನ್ನು ತೆಗೆದು ಮಹಾಯಾಜಕನ ಒಬ್ಬ ಆಳನ್ನು ಹೊಡೆದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. John	",
-	"	b. Judas	",
-	"	c. Jesus	",
-	"	d. Peter	"
+	"	A. ಯೋಹಾನ	",
+	"	B. ಯೂದ	",
+	"	C. ಯೇಸು	",
+	"	D. ಪೇತ್ರ	"
 ],			
-"correct" :	"	d. Peter	",
-"explanation" :	"	Then Simon Peter, having a sword, drew it and struck the high priest’s servant, and cut off his right ear. The servant’s name was Malchus.Jn18:10	",
+"correct" :	"	D. ಪೇತ್ರ	",
+"explanation" :	"	ಸೀಮೋನ ಪೇತ್ರನಲ್ಲಿ ಒಂದು ಕತ್ತಿ ಇತ್ತು; ಅದನ್ನು ಅವನು ಹಿರಿದು ಮಹಾಯಾಜಕನ ಆಳನ್ನು ಹೊಡೆದು ಅವನ ಬಲಗಿವಿಯನ್ನು ಕತ್ತರಿಸಿದನು. ಆ ಆಳಿನ ಹೆಸರು ಮಲ್ಕನು. 18:10	",
 },			
 {			
-"question" :	"	4. He cut off the servant’s	",
+"question" :	"	4  ಆತನು ಆಳಿನ _________ ಕತ್ತಿರಿಸಿದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Armor	",
-	"	b. Arm	",
-	"	c. Head	",
-	"	d. Ear	"
+	"	A. ಆಯುಧವನ್ನು	",
+	"	B. ತೋಳವನ್ನು	",
+	"	C. ತಲೆಯನ್ನು	",
+	"	D. ಕಿವಿಯನ್ನು	"
 ],			
-"correct" :	"	d. Ear	",
-"explanation" :	"	Then Simon Peter, having a sword, drew it and struck the high priest’s servant, and cut off his right ear. The servant’s name was Malchus.Jn18:10	",
+"correct" :	"	D. ಕಿವಿಯನ್ನು	",
+"explanation" :	"	ಸೀಮೋನ ಪೇತ್ರನಲ್ಲಿ ಒಂದು ಕತ್ತಿ ಇತ್ತು; ಅದನ್ನು ಅವನು ಹಿರಿದು ಮಹಾಯಾಜಕನ ಆಳನ್ನು ಹೊಡೆದು ಅವನ ಬಲಗಿವಿಯನ್ನು ಕತ್ತರಿಸಿದನು. ಆ ಆಳಿನ ಹೆಸರು ಮಲ್ಕನು. 18:10	",
 },			
 {			
-"question" :	"	5. What was the name of the high priest’s servant?	",
+"question" :	"	5  ಆ ಮಹಾ ಯಾಜಕನ ಆಳಿನ ಹೆಸರು ಏನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jacob	",
-	"	b. Nathan	",
-	"	c. Malchus	",
-	"	d. Samson	"
+	"	A. ಯಾಕೋಬ	",
+	"	B. ನಾತಾನ	",
+	"	C. ಮಲ್ಕ	",
+	"	D. ಸಂಸೋನ	"
 ],			
-"correct" :	"	c. Malchus	",
-"explanation" :	"	Then Simon Peter, having a sword, drew it and struck the high priest’s servant, and cut off his right ear. The servant’s name was Malchus.Jn18:10	",
+"correct" :	"	C. ಮಲ್ಕ	",
+"explanation" :	"	ಸೀಮೋನ ಪೇತ್ರನಲ್ಲಿ ಒಂದು ಕತ್ತಿ ಇತ್ತು; ಅದನ್ನು ಅವನು ಹಿರಿದು ಮಹಾಯಾಜಕನ ಆಳನ್ನು ಹೊಡೆದು ಅವನ ಬಲಗಿವಿಯನ್ನು ಕತ್ತರಿಸಿದನು. ಆ ಆಳಿನ ಹೆಸರು ಮಲ್ಕನು. 18:10	",
 },			
 {			
-"question" :	"	6. Jesus was first taken to this man,father-in-law to the high priest.	",
+"question" :	"	6  ಯೇಸುವನ್ನು ಮೊದಲು ಈತನ ಬಳಿಗೆ ಕರೆತರಲಾಯಿತು, ಈತನು ಮಹಾಯಾಜಕನ  ಮಾವನಾಗಿದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Annas	",
-	"	b. Herod	",
-	"	c. Potiphar	",
-	"	d. Nebuchadnezzar	"
+	"	A. ಅನ್ನ	",
+	"	B. ಹೆರೋದ	",
+	"	C. ಪೋಟಿಫೋರ	",
+	"	D. ನೆಬೂಕದ್ನೇಚ್ಚರ	"
 ],			
-"correct" :	"	a. Annas	",
-"explanation" :	"	And they led Him away to Annas first, for he was the father-in-law of Caiaphas who was high priest that year.Jn18:13	",
+"correct" :	"	A. ಅನ್ನ	",
+"explanation" :	"	ಇವನು ಆ ವರುಷದಲ್ಲಿ ಮಹಾಯಾಜಕನಾಗಿದ್ದ ಕಾಯಫನ ಮಾವನಾಗಿದ್ದನು 18:13	",
 },			
 {			
-"question" :	"	7. This disciple denied knowing Jesus three times.	",
+"question" :	"	7  ಈ ಶಿಷ್ಯನು ಯೇಸುವನ್ನು ಅರಿಯೆನೆಂದು ಮೂರು ಸಾರಿ ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Judas	",
-	"	b. Simon Peter	",
-	"	c. John	",
-	"	d. Bartholomew	"
+	"	A. ಯೂದ	",
+	"	B. ಸೀಮೋನ ಪೇತ್ರ	",
+	"	C. ಯೋಹಾನ	",
+	"	D. ಬಾರ್ತಲೋಮಾಯ	"
 ],			
-"correct" :	"	b. Simon Peter	",
-"explanation" :	"Then the servant girl who kept the door said to Peter, You are not also one of this Man’s disciples, are you? Now Simon Peter stood and warmed himself. Therefore they said to him, You are not also one of His disciples, are you? Peter then denied again; and immediately a rooster crowed.He denied it and said, I am not Jn18:17,25,27",
+"correct" :	"	B. ಸೀಮೋನ ಪೇತ್ರ	",
+"explanation" :	"	ಆಗ ಬಾಗಲು ಕಾಯುವ ದಾಸಿಯು - ನೀನು ಸಹ ಈ ಮನುಷ್ಯನ ಶಿಷ್ಯರಲ್ಲಿ ಒಬ್ಬನೇನು? ಎಂದು ಪೇತ್ರನನ್ನು ಕೇಳಲು ಅವನು - ಅಲ್ಲ ಅಂದನು ಇತ್ತಲಾಗಿ ಸೀಮೋನ ಪೇತ್ರನು ನಿಂತುಕೊಂಡು ಚಳಿಕಾಸಿಕೊಳ್ಳುತ್ತಾ ಇದ್ದನು. ಆಗ ಅಲ್ಲಿದ್ದವರು ಅವನನ್ನು - ನೀನು ಅವನ ಶಿಷ್ಯರಲ್ಲಿ ಒಬ್ಬನೇನು? ಎಂದು ಕೇಳಲು ಅವನು - ಅಲ್ಲ ಅಂದನು. ಅದಕ್ಕೆ ಪೇತ್ರನು ತಿರಿಗಿ ಅಲ್ಲ ಅಂದನು. ಕೂಡಲೆ ಕೋಳಿ ಕೂಗಿತು. 18:17,25,27 ",
 },			
 {			
-"question" :	"	8. What happened immediately after the third time he denied Jesus?	",
+"question" :	"	8 ಆತನು ಮೂರನೇ ಸಾರಿ ಯೇಸುವನ್ನು ಅರಿತಿಲ್ಲವೆಂದು ಹೇಳಿದ ಕೂಡಲೇ ಏನಾಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He was struck by lightening.	",
-	"	b. He was taken prisoner.	",
-	"	c. The rooster crowed.	",
-	"	d. He fell backward to the ground.	"
+	"	A. ಆತನಿಗೆ ಮಿಂಚು ಹೊಡೆಯಿರು	",
+	"	B. ಆತನನ್ನು ಬಂಧಿಸಿದರು	",
+	"	C. ಕೋಳಿ ಕೂಗಿತು	",
+	"	D. ಆತನು ಹಿಂದಕ್ಕೆ ನೆಲದ ಮೇಲೆ ಬಿದ್ದನು	"
 ],			
-"correct" :	"	c. The rooster crowed.	",
-"explanation" :	"	Peter then denied again; and immediately a rooster crowed.18:27	",
+"correct" :	"	C. ಕೋಳಿ ಕೂಗಿತು	",
+"explanation" :	"	ಅದಕ್ಕೆ ಪೇತ್ರನು ತಿರಿಗಿ ಅಲ್ಲ ಅಂದನು. ಕೂಡಲೆ ಕೋಳಿ ಕೂಗಿತು. 18:27	",
 },			
 {			
-"question" :	"	9. Pilate said this of Jesus.	",
+"question" :	"	9  ಪಿಲಾತನು ಯೇಸುವಿನ ಬಗ್ಗೆ ಹೀಗೆ ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. I find no fault in Him.	",
-	"	b. He is guilty of blasphemy.	",
-	"	c. He has no advocate.	",
-	"	d. He is an unjust man.	"
+	"	A. ನನಗೆ ಅವನಲ್ಲಿ ಯಾವ ಅಪರಾಧವು ಕಾಣಿಸುವುದಿಲ್ಲ	",
+	"	B. ಆತನಿಗೆ ದೇವದೂಷಣೆ ಕುರಿತು ಪಾಪ ಪ್ರಜ್ಞೆಯಿದೆ	",
+	"	C. ಆತನಿಗೆ ಯಾರು ನ್ಯಾಯವಾದಿಗಳಿಲ್ಲ	",
+	"	D. ಆತನು ಅನ್ಯಾಯಗಾರನಾದ ಮನುಷ್ಯನು	"
 ],			
-"correct" :	"	a. I find no fault in Him.	",
-"explanation" :	"	Pilate said to Him, What is truth? And when he had said this, he went out again to the Jews, and said to them, I find no fault in Him at all.Jn18:38	",
+"correct" :	"	B. ಆತನಿಗೆ ದೇವದೂಷಣೆ ಕುರಿತು ಪಾಪ ಪ್ರಜ್ಞೆಯಿದೆ	",
+"explanation" :	"	ಪಿಲಾತನು - ಸತ್ಯವಂದರೇನು? ಅಂದನು. ಇದನ್ನು ಹೇಳಿ ಪಿಲಾತನು ತಿರಿಗಿ ಯೆಹೂದ್ಯರ ಬಳಿಗೆ ಹೊರಕ್ಕೆ ಬಂದು - ನನಗೆ ಅವನಲ್ಲಿ ಯಾವ ಅಪರಾಧವೂ ಕಾಣಿಸುವದಿಲ್ಲ 18:38	",
 },			
 {			
-"question" :	"	10. The crowd cried out for this man to be released.	",
+"question" :	"	10  ಅಲ್ಲಿ ಸೇರಿದ್ದ ಜನರ ಗುಂಪು ಈತನನ್ನು ಬಿಡುಗಡೆ ಮಾಡಬೇಕೆಂದು ಕೂಗಿಕೊಂಡಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. Barabbas	",
-	"	c. Judas	",
-	"	d. Peter	"
+	"	A. ಯೇಸು	",
+	"	B. ಬರಬ್ಬರ	",
+	"	C. ಯೂದ	",
+	"	D. ಪೇತ್ರ	"
 ],			
-"correct" :	"	b. Barabbas	",
-"explanation" :	"	Then they all cried again, saying, Not this Man, but Barabbas! Now Barabbas was a robber.Jn18:40	",
+"correct" :	"	B. ಬರಬ್ಬರ	",
+"explanation" :	"	ಅದಕ್ಕೆ ಅವರು - ಇವನನ್ನು ಬೇಡ, ಬರಬ್ಬನನ್ನು ಬಿಟ್ಟುಕೊಡಬೇಕು ಎಂದು ತಿರಿಗಿ ಕೂಗಿ ಹೇಳಿದರು. ಈ ಬರಬ್ಬನು ಕಳ್ಳನಾಗಿದ್ದನು. 18:40	",
 },			
 ]			

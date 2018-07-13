@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 21";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus showed Himself to His disciples again at this sea.	",
+"question" :	"	1  ಯೇಸು ಈ ಸಮುದ್ರದ ಬಳಿ ತನ್ನ ಶಿಷ್ಯರಿಗೆ ತಿರುಗಿ ತನ್ನನ್ನು ತೋರಿಸಿಕೊಂಡನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Tiberias	",
-	"	b. Red Sea	",
-	"	c. Dead Sea	",
-	"	d. The Crystal Sea	"
+	"	A. ತಿಬೇರಿಯಾ ಸಮುದ್ರ	",
+	"	B. ಕೆಂಪು ಸಮುದ್ರ	",
+	"	C. ಮೃತ ಸಮುದ್ರ	",
+	"	D. ಲವಣ ಸಮುದ್ರ	"
 ],			
-"correct" :	"	a. Tiberias	",
-"explanation" :	"	After these things Jesus showed Himself again to the disciples at the Sea of Tiberias, and in this way He showed Himself:Jn21:1	",
+"correct" :	"	A. ತಿಬೇರಿಯಾ ಸಮುದ್ರ	",
+"explanation" :	"	ತರುವಾಯ ಯೇಸು ತಿಬೇರಿಯ ಸಮುದ್ರದ ಬಳಿಯಲ್ಲಿ ಶಿಷ್ಯರಿಗೆ ತಿರಿಗಿ ತನ್ನನ್ನು ತೋರಿಸಿಕೊಂಡನು.  21:1	",
 },			
 {			
-"question" :	"	2. This disciple said, I go a fishing.	",
+"question" :	"	2  ನಾನು ಮೀನು ಹಿಡಿಯುವುದಕ್ಕೆ ಹೋಗುತ್ತೇನೆಂದು ಈ ಶಿಷ್ಯನು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Judas	",
-	"	b. Luke	",
-	"	c. Matthew	",
-	"	d. Simon Peter	"
+	"	A. ಯೂದ	",
+	"	B. ಲೂಕ	",
+	"	C. ಮತ್ತಾಯ	",
+	"	D. ಸೀಮೋನ ಪೇತ್ರ	"
 ],			
-"correct" :	"	d. Simon Peter	",
-"explanation" :	"	Simon Peter said to them, I am going fishing.They said to him, We are going with you also.They went out and immediately[a] got into the boat, and that night they caught nothing.Jn21:3 	",
+"correct" :	"	D. ಸೀಮೋನ ಪೇತ್ರ	",
+"explanation" :	"	ಅವರಿಗೆ ಸೀಮೋನ ಪೇತ್ರನು - ನಾನು ಮೀನು ಹಿಡಿಯುವದಕ್ಕೆ ಹೋಗುತ್ತೇನೆಂದು ಹೇಳಲು ಅವರು - ನಾವೂ ನಿನ್ನ ಸಂಗಡ ಬರುತ್ತೇವೆ ಅಂದರು. ಅವರು ಹೊರಟು ದೋಣಿಯನ್ನು ಹತ್ತಿದರು. ಆದರೆ ಆ ರಾತ್ರಿಯಲ್ಲಿ ಒಂದು ಮೀನೂ ಸಿಕ್ಕಲಿಲ್ಲ. 21:3 	",
 },			
 {			
-"question" :	"	3. What did Jesus instruct them to do?	",
+"question" :	"	3  ಯೇಸು ಅವರಿಗೆ ಏನು ಮಾಡಬೇಕೆಂದು ಸೂಚನೆ ಕೊಟ್ಟರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Cast the net on the right side of the ship.	",
-	"	b. Throw out their anchor.	",
-	"	c. Jump into the water.	",
-	"	d. Leave the nets & come to shore.	"
+	"	A. ದೋಣಿಯ ಬಲಗಡೆಗೆ ಬಲೆಯನ್ನು ಹಾಕಿರಿ	",
+	"	B. ನಿಮ್ಮ ಲಂಗರುಗಳನ್ನು ಬಿಸಾಕಿರಿ	",
+	"	C. ನೀರಿಗೆ ಧುಮುಕಿರಿ	",
+	"	D. ಬಲೆಗಳನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟು ತೀರಕ್ಕೆ ಬನ್ನಿರಿ	"
 ],			
-"correct" :	"	a. Cast the net on the right side of the ship.	",
-"explanation" :	"	And He said to them, Cast the net on the right side of the boat, and you will find some.So they cast, and now they were not able to draw it in because of the multitude of fish.Jn21:6	",
+"correct" :	"	A. ದೋಣಿಯ ಬಲಗಡೆಗೆ ಬಲೆಯನ್ನು ಹಾಕಿರಿ	",
+"explanation" :	"	ಆತನು ಅವರಿಗೆ - ನೀವು ದೋಣಿಯ ಬಲಗಡೆಯಲ್ಲಿ ಬಲೆ ಬೀಸಿದರೆ ಸಿಕ್ಕುವದು ಎಂದು ಹೇಳಿದನು. ಅವರು ಹಾಗೆ ಬೀಸಿದಾಗ ಮೀನುಗಳು ಬಹಳ ಹೆಚ್ಚಾಗಿ ಸಿಕ್ಕಿದ್ದರಿಂದ ಬಲೆಯನ್ನು ಎಳೆಯುವದಕ್ಕೆ ಆಗದೆ ಹೋಯಿತು 21:6	",
 },			
 {			
-"question" :	"	4. After following Jesus’ command and the net was full of fish, John said	",
+"question" :	"	4  ಯೇಸುವಿನ ಆಜ್ಞೆಯನ್ನು ಪಾಲಿಸಿದ ಮೇಲೆ, ಬಲೆಗಳ ತುಂಬಾ ಮೀನುಗಳು ಸಿಕ್ಕವು, ಆಗ   ಯೋಹಾನನು ಹೇಳಿದ್ದೇನೆಂದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. It is the Lord.	",
-	"	b. Let us put down our net again.	",
-	"	c. Let us sell the fish & give to the poor.	",
-	"	d. How did this happen?	"
+	"	A. ಅವರು ಸ್ವಾಮಿಯವರು	",
+	"	B. ನಮ್ಮ ಬಲೆಗಳನ್ನು ಮತ್ತೆ ಹಾಕೋಣ	",
+	"	C. ನಾವು ಮೀನುಗಳನ್ನು ಮಾರಿ ಬಡವರಿಗೆ ಕೊಡೋಣ	",
+	"	D. ಇದು ಹೇಗಾಯಿತು?	"
 ],			
-"correct" :	"	a. It is the Lord.	",
-"explanation" :	"	Therefore that disciple whom Jesus loved said to Peter, It is the Lord! Now when Simon Peter heard that it was the Lord, he put on his outer garment (for he had removed it), and plunged into the sea.Jn21:7	",
+"correct" :	"	A. ಅವರು ಸ್ವಾಮಿಯವರು	",
+"explanation" :	"	ಆಗ ಯೇಸುವಿಗೆ ಪ್ರಿಯನಾಗಿದ್ದ ಶಿಷ್ಯನು ಪೇತ್ರನಿಗೆ - ಅವರು ಸ್ವಾಮಿಯವರು ಎಂದು ಹೇಳಿದನು. ಸ್ವಾಮಿಯವರೆಂದು ಸೀಮೋನ ಪೇತ್ರನು ಕೇಳಿ ಮೈ ಮೇಲೆ ಬಟ್ಟೆಯಿಲ್ಲದವನಾಗಿದ್ದರಿಂದ ಒಲ್ಲಿಯನ್ನು ಸುತ್ತಿಕೊಂಡು ಸಮುದ್ರದಲ್ಲಿ ದುಮುಕಿದನು. 21:7	",
 },			
 {			
-"question" :	"	5. What did Peter do when he realized it was Jesus who called?	",
+"question" :	"	5  ಅದು ಸ್ವಾಮಿಯವರು ಎಂದು ಕೇಳಿದಾಗ ಪೇತ್ರನು ಏನು ಮಾಡಿದ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Cast himself into the sea	",
-	"	b. Walked on the water	",
-	"	c. Beckoned Jesus to come	",
-	"	d. Pulled up anchor	"
+	"	A. ಸಮುದ್ರಕ್ಕೆ ಹಾರಿದನು	",
+	"	B. ನೀರಿನ ಮೇಲೆ ನಡೆದನು	",
+	"	C. ಯೇಸುವನ್ನು ಬರುವಂತೆ ಸನ್ನೆ ಮಾಡಿದನು	",
+	"	D. ಲಂಗುರವನ್ನು ಎಳೆದನು	"
 ],			
-"correct" :	"	a. Cast himself into the sea	",
-"explanation" :	"	Therefore that disciple whom Jesus loved said to Peter, It is the Lord! Now when Simon Peter heard that it was the Lord, he put on his outer garment (for he had removed it), and plunged into the sea.Jn21:7	",
+"correct" :	"	A. ಸಮುದ್ರಕ್ಕೆ ಹಾರಿದನು	",
+"explanation" :	"	ಆಗ ಯೇಸುವಿಗೆ ಪ್ರಿಯನಾಗಿದ್ದ ಶಿಷ್ಯನು ಪೇತ್ರನಿಗೆ - ಅವರು ಸ್ವಾಮಿಯವರು ಎಂದು ಹೇಳಿದನು. ಸ್ವಾಮಿಯವರೆಂದು ಸೀಮೋನ ಪೇತ್ರನು ಕೇಳಿ ಮೈ ಮೇಲೆ ಬಟ್ಟೆಯಿಲ್ಲದವನಾಗಿದ್ದರಿಂದ ಒಲ್ಲಿಯನ್ನು ಸುತ್ತಿಕೊಂಡು ಸಮುದ್ರದಲ್ಲಿ ದುಮುಕಿದನು. 21:7	",
 },			
 {			
-"question" :	"	6. What did Jesus have on the coals of fire?	",
+"question" :	"	6  ಬೆಂಕಿ ಕೆಂಡದ ಮೇಲೆ ಯೇಸು ಏನನ್ನು ಇಟ್ಟಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fish	",
-	"	b. Lamb	",
-	"	c. Pork	",
-	"	d. Beef	"
+	"	A. ಮೀನು	",
+	"	B. ಕುರಿ	",
+	"	C. ಹಂದಿ ಮಾಂಸ	",
+	"	D. ದನದ ಮಾಂಸ	"
 ],			
-"correct" :	"	a. Fish	",
-"explanation" :	"	Then, as soon as they had come to land, they saw a fire of coals there, and fish laid on it, and bread.Jn21:9	",
+"correct" :	"	A. ಮೀನು	",
+"explanation" :	"	ಅವರು ಭೂಮಿಗೆ ಇಳಿದಾಗ ಕೆಂಡಗಳನ್ನೂ ಅವುಗಳ ಮೇಲೆ ಇಟ್ಟಿದ್ದ ಮೀನುಗಳನ್ನೂ ರೊಟ್ಟಿ ಸಹಿತವಾಗಿ ಕಂಡರು. 21:9	",
 },			
 {			
-"question" :	"	7. How many fish were in the great catch?	",
+"question" :	"	7  ಅವರಿಗೆ ಎಷ್ಟು ದೊಡ್ಡ ಮೀನುಗಳು ಸಿಕ್ಕಿದವು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 100	",
-	"	b. 118	",
-	"	c. 134	",
-	"	d. 153	"
+	"	A. 100	",
+	"	B. 118	",
+	"	C. 134	",
+	"	D. 153	"
 ],			
-"correct" :	"	d. 153	",
-"explanation" :	"	Simon Peter went up and dragged the net to land, full of large fish, one hundred and fifty-three; and although there were so many, the net was not broken.Jn21:11	",
+"correct" :	"	D. 153	",
+"explanation" :	"	ಸೀಮೋನ ಪೇತ್ರನು ದೋಣಿಯನ್ನು ಹತ್ತಿ ಬಲೆಯನ್ನು ಭೂಮಿಗೆ ಎಳಕೊಂಡು ಬಂದನು. ಅದು ನೂರೈವತ್ತು ಮೂರು ದೊಡ್ಡ ಮೀನುಗಳಿಂದ ತುಂಬಿತ್ತು. ಅಷ್ಟು ಮೀನುಗಳು ಇದ್ದರೂ ಬಲೆ ಹರಿಯಲಿಲ್ಲ 21:11	",
 },			
 {			
-"question" :	"	8. Which disciple did Jesus ask a question of three times?	",
+"question" :	"	8  ಯಾವ ಶಿಷ್ಯನಿಗೆ ಯೇಸು ಮೂರು ಬಾರಿ ಪ್ರಶ್ನೆಯನ್ನು ಕೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Andrew	",
-	"	b. John	",
-	"	c. Nathaniel	",
-	"	d. Simon Peter	"
+	"	A. ಆಂದ್ರೇಯ	",
+	"	B. ಯೋಹಾನ	",
+	"	C. ನತಾನಿಯೇಲ	",
+	"	D. ಸೀಮೋನ ಪೇತ್ರ	"
 ],			
-"correct" :	"	d. Simon Peter	",
-"explanation" :	"	So when they had eaten breakfast, Jesus said to Simon Peter, Simon, son of Jonah, do you love Me more than these?He said to Him, Yes, Lord; You know that I love You.He said to him, Feed My lambs.He said to him again a second time, Simon, son of Jonah,[c] do you love Me?He said to Him, Yes, Lord; You know that I love You.He said to him, Tend My sheep.He said to him the third time, Simon, son of Jonah,[d] do you love Me? Peter was grieved because He said to him the third time, Do you love Me?Jn21:15-17	",
+"correct" :	"	D. ಸೀಮೋನ ಪೇತ್ರ	",
+"explanation" :	"	ಅವರು ಊಟಮಾಡಿದ ಮೇಲೆ ಯೇಸು ಸೀಮೋನ ಪೇತ್ರನನ್ನು - ಯೋಹಾನನ ಮಗನಾದ ಸೀಮೋನನೇ, ನೀನು ಇವರಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ನನ್ನ ಮೇಲೆ ಪ್ರೀತಿ ಇಟ್ಟಿದ್ದೀಯೋ ಎಂದು ಕೇಳಲು ಅವನು - ಹೌದು, ಸ್ವಾಮೀ, ನಿನ್ನ ಮೇಲೆ ಮಮತೆ ಇಟ್ಟಿದ್ದೇನೆಂಬದನ್ನು ನೀನೇ ಬಲ್ಲೆ ಅಂದನು. ಆತನು ಅವನಿಗೆ - ನನ್ನ ಕುರಿಮರಿಗಳನ್ನು ಮೇಯಿಸು ಎಂದು ಹೇಳಿದನು. ಆತನು ತಿರಿಗಿ ಎರಡನೆಯ ಸಾರಿ ಅವನನ್ನು - ಯೋಹಾನನ ಮಗನಾದ ಸೀಮೋನನೇ, ನನ್ನ ಮೇಲೆ ಪ್ರೀತಿ ಇಟ್ಟಿದ್ದೀಯೋ ಎಂದು ಕೇಳಲು ಅವನು - ಹೌದು, ಸ್ವಾಮೀ, ನಿನ್ನ ಮೇಲೆ ಮಮತೆ ಇಟ್ಟಿದ್ದೇನೆಂಬದನ್ನು ನೀನೇ ಬಲ್ಲೆ ಅಂದನು. ಆತನು ಅವನಿಗೆ - ನನ್ನ ಕುರಿಗಳನ್ನು ಕಾಯಿ ಎಂದು ಹೇಳಿದನು. ಆತನು ಮೂರನೆಯ ಸಾರಿ - ಯೋಹಾನನ ಮಗನಾದ ಸೀಮೋನನೇ, ನನ್ನ ಮೇಲೆ ಮಮತೆ ಇಟ್ಟಿದ್ದೀಯೋ ಎಂದು ಕೇಳಿದನು. ಮೂರನೆಯ ಸಾರಿ ಆತನು - ನನ್ನ ಮೇಲೆ ಮಮತೆ ಇಟ್ಟಿದ್ದೀಯೋ ಎಂದು ತನ್ನನ್ನು ಕೇಳಿದ್ದಕ್ಕೆ ಪೇತ್ರನು ದುಃಖಪಟ್ಟು - ಸ್ವಾಮೀ, ನೀನು ಎಲ್ಲಾ ಬಲ್ಲೆ; ನಿನ್ನ ಮೇಲೆ ನಾನು ಮಮತೆ ಇಟ್ಟಿದ್ದೇನೆಂಬದು ನಿನಗೆ ತಿಳಿದದೆ ಅಂದನು. ಅವನಿಗೆ ಯೇಸು - ನನ್ನ ಕುರಿಗಳನ್ನು ಮೇಯಿಸು.  21:15-17	",
 },			
 {			
-"question" :	"	9. What did Jesus ask him?	",
+"question" :	"	9  ಯೇಸು ಆತನನ್ನು ಏನು ಕೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. If the disciple loved Him	",
-	"	b. How long they had been fishing	",
-	"	c. If the disciple believed in Him	",
-	"	d. If the disciple trusted Him	"
+	"	A. ನೀನು ನನ್ನನ್ನು ಪ್ರೀತಿಸುತ್ತೀಯೋ	",
+	"	B. ಎಷ್ಟು ದಿನಗಳಿಂದ ಮೀನುಗಳನ್ನು ಹಿಡಿಯುತ್ತಿದ್ದೀರಿ	",
+	"	C. ನೀನು ನನ್ನನ್ನು ನಂಬುತ್ತೀಯೋ	",
+	"	D. ನೀನು ನನ್ನನ್ನು ವಿಶ್ವಾಸಿಸುತ್ತೀಯೋ	"
 ],			
-"correct" :	"	a. If the disciple loved Him	",
-"explanation" :	"	So when they had eaten breakfast, Jesus said to Simon Peter, Simon, son of Jonah, do you love Me more than these?He said to Him, Yes, Lord; You know that I love You.He said to him, Feed My lambs.He said to him again a second time, Simon, son of Jonah,[c] do you love Me?He said to Him, Yes, Lord; You know that I love You.He said to him, Tend My sheep.He said to him the third time, Simon, son of Jonah,[d] do you love Me? Peter was grieved because He said to him the third time, Do you love Me?Jn21:15-17	",
+"correct" :	"	A. ನೀನು ನನ್ನನ್ನು ಪ್ರೀತಿಸುತ್ತೀಯೋ	",
+"explanation" :	"	ಅವರು ಊಟಮಾಡಿದ ಮೇಲೆ ಯೇಸು ಸೀಮೋನ ಪೇತ್ರನನ್ನು - ಯೋಹಾನನ ಮಗನಾದ ಸೀಮೋನನೇ, ನೀನು ಇವರಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ನನ್ನ ಮೇಲೆ ಪ್ರೀತಿ ಇಟ್ಟಿದ್ದೀಯೋ ಎಂದು ಕೇಳಲು ಅವನು - ಹೌದು, ಸ್ವಾಮೀ, ನಿನ್ನ ಮೇಲೆ ಮಮತೆ ಇಟ್ಟಿದ್ದೇನೆಂಬದನ್ನು ನೀನೇ ಬಲ್ಲೆ ಅಂದನು. ಆತನು ಅವನಿಗೆ - ನನ್ನ ಕುರಿಮರಿಗಳನ್ನು ಮೇಯಿಸು ಎಂದು ಹೇಳಿದನು. ಆತನು ತಿರಿಗಿ ಎರಡನೆಯ ಸಾರಿ ಅವನನ್ನು - ಯೋಹಾನನ ಮಗನಾದ ಸೀಮೋನನೇ, ನನ್ನ ಮೇಲೆ ಪ್ರೀತಿ ಇಟ್ಟಿದ್ದೀಯೋ ಎಂದು ಕೇಳಲು ಅವನು - ಹೌದು, ಸ್ವಾಮೀ, ನಿನ್ನ ಮೇಲೆ ಮಮತೆ ಇಟ್ಟಿದ್ದೇನೆಂಬದನ್ನು ನೀನೇ ಬಲ್ಲೆ ಅಂದನು. ಆತನು ಅವನಿಗೆ - ನನ್ನ ಕುರಿಗಳನ್ನು ಕಾಯಿ ಎಂದು ಹೇಳಿದನು. ಆತನು ಮೂರನೆಯ ಸಾರಿ - ಯೋಹಾನನ ಮಗನಾದ ಸೀಮೋನನೇ, ನನ್ನ ಮೇಲೆ ಮಮತೆ ಇಟ್ಟಿದ್ದೀಯೋ ಎಂದು ಕೇಳಿದನು. ಮೂರನೆಯ ಸಾರಿ ಆತನು - ನನ್ನ ಮೇಲೆ ಮಮತೆ ಇಟ್ಟಿದ್ದೀಯೋ ಎಂದು ತನ್ನನ್ನು ಕೇಳಿದ್ದಕ್ಕೆ ಪೇತ್ರನು ದುಃಖಪಟ್ಟು - ಸ್ವಾಮೀ, ನೀನು ಎಲ್ಲಾ ಬಲ್ಲೆ; ನಿನ್ನ ಮೇಲೆ ನಾನು ಮಮತೆ ಇಟ್ಟಿದ್ದೇನೆಂಬದು ನಿನಗೆ ತಿಳಿದದೆ ಅಂದನು. ಅವನಿಗೆ ಯೇಸು - ನನ್ನ ಕುರಿಗಳನ್ನು ಮೇಯಿಸು.  21:15-17	",
 },			
 {			
-"question" :	"	10. If all the things were written which Jesus did	",
+"question" :	"	10 ಯೇಸು ಮಾಡಿದ್ದು ಬಹಳಷ್ಟಿದೆ, ಅದನ್ನೆಲ್ಲಾ ಒಂದೊಂದಾಗಿ ಬರೆದರೆ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. John would write them.	",
-	"	b. They would not be true.	",
-	"	c. They would be more than the world could contain.	",
-	"	d. They would be more precious than gold.	"
+	"	A. ಯೋಹಾನನು ಬರೆಯಬೇಕು	",
+	"	B. ಅವೆಲ್ಲಾ ಸತ್ಯವಾದವುಗಳಲ್ಲ	",
+	"	C. ಬರೆಯಬೇಕಾದ ಪುಸ್ತಕಗಳನ್ನು ಲೋಕವೇ ಹಿಡಿಸದೆ ಹೋದೀತು	",
+	"	D. ಅವರು ಬಂಗಾರಕ್ಕಿಂತಲೂ ಅಮೂಲ್ಯವಾದದ್ದು	"
 ],			
-"correct" :	"	c. They would be more than the world could contain.	",
-"explanation" :	"	And there are also many other things that Jesus did, which if they were written one by one, I suppose that even the world itself could not contain the books that would be written. Amen.Jn21:25	",
+"correct" :	"	C. ಬರೆಯಬೇಕಾದ ಪುಸ್ತಕಗಳನ್ನು ಲೋಕವೇ ಹಿಡಿಸದೆ ಹೋದೀತು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಯೇಸು ಮಾಡಿದ್ದು ಇನ್ನೂ ಬಹಳವಿದೆ; ಅದನ್ನೆಲ್ಲಾ ಒಂದೊಂದಾಗಿ ಬರೆಯುವದಾದರೆ ಬರೆಯಬೇಕಾದ ಪುಸ್ತಕಗಳನ್ನು ಲೋಕವೇ ಹಿಡಿಸದೆ ಹೋದೀತೆಂದು ನಾನು ನೆನಸುತ್ತೇನೆ. 21:25	",
 },			
 ]			

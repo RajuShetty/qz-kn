@@ -1,4 +1,4 @@
-var quiztitle = " Titus chapter 3";			
+var quiztitle = " ತೀತನಿಗೆ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಯಾರನ್ನೂ	",

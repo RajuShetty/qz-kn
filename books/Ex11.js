@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 11";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord said to Moses, I will bring	",
@@ -89,7 +89,7 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. The 1st born in all the land of Egypt	",
-	"	b. The 1st born of all the Hebrews	",
+	"	b. The 1st born of all the ಇಬ್ರಿಯರಿಗೆ	",
 	"	c. All the Egyptian men	",
 	"	d. All the Egyptian beasts	"
 ],			

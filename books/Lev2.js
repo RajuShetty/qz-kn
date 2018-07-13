@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 2";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. This should be poured on meat offerings of fine flour.	",

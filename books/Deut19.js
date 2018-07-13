@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 19";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. How many cities of refuge were to be first established?	",
@@ -90,11 +90,11 @@ var quiz = [
 "choices" : [			
 	"	a. Eye.	",
 	"	b. Memory.	",
-	"	c. Landmark.	",
+	"	c. Landಮಾರ್ಕ.	",
 	"	d. Hope.	"
 ],			
-"correct" :	"	c. Landmark.	",
-"explanation" :	"	Thou shalt not remove thy neighbour's landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the LORD thy God giveth thee to possess it. Deut 19:14	",
+"correct" :	"	c. Landಮಾರ್ಕ.	",
+"explanation" :	"	Thou shalt not remove thy neighbour's landಮಾರ್ಕ, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the LORD thy God giveth thee to possess it. Deut 19:14	",
 },			
 {			
 "question" :	"	9. At the mouth of this many witnesses, shall a thing be established.	",

@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 16";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
-"question" :	"	1. This disciple went along with Paul.	",
+"question" :	"	1 ಈ ಶಿಷ್ಯನು ಪೌಲನ ಸಂಗಡ ಹೋದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Barnabas	",
-	"	b. Mark	",
-	"	c. Timotheus	",
-	"	d. James	"
+	"	A. ಬಾರ್ನಬ	",
+	"	B. ಮಾರ್ಕ	",
+	"	C. ತಿಮೋಥಿ	",
+	"	D. ಯಾಕೋಬ	"
 ],			
-"correct" :	"	c. Timotheus	",
-"explanation" :	"	Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father was a Greek:Which was well reported of by the brethren that were at Lystra and Iconium.Him would Paul have to go forth with him; and took and circumcised him because of the Jews which were in those quarters: for they knew all that his father was a Greek.Acts16:1-3	",
+"correct" :	"	C. ತಿಮೋಥಿ	",
+"explanation" :	"	ಆಮೇಲೆ ಅವನು ದೆರ್ಬೆಗೂ ಲುಸ್ತ್ರಕ್ಕೂ ಬಂದನು. ಲುಸ್ತ್ರದಲ್ಲಿ ತಿಮೊಥೆಯನೆಂಬ ಒಬ್ಬ ಶಿಷ್ಯನಿದ್ದನು. ಅವನು ಕ್ರಿಸ್ತನನ್ನು ನಂಬಿದ್ದ ಒಬ್ಬ ಯೆಹೂದ್ಯ ಸ್ತ್ರೀಯ ಮಗನು. ಅವನ ತಂದೆ ಗ್ರೀಕನು. ಅವನ ವಿಷಯವಾಗಿ ಲುಸ್ತ್ರದಲ್ಲಿಯೂ ಇಕೋನ್ಯದಲ್ಲಿಯೂ ಇದ್ದ ಸಹೋದರರು ಒಳ್ಳೇ ಸಾಕ್ಷಿಹೇಳುತ್ತಿದ್ದರು. ಅವನು ತನ್ನ ಸಂಗಡ ಬರಬೇಕೆಂದು ಪೌಲನು ಅಪೇಕ್ಷಿಸಿ ಆಯಾ ಸ್ಥಳಗಳಲ್ಲಿದ್ದ ಯೆಹೂದ್ಯರ ನಿಮಿತ್ತವಾಗಿ ಅವನಿಗೆ ಸುನ್ನತಿ ಮಾಡಿಸಿದನು. ಯಾಕಂದರೆ ಅವನ ತಂದೆ ಗ್ರೀಕನೆಂದು ಎಲ್ಲರಿಗೂ ಗೊತ್ತಿತ್ತು 16:1-3	",
 },			
 {			
-"question" :	"	2. Paul did this, to that disciple because of the Jews.	",
+"question" :	"	2 ಯೆಹೂದ್ಯರ ನಿಮಿತ್ತವಾಗಿ ಆ ಶಿಷ್ಯನಿಗೆ ಇದನ್ನು ಮಾಡಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Circumcised	",
-	"	b. Separated from him	",
-	"	c. Rebuked him	",
-	"	d. Hid him	"
+	"	A. ಸುನ್ನತಿ	",
+	"	B. ಆತನಿಂದ ಬೇರ್ಪಟ್ಟನು	",
+	"	C. ಆತನನ್ನು ಗದರಿಸಿದನು	",
+	"	D. ಅವನನ್ನು ಬಚ್ಚಿಟ್ಟನು	"
 ],			
-"correct" :	"	a. Circumcised	",
-"explanation" :	"	Him would Paul have to go forth with him; and took and circumcised him because of the Jews which were in those quarters: for they knew all that his father was a Greek.Acts16:3	",
+"correct" :	"	A. ಸುನ್ನತಿ	",
+"explanation" :	"	ಅವನು ತನ್ನ ಸಂಗಡ ಬರಬೇಕೆಂದು ಪೌಲನು ಅಪೇಕ್ಷಿಸಿ ಆಯಾ ಸ್ಥಳಗಳಲ್ಲಿದ್ದ ಯೆಹೂದ್ಯರ ನಿಮಿತ್ತವಾಗಿ ಅವನಿಗೆ ಸುನ್ನತಿ ಮಾಡಿಸಿದನು. ಯಾಕಂದರೆ ಅವನ ತಂದೆ ಗ್ರೀಕನೆಂದು ಎಲ್ಲರಿಗೂ ಗೊತ್ತಿತ್ತು.  16:3	",
 },			
 {			
-"question" :	"	3. Paul saw a man from this place in a vision.	",
+"question" :	"	3 ಪೌಲನು ಕನಸಿನಲ್ಲಿ ಈ ಸ್ಥಳದಿಂದ ಒಬ್ಬ ಮನುಷ್ಯನು ತನ್ನನ್ನು ಕರೆಯುತ್ತಿರುವಂತೆ ಕಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Egypt	",
-	"	b. Antioch	",
-	"	c. Jerusalem	",
-	"	d. Macedonia	"
+	"	A. ಐಗುಪ್ತ	",
+	"	B. ಅಂತಿಯೋಕ್ಯ	",
+	"	C. ಯೆರೂಷಲೇಮು	",
+	"	D. ಮೆಕದೋನ್ಯ	"
 ],			
-"correct" :	"	d. Macedonia	",
-"explanation" :	"	And a vision appeared to Paul in the night; There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us.Acts16:9	",
+"correct" :	"	D. ಮೆಕದೋನ್ಯ	",
+"explanation" :	"	ಅಲ್ಲಿ ರಾತ್ರಿಕಾಲದಲ್ಲಿ ಪೌಲನಿಗೆ ಒಂದು ದರ್ಶನವಾಯಿತು, ಏನಂದರೆ - ಮಕೆದೋನ್ಯ ದೇಶದವನಾದ ಒಬ್ಬ ಮನುಷ್ಯನು ನಿಂತುಕೊಂಡು - ನೀನು ಸಮುದ್ರವನ್ನು ದಾಟಿ ಮಕೆದೋನ್ಯಕ್ಕೆ ಬಂದು ನಮಗೆ ನೆರವಾಗಬೇಕೆಂದು ಅವನನ್ನು ಬೇಡಿಕೊಳ್ಳುತ್ತಿದ್ದನು.  16:9	",
 },			
 {			
-"question" :	"	4. This woman heard Paul speak at a riverside.	",
+"question" :	"	4 ಪೌಲನು ನದಿಯ ತೀರದ ಬಳಿ ಮಾತನಾಡುವುದನ್ನು ಈ ಸ್ತ್ರೀಯು ಕೇಳಿದಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Tabitha	",
-	"	b. Dorcus	",
-	"	c. Rhoda	",
-	"	d. Lydia	"
+	"	A. ತಬಿಥ	",
+	"	B. ದೊರ್ಕ	",
+	"	C. ರೋಧ	",
+	"	D. ಲುದ್ಯ	"
 ],			
-"correct" :	"	d. Lydia	",
-"explanation" :	"	And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted thither.And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she attended unto the things which were spoken of Paul.Acts16:13,14	",
+"correct" :	"	D. ಲುದ್ಯ	",
+"explanation" :	"	ನದೀತೀರದಲ್ಲಿ ದೇವರ ಪ್ರಾರ್ಥನೆ ನಡೆಯುವ ಸ್ಥಳ ಇರುವದೆಂದು ನೆನಸಿ ಸಬ್ಬತ್‍ದಿನದಲ್ಲಿ ಊರಬಾಗಿಲಿನ ಹೊರಗೆ ಹೋಗಿ ಅಲ್ಲಿ ಕೂಡಿಬಂದಿದ್ದ ಸ್ತ್ರೀಯರ ಸಂಗಡ ಕೂತುಕೊಂಡು ಮಾತಾಡಿದೆವು. ನಮ್ಮ ಮಾತುಗಳನ್ನು ಕೇಳಿದವರಲ್ಲಿ ಲುದ್ಯಳೆಂಬ ಒಬ್ಬ ಸ್ತ್ರೀಯು ಇದ್ದಳು. ಆಕೆ ಧೂಮ್ರವರ್ಣದ ವಸ್ತ್ರಗಳನ್ನು ಮಾರುವವಳೂ ಥುವತೈರ ಎಂಬ ಊರಿನವಳೂ ದೇವಭಕ್ತಳೂ ಆಗಿದ್ದಳು. ಪೌಲನು ಹೇಳಿದ ಮಾತುಗಳಿಗೆ ಲಕ್ಷ್ಯಕೊಡುವದಕ್ಕೆ ಕರ್ತನು ಆಕೆಯ ಹೃದಯವನ್ನು ತೆರೆದನು.  16:13,14	",
 },			
 {			
-"question" :	"	5. A woman with a spirit of divination followed Paul and the others saying,these men are	",
+"question" :	"	5 ಗಾರುಡಗಾತಿಯಾದ ಒಬ್ಬ ದಾಸಿಯು ಪೌಲನನ್ನು ಹಿಂಬಾಲಿಸುತ್ತಾ ಹಿಗೆಂದು ಸಾರಿದಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Spies.	",
-	"	b. Enemies of God.	",
-	"	c. Servants of God.	",
-	"	d. Possessed with spirits.	"
+	"	A. ಈ ಮನುಷ್ಯರು ಗೂಢಾಚಾರರು	",
+	"	B. ಈ ಮನುಷ್ಯರು ದೇವರ ವಿರೋಧಿಗಳು	",
+	"	C. ಈ ಮನುಷ್ಯರು ದೇವರ ಸೇವಕರು	",
+	"	D. ಈ ಮನಷ್ಯರು ಆತ್ಮಗಳನ್ನು ಹೊಂದಿದವರು	"
 ],			
-"correct" :	"	c. Servants of God.	",
-"explanation" :	"	 And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation.Acts16:16,17	",
+"correct" :	"	C. ಈ ಮನುಷ್ಯರು ದೇವರ ಸೇವಕರು	",
+"explanation" :	"	ಬಳಿಕ ಪ್ರಾರ್ಥನೆ ನಡೆಯುವ ಆ ಸ್ಥಳಕ್ಕೆ ನಾವು ಹೋಗುತ್ತಿರುವಾಗ ಗಾರುಡಗಾತಿಯಾದ ಒಬ್ಬ ದಾಸಿಯು ನಮ್ಮೆದುರಿಗೆ ಬಂದಳು. ಅವಳು ಕಣಿ ಹೇಳುವದರಿಂದ ಅವಳ ಯಜಮಾನರಿಗೆ ಬಹು ಆದಾಯವಾಗುತ್ತಿತ್ತು. ಪೌಲನೂ ನಾವೂ ಹೋಗುತ್ತಿರುವಾಗ ಅವಳು ಹಿಂದೆ ಬಂದು - ಈ ಮನುಷ್ಯರು ಪರಾತ್ಪರನಾದ ದೇವರ ದಾಸರು; ನಿಮಗೆ ರಕ್ಷಣೆಯ ಮಾರ್ಗವನ್ನು ಸಾರುತ್ತಾರೆ ಎಂದು ಕೂಗುತ್ತಿದ್ದಳು.  16:16,17	",
 },			
 {			
-"question" :	"	6. At this hour, Paul and Silas prayed and sang praises to God in prison.	",
+"question" :	"	6 ಈ ಸಮಯದಲ್ಲಿ ಪೌಲ ಸೀಲರು ತಾವು ಸೆರೆಮನೆಯಲ್ಲಿರುವಾಗ ದೇವರಿಗೆ ಸ್ತುತಿಗೀತೆಗಳನ್ನು ಹಾಡಿದರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Noonday	",
-	"	b. Dusk	",
-	"	c. Dawn	",
-	"	d. Midnight	"
+	"	A. ಮಧ್ಯಾಹ್ನ	",
+	"	B. ಮುಸ್ಸಂಜೆ	",
+	"	C. ಮುಂಜಾನೆ	",
+	"	D. ಮಧ್ಯರಾತ್ರಿ	"
 ],			
-"correct" :	"	d. Midnight	",
-"explanation" :	"	And at midnight Paul and Silas prayed, and sang praises unto God: and the prisoners heard them.Acts16:25	",
+"correct" :	"	D. ಮಧ್ಯರಾತ್ರಿ	",
+"explanation" :	"	ಮಧ್ಯರಾತ್ರಿಯಲ್ಲಿ ಪೌಲನೂ ಸೀಲನೂ ಪ್ರಾರ್ಥನೆ ಮಾಡುವವರಾಗಿ ದೇವರಿಗೆ ಸ್ತುತಿಪದಗಳನ್ನು ಹಾಡುತ್ತಿದ್ದರು; ಸೆರೆಯಲ್ಲಿದ್ದವರು ಲಕ್ಷ್ಯವಿಟ್ಟು ಕೇಳುತ್ತಿದ್ದರು.  16:25	",
 },			
 {			
-"question" :	"	7. When the jailer woke and saw the prison doors opened, he	",
+"question" :	"	7 ಸೆರೆಯಜಮಾನನು ಎದ್ದು ಸೆರೆಮನೆಯ ಬಾಗಿಲುಗಳು ತೆರೆದಿರುವುದನ್ನು ಕಂಡು, ಅವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Called for reinforcements.	",
-	"	b. Intended to kill himself.	",
-	"	c. Began to flee.	",
-	"	d. Fainted.	"
+	"	A. ಹೆಚ್ಚಿನ ಸೇನೆಗಾಗಿ ಕರೆದನು	",
+	"	B. ಆತ್ಮಹತ್ಯೆ ಮಾಡಿಕೊಳ್ಳಬೇಕೆಂದುಕೊಂಡನು	",
+	"	C. ಓಡಿಹೋಗಲು ಪ್ರಯತ್ನಿಸಿದನು	",
+	"	D. ಭಯಗ್ರಸ್ಥನಾದನು	"
 ],			
-"correct" :	"	b. Intended to kill himself.	",
-"explanation" :	"	And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled.Acts16:27	",
+"correct" :	"	B. ಆತ್ಮಹತ್ಯೆ ಮಾಡಿಕೊಳ್ಳಬೇಕೆಂದುಕೊಂಡನು	",
+"explanation" :	"	ಸೆರೆಯ ಯಜಮಾನನು ನಿದ್ದೆಯಿಂದ ಎಚ್ಚತ್ತು ಸೆರೆಮನೆಯ ಕದಗಳು ತೆರೆದಿರುವದನ್ನು ಕಂಡು ಸೆರೆಯಲ್ಲಿದ್ದವರು ಓಡಿಹೋದರೆಂದು ಭಾವಿಸಿ ಕತ್ತಿಯನ್ನು ಹಿರಿದು ಆತ್ಮಹತ್ಯ ಮಾಡಿಕೊಳ್ಳಬೇಕೆಂದಿದ್ದನು 16:27	",
 },			
 {			
-"question" :	"	8. The jailer asked Paul and Silas 	",
+"question" :	"	8 ಪೌಲ ಮತ್ತು ಸೀಲರನ್ನು ಸೆರೆಯಜಮಾನನು ಹೀಗೆಂದು ಕೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. How did this happen?	",
-	"	b. What must I do to be saved?	",
-	"	c. Where are the other prisoners?	",
-	"	d. Who opened the gates?	"
+	"	A. ಇದು ಹೇಗಾಯಿತು.	",
+	"	B. ನಾನು ರಕ್ಷಣೆ ಹೊಂದುವುದಕ್ಕೆ ಏನು ಮಾಡಬೇಕು	",
+	"	C. ಉಳಿದ ಖೈದಿಗಳು ಎಲ್ಲಿಹೋದರು	",
+	"	D. ಬಾಗಿಲುಗಳನ್ನು ಯಾರು ತೆರೆದರು	"
 ],			
-"correct" :	"	b. What must I do to be saved?	",
-"explanation" :	"	Then he called for a light, and sprang in, and came trembling, and fell down before Paul and Silas,And brought them out, and said, Sirs, what must I do to be saved? Acts16:29,30	",
+"correct" :	"	B. ನಾನು ರಕ್ಷಣೆ ಹೊಂದುವುದಕ್ಕೆ ಏನು ಮಾಡಬೇಕು	",
+"explanation" :	"	ಅವನು - ದೀಪ ತರಬೇಕೆಂದು ಕೂಗಿ ಒಳಕ್ಕೆ ಹಾರಿ ನಡುಗುತ್ತಾ ಪೌಲ ಸೀಲರ ಮುಂದೆ ಬಿದ್ದನು. ಮತ್ತು ಅವರನ್ನು ಹೊರಗೆ ಕರಕೊಂಡು ಬಂದು - ಸ್ವಾಮಿಗಳೇ, ನಾನು ರಕ್ಷಣೆಹೊಂದುವದಕ್ಕೆ ಏನು ಮಾಡಬೇಕೆಂದು ಕೇಳಲು 16:29,30	",
 },			
 {			
-"question" :	"	9. Where did the jailer take Paul and Silas?	",
+"question" :	"	9 ಪೌಲ ಮತ್ತು ಸೀಲರನ್ನು ಸೆರೆಯಜಮಾನನು ಎಲ್ಲಿಗೆ ಕರೆದುಕೊಂಡು ಹೋದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. To the temple	",
-	"	b. To the governor	",
-	"	c. To his house	",
-	"	d. To a cave	"
+	"	A. ದೇವಾಲಯಕ್ಕೆ	",
+	"	B. ಅಧಿಕಾರಿಯ ಬಳಿ	",
+	"	C. ತನ್ನ ಮನೆಗೆ	",
+	"	D. ಗುಹೆಗೆ	"
 ],			
-"correct" :	"	c. To his house	",
-"explanation" :	"	And when he had brought them into his house, he set meat before them, and rejoiced, believing in God with all his house.Acts16:34	",
+"correct" :	"	C. ತನ್ನ ಮನೆಗೆ	",
+"explanation" :	"	ತರುವಾಯ ಅವರನ್ನು ತನ್ನ ಮನೆಗೆ ಕರಕೊಂಡು ಹೋಗಿ ಊಟಮಾಡಿಸಿದನು. ಅವನು ತನ್ನ ಮನೆಯವರೆಲ್ಲರ ಸಂಗಡ ನಂಬಿ ಉಲ್ಲಾಸಗೊಂಡನು. 16:34	",
 },			
 {			
-"question" :	"	10. The magistrates feared when they heard that Paul and Silas were	",
+"question" :	"	10 ಪೌಲ ಮತ್ತು ಸೀಲರು _________ ಎಂದು ಕೇಳಿದಾಗ ಅಧಿಪತಿಗಳು ಭಯಪಟ್ಟರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Apostles.	",
-	"	b. Prophets.	",
-	"	c. Romans.	",
-	"	d. Escaped.	"
+	"	A. ಅಪೋಸ್ತಲರು	",
+	"	B. ಪ್ರವಾದಿಗಳು	",
+	"	C. ರೋಮಾಪುರದ ಹಕ್ಕುದಾರರು	",
+	"	D. ತಪ್ಪಿಹೋದರು	"
 ],			
-"correct" :	"	c. Romans.	",
-"explanation" :	"	And the serjeants told these words unto the magistrates: and they feared, when they heard that they were Romans.Acts16:38	",
+"correct" :	"	C. ರೋಮಾಪುರದ ಹಕ್ಕುದಾರರು	",
+"explanation" :	"	ಜವಾನರು ಈ ಮಾತುಗಳನ್ನು ಅಧಿಪತಿಗಳಿಗೆ ತಿಳಿಸಿದಾಗ ರೋಮಾಪುರದ ಹಕ್ಕುದಾರರು ಎಂಬ ಮಾತನ್ನು ಅವರು ಕೇಳಿ ಭಯಪಟ್ಟರು 16:38	",
 },			
 ]			

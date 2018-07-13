@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 9";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
-"question" :	"	1. Which disciples did Jesus take with Him to the mountain when He was transfigured?	",
+"question" :	"	1 ಯೇಸು ರೂಪಾಂತ್ರದ ಬೆಟ್ಟಕ್ಕೆ ತನ್ನೊಂದಿಗೆ ಯಾವ ಶಿಷ್ಯರನ್ನು ಕರೆದುಕೊಂಡು ಹೋಗಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mark, Luke & Peter	",
-	"	b. Andrew, Peter & John	",
-	"	c. Peter, James & John	",
-	"	d. Mark, James & Peter	"
+	"	A. ಮಾರ್ಕ, ಲೂಕ ಮತ್ತು ಪೇತ್ರ	",
+	"	B. ಆಂದ್ರೇಯ, ಪೇತ್ರ ಮತ್ತು ಯೋಹಾನ	",
+	"	C. ಪೇತ್ರ, ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+	"	D. ಮಾರ್ಕ , ಯಾಕೋಬ ಮತ್ತು ಪೇತ್ರ	"
 ],			
-"correct" :	"	c. Peter, James & John	",
-"explanation" :	"	Now after six days Jesus took Peter, James, and John, and led them up on a high mountain apart by themselves; and He was transfigured before them. - Mr 9:2	",
+"correct" :	"	C. ಪೇತ್ರ, ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+"explanation" :	"	ಆರು ದಿವಸಗಳಾದ ಮೇಲೆ ಯೇಸು ಪೇತ್ರ ಯಾಕೋಬ ಯೋಹಾನರನ್ನು ಮಾತ್ರ ವಿಂಗಡವಾಗಿ ಕರಕೊಂಡು ಎತ್ತರವಾದ ಬೆಟ್ಟಕ್ಕೆ ಹೋದನು.  ಮಾರ್ಕ 9:2	",
 },			
 {			
-"question" :	"	2. Who appeared and talked with Jesus?	",
+"question" :	"	2 ಯೇಸುವಿಗೆ ಯಾರು ಕಾಣಿಸಿಕೊಂಡು ಮಾತನಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Abraham & Isaac	",
-	"	b. Abraham & Moses	",
-	"	c. Moses & Elijah	",
-	"	d. Angels	"
+	"	A. ಅಬ್ರಹಾಮ ಮತ್ತು ಇಸಾಕ	",
+	"	B. ಅಬ್ರಹಾಮ ಮತ್ತು ಮೋಶೆ	",
+	"	C. ಮೋಶೆ ಮತ್ತು ಎಲೀಯ	",
+	"	D. ದೇವದೂತರು	"
 ],			
-"correct" :	"	c. Moses & Elijah	",
-"explanation" :	"	And Elijah appeared to them with Moses, and they were talking with Jesus. - Mr 9:4	",
+"correct" :	"	C. ಮೋಶೆ ಮತ್ತು ಎಲೀಯ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಎಲೀಯನೂ ಮೋಶೆಯೂ ಅವರಿಗೆ ಕಾಣಿಸಿಕೊಂಡು ಯೇಸುವಿನ ಸಂಗಡ ಮಾತಾಡುತ್ತಿದ್ದರು.  ಮಾರ್ಕ 9:4	",
 },			
 {			
-"question" :	"	3. What did Peter want to do?	",
+"question" :	"	3 ಪೇತ್ರನು ಏನು ಮಾಡಬೇಕೆಂದು ಆಸೆ ಪಟ್ಟನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Build 3 tabernacles	",
-	"	b. Send for the other disciples	",
-	"	c. Tell the Pharisees	",
-	"	d. Speak with the angels	"
+	"	A. 3 ಪರ್ಣಶಾಲೆಗಳನ್ನು ಕಟ್ಟಬೇಕೆಂದು	",
+	"	B. ಬೇರೆ ಶಿಷ್ಯರನ್ನು ಕರೆತರಬೇಕೆಂದು	",
+	"	C. ಫರಿಸಾಯರಿಗೆ ಹೇಳಬೇಕೆಂದು	",
+	"	D. ದೇವದೂತರೊಂದಿಗೆ ಮಾತನಾಡಬೇಕೆಂದು	"
 ],			
-"correct" :	"	a. Build 3 tabernacles	",
-"explanation" :	"	Then Peter answered and said to Jesus, Rabbi, it is good for us to be here; and let us make three tabernacles: one for You, one for Moses, and one for Elijah - Mr 9:5	",
+"correct" :	"	A. 3 ಪರ್ಣಶಾಲೆಗಳನ್ನು ಕಟ್ಟಬೇಕೆಂದು	",
+"explanation" :	"	ಆಗ ಪೇತ್ರನು ಯೇಸುವಿಗೆ - ಗುರುವೇ, ನಾವು ಇಲ್ಲೇ ಇರುವದು ಒಳ್ಳೇದೆ; ಮೂರು ಪರ್ಣಶಾಲೆಗಳನ್ನು ಕಟ್ಟುವೆವು; ನಿಗೊಂದು ಮೋಶೆಗೊಂದು ಎಲೀಯನಿಗೊಂದು ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 9:5	",
 },			
 {			
-"question" :	"	4. What did the voice from the cloud say?	",
+"question" :	"	4 ಮೋಡದೊಳಗಿಂದ ಏನೆಂದು ಆಕಾಶವಾಣಿ ಆಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. This is My beloved Son; Hear Him.	",
-	"	b. Build Me here a tabernacle.	",
-	"	c. Hear My wrath.	",
-	"	d. Follow My commandments & live.	"
+	"	A. ಈತನು ಪ್ರಿಯನಾಗಿರುವ ನನ್ನ ಮಗನು, ಈತನ ಮಾತನ್ನು ಕೇಳಿರಿ	",
+	"	B. ಇಲ್ಲಿ ನನಗೊಂದು ಗುಡಾರ ಕಟ್ಟಿರಿ	",
+	"	C. ನನ್ನ ಕೋಪವನ್ನು ಕೇಳಿರಿ	",
+	"	D. ನನ್ನ ಆಜೆÐಗಳನ್ನು ಅನುಸರಿಸಿ ಮತ್ತು ಅದರಂತೆ ಬಾಳಿರಿ	"
 ],			
-"correct" :	"	a. This is My beloved Son; Hear Him.	",
-"explanation" :	"	And a cloud came and overshadowed them; and a voice came out of the cloud, saying, This is My beloved Son. Hear Him - Mr 9:7	",
+"correct" :	"	A. ಈತನು ಪ್ರಿಯನಾಗಿರುವ ನನ್ನ ಮಗನು, ಈತನ ಮಾತನ್ನು ಕೇಳಿರಿ	",
+"explanation" :	"	ಮೋಡವು ಬಂದು ಅವರ ಮೇಲೆ ಕವಿಯಿತು.  ಆ ಮೋಡದೊಳಗಿಂದ ಈತನು ಪ್ರಿಯನಾಗಿರುವ ನನ್ನ ಮಗನು; ಈತನ ಮಾತನ್ನು ಕೇಳಿರಿ ಎಂದು ಆಕಾಶವಾಣಿ ಆಯಿತು.     ಮಾರ್ಕ 9:7	",
 },			
 {			
-"question" :	"	5. What was wrong with the man's son?	",
+"question" :	"	5 ಆ ಮನುಷ್ಯನ ಮಗನಿಗೆ ಏನು ತೊಂದರೆ ಇತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He had leprosy.	",
-	"	b. He was blind.	",
-	"	c. He had a dumb spirit.	",
-	"	d. He had the palsy.	"
+	"	A. ಅವನಿಗೆ ಕುಷ್ಠರೋಗವಿತ್ತು	",
+	"	B. ಅವನು ಕುರುಡನಾಗಿದ್ದನು	",
+	"	C. ಅವನಿಗೆ ಮೂಕ ದೆವ್ವ ಹಿಡಿದಿತ್ತು	",
+	"	D. ಅವನಿಗೆ ಪಾಶ್ರ್ವವಾಯು ರೋಗವಿತ್ತು	"
 ],			
-"correct" :	"	c. He had a dumb spirit.	",
-"explanation" :	"	Then one of the crowd answered and said, Teacher, I brought You my son, who has a mute spirit. - Mr 9:17	",
+"correct" :	"	C. ಅವನಿಗೆ ಮೂಕ ದೆವ್ವ ಹಿಡಿದಿತ್ತು	",
+"explanation" :	"	ಒಬ್ಬನು ಬೋಧಕನೇ, ನನ್ನ ಮಗನನ್ನು ನಿನ್ನ ಬಳಿಗೆ ಕರಕೊಂಡು ಬಂದೆನು; ಅವನಿಗೊಂದು ಮೂಗದೆವ್ವ ಹಿಡಿದದೆ;         ಮಾರ್ಕ 9:17	",
 },			
 {			
-"question" :	"	6. The man asked Jesus, If thou canst do anything	",
+"question" :	"	6 ಆ ಮನುಷ್ಯನು ಯೇಸುವನ್ನು ಕೇಳಿದನು, ನಿನ್ನ ಕೈಯಲ್ಲಿ ಏನಾದರು ಆಗುವ ಹಾಗಿದ್ದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Why did you not heal him?	",
-	"	b. Have compassion on us & help us.	",
-	"	c. Why is my son like this?	",
-	"	d. Why us?	"
+	"	A. ನೀನು ಅವನನ್ನು ಯಾಕೆ ಸ್ವಸ್ಥ ಮಾಡಬಾರದು?	",
+	"	B. ನಮ್ಮ ಮೇಲೆ ಕರುಣವಿಟ್ಟ ನಮಗೆ ಸಹಾಯಮಾಡು	",
+	"	C. ನನ್ನ ಮಗನಿಗೆ ಯಾಕೆ ಹೀಗಿದ್ದಾನೆ?	",
+	"	D. ನಮಗೆ ಯಾಕೆ?	"
 ],			
-"correct" :	"	b. Have compassion on us & help us.	",
-"explanation" :	"	And often he has thrown him both into the fire and into the water to destroy him. But if You can do anything, have compassion on us and help us - Mr 9:22	",
+"correct" :	"	B. ನಮ್ಮ ಮೇಲೆ ಕರುಣವಿಟ್ಟು ನಮಗೆ ಸಹಾಯಮಾಡು	",
+"explanation" :	"	ಇವನನ್ನು ಕೊಲ್ಲಬೇಕೆಂದು ಆಗಾಗ್ಗೆ ಬೆಂಕಿಯಲ್ಲಿಯೂ ನೀರಿನಲ್ಲಿಯೂ ಕೆಡವಿತು; ನಿನ್ನ ಕೈಲಿ ಏನಾದರೂ ಆಗುವ ಹಾಗಿದ್ದರೆ ನಮ್ಮ ಮೇಲೆ ಕರುಣವಿಟ್ಟು ನಮಗೆ ಸಹಾಯಮಾಡು ಅಂದನು.  ಮಾರ್ಕ 9:22	",
 },			
 {			
-"question" :	"	7. Jesus said, all things are possible	",
+"question" :	"	7 ಯೇಸು ಹೇಳಿದ್ದು: “___________ ಎಲ್ಲಾ ಆಗುವದು”	",
 "image" :	"",		
 "choices" : [			
-	"	a. Under heaven.	",
-	"	b. For angels around us.	",
-	"	c. To him that believeth.	",
-	"	d. To the men of this world.	"
+	"	A. ಪರಲೋಕದ ಕೆಳಗೆ	",
+	"	B. ನಮ್ಮ ಸುತ್ತೂ ಇರುವ ದೂತರಿಗೆ	",
+	"	C. ನಂಬುವವನಿಗೆ	",
+	"	D. ಈ ಲೋಕದ ಜನರಿಗೆ	"
 ],			
-"correct" :	"	c. To him that believeth.	",
-"explanation" :	"	Jesus said to him, If you can believe, all things are possible to him who believes. - Mr 9:23	",
+"correct" :	"	C. ನಂಬುವವನಿಗೆ	",
+"explanation" :	"	ಯೇಸು ಅವನಿಗೆ ನಿನ್ನ ಕೈಲಿ ಆಗುವ ಹಾಗಿದ್ದರೆ ಅನ್ನುತ್ತೀಯೋ? ನಂಬುವವನಿಗೆ ಎಲ್ಲಾ ಆಗುವದು ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 9:25	",
 },			
 {			
-"question" :	"	8. When the disciples asked Jesus why they could not cast out the spirit, He answered, this kind can come forth by nothing but	",
+"question" :	"	8 ಅದನ್ನು ಬಿಡಿಸಲಿಕ್ಕೆ ನಮ್ಮಿಂದ ಯಾಕೆ ಆಗಲಿಲ್ಲವೆಂದು ಯೇಸುವನ್ನು ಶಿಷ್ಯರು ಏಕಾಂತದಲ್ಲಿ ಕೇಳು ಆತನು - ಈ ಜಾತಿಯು ……………………………. ಹೊರತು ಬೇರೆ ಯಾತರಿಂದಲು ಬಿಟ್ಟು ಹೋಗುವುದಿಲ್ಲ” ಎಂದು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The hand of the prophet.	",
-	"	b. The hand of the priest.	",
-	"	c. The touch of an angel.	",
-	"	d. Prayer & fasting.	"
+	"	A. ಪ್ರವಾದಿಯ ಕೈಯಿಂದ	",
+	"	B. ಯಾಜಕರ ಕೈಯಿಂದ	",
+	"	C. ದೂತರು ಬಂದು ಮುಟ್ಟುವುದರಿಂದ	",
+	"	D. ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಉಪವಾಸಗಳಿಂದ	"
 ],			
-"correct" :	"	d. Prayer & fasting.	",
-"explanation" :	"	And when He had come into the house, His disciples asked Him privately, Why could we not cast it out? So He said to them,This kind can come out by nothing but prayer and fasting. - Mr 9:28-29	",
+"correct" :	"	D. ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಉಪವಾಸಗಳಿಂದ	",
+"explanation" :	"	ಯೇಸು ಮನೆಗೆ ಬಂದಾಗ ಆತನ ಶಿಷ್ಯರು ಅದನ್ನು ಬಿಡಿಸಲಿಕ್ಕೆ ನಮ್ಮಿಂದ ಯಾಕೆ ಆಗಲಿಲ್ಲವೆಂದು ಆತನನ್ನು ಏಕಾಂತದಲ್ಲಿ ಕೇಳಲು ಆತನು ಈ ಜಾತಿಯು ದೇವರ ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಉಪವಾಸದಿಂದಲೇ ಹೊರತು ಬೇರೆ ಯಾತರಿಂದಲೂ ಬಿಟ್ಟು ಹೋಗುವದಿಲ್ಲವೆಂದು ಅವರಿಗೆ ಹೇಳಿದನು.  ಮಾರ್ಕ 9:28-29	",
 },			
 {			
-"question" :	"	9. What were the disciples disputing about?	",
+"question" :	"	9 ಶಿಷ್ಯರು ಯಾವ ವಿಷಯಕ್ಕಾಗಿ ವಾಗ್ವಾದ ಮಾಡಿಕೊಂಡಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Who should carry the money	",
-	"	b. Food	",
-	"	c. Salt	",
-	"	d. Who should be the greatest	"
+	"	A. ಹಣವು ಯಾರ ಬಳಿ ಇರಬೇಕೆಂದು	",
+	"	B. ಆಹಾರ	",
+	"	C. ಉಪ್ಪು	",
+	"	D. ತಮ್ಮಲ್ಲಿ ಹೆಚ್ಚಿನವನು ಯಾರು ಎಂದು	"
 ],			
-"correct" :	"	d. Who should be the greatest	",
-"explanation" :	"	But they kept silent, for on the road they had disputed among themselves who would be the greatest. - Mr 9:34	",
+"correct" :	"	D. ತಮ್ಮಲ್ಲಿ ಹೆಚ್ಚಿನವನು ಯಾರು ಎಂದು	",
+"explanation" :	"	ಯಾಕೆಂದರೆ ಅವರು ದಾರಿಯಲ್ಲಿ ಒಬ್ಬರಕೂಡೊಬ್ಬರು ತಮ್ಮಲ್ಲಿ ಯಾವನು ಹೆಚ್ಚಿನವನೆಂದು ವಾಗ್ವಾದ ಮಾಡಿಕೊಂಡಿದ್ದರು.  ಮಾರ್ಕ 9:34	",
 },			
 {			
-"question" :	"	10. Jesus said, if any man desire to be the first, the same shall be	",
+"question" :	"	10 ಯೇಸು ಹೇಳಿದ್ದು: “ಯಾವನಾದರು ಮೊದಲಿನವನಾಗಬೇಕೆಂದಿದ್ದರು……………”	",
 "image" :	"",		
 "choices" : [			
-	"	a. Last & servant of all.	",
-	"	b. First.	",
-	"	c. Wise in God’s word.	",
-	"	d. Noble.	"
+	"	A. ಎಲ್ಲರಲ್ಲಿ ಕಡೆಯವನೂ ಎಲ್ಲರ ಆಳೂ ಆಗಿರಬೇಕು	",
+	"	B. ಮೊದಲಿಗನಾಗಿರಬೇಕು	",
+	"	C. ದೇವರ ವಾಕ್ಯಗಳಲ್ಲಿ ಬುದ್ದಿವಂತನಾಗಿರಬೇಕು	",
+	"	D. ಗೌರವಸ್ಥನಾಗಿರಬೇಕು	"
 ],			
-"correct" :	"	a. Last & servant of all.	",
-"explanation" :	"	And He sat down, called the twelve, and said to them, If anyone desires to be first, he shall be last of all and servant of all. - Mr 9:35	",
+"correct" :	"	A. ಎಲ್ಲರಲ್ಲಿ ಕಡೆಯವನೂ ಎಲ್ಲರ ಆಳೂ ಆಗಿರಬೇಕು	",
+"explanation" :	"	ಆತನು ಕೂತುಕೊಂಸು ತನ್ನ ಹನ್ನೆರಡು ಮಂದಿ ಶಿಷ್ಯರನ್ನು ಕರೆದು ಅವರಿಗೆ ಯಾವನಾದರೂ ಮೊದಲಿನವನಾಗಬೇಕೆಂದಿದ್ದರೆ ಅವನು ಎಲ್ಲರಲ್ಲಿ ಕಡೆಯವನೂ ಎಲ್ಲರ ಆಳೂ ಆಗಿರಬೇಕು ಎಂದು ಹೇಳಿ; ಮಾರ್ಕ 9:35	",
 },			
 ]			

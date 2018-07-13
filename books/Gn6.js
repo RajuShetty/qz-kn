@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 6";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord said, this shall not always strive with man.	",

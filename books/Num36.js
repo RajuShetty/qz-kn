@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 36";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 36";			
 var quiz = [			
 {			
 "question" :	"	1. The chief fathers of the family of this man came to Moses.	",

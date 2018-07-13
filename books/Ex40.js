@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 40";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 40";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord told Moses to	",

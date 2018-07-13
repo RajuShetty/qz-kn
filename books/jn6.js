@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 6";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus taught by this sea, which is called Tiberias.	",
+"question" :	"	1  ಯೇಸು ತಿಬೇರಿಯದ ಸಮುದ್ರವೆಂದು ಕರೆಯಲ್ಪಡುವ ಈ ಸಮುದ್ರದ ಬಳಿ ಭೋದಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Galilee	",
-	"	b. Red	",
-	"	c. Dead	",
-	"	d. Jordan	"
+	"	A. ಗಲಿಲಾಯ ಸಮುದ್ರ	",
+	"	B. ಕೆಂಪು ಸಮುದ್ರ	",
+	"	C. ಮೃತ ಸಮುದ್ರ	",
+	"	D. ಯೋರ್ದಾನ್ ಸಮುದ್ರ	"
 ],			
-"correct" :	"	a. Galilee	",
-"explanation" :	"	After these things Jesus went over the Sea of Galilee, which is the Sea of Tiberias.- Jn 6:1	",
+"correct" :	"	A. ಗಲಿಲಾಯ ಸಮುದ್ರ	",
+"explanation" :	"	ತರುವಾಯ ಯೇಸು ಗಲಿಲಾಯದ ಸಮುದ್ರದ ಆಚೆಗೆ ಹೋದನು; ಅದಕ್ಕೆ ತಿಬೇರಿಯದ ಸಮುದ್ರವೆಂತಲೂ ಹೇಳುತ್ತಾರೆ.  6:1	",
 },			
 {			
-"question" :	"	2. Jesus asked Philip where to buy this.	",
+"question" :	"	2  ಯೇಸು ಪಿಲಿಪ್ಪನನ್ನು ಇದನ್ನು ಎಲ್ಲಿ ಕೊಂಡುತರೋಣವೆಂದು ಕೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Medicine	",
-	"	b. Clothing	",
-	"	c. Wine	",
-	"	d. Bread	"
+	"	A. ಔಷಧ	",
+	"	B. ವಸ್ತ್ರಗಳು	",
+	"	C. ದ್ರಾಕ್ಷಾರಸ	",
+	"	D. ರೊಟ್ಟಿ	"
 ],			
-"correct" :	"	d. Bread	",
-"explanation" :	"	Then Jesus lifted up His eyes, and seeing a great multitude coming toward Him, He said to Philip, Where shall we buy bread, that these may eat - Jn 6:5	",
+"correct" :	"	D. ರೊಟ್ಟಿ	",
+"explanation" :	"	ಹೀಗಿರಲಾಗಿ ಯೇಸು ಕಣ್ಣೆತ್ತಿ ನೋಡಿದಾಗ ಬಹು ಜನರ ಗುಂಪು ತನ್ನ ಬಳಿಗೆ ಬರುವದನ್ನು ಕಂಡು - ಇವರ ಊಟಕ್ಕೆ ನಾವು ಎಲ್ಲಿಂದ ರೊಟ್ಟಿ ಕೊಂಡುತರೋಣ? ಎಂದು ಫಿಲಿಪ್ಪನನ್ನು ಕೇಳಿದನು. 6:5	",
 },			
 {			
-"question" :	"	3. Who told Jesus about the lad that was there?	",
+"question" :	"	3  ಒಬ್ಬ ಹುಡುಗನ ಬಳಿ ಇದೆಯೆಂದು ಯೇಸುವಿಗೆ ಹೇಳಿದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. John	",
-	"	c. Philip	",
-	"	d. Andrew	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಯೋಹಾನ	",
+	"	C. ಪಿಲಿಪ್ಪಿ	",
+	"	D. ಆಂದ್ರೇಯ	"
 ],			
-"correct" :	"	d. Andrew	",
-"explanation" :	"	One of His disciples, Andrew, Simon Peter's brother, said to Him,There is a lad here who has five barley loaves and two small fish, but what are they among so many? - Jn 6:8-9	",
+"correct" :	"	D. ಆಂದ್ರೇಯ	",
+"explanation" :	"	ಆಗ ಆತನ ಶಿಷ್ಯರಲ್ಲಿ ಒಬ್ಬನಾಗಿರುವ ಸೀಮೋನ್‍ಪೇತ್ರನ ತಮ್ಮನಾದ ಅಂದ್ರೆಯನು ಆತನಿಗೆ - ಇಲ್ಲಿರುವ ಒಬ್ಬ ಹುಡುಗನ ಬಳಿಯಲ್ಲಿ ಐದು ಜವೆಗೋದಿಯ ರೊಟ್ಟಿಗಳೂ ಎರಡು ಮೀನುಗಳೂ ಅವೆ; ಆದರೆ ಇಷ್ಟು ಜನರಿಗೆ ಅವು ಯಾತಕ್ಕಾದಾವು? 6:8-9	",
 },			
 {			
-"question" :	"	4. How many fishes did the boy have?	",
+"question" :	"	4  ಆ ಹುಡುಗನ ಬಳೀ ಎಷ್ಟು ಮೀನುಗಳಿತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1	",
-	"	b. 2	",
-	"	c. 3	",
-	"	d. 4	"
+	"	A. 1	",
+	"	B. 2	",
+	"	C. 3	",
+	"	D. 4	"
 ],			
-"correct" :	"	b. 2	",
-"explanation" :	"	There is a lad here who has five barley loaves and two small fish, but what are they among so many - Jn 6:9	",
+"correct" :	"	B. 2	",
+"explanation" :	"	ಇಲ್ಲಿರುವ ಒಬ್ಬ ಹುಡುಗನ ಬಳಿಯಲ್ಲಿ ಐದು ಜವೆಗೋದಿಯ ರೊಟ್ಟಿಗಳೂ ಎರಡು ಮೀನುಗಳೂ ಅವೆ; ಆದರೆ ಇಷ್ಟು ಜನರಿಗೆ ಅವು ಯಾತಕ್ಕಾದಾವು?  6:9	",
 },			
 {			
-"question" :	"	5. How many barley loaves did the boy have?	",
+"question" :	"	5  ಆ ಹುಡುಗನ ಬಳಿ ಎಷ್ಟು ಜವೆಗೋಧಿಯ ರೊಟ್ಟಿಗಳಿದ್ದವು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 3	",
-	"	c. 4	",
-	"	d. 5	"
+	"	A. 2	",
+	"	B. 3	",
+	"	C. 4	",
+	"	D. 5	"
 ],			
-"correct" :	"	d. 5	",
-"explanation" :	"	There is a lad here who has five barley loaves and two small fish, but what are they among so many - Jn 6:9	",
+"correct" :	"	D. 5	",
+"explanation" :	"	ಇಲ್ಲಿರುವ ಒಬ್ಬ ಹುಡುಗನ ಬಳಿಯಲ್ಲಿ ಐದು ಜವೆಗೋದಿಯ ರೊಟ್ಟಿಗಳೂ ಎರಡು ಮೀನುಗಳೂ ಅವೆ; ಆದರೆ ಇಷ್ಟು ಜನರಿಗೆ ಅವು ಯಾತಕ್ಕಾದಾವು?  6:9	",
 },			
 {			
-"question" :	"	6. About how many men did Jesus feed?	",
+"question" :	"	6 ಸುಮಾರು ಎಷ್ಟು ಜನ ಗಂಡಸರಿಗೆ ಯೇಸು ಉಣಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 100	",
-	"	b. 1,000	",
-	"	c. 5,000	",
-	"	d. 7,000	"
+	"	A. 100	",
+	"	B. 1000	",
+	"	C. 5000	",
+	"	D. 7000	"
 ],			
-"correct" :	"	c. 5,000	",
-"explanation" :	"	Then Jesus said, Make the people sit down.Now there was much grass in the place. So the men sat down, in number about five thousand. - Jn 6:10	",
+"correct" :	"	C. 5000	",
+"explanation" :	"	ಯೇಸು - ಆ ಜನರನ್ನು ಊಟಕ್ಕೆ ಕೂಡ್ರಿಸಿರಿ ಅಂದನು. ಆ ಸ್ಥಳದಲ್ಲಿ ಬಹಳ ಹುಲ್ಲು ಬೆಳೆದಿತ್ತು; ಜನರು ಕೂತುಕೊಂಡರು. ಗಂಡಸರ ಸಂಖ್ಯೆ ಹೆಚ್ಚುಕಡಿಮೆ ಐದು ಸಾವಿರವಿತ್ತು.  6:10	",
 },			
 {			
-"question" :	"	7. How many baskets were leftover?	",
+"question" :	"	7 ಎಷ್ಟು ಪುಟ್ಟಿಗಳು ಉಳಿದವು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1	",
-	"	b. 5	",
-	"	c. 6	",
-	"	d. 12	"
+	"	A. 1	",
+	"	B. 5	",
+	"	C. 6	",
+	"	D. 12	"
 ],			
-"correct" :	"	d. 12	",
-"explanation" :	"	Therefore they gathered them up, and filled twelve baskets with the fragments of the five barley loaves which were left over by those who had eaten. - Jn 6:13	",
+"correct" :	"	D. 12	",
+"explanation" :	"	ಅವರು ಕೂಡಿಸಲಾಗಿ ಆ ಐದು ಜವೆಗೋದಿಯ ರೊಟ್ಟಿಗಳಲ್ಲಿ ಜನರು ತಿಂದು ಮಿಕ್ಕತುಂಡುಗಳಿಂದ ಹನ್ನೆರಡು ಪುಟ್ಟಿ ತುಂಬಿದವು 6:13	",
 },			
 {			
-"question" :	"	8. What did the disciples see across the water at night in the storm?	",
+"question" :	"	8 ಶಿಷ್ಯರು ರಾತ್ರಿಯ ವೇಳೆಯಲ್ಲಿ ಬಿರುಗಾಳಿಯ ಮಧ್ಯದಲ್ಲಿ ಸಮುದ್ರದ ನೀರಿನ ಮೇಲೆ ಏನು  ನೋಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A ghost	",
-	"	b. A whale	",
-	"	c. A ship	",
-	"	d. Jesus walking	"
+	"	A. ಭೂತ	",
+	"	B. ವೇಲ್	",
+	"	C. ಹಡಗು	",
+	"	D. ಯೇಸು ನಡೆದು ಬರುತ್ತಿರುವುದು	"
 ],			
-"correct" :	"	d. Jesus walking	",
-"explanation" :	"	So when they had rowed about three or four miles, they saw Jesus walking on the sea and drawing near the boat; and they were afraid. - Jn 6:19	",
+"correct" :	"	D. ಯೇಸು ನಡೆದು ಬರುತ್ತಿರುವುದು	",
+"explanation" :	"	ಹೀಗಿರಲಾಗಿ ಅವರು ಹುಟ್ಟುಹಾಕುತ್ತಾ ಹೆಚ್ಚು ಕಡಿಮೆ ಒಂದು . ಹರದಾರಿ ದೂರ ಹೋದ ಬಳಿಕ ಯೇಸು ಸಮುದ್ರದ ಮೇಲೆ ನಡೆಯುತ್ತಾ ದೋಣಿಯ ಸಮೀಪಕ್ಕೆ ಬರುವದನ್ನು ನೋಡಿ ಅಂಜಿದರು 6:19	",
 },			
 {			
-"question" :	"	9. Jesus described himself as the Bread of	",
+"question" :	"	9 ಯೇಸು ತನ್ನನ್ನು ತಾನು ಈ ರೊಟ್ಟಿ ಎಂದು ಪ್ರಕಟಿಸಿಕೊಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hope.	",
-	"	b. Life.	",
-	"	c. The poor.	",
-	"	d. Heaven.	"
+	"	A. ನಿರೀಕ್ಷೆಯ ರೊಟ್ಟಿ	",
+	"	B. ಜೀವ ಕೊಡುವ ರೊಟ್ಟಿ	",
+	"	C. ಬಡವರ ರೊಟ್ಟಿ	",
+	"	D. ಪರಲೋಕದ ರೊಟ್ಟಿ	"
 ],			
-"correct" :	"	b. Life.	",
-"explanation" :	"	And Jesus said to them, I am the bread of life. He who comes to Me shall never hunger, and he who believes in Me shall never thirst - Jn 6:35	",
+"correct" :	"	B. ಜೀವ ಕೊಡುವ ರೊಟ್ಟಿ	",
+"explanation" :	"	ಅವರಿಗೆ - ಜೀವಕೊಡುವ ರೊಟ್ಟಿ ನಾನೇ; ನನ್ನ ಬಳಿಗೆ ಬರುವವನಿಗೆ ಎಂದಿಗೂ ಹಸಿವೆಯಾಗುವದಿಲ್ಲ, ನನ್ನನ್ನು ನಂಬುವವನಿಗೆ ಎಂದಿಗೂ ನೀರಡಿಕೆಯಾಗುವದಿಲ್ಲ.  6:35	",
 },			
 {			
-"question" :	"	10. Jesus knew that this disciple would betray Him.	",
+"question" :	"	10  ಯೇಸು ತನ್ನನ್ನು ಹಿಡಿದುಕೊಡುವವನು ಈ ಶಿಷ್ಯನೇ ಎಂದು ತಿಳಿದಿದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Matthew	",
-	"	b. Judas Iscariot	",
-	"	c. Simon Peter	",
-	"	d. John	"
+	"	A. ಮತ್ತಾಯ	",
+	"	B. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+	"	C. ಸಿಮೋನ ಪೇತ್ರ	",
+	"	D. ಯೋಹಾನ	"
 ],			
-"correct" :	"	b. Judas Iscariot	",
-"explanation" :	"	He spoke of Judas Iscariot, the son of Simon, for it was he who would betray Him, being one of the twelve. - Jn 6:71	",
+"correct" :	"	B. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+"explanation" :	"	ಈ ಮಾತಿನಿಂದ ಆತನು ಸೀಮೋನನ ಮಗನಾದ ಇಸ್ಕರಿಯೋತ ಯೂದನನ್ನು ಸೂಚಿಸಿದನು. ಇವನು ಆ ಹನ್ನೆರಡು ಮಂದಿಯಲ್ಲಿ ಒಬ್ಬನಾಗಿದ್ದು ಮುಂದೆ ಆತನನ್ನು ಹಿಡುಕೊಡುವವನಾದನು. 6:71	",
 },			
 ]			

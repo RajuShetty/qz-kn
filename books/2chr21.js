@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 21";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1. Who was Jehoram’s father?	",

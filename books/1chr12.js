@@ -1,7 +1,7 @@
-var quiztitle = " 1 Chronicles chapter 12";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter list the men who helped David when he hid himself from	",
+"question" :	"	1. This ಅಧ್ಯಾಯ list the men who helped David when he hid himself from	",
 "image" :	"",		
 "choices" : [			
 	"	a. God.	",

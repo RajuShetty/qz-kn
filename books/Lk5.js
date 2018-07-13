@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 5";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus sat and taught from this man’s ship.	",
+"question" :	"	1. ಯೇಸು ಈ ಮನುಷ್ಯನ ದೋಣಿಯಲ್ಲಿ ಕುಳಿತುಕೊಂಡು ಭೋದಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Matthew	",
-	"	b. Levi	",
-	"	c. Simon	",
-	"	d. Judas	"
+	"	A. ಮತ್ತಾಯ	",
+	"	B. ಲೇವಿ	",
+	"	C. ಸೀಮೋನ	",
+	"	D. ಯೂದ	"
 ],			
-"correct" :	"	c. Simon	",
-"explanation" :	"	Then He got into one of the boats, which was Simon's, and asked him to put out a little from the land. And He sat down and taught the multitudes from the boat. - Lk 5:3	",
+"correct" :	"	C. ಸೀಮೋನ	",
+"explanation" :	"	ಆ ದೋಣಿಗಳಲ್ಲಿ ಸೀಮೋನನ ಒಂದು ದೋಣಿಯನ್ನು ಆತನು ಹತ್ತಿ ದಡದಿಂದ ಸ್ವಲ್ಪ ದೂರಕ್ಕೆ ನೂಕಬೇಕೆಂದು ಅವನನ್ನು ಕೇಳಿಕೊಂಡನು.  ಲೂಕ 5:3	",
 },			
 {			
-"question" :	"	2. These men were partners with Simon.	",
+"question" :	"	2. ಈ ಮನುಷ್ಯರು ಸೀಮೋನನ ಪಾಲುಗಾರರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. James & John	",
-	"	b. Mark & Luke	",
-	"	c. Paul & Silas	",
-	"	d. David & Goliath	"
+	"	A. ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+	"	B. ಮಾರ್ಕ ಮತ್ತು ಲೂಕ	",
+	"	C. ಪೌಲ ಮತ್ತು ಸೀಲ	",
+	"	D. ದಾವೀದ ಮತ್ತು ಗೊಲ್ಯಾತ	"
 ],			
-"correct" :	"	a. James & John	",
-"explanation" :	"	and so also were James and John, the sons of Zebedee, who were partners with Simon. And Jesus said to Simon, Do not be afraid. From now on you will catch men - Lk 5:10	",
+"correct" :	"	A. ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+"explanation" :	"	ಸೀಮೋನನ ಪಾಲುಗಾರರಾಗಿದ್ದಂಥ ಜೆಬೆದಾಯನ ಮಕ್ಕಳಾದ ಯಾಕೋಬ ಯೋಹಾನರೂ ಹಾಗೆಯೇ ವಿಸ್ಮಯಪಟ್ಟರು.  ಲೂಕ 5:10	",
 },			
 {			
-"question" :	"	3. Jesus told them, from that time forward, they would catch	",
+"question" :	"	3. ಯೇಸು ಹೇಳಿದ್ದು, ಇಂದಿನಿಂದ ನೀವು ___________ ಹಿಡಿಯುವವರಾಗುತ್ತೀರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Whales.	",
-	"	b. Men.	",
-	"	c. Flounders.	",
-	"	d. Treasures.	"
+	"	A. ವೇಲ್	",
+	"	B. ಮನುಷ್ಯರನ್ನು	",
+	"	C. ಚಪ್ಪಟೆ ಮೀನು	",
+	"	D. ನಿಧಿಗಳನ್ನು	"
 ],			
-"correct" :	"	b. Men.	",
-"explanation" :	"	and so also were James and John, the sons of Zebedee, who were partners with Simon. And Jesus said to Simon, Do not be afraid. From now on you will catch men - Lk 5:10	",
+"correct" :	"	B. ಮನುಷ್ಯರನ್ನು	",
+"explanation" :	"	ಸೀಮೋನನ ಪಾಲುಗಾರರಾಗಿದ್ದಂಥ ಜೆಬೆದಾಯನ ಮಕ್ಕಳಾದ ಯಾಕೋಬ ಯೋಹಾನರೂ ಹಾಗೆಯೇ ವಿಸ್ಮಯಪಟ್ಟರು.  ಯೇಸು ಸೀಮೋನನಿಗೆ ಅಂಜಬೇಡ, ಇಂದಿನಿಂದ ನೀನು ಮನುಷ್ಯರನ್ನು ಹಿಡಿಯುವವನಾಗಿರುವಿ ಎಂದು ಹೇಳಿದನು.  ಲೂಕ 5:10	",
 },			
 {			
-"question" :	"	4. A man who suffered from this, asked Jesus to make him clean.	",
+"question" :	"	4. ಇದರಿಂದ ನರಳುತ್ತಿರುವ ಮನುಷ್ಯನು ತನ್ನನ್ನು ಶುದ್ಧಮಾಡುವಂತೆ ಯೇಸುವನ್ನು ಕೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Leprosy	",
-	"	b. Lunacy	",
-	"	c. Blindness	",
-	"	d. Anxiety	"
+	"	A. ಕುಷ್ಠ	",
+	"	B. ಪಾರ್ಶ್ವವಾಯು	",
+	"	C. ಕುರುಡುತನ	",
+	"	D. ಆತಂಕ	"
 ],			
-"correct" :	"	a. Leprosy	",
-"explanation" :	"	And it happened when He was in a certain city, that behold, a man who was full of leprosy saw Jesus; and he fell on his face and implored Him, saying, Lord, if You are willing, You can make me clean. - Lk 5:12	",
+"correct" :	"	A. ಕುಷ್ಠ	",
+"explanation" :	"	ಆತನು ಒಂದಾನೊಂದು ಊರಿನಲ್ಲಿದ್ದಾಗ ಮೈಯೆಲ್ಲಾ ಕುಷ್ಠರೋಗ ತುಂಬಿದ್ದ ಒಬ್ಬ ಮನುಷ್ಯನು ಯೇಸುವನ್ನು ಕಂಡು ಅಡ್ಡಬಿದ್ದು ಸ್ವಾಮೀ, ನಿನಗೆ ಮನಸ್ಸಿದ್ದರೆ ನನ್ನನ್ನು ಶುದ್ಧಮಾಡಬಲ್ಲೆ ಎಂದು ಬೇಡಿಕೊಂಡನು.  ಲೂಕ 5:12	",
 },			
 {			
-"question" :	"	5. Jesus told that man, to go show himself to	",
+"question" :	"	5. ಇವರಿಗೆ ಹೋಗಿ ತೋರಿಸಿಕೊ ಎಂದು ಯೇಸು ಆ ಮನುಷ್ಯನಿಗೆ ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The governor.	",
-	"	b. The priest.	",
-	"	c. His wife.	",
-	"	d. His parents.	"
+	"	A. ರಾಜ್ಯಪಾಲರಿಗೆ	",
+	"	B. ಯಾಜಕರಿಗೆ	",
+	"	C. ಆತನ ಹೆಂಡತಿಗೆ	",
+	"	D. ಆತನ ತಂದೆ ಮತ್ತು ತಾಯಿಗಳಿಗೆ	"
 ],			
-"correct" :	"	b. The priest.	",
-"explanation" :	"	And He charged him to tell no one, But go and show yourself to the priest, and make an offering for your cleansing, as a testimony to them, just as Moses commanded. - Lk 5:14	",
+"correct" :	"	B. ಯಾಜಕರಿಗೆ	",
+"explanation" :	"	ಆಗ ಆತನು ಅವನಿಗೆ - ನೀನು ಯಾರಿಗೂ ಹೇಳಬೇಡ; ಆದರೆ ಹೋಗಿ ಯಾಜಕನಿಗೆ ನಿನ್ನ ಮೈ ತೋರಿಸಿ;  ಲೂಕ 5:14	",
 },			
 {			
-"question" :	"	6. Because the house was crowded, men carried a man with the palsy to Jesus by way of	",
+"question" :	"	6. ಮನೆಯು ಜನರಿಂದ ತುಂಬಿಹೋಗಿದ್ದರಿಂದ, ಪಾರ್ಶ್ವವಾಯು ರೋಗಿಯನ್ನು ಹೊತ್ತಿದ್ದ ಜನರು ಆ ರೋಗಿಯನ್ನು ಯೇಸುವಿನ ಬಳಿಗೆ ಹೇಗೆ ತಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The housetop.	",
-	"	b. A window.	",
-	"	c. The backdoor.	",
-	"	d. The garden.	"
+	"	A. ಮನೆಯ ಮೇಲಿನಿಂದ	",
+	"	B. ಕಿಟಕಿಯಿಂದ	",
+	"	C. ಹಿಂಬಾಗಿಲಿಂದ	",
+	"	D. ತೋಟದಿಂದ	"
 ],			
-"correct" :	"	a. The housetop.	",
-"explanation" :	"	Then behold, men brought on a bed a man who was paralyzed, whom they sought to bring in and lay before Him.And when they could not find how they might bring him in, because of the crowd, they went up on the housetop and let him down with his bed through the tiling into the midst before Jesus. - Lk 5:18-19	",
+"correct" :	"	A. ಮನೆಯ ಮೇಲಿನಿಂದ	",
+"explanation" :	"	ಹೀಗಿರುವಲ್ಲಿ ಕೆಲವು ಮಂದಿ ಗಂಡಸರು ಒಬ್ಬ ಪಾರ್ಶ್ವವಾಯು ರೋಗದವನನ್ನು ದೋಲಿಯಲ್ಲಿ ಹೊತ್ತುಕೊಂಡು ಬಂದರು; ಆದರೆ ಅವನನ್ನು ಒಳಗೆ ತೆಗೆದುಕೊಂಡು ಹೋಗಿ ಆತನ ಮುಂದೆ ಇಡಬೇಕೆಂದು ಪ್ರಯತ್ನಿಸಿದರೂ ಜನರು ಗುಂಪಾಗಿದ್ದದರಿಂದ ಅವನನ್ನು ಒಳಗೆ ತೆಗೆದುಕೊಂಡು ಹೋಗುವ ಮಾರ್ಗವನ್ನು ಕಾಣದೆ ಮನೆಯ ಮೇಲೆ ಹತ್ತಿ ಹಂಚುಗಳನ್ನು ತೆಗೆದು ಅವನನ್ನು ಹಾಸಿಗೆ ಸಹಿತ ನಡುವೆ ಯೇಸುವಿನ ಮುಂದೆ ಇಳಿಯಬಿಟ್ಟರು.  ಲೂಕ 5:18-19	",
 },			
 {			
-"question" :	"	7. When Jesus saw this, he told the man, your sins are forgiven.	",
+"question" :	"	7. ಯೇಸು ಇದನ್ನು ನೋಡಿದಾಗ ನಿನ್ನ ಪಾಪಗಳು ಕ್ಷಮಿಸಲ್ಪಟ್ಟಿವೆ ಎಂದು ಆ ಮನುಷ್ಯನಿಗೆ ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fruits of repentance	",
-	"	b. Their faith	",
-	"	c. The Spirit descend	",
-	"	d. A rainbow	"
+	"	A. ಮನ:ತಿರುಗುವಿಕೆಯ ಫಲಗಳು	",
+	"	B. ಅವರ ನಂಬಿಕೆ	",
+	"	C. ಆತ್ಮನ ಇಳಿಯುವಿಕೆ	",
+	"	D. ಕಾಮನಬಿಲ್ಲು	"
 ],			
-"correct" :	"	b. Their faith	",
-"explanation" :	"	When He saw their faith, He said to him, Man, your sins are forgiven you.- Lk 5:20	",
+"correct" :	"	B. ಅವರ ನಂಬಿಕೆ	",
+"explanation" :	"	ಆತನು ಅವರ ನಂಬಿಕೆಯನ್ನು ನೋಡಿ ಅಪ್ಪಾ, ನಿನ್ನ ಪಾಪಗಳು ಕ್ಷಮಿಸಲ್ಪಟ್ಟಿವೆ ಅಂದನು.  ಲೂಕ 5:20	",
 },			
 {			
-"question" :	"	8. Jesus told this publican, sitting at the seat of customs to follow Him.	",
+"question" :	"	ಕರವಸೂಲಿಗಾಗಿ ಕುಳಿತಿದ್ದ ಈ ಸುಂಕದವನಿಗೆ ಯೇಸು ನನ್ನನ್ನು ಹಿಂಬಾಲಿಸು ಎಂದು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Levi	",
-	"	b. Luke	",
-	"	c. Simon	",
-	"	d. Judas	"
+	"	A. ಲೇವಿ	",
+	"	B. ಲೂಕ	",
+	"	C. ಸೀಮೋನ	",
+	"	D. ಯೂದ	"
 ],			
-"correct" :	"	a. Levi	",
-"explanation" :	"	After these things He went out and saw a tax collector named Levi, sitting at the tax office. And He said to him, Follow Me. - Lk 5:27	",
+"correct" :	"	A. ಲೇವಿ	",
+"explanation" :	"	ಇದಾದ ಮೇಲೆ ಆತನು ಹೊರಟು ಸುಂಕಕ್ಕೆ ಕೂತಿದ್ದ ಲೇವಿಯೆಂಬ ಒಬ್ಬ ಸುಂಕದವನನ್ನು ಕಂಡು - ನನ್ನನ್ನು ಹಿಂಬಾಲಿಸು ಎಂದು ಅವನನ್ನು ಕರೆಯಲು;   ಲೂಕ 5:27	",
 },			
 {			
-"question" :	"	9. The scribes and Pharisees murmured, because Jesus ate with	",
+"question" :	"	9. ಯೇಸು ಇವರ ಸಂಗಡ ಊಟ ಮಾಡಿದ್ದರಿಂದ ಶಾಸ್ತ್ರಿಗಳು ಮತ್ತು ಫರಿಸಾಯರು ಗೊಣಗುಟ್ಟಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The priests.	",
-	"	b. His hands.	",
-	"	c. Kings & princes.	",
-	"	d. Publicans & sinners.	"
+	"	A. ಯಾಜಕರು	",
+	"	B. ಆತನ ಕೈಯಿಂದ	",
+	"	C. ರಾಜರು ಮತ್ತು ರಾಜಕುಮಾರರು	",
+	"	D. ಸುಂಕದವರು ಮತ್ತು ಪಾಪಿಗಳು	"
 ],			
-"correct" :	"	d. Publicans & sinners.	",
-"explanation" :	"	And their scribes and the Pharisees complained against His disciples, saying, Why do You eat and drink with tax collectors and sinners? - Lk 5:30	",
+"correct" :	"	D. ಸುಂಕದವರು ಮತ್ತು ಪಾಪಿಗಳು	",
+"explanation" :	"	ಅದನ್ನು ಕಂಡು ಫರಿಸಾಯರೂ ಅವರಲ್ಲಿದ್ದ ಶಾಸ್ತ್ರಿಗಳೂ ಆತನ ಶಿಷ್ಯರ ಮೇಲೆ ಗುಣುಗುಟ್ಟುತ್ತಾ - ನೀವು ಸುಂಕದವರ ಮತ್ತು ಪಾಪಿಗಳ ಸಂಗಡ ಊಟ ಮಾಡುವದೇಕೆ ಎಂದು ಕೇಳಿದರು.  ಲೂಕ 5:30	",
 },			
 {			
-"question" :	"	10. Jesus said His disciples would fast when this, was taken away from them.	",
+"question" :	"	10. ಈತನು ಅವರ ಮಧ್ಯದಿಂದ ತೆಗೆಯಲ್ಪಡುವಾಗ ತನ್ನ ಶಿಷ್ಯರು ಉಪವಾಸ ಮಾಡುತ್ತಾರೆಂದು ಯೇಸು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Meat	",
-	"	b. Wine	",
-	"	c. The bridegroom	",
-	"	d. Life	"
+	"	A. ಮಾಂಸ	",
+	"	B. ದ್ರಾಕ್ಷಾರಸ	",
+	"	C. ಮದಲಿಂಗನು	",
+	"	D. ಆತ್ಮ 	"
 ],			
-"correct" :	"	c. The bridegroom	",
-"explanation" :	"	But the days will come when the bridegroom will be taken away from them; then they will fast in those days. - Lk 5:35	",
+"correct" :	"	C. ಮದಲಿಂಗನು	",
+"explanation" :	"	ಆದರೆ ಮದಲಿಂಗನನ್ನು ಅವರ ಬಳಿಯಿಂದ ತೆಗೆದುಕೊಂಡುಹೋಗುವ ಕಾಲ ಬರುತ್ತದೆ.  ಆ ಕಾಲದಲ್ಲೇ ಉಪವಾಸ ಮಾಡುವರು ಎಂದು ಉತ್ತರಕೊಟ್ಟನು.  ಲೂಕ 5:35	",
 },			
 ]			

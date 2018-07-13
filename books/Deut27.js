@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 27";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 27";			
 var quiz = [			
 {			
 "question" :	"	1. They spoke to the people saying keep all the commandments.	",
@@ -89,12 +89,12 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. Fence.	",
-	"	b. Landmark.	",
+	"	b. Landಮಾರ್ಕ.	",
 	"	c. Plow.	",
 	"	d. Advice.	"
 ],			
-"correct" :	"	b. Landmark.	",
-"explanation" :	"	Cursed be he that removeth his neighbour's landmark. And all the people shall say, Amen. Deut 27:17	",
+"correct" :	"	b. Landಮಾರ್ಕ.	",
+"explanation" :	"	Cursed be he that removeth his neighbour's landಮಾರ್ಕ. And all the people shall say, Amen. Deut 27:17	",
 },			
 {			
 "question" :	"	9. He that perverts the judgment of the stranger, fatherless and widow	",
@@ -118,6 +118,6 @@ var quiz = [
 	"	d. So be it.	"
 ],			
 "correct" :	"	c. Mercy, mercy.	",
-"explanation" :	"	Deut27:16-26 Cursed be he that setteth light by his father or his mother. And all the people shall say, Amen.Cursed be he that removeth his neighbour's landmark. And all the people shall say, Amen.Cursed be he that maketh the blind to wander out of the way. And all the people shall say, Amen.Cursed be he that perverteth the judgment of the stranger, fatherless, and widow. And all the people shall say, Amen.	",
+"explanation" :	"	Deut27:16-26 Cursed be he that setteth light by his father or his mother. And all the people shall say, Amen.Cursed be he that removeth his neighbour's landಮಾರ್ಕ. And all the people shall say, Amen.Cursed be he that maketh the blind to wander out of the way. And all the people shall say, Amen.Cursed be he that perverteth the judgment of the stranger, fatherless, and widow. And all the people shall say, Amen.	",
 },		 	                                                                                                                                                                                                                                  
 ]		 	

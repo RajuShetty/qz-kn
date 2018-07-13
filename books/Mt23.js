@@ -1,123 +1,124 @@
-var quiztitle = "Matthew chapter 23";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus instructed the multitude	",
+"question" :	"	1. ಯೇಸು ಜನರ ಗುಂಪಿಗೆ ಸೂಚಿಸಿದ್ದು,	",
 "image" :	"",		
 "choices" : [			
-	"	a. Not to listen to the Pharisees.	",
-	"	b. To do as the Pharisees.	",
-	"	c. To become a Pharisee.	",
-	"	d. Do as the Pharisees say, not as they do.	"
+	"	A. ಫರಸಾಯರಿಗೆ ಕಿವಿಗೊಡಬೇಡಿರಿ	",
+	"	B. ಫರಿಸಾಯರಂತೆ ಮಾಡಿರಿ	",
+	"	C. ಫರಿಸಾಯರಾಗಿರಿ	",
+	"	D. ಫರಸಾಯರು ಹೇಳಿದಂತೆ ಮಾಡಿರಿ, ಅವರು ಮಾಡಿದಂತೆ ಮಾಡಬೇಡಿರಿ	"
 ],			
-"correct" :	"	d. Do as the Pharisees say, not as they do.	",
-"explanation" :	"	The scribes and the Pharisees sit in Moses' seat.Therefore whatever they tell you to observe, that observe and do, but do not do according to their works; for they say, and do not do.- Matt 23:2,3	",
+"correct" :	"	D. ಫರಸಾಯರು ಹೇಳಿದಂತೆ ಮಾಡಿರಿ, ಅವರು ಮಾಡಿದಂತೆ ಮಾಡಬೇಡಿರಿ	",
+"explanation" :	"	ಶಾಸ್ತ್ರಿಗಳೂ ಫರಿಸಾಯರೂ ಮೋಶೆಯ ಪೀಠದಲ್ಲಿ ಕೂತುಕೊಂಡಿದ್ದಾರೆ; ಆದದರಿಂದ ಅವರು ನಿಮಗೆ ಏನೇನು ಹೇಳುತ್ತಾರೋ ಅದನ್ನೆಲ್ಲಾ ಮಾಡಿರಿ, Pಪಾಡಿಕೊಳ್ಳಿರಿ, ಆದರೆ ಅವರ ನಡತೆಯ ಪ್ರಕಾರ ನಡೆಯಬೇಡಿರಿ; ಅವರು ಹೇಳುತ್ತಾರೇ ಹೊರತು ನಡೆಯುವದಿಲ್ಲ.  ಮತ್ತಾಯ 23:2-3	",
 },			
 {			
-"question" :	"	2. Jesus said, the Pharisees do their works	",
+"question" :	"	2 ಯೇಸು ಹೇಳಿದ್ದು, ಫರಿಸಾಯರು ............................ ತಮ್ಮ ಕೃತ್ಯಗಳನ್ನು ಮಾಡುವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. In a pure heart & spirit.	",
-	"	b. To please God.	",
-	"	c. To be seen of men.	",
-	"	d. Because it is written in the law of Moses.	"
+	"	A. ಪೂರ್ಣ ಹೃದಯದಿಂದ ಮತ್ತು ಆತ್ಮದಿಂದ	",
+	"	B. ದೇವರನ್ನು ಸಂತೋಷಪಡಿಸಲು	",
+	"	C. ಮನುಷ್ಯರಿಗೆ ಕಾಣುವಂತೆ	",
+	"	D. ಮೋಶೆಯ ಧರ್ಮಶಾಸ್ತ್ರದಲ್ಲಿ ಬರೆದಿರುವದರಿಂದ	"
 ],			
-"correct" :	"	c. To be seen of men.	",
-"explanation" :	"	But all their works they do to be seen by men. They make their phylacteries broad and enlarge the borders of their garments. - Matt 23:5	",
+"correct" :	"	C. ಮನುಷ್ಯರಿಗೆ ಕಾಣುವಂತೆ	",
+"explanation" :	"	ಅವರು ತಮ್ಮ ಕೆಲಸಗಳನ್ನೆಲ್ಲಾ ಜನರಿಗೆ ಕಾಣಬೇಕೆಂದು ಮಾಡುತ್ತಾರೆ.  ಮತ್ತಾಯ 22:5	",
 },			
 {			
-"question" :	"	3. Jesus called the Pharisees and scribes	",
+"question" :	"	3 ಫರಿಸಾಯರು ಮತ್ತು ಸದ್ದುಕಾಯರನ್ನು ಯೇಸು ಹೀಗೆಂದು ಕರೆದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Saints.	",
-	"	b. Holy men.	",
-	"	c. Hypocrites.	",
-	"	d. Wolves in sheep clothing.	"
+	"	A. ಸಂತರು	",
+	"	B. ಪರಿಶುದ್ದ ಜನರು	",
+	"	C. ಕಪಟಿಗಳು	",
+	"	D. ಕುರಿ ವೇಷದಲ್ಲಿರುವ ತೋಳಗಳು	"
 ],			
-"correct" :	"	c. Hypocrites.	",
-"explanation" :	"	But woe to you, scribes and Pharisees, hypocrites! For you shut up the kingdom of heaven against men; for you neither go in yourselves, nor do you allow those who are entering to go in.Woe to you, scribes and Pharisees, hypocrites! For you devour widows' houses, and for a pretense make long prayers. Therefore you will receive greater condemnation. - Matt 23:13,14	",
+"correct" :	"	C. ಕಪಟಿಗಳು	",
+"explanation" :	"	ಅಯ್ಯೋ ಕಪಟಿಗಳಾದ ಶಾಸ್ತ್ರಿಗಳೇ, ಫರಿಸಾಯರೇ, ಪರಲೋಕರಾಜ್ಯದ ಬಾಗಲನ್ನು ಮನುಷ್ಯರ ಎದುರಿಗೆ ಮುಚ್ಚಿಬಿಡುತ್ತೀರಿ;  ಮತ್ತಾಯ 23:13	",
 },			
 {			
-"question" :	"	4. Jesus said, He that is greatest among you, shall be	",
+"question" :	"	4. ಯೇಸು ಹೇಳಿದ್ದು, ನಿಮ್ಮಲ್ಲಿ ಯಾವನು ಹೆಚ್ಚಿನವನೋ, ಅವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Your rabbi.	",
-	"	b. Your leader.	",
-	"	c. Anointed.	",
-	"	d. Your servant.	"
+	"	A. ನಿಮ್ಮ ಗುರು	",
+	"	B. ನಿಮ್ಮ ನಾಯಕ	",
+	"	C. ಅಭಿಷೇಕಿಸಲ್ಪಟ್ಟವನು	",
+	"	D. ನಿಮ್ಮ ಸೇವಕನಾಗಿರಬೇಕು	"
 ],			
-"correct" :	"	d. Your servant.	",
-"explanation" :	"	But he who is greatest among you shall be your servant. - Matt 23:11	",
+"correct" :	"	D. ನಿಮ್ಮ ಸೇವಕನಾಗಿರಬೇಕು	",
+"explanation" :	"	ನಿಮ್ಮಲ್ಲಿ ಹೆಚ್ಚನವನು ನಿಮ್ಮ ಸೇವಕನಾಗಿರಬೇಕು.  ಮತ್ತಾಯ 23:11	",
 },			
 {			
-"question" :	"	5. Jesus called the scribes and Pharisees this kind of guide.	",
+"question" :	"	5 ಯೇಸು ಶಾಸ್ತ್ರಿಗಳನ್ನು ಮತ್ತು ಫರಿಸಾಯರನ್ನು ಎಂಥಹ ಮಾರ್ಗದರ್ಶಕರು ಎಂದಿದ್ದಾನೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Evil	",
-	"	b. Blind	",
-	"	c. Foolish	",
-	"	d. Prideful	"
+	"	A. ಕೆಟ್ಟ	",
+	"	B. ಕುರುಡ	",
+	"	C. ಮೂರ್ಖ	",
+	"	D. ಜಂಭ	"
 ],			
-"correct" :	"	b. Blind	",
-"explanation" :	"	Woe to you, scribes and Pharisees, hypocrites! For you travel land and sea to win one proselyte, and when he is won, you make him twice as much a son of hell as yourselves.Woe to you, blind guides, who say, 'Whoever swears by the temple, it is nothing; but whoever swears by the gold of the temple, he is obliged to perform it. - Matt 23:15,16	",
+"correct" :	"	B. ಕುರುಡ	",
+"explanation" :	"	ಅಯ್ಯೋ ಕಪಟಿಗಳಾದ ಶಾಸ್ತ್ರಿಗಳೇ, ಫರಿಸಾಯರೇ, ನೀವು ಒಬ್ಬನನ್ನು ನಿಮ್ಮ ಮತದಲ್ಲಿ ಸೇರಿಸಿಕೊಳ್ಳುವದಕ್ಕಾಗಿ ಭೂಮಿಯನ್ನೂ ಸಮುದ್ರವನ್ನೂ ಸುತ್ತಿಕೊಂಡು ಬರುತ್ತೀರಿ; ಅವನು ಸೇರಿದ ಮೇಲೆ ಅವನನ್ನು ನಿಮಗಿಂತ ಎರಡರಷ್ಟಾಗಿ ನರಕ ಪಾತ್ರನಾಗಮಾಡುತ್ತೀರಿ.  ಅಯ್ಯೋ ದಾರಿ ತೋರಿಸು ಕುರುಡರೇ, ಒಬ್ಬನು ದೇವಾಲಯದ ಮೇಲೆ ಆಣೆಯಿಟ್ಟುಕೊಂಡರೆ ಅದೇನು ಆಣೆಯಲ್ಲ.  ಆದರೆ ಒಬ್ಬನು ದೇವಾಲಯದ ಚಿನ್ನದ ಮೇಲೆ ಆಣೆಯಿಟ್ಟುಕೊಂಡರೆ ಅದನ್ನು ನಡಿಸಲೇಬೇಕು ಎಂದು ನೀವು ಹೇಳುತ್ತೀರಿ.  ಮತ್ತಾಯ 23:15-16	",
 },			
 {			
-"question" :	"	6. They strain at a gnat, and swallow	",
+"question" :	"	6 ಅವರು ಸೊಳ್ಳೇ ಸೋಸುವರು, ಮತ್ತು ..................ನುಂಗುವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. A bee.	",
-	"	b. A camel.	",
-	"	c. Corruption.	",
-	"	d. Hypocrisy.	"
+	"	A. ನೊಣ	",
+	"	B. ಒಂಟೆ	",
+	"	C. ಅಕ್ರಮ	",
+	"	D. ಕಪಟತನ	"
 ],			
-"correct" :	"	b. A camel.	",
-"explanation" :	"	Blind guides, who strain out a gnat and swallow a camel - Matt 23:24	",
+"correct" :	"	B. ಒಂಟೆ	",
+"explanation" :	"	ದಾರಿ ತೋರಿಸುವ ಕುರುಡರೇ, ನೀವು ಸೊಳ್ಳೇ ಸೋಸುವವರು, ಒಂಟೇ ನುಂಗುವವರು.  ಮತ್ತಾಯ 23:24	",
 },			
 {			
-"question" :	"	7. Jesus said, before they clean the outside of a cup and platter, they should do this.	",
+"question" :	"	7 ಯೇಸು ಹೇಳಿದ್ದು, ಪಂಚಪಾತ್ರೆ ಬಟ್ಟಲು ಇವುಗಳ ಹೊರಭಾಗವನ್ನು ಶುಚಿ ಮಾಡುತ್ತೀರಿ, ಆದರೆ ........................ ಮಾಡಬೇಕು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Clean the inside	",
-	"	b. Wash their hands	",
-	"	c. Wash their face	",
-	"	d. Bless the food	"
+	"	A. ಒಳಭಾಗವನ್ನು ಶುಚಿಮಾಡಬೇಕು	",
+	"	B. ಅವರ ಕೈಗಳನ್ನು ತೊಳೆದುಕೊಳ್ಳಬೇಕು	",
+	"	C. ಅವರ ಮುಖವನ್ನು ತೊಳೆದುಕೊಳ್ಳಬೇಕು	",
+	"	D. ಆಹಾರವನ್ನು ಆಶೀರ್ವಾದಿಸಬೇಕು	"
 ],			
-"correct" :	"	a. Clean the inside	",
-"explanation" :	"	Blind Pharisee, first cleanse the inside of the cup and dish, that the outside of them may be clean also. - Matt 23:26	",
+"correct" :	"	A. ಒಳಭಾಗವನ್ನು ಶುಚಿಮಾಡಬೇಕು	",
+"explanation" :	"	ಅಯ್ಯೋ ಕಪಟಿಗಳಾದ ಶಾಸ್ತ್ರಿಗಳೇ, ಫರಿಸಾಯರೇ, ನೀವು ಪಂಚಪಾತ್ರೆ ಬಟ್ಟಲು ಇವುಗಳ ಹೊರಭಾಗವನ್ನು ಶುಚಿಮಾಡುತ್ತೀರಿ; ಆದರೆ ಅವು ಒಳಗೆ ಸುಲುಕೊಂಡವುಗಳಿಂದಲೂ ಇಹಭೋಗ ಪದಾರ್ಥಗಳಿಂದಲೂ ತುಂಬಿರುತ್ತವೆ.  ಕುರುಡನಾದ ಫರಿಸಾಯನೇ ಮೊದಲು ಪಂಚಪಾತ್ರೆ ಬಟ್ಟಲುಗಳ ಒಳಭಾಗವನ್ನು ಶುಚಿಮಾಡು.  ಆಗ ಅವುಗಳ ಹೊರಭಾಗವೂ ಶುಚಿಯಾಗುವದು.  ಮತ್ತಾಯ 23:25-26	",
 },			
 {			
-"question" :	"	8. Jesus said, outwardly they appeared righteous, but inside they were full of	",
+"question" :	"	8 ಯೇಸು ಹೇಳಿದ್ದು, ಅವರು ಹೊರಗೆ ಸತ್ಪುರಷರಂತೆ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತಾರೆ, ಆದರೆ ಒಳಗೆ ........................	",
 "image" :	"",		
 "choices" : [			
-	"	a. Deceit & lies.	",
-	"	b. Hypocrisy & iniquity.	",
-	"	c. Peace & joy.	",
-	"	d. Love.	"
+	"	A. ಮೋಸ ಮತ್ತು ಸುಳ್ಳು	",
+	"	B. ಕಪಟ ಮತ್ತು ವಂಚನೆ	",
+	"	C. ಸಂತೋಷ ಮತ್ತು ಸಮಾಧಾನ’	",
+	"	D. ಪ್ರೀತಿ	"
 ],			
-"correct" :	"	b. Hypocrisy & iniquity.	",
-"explanation" :	"	Even so you also outwardly appear righteous to men, but inside you are full of hypocrisy and lawlessness. - Matt 23:28	",
+"correct" :	"	B. ಕಪಟ ಮತ್ತು ವಂಚನೆ	",
+"explanation" :	"	ಹಾಗೆಯೇ ನೀವು ಸಹ ಹೊರಗೆ ಜನರಿಗೆ ಸತ್ಪುರುಷರಂತೆ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತೀರಿ ಸರಿ, ಆದರೆ ಒಳಗೆ ಕಪಟದಿಂದಲೂ ಅನ್ಯಾಯದಿಂದಲೂ ತುಂಬಿದವರಾಗಿದ್ದೀರಿ.  ಮತ್ತಾಯ 23:28	",
 },			
 {			
-"question" :	"	9. Jesus said, the Pharisees are the children of them that do this to the prophets?	",
+"question" :	"	9 ಯೇಸು ಹೇಳಿದ್ದು,  ಫರಿಸಾಯರು ಪ್ರವಾದಿಗಳನ್ನು .................... ಮಕ್ಕಳು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Honor	",
-	"	b. Ignore	",
-	"	c. Disobey	",
-	"	d. Kill	"
+	"	A. ಗೌರವಿಸಿದವರ	",
+	"	B. ನಿರ್ಲಕ್ಷಿಸಿದವರ	",
+	"	C. ಅವಿಧೇಯರಾದವರ	",
+	"	D. ಕೊಂದವರ	"
 ],			
-"correct" :	"	d. Kill	",
-"explanation" :	"	Therefore you are witnesses against yourselves that you are sons of those who murdered the prophets. - Matt 23:31	",
+"correct" :	"	D. ಕೊಂದವರ	",
+"explanation" :	"	ಹಾಗಾದರೆ ನೀವು ಪ್ರವಾದಿಗಳನ್ನು ಕೊಂದವರ ಮಕ್ಕಳೇ ಹೌದು ಎಂಬದಕ್ಕೆ ನಿಮಗೆ ನೀವೇ ಸಾಕ್ಷಿಗಳಾಗಿದ್ದೀರಿ.  ಮತ್ತಾಯ 23:31	",
 },			
 {			
-"question" :	"	10. Jesus desired to gather His children as this bird gathers her children under her wing.	",
+"question" :	"	10  ಈ ಪಕ್ಷಿಯು ಮರಿಗಳನ್ನು ತನ್ನ ರೆಕ್ಕೆಯ ಕೆಳಗೆ ಕೂಡಿಸಿಕೊಳ್ಳುವ ಹಾಗೆ ಯೇಸುವಿಗೆ ಮಕ್ಕಳನ್ನು ಕೂಡಿಸಿಕೊಳ್ಳುವುದಕ್ಕೆ ಮನಸ್ಸಿತ್ತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Dove	",
-	"	b. Raven	",
-	"	c. Hen	",
-	"	d. Pigeon	"
+	"	A. ಪಾರಿವಾಳ	",
+	"	B. ಕಾಗೆ	",
+	"	C. ಕೋಳಿ	",
+	"	D. ಗುಬ್ಬಿ	"
 ],			
-"correct" :	"	c. Hen	",
-"explanation" :	"	O Jerusalem, Jerusalem, the one who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, as a hen gathers her chicks under her wings, but you were not willing - Matt 23:37	",
+"correct" :	"	C. ಕೋಳಿ	",
+"explanation" :	"	ಯೆರೂಸಲೇಮೇ, ಯೆರೂಸಲೇಮೇ, ಪ್ರವಾದಿಗಳ ಪ್ರಾಣತೆಗೆಯುವವಳೇ, ದೇವರು ನಿನ್ನ ಬಳಿಗೆ ಕಳುಹಿಸಿಕೊಟ್ಟವರನ್ನು ಕಲ್ಲೆಸೆದು ಕೊಲ್ಲುವವಳೇ, ಕೋಳಿ ತನ್ನ ಮರಿಗಳನ್ನು ರೆಕ್ಕೆಗಳ ಕೆಳಗೆ ಕೂಡಿಸಿಕೊಳ್ಳುವಂತೆ ನಿನ್ನ ಮಕ್ಕಳನ್ನು ಕೂಡಿಸಿಕೊಳ್ಳುವದಕ್ಕೆ ನನಗೆ ಎಷ್ಟೋಸಾರಿ ಮನಸ್ಸಿತ್ತು;  ಮತ್ತಾಯ 23:37	",
 },			
 ]			
+			

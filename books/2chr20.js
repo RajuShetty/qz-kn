@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 20";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1. They came against Jehoshaphat to battle.	",

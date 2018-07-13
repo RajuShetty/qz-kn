@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 22";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. ಯೋಹಾನನಿಗೆ ಪ್ರಕಾಶಮಾನವಾದ ಈ ನದಿಯನ್ನು ತೋರಿಸಿದನು.	",

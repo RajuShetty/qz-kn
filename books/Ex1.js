@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 1";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. These people multiplied and waxed exceeding mighty.	",
@@ -101,7 +101,7 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. We have done all you commanded.	",
-	"	b. We fear the Hebrews.	",
+	"	b. We fear the ಇಬ್ರಿಯರಿಗೆ.	",
 	"	c. The women deliver before we arrive.	",
 	"	d. We fear God.	"
 ],			

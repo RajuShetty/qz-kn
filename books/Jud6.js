@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 6";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. Because the Midianites prevailed against them, the children of Israel lived here.	",

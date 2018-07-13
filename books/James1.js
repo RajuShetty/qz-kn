@@ -1,4 +1,4 @@
-var quiztitle = " James chapter 1";			
+var quiztitle = " ಯಾಕೋಬನು ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. ನಿಮ್ಮ ನಂಬಿಕೆಗೆ ಆಗುವ ಪರಿಶೋಧನೆಯು ಇದನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ.	",

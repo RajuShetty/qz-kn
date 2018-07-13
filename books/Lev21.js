@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 21";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1. God gave these instructions to Moses	",

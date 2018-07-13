@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 34";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 34";			
 var quiz = [			
 {			
 "question" :	"	1. What was the name of Jacob's daughter?	",

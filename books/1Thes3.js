@@ -1,4 +1,4 @@
-var quiztitle = "1 Thessalonians chapter 3";			
+var quiztitle = "1 ಥೆಸಲೋನಿಕದವರಿಗೆ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಇಲ್ಲಿರುವುದೇ ಒಳ್ಳೇದೆಂದು ಪೌಲನು ಯೋಚಿಸಿದನು.	",

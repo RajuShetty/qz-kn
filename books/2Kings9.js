@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 9";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. Elisha sent one of the sons of the prophets to Ramohgilead with a box of	",

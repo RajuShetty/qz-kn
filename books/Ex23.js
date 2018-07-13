@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 23";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
 "question" :	"	1. Thou shalt not raise a false	",

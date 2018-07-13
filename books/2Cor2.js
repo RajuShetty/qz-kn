@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 2";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1.  ಪೌಲನು ಹೇಳಿದ್ದು: ನಾನು ತಿರಿಗಿ ನಿಮ್ಮ ಬಳಿಗೆ ಇದರಿಂದ ಬರುವುದಿಲ್ಲವೆಂದು ತೀರ್ಮಾನಿಸಿಕೊಂಡೆನು.	",

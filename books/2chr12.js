@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 12";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. When Rehoboam had established the kingdom and strengthened himself, he and all of Israel	",
@@ -118,6 +118,6 @@ var quiz = [
 	"	d. Obadiah	"
 ],			
 "correct" :	"	a. Jeroboam	",
-"explanation" :	"	Now the acts of Rehoboam, first and last, are they not written in the book of Shemaiah the prophet, and of Iddo the seer concerning genealogies? And there were wars between Rehoboam and Jeroboam continually. 2 Chr 12:15	",
+"explanation" :	"	Now the ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು of Rehoboam, first and last, are they not written in the book of Shemaiah the prophet, and of Iddo the seer concerning genealogies? And there were wars between Rehoboam and Jeroboam continually. 2 Chr 12:15	",
 },		 	                                                                                                                                                                                                                                  
 ]		 	

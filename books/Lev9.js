@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 9";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. Moses instructed Aaron to offer this, for a sin offering before the Lord.	",

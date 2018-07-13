@@ -1,4 +1,4 @@
-var quiztitle = " James chapter 2";			
+var quiztitle = " ಯಾಕೋಬನು ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಯಾಕೋಬನು ಹೇಳಿದ್ದು: ನೀವು ಇವರನ್ನು ಅವಮಾನಪಡಿಸಿದ್ದೀರಿ.	",

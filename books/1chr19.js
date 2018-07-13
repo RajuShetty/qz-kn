@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 19";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. When Nahash, the king of Ammon died, this son reigned in his stead.	",

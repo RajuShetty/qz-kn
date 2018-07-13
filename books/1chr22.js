@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 22";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. David commanded them to be gathered, and set masons to prepare stones.	",

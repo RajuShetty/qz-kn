@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 4";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. How many men did Joshua call?	",

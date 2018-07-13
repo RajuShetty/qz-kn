@@ -1,4 +1,4 @@
-var quiztitle = " 2 Peter chapter 3";			
+var quiztitle = " 2 ಪೇತ್ರನು ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಕಡೇದಿನಗಳಲ್ಲಿ ಇದು ಇರುವುದು.	",

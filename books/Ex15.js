@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 15";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. Moses and the children of Israel sang, the horse and his rider were thrown here.	",

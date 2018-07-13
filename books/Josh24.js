@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 24";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 24";			
 var quiz = [			
 {			
 "question" :	"	1. The people were reminded how God led this man.	",

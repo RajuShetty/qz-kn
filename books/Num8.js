@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 8";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. Who lit the lamps?	",

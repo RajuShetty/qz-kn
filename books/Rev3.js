@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 3";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಸಾರ್ದಿಸಿನಲ್ಲಿರುವ ಸಭೆಯ ದೂತನಿಗೆ ಬರೆ - ಜೀವಿಸುವವನು ಎಂದು ಹೆಸರು ನಿನಗಿದ್ದರೂ  ____ ಎಂಬದನ್ನು ಬಲ್ಲೆನು.	",

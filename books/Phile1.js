@@ -1,4 +1,4 @@
-var quiztitle = " Philemon chapter 1";			
+var quiztitle = " ಫಿಲೆಮೋನನಿಗೆ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. ಈ ಪತ್ರಿಕೆಯನ್ನು ಯಾರಿಗೆ ಬರೆಯಲಾಯಿತು?	",

@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 6";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. This borrowed item fell into the water.	",

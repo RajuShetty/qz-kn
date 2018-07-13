@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 13";			
-var quiz = [ 			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 13";			
+var quiz = [			
 {			
-"question" :	"	1. Let everyone be subject to this.	",
+"question" :	"	1 ಪ್ರತಿಯೊಬ್ಬರೂ ಇದಕ್ಕೆ ಅಧೀನರಾಗಿರಬೇಕು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The higher powers	",
-	"	b. Sin	",
-	"	c. Sorrow & anguish	",
-	"	d. Vain babblings	"
+	"	A. ಮೇಲಾಧಿಕಾರಿಗಳು	",
+	"	B. ಪಾಪಗಳಿಗೆ	",
+	"	C. ದು:ಖ ಮತ್ತು ವೇದನೆಗಳಿಗೆ	",
+	"	D. ಹರಟೆ ಮಾತುಗಳು	"
 ],			
-"correct" :	"	a. The higher powers	",
-"explanation" :	"	Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.Rom13:1	",
+"correct" :	"	A. ಮೇಲಾಧಿಕಾರಿಗಳು	",
+"explanation" :	"	ಪ್ರತಿ ಮನುಷ್ಯನು ತನ್ನ ಮೇಲಿರುವ ಅಧಿಕಾರಿಗಳಿಗೆ ಅಧೀನನಾಗಿರಲಿ; ಯಾಕಂದರೆ ದೇವರಿಂದ ಹೊರತು ಒಬ್ಬರಿಗೂ ಅಧಿಕಾರವಿರುವದಿಲ್ಲ; ಇರುವ ಅಧಿಕಾರಿಗಳು ದೇವರಿಂದ ನೇಮಿಸಲ್ಪಟ್ಟವರು. 13:1	",
 },			
 {			
-"question" :	"	2. Owe no man anything, but this.	",
+"question" :	"	2 ಇದರ ಹೊರತು ಬೇರೆ ಯಾವ ಸಾಲವು ನಿಮಗೆ ಇರಬಾರದು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A day's wages	",
-	"	b. Wrath	",
-	"	c. Love	",
-	"	d. Good will	"
+	"	A. ದಿನಗೂಲಿ	",
+	"	B. ಕೋಪಿಸಬೇಕೆಂಬ	",
+	"	C. ಒಬ್ಬರನ್ನೊಬ್ಬರು ಪ್ರೀತಿಸಬೇಕೆಂದ ಋಣ	",
+	"	D. ಒಳ್ಳೆ ಇಚ್ಛಾಶಕ್ತಿ	"
 ],			
-"correct" :	"	c. Love	",
-"explanation" :	"	Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.Rom13:8	",
+"correct" :	"	C. ಒಬ್ಬರನ್ನೊಬ್ಬರು ಪ್ರೀತಿಸಬೇಕೆಂದ ಋಣ	",
+"explanation" :	"	ಒಬ್ಬರನ್ನೊಬ್ಬರು ಪ್ರೀತಿಸಬೇಕೆಂಬ ಋಣವೇ ಹೊರತು ಬೇರೆ ಯಾವ ಸಾಲವೂ ನಿಮಗೆ ಇರಬಾರದು. ಮತ್ತೊಬ್ಬರನ್ನು ಪ್ರೀತಿಸುವವನು ಧರ್ಮಪ್ರಮಾಣವನ್ನೆಲ್ಲಾ ನೆರವೇರಿಸಿದ್ದಾನೆ 13:8	",
 },			
 {			
-"question" :	"	3. He that does this, fulfils the law.	",
+"question" :	"	3 ಇದನ್ನು ಮಾಡುವವನು ಧರ್ಮಶಾಸ್ತ್ರವನ್ನೆಲ್ಲಾ ನೆರವೇರಿಸಿದ್ದಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Loves one another	",
-	"	b. Good works	",
-	"	c. Gives to the poor & widows	",
-	"	d. Fasts & prays	"
+	"	A. ಮತ್ತೊಬ್ಬರನ್ನು ಪ್ರೀತಿಸುವವನು	",
+	"	B. ಒಳ್ಳೆಯ ಕೆಲಸ ಮಾಡುವವನು	",
+	"	C. ಬಡವರು ಮತ್ತು ವಿಧವೆಯರಿಗೆ ನೀಡುವನು	",
+	"	D. ಉಪವಾಸ ಮತ್ತು ಪ್ರಾರ್ಥಿಸುವನು	"
 ],			
-"correct" :	"	a. Loves one another	",
-"explanation" :	"	Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.Rom13:8	",
+"correct" :	"	A. ಮತ್ತೊಬ್ಬರನ್ನು ಪ್ರೀತಿಸುವವನು	",
+"explanation" :	"	ಒಬ್ಬರನ್ನೊಬ್ಬರು ಪ್ರೀತಿಸಬೇಕೆಂಬ ಋಣವೇ ಹೊರತು ಬೇರೆ ಯಾವ ಸಾಲವೂ ನಿಮಗೆ ಇರಬಾರದು. ಮತ್ತೊಬ್ಬರನ್ನು ಪ್ರೀತಿಸುವವನು ಧರ್ಮಪ್ರಮಾಣವನ್ನೆಲ್ಲಾ ನೆರವೇರಿಸಿದ್ದಾನೆ 13:8	",
 },			
 {			
-"question" :	"	4. The commandments are comprehended in the saying, thou shalt love this, as thyself.	",
+"question" :	"	4 _____ನಿನ್ನಂತೆಯೇ ಪ್ರೀತಿಸಬೇಕು ಎಂಬ ಒಂದೇ ಮಾತಿನಲ್ಲಿ ಕಟ್ಟಳೆಗಳೆಲ್ಲಾ ಅಡಕವಾಗಿವೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Lucre	",
-	"	b. Thy neighbor	",
-	"	c. They wife	",
-	"	d. The poor and orphans	"
+	"	A. ದುರ್ಲಾಭ ಹೊಂದುವವರನ್ನು	",
+	"	B. ನಿನ್ನ ನೆರೆಯವನನ್ನು	",
+	"	C. ನಿನ್ನ ಹೆಂಡತಿಯನ್ನು	",
+	"	D. ಬಡವರು ಮತ್ತು ಅನಾಥರನ್ನು	"
 ],			
-"correct" :	"	b. Thy neighbor	",
-"explanation" :	"	For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.Rom13:9	",
+"correct" :	"	B. ನಿನ್ನ ನೆರೆಯವನನ್ನು	",
+"explanation" :	"	ಹೇಗಂದರೆ ವ್ಯಭಿಚಾರ ಮಾಡಬಾರದು, ನರಹತ್ಯಮಾಡಬಾರದು, ಕದಿಯಬಾರದು, ಪರರ ಸೊತ್ತನ್ನು ಆಶಿಸಬಾರದು ಈ ಮೊದಲಾದ ಎಲ್ಲಾ ಕಟ್ಟಳೆಗಳು - ನಿನ್ನ ನೆರೆಯವನನ್ನು ನಿನ್ನಂತೆಯೇ ಪ್ರೀತಿಸಬೇಕು ಎಂಬ ಒಂದೇ ಮಾತಿನಲ್ಲಿ ಅಡಕವಾಗಿವೆ 13:9	",
 },			
 {			
-"question" :	"	5. Love does not work this to his neighbor.	",
+"question" :	"	5 ಪ್ರೀತಿಯು ಮತ್ತೊಬ್ಬರಿಗೆ ಏನು ಮಾಡುವುದಿಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ill	",
-	"	b. Kindness	",
-	"	c. Mercy	",
-	"	d. Tenderness	"
+	"	A. ಕೇಡು	",
+	"	B. ದಯೆ	",
+	"	C. ಕರುಣೆ	",
+	"	D. ಮೃದತ್ವ	"
 ],			
-"correct" :	"	a. Ill	",
-"explanation" :	"	Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.Rom13:10	",
+"correct" :	"	A. ಕೇಡು	",
+"explanation" :	"	ಪ್ರೀತಿಯು ಮತ್ತೊಬ್ಬರಿಗೆ ಯಾವ ಕೇಡನ್ನೂ ಮಾಡುವದಿಲ್ಲ. ಆದಕಾರಣ ಪ್ರೀತಿಯಿಂದಲೇ ಧರ್ಮಪ್ರಮಾಣವು ನೆರವೇರುತ್ತದೆ. 13:10	",
 },			
 {			
-"question" :	"	6. This is the fulfilling of the law.	",
+"question" :	"	6 ಯಾವುದರಿಂದ ಧರ್ಮಪ್ರಮಾಣವು ನೆರವೇರುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Joy	",
-	"	b. Hope	",
-	"	c. Wrath	",
-	"	d. Love	"
+	"	A. ಸಂತೋಷ	",
+	"	B. ನಿರೀಕ್ಷೆ	",
+	"	C. ಕೋಪ	",
+	"	D. ಪ್ರೀತಿ	"
 ],			
-"correct" :	"	d. Love	",
-"explanation" :	"	Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.Rom13:10	",
+"correct" :	"	D. ಪ್ರೀತಿ	",
+"explanation" :	"	ಪ್ರೀತಿಯು ಮತ್ತೊಬ್ಬರಿಗೆ ಯಾವ ಕೇಡನ್ನೂ ಮಾಡುವದಿಲ್ಲ. ಆದಕಾರಣ ಪ್ರೀತಿಯಿಂದಲೇ ಧರ್ಮಪ್ರಮಾಣವು ನೆರವೇರುತ್ತದೆ.13:10	",
 },			
 {			
-"question" :	"	7. This is nearer than we believed.	",
+"question" :	"	7 ಇದು ಮೊದಲಿನ ಕಾಲಕ್ಕಿಂತ ಹತ್ತಿರವಾಗಿದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sin	",
-	"	b. The tribulation	",
-	"	c. The rapture	",
-	"	d. Our salvation	"
+	"	A. ಪಾಪ	",
+	"	B. ಸಂಕಟ	",
+	"	C. ಎರಡನೇ ಬರೋಣ	",
+	"	D. ವಿಮೋಚನೆ	"
 ],			
-"correct" :	"	d. Our salvation	",
-"explanation" :	"	 And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed.Rom13:11	",
+"correct" :	"	D. ವಿಮೋಚನೆ	",
+"explanation" :	"	ಈಗಿನ ಕಾಲವು ನಿದ್ದೆಯಿಂದ ಎಚ್ಚರವಾಗತಕ್ಕ ಕಾಲವೆಂದು ಅರಿತು ಇದನ್ನೆಲ್ಲಾ ಮಾಡಿರಿ. ನಾವು ಕ್ರಿಸ್ತನನ್ನು ಮೊದಲು ನಂಬಿದ ಕಾಲದಲ್ಲಿ ಇದ್ದದ್ದಕ್ಕಿಂತ ಈಗ ನಮ್ಮ ವಿಮೋಚನೆಯು ಹತ್ತಿರವಾಯಿತು. 13:11	",
 },			
 {			
-"question" :	"	8. Let us cast off the works of this.	",
+"question" :	"	8 ಇದರ ಕೃತ್ಯಗಳನ್ನು ಬಿಟ್ಟಿಬಿಡೋಣ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Loyalty	",
-	"	b. Prosperity	",
-	"	c. The day	",
-	"	d. Darkness	"
+	"	A. ನಿಷ್ಠೆ	",
+	"	B. ಸಂಪತ್ತು	",
+	"	C. ಹಗಲು	",
+	"	D. ಕತ್ತಲು	"
 ],			
-"correct" :	"	d. Darkness	",
-"explanation" :	"	The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.Rom13:12	",
+"correct" :	"	D. ಕತ್ತಲು	",
+"explanation" :	"	ಇರುಳು ಬಹಳ ಮಟ್ಟಿಗೆ ಕಳೆಯಿತು; ಹಗಲು ಸಮೀಪವಾಯಿತು. ಕತ್ತಲೆಗೆ ಅನುಗುಣವಾದ ಕೃತ್ಯಗಳನ್ನು ಬಿಟ್ಟು ಬೆಳಕಿಗೆ ಅನುಗುಣವಾದ ಆಯುಧಗಳನ್ನು ಧರಿಸಿಕೊಳ್ಳೋಣ. 13:12	",
 },			
 {			
-"question" :	"	9. Let us put this on.	",
+"question" :	"	9 ನಾವು ಇದನ್ನು ಧರಿಸಿಕೊಳ್ಳೋಣ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A coat of many colors	",
-	"	b. A happy face	",
-	"	c. Diligence & fortitude	",
-	"	d. The armor of light	"
+	"	A. ಬಹುವರ್ಣದ ನಿಲುವಾಗಿ	",
+	"	B. ಸಂತೋಷನ ಮುಖ	",
+	"	C. ಶ್ರದ್ಧೆ ಮತ್ತು ನಿಷ್ಠೆ	",
+	"	D. ಬೆಳಕಿನ ಆಯುಧ	"
 ],			
-"correct" :	"	d. The armor of light	",
-"explanation" :	"	The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.Rom13:12	",
+"correct" :	"	D. ಬೆಳಕಿನ ಆಯುಧ	",
+"explanation" :	"	ಇರುಳು ಬಹಳ ಮಟ್ಟಿಗೆ ಕಳೆಯಿತು; ಹಗಲು ಸಮೀಪವಾಯಿತು. ಕತ್ತಲೆಗೆ ಅನುಗುಣವಾದ ಕೃತ್ಯಗಳನ್ನು ಬಿಟ್ಟು ಬೆಳಕಿಗೆ ಅನುಗುಣವಾದ ಆಯುಧಗಳನ್ನು ಧರಿಸಿಕೊಳ್ಳೋಣ. 13:12	",
 },			
 {			
-"question" :	"	10. Let us walk 	",
+"question" :	"	10 ______ ನಡೆದುಕೊಳ್ಳೋಣ	",
 "image" :	"",		
 "choices" : [			
-	"	a. On a lonely path.	",
-	"	b. On the straight and narrow.	",
-	"	c. In the footsteps of Jesus.	",
-	"	d. Honestly.	"
+	"	A. ಒಬ್ಬಂಟಿಯಾಗಿ	",
+	"	B. ನೇರವಾದ ಮತ್ತು ಇಕ್ಕಟ್ಟಾದ ಮಾರ್ಗದಲ್ಲಿ	",
+	"	C. ಯೇಸುವಿನ ಹೆಜ್ಜೆ ಜಾಡಿನಲ್ಲಿ	",
+	"	D. ಮಾನಸ್ಥರಾಗಿ	"
 ],			
-"correct" :	"	d. Honestly.	",
-"explanation" :	"	 Let us walk honestly, as in the day; not in rioting and drunkenness, not in chambering and wantonness, not in strife and envying.Rom13:13	",
+"correct" :	"	D. ಮಾನಸ್ಥರಾಗಿ	",
+"explanation" :	"	ದುಂದೌತಣ ಕುಡಿಕತನಗಳಲ್ಲಿಯಾಗಲಿ ಕಾಮ ವಿಲಾಸ ನಿರ್ಲಜ್ಜಾಕೃತ್ಯಗಳಲ್ಲಿಯಾಗಲಿ ಜಗಳ ಹೊಟ್ಟೇಕಿಚ್ಚುಗಳಲ್ಲಿಯಾಗಲಿ ಕಾಲಕಳೆಯದೆ ಹಗಲು ಹೊತ್ತಿಗೆ ತಕ್ಕಹಾಗೆ ಮಾನಸ್ಥರಾಗಿ ನಡೆದುಕೊಳ್ಳೋಣ. 13:13	",
 },			
 ]			

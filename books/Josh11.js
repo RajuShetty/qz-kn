@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 11";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. The people who came out against Joshua were as	",

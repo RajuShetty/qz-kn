@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 17";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
-"question" :	"	1. Paul preached in the synagogue of the Jews here.	",
+"question" :	"	1 ಪೌಲನು ಇಲ್ಲಿ ಯೆಹೂದ್ಯರ ಸಭಾಮಂದಿರದಲ್ಲಿ ಬೋಧಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ephesus	",
-	"	b. Corinth	",
-	"	c. Jericho	",
-	"	d. Thessalonica	"
+	"	A. ಎಫೆಸ	",
+	"	B. ಕೊರಿಂಥ	",
+	"	C. ಯೆರಿಕೋ	",
+	"	D. ಥೆಸಲೋನಿಕ	"
 ],			
-"correct" :	"	d. Thessalonica	",
-"explanation" :	"	Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:And Paul, as his manner was, went in unto them, and three sabbath days reasoned with them out of the scriptures,Acts17:1,2	",
+"correct" :	"	D. ಥೆಸಲೋನಿಕ	",
+"explanation" :	"	ಮುಂದೆ ಅವರು ಮಾರ್ಗಹಿಡಿದು ಅಂಫಿಪೊಲಿ ಅಪೊಲೋನ್ಯ ಎಂಬ ಊರುಗಳನ್ನು ದಾಟಿ ಥೆಸಲೋನಿಕಕ್ಕೆ ಬಂದರು. ಅಲ್ಲಿ ಯೆಹೂದ್ಯರದೊಂದು ಸಭಾಮಂದಿರವಿತ್ತು. ಪೌಲನು ತನ್ನ ಪದ್ಧತಿಯ ಪ್ರಕಾರ ಅಲ್ಲಿದ್ದವರ ಬಳಿಗೆ ಹೋಗಿ ಮೂರು ಸಬ್ಬತ್‍ದಿನಗಳಲ್ಲಿ ಶಾಸ್ತ್ರಾಧಾರದಿಂದ ಅವರ ಸಂಗಡ ವಾದಿಸಿ  17:1,2	",
 },			
 {			
-"question" :	"	2. Paul tried to show the Jews that Jesus is	",
+"question" :	"	2 ಯೇಸುವು ______ ಎಂದು ತೋರಿಸಲು ಪೌಲನು ಪ್ರಯತ್ನಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A prophet.	",
-	"	b. A priest.	",
-	"	c. A just man.	",
-	"	d. The Christ.	"
+	"	A. ಪ್ರವಾದಿ	",
+	"	B. ಯಾಜಕ	",
+	"	C. ಸಾಮಾನ್ಯ ಮನುಷ್ಯ	",
+	"	D. ಕ್ರಿಸ್ತ	"
 ],			
-"correct" :	"	d. The Christ.	",
-"explanation" :	"	Opening and alleging, that Christ must needs have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ.Acts17:3	",
+"correct" :	"	D. ಕ್ರಿಸ್ತ	",
+"explanation" :	"	ಆಯಾ ವಚನಗಳ ಅರ್ಥವನ್ನು ಬಿಚ್ಚಿ - ಕ್ರಿಸ್ತನು ಬಾಧೆಯನ್ನನುಭವಿಸಿ ಸತ್ತು ಎದ್ದುಬರುವದು ಅಗತ್ಯವೆಂತಲೂ ನಾನು ನಿಮಗೆ ಪ್ರಸಿದ್ಧಿಪಡಿಸುವ ಯೇಸುವೇ ಆ ಕ್ರಿಸ್ತನೆಂತಲೂ ಸ್ಥಾಪಿಸಿದನು 17:3	",
 },			
 {			
-"question" :	"	3. They searched for Paul in this man's house.	",
+"question" :	"	3 ಅವರು ಪೌಲನಿಗಾಗಿ ಈ ಮನುಷ್ಯನ ಮನೆಯಲ್ಲಿ ಹುಡುಕಾಡಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Cornelius	",
-	"	b. Simon	",
-	"	c. Ananias	",
-	"	d. Jason	"
+	"	A. ಕೊರ್ನೇಲ್ಯ	",
+	"	B. ಸೀಮೋನ	",
+	"	C. ಅನನೀಯ	",
+	"	D. ಯಾಸೋನ	"
 ],			
-"correct" :	"	d. Jason	",
-"explanation" :	"	 But the Jews which believed not, moved with envy, took unto them certain lewd fellows of the baser sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people.Acts17:5	",
+"correct" :	"	D. ಯಾಸೋನ	",
+"explanation" :	"	ಯೆಹೂದ್ಯರು ಹೊಟ್ಟೇಕಿಚ್ಚುಪಟ್ಟು ಪೇಟೆಯಲ್ಲಿ ತಿರುಗಾಡುವ ಕೆಲವು ಪೋಕರನ್ನು ಕರೆದುಕೊಂಡು ಬಂದು ಗುಂಪುಕೂಡಿಸಿ ಊರಲ್ಲಿ ಗದ್ದಲ ಎಬ್ಬಿಸಿ ಪೌಲ ಸೀಲರನ್ನು ಪಟ್ಟಣದ ಸಭೆಗೆದುರಿಗೆ ತರಬೇಕೆಂದು ಅವರನ್ನು ಹುಡುಕುತ್ತಾ ಯಾಸೋನನ ಮನೆಯ ಮೇಲೆ ಬಿದ್ದರು 17:5	",
 },			
 {			
-"question" :	"	4. The unbelieving Jews, claimed the disciples did things contrary to this.	",
+"question" :	"	4 ನಂಬದೇ ಇದ್ದ ಯೆಹೂದ್ಯರು, ಶಿಷ್ಯರು ಇದಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ ಮಾಡುತ್ತಿದ್ದಾರೆಂದು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. God's law	",
-	"	b. Caesar's decrees	",
-	"	c. Popular opinion	",
-	"	d. Nature	"
+	"	A. ದೇವರ ಶಾಸ್ತ್ರಕ್ಕೆ	",
+	"	B. ಕೈಸರನ ಆದೇಶಗಳಿಗೆ	",
+	"	C. ಪ್ರಸಿದ್ಧವಾದ ಅಭಿಪ್ರಾಯಗಳಿಗೆ	",
+	"	D. ಪ್ರಕೃತಿ	"
 ],			
-"correct" :	"	b. Caesar's decrees	",
-"explanation" :	"	Whom Jason hath received: and these all do contrary to the decrees of Caesar, saying that there is another king, one Jesus.Acts17:7	",
+"correct" :	"	B. ಕೈಸರನ ಆದೇಶಗಳಿಗೆ	",
+"explanation" :	"	ಯಾಸೋನನು ಅವರನ್ನು ಸೇರಿಸಿಕೊಂಡಿದ್ದಾನೆ, ಅವರೆಲ್ಲರು ಯೇಸುವೆಂಬ ಬೇರೊಬ್ಬ ಅರಸನು ಇದ್ದಾನೆಂದು ಹೇಳಿ ಚಕ್ರವರ್ತಿಯ ಆಜ್ಞೆಗಳಿಗೆ ವಿರುದ್ಧವಾಗಿ ನಡೆಯುತ್ತಾರೆ ಎಂದು ಕೂಗಿದರು 17:7	",
 },			
 {			
-"question" :	"	5. The people here, were more noble than those in Thessalonica, for they received the word and searched the scripture to see if these things were so.	",
+"question" :	"	5 ಇಲ್ಲಿನ ಜನರು,  ಥೆಸಲೋನಿಕದವರಿಗಿಂತ ಉತ್ತಮರಾಗಿದ್ದು, ಅವರು ತಾವು ಕೇಳಿದ ವಾಕ್ಯಗಳು ಸತ್ಯವೋ ಏನೋ ಎಂದು ಶಾಸ್ತ್ರಗಳಲ್ಲಿ ಹುಡುಕಾಡತೊಡಗಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Berea	",
-	"	b. Jericho	",
-	"	c. Corinth	",
-	"	d. Macedonia	"
+	"	A. ಬೆರೂಯ	",
+	"	B. ಯೆರಿಕೋ	",
+	"	C. ಕೊರಿಂಥ	",
+	"	D. ಮೆಕದೋನ್ಯ	"
 ],			
-"correct" :	"	a. Berea	",
-"explanation" :	"	And the brethren immediately sent away Paul and Silas by night unto Berea: who coming thither went into the synagogue of the Jews.These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.Acts17:10,11	",
+"correct" :	"	A. ಬೆರೂಯ	",
+"explanation" :	"	ಕೂಡಲೇ ಸಹೋದರರು ರಾತ್ರಿಯಲ್ಲಿ ಪೌಲ ಸೀಲರನ್ನು ಬೆರೋಯಕ್ಕೆ ಕಳುಹಿಸಿಬಿಟ್ಟರು. ಅವರು ಅಲ್ಲಿಗೆ ಸೇರಿ ಯೆಹೂದ್ಯರ ಸಭಾಮಂದಿರದೊಳಕ್ಕೆ ಹೋದರು. ಆ ಸಭೆಯವರು ಥೆಸಲೋನಿಕದವರಿಗಿಂತ ಸದ್ಗುಣವುಳ್ಳವರಾಗಿದ್ದು ದೇವರ ವಾಕ್ಯವನ್ನು ಶುದ್ಧಮನಸ್ಸಿನಿಂದ ಅಂಗೀಕರಿಸಿ ಇವರು ಹೇಳುವ ಮಾತು ಹೌದೋ ಏನೋ ಎಂಬ ವಿಷಯದಲ್ಲಿ ಪ್ರತಿದಿನವೂ ಶಾಸ್ತ್ರಗ್ರಂಥಗಳನ್ನು ಶೋಧಿಸುತ್ತಿದ್ದರು 17:10,11	",
 },			
 {			
-"question" :	"	6. Paul went ahead to Athens, and then sent for these men.	",
+"question" :	"	6 ಪೌಲನು ಮೊದಲು ಅಥೇನ್ಯ ಪಟ್ಟಣಕ್ಕೆ ಹೋಗಿ, ಅಲ್ಲಿಂದ ಈ ಮನುಷ್ಯರಿಗಾಗಿ ಕಳುಹಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter & Andrew	",
-	"	b. James & John	",
-	"	c. Barnabas & Mark	",
-	"	d. Silas & Timotheus	"
+	"	A. ಪೇತ್ರ ಮತ್ತು ಆಂದ್ರೇಯ	",
+	"	B. ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+	"	ಇ, ಬಾರ್ನಬ ಮತ್ತು ಮಾರ್ಕ	",
+	"	D. ಸೀಲ ಮತ್ತು ತಿಮೋಥಿ	"
 ],			
-"correct" :	"	d. Silas & Timotheus	",
-"explanation" :	"	And they that conducted Paul brought him unto Athens: and receiving a commandment unto Silas and Timotheus for to come to him with all speed, they departed.Acts17:15	",
+"correct" :	"	D. ಸೀಲ ಮತ್ತು ತಿಮೋಥಿ	",
+"explanation" :	"	ಪೌಲನನ್ನು ಸಾಗಕಳುಹಿಸಿದವರು ಅವನನ್ನು ಅಥೇನೆಯವರೆಗೂ ಕರೆದುಕೊಂಡುಹೋಗಿ - ಸೀಲನನ್ನೂ ತಿಮೊಥೆಯನನ್ನೂ ಕೂಡಿದ ಮಟ್ಟಿಗೆ ಬೇಗ ನನ್ನ ಬಳಿಗೆ ಬರಹೇಳಿರಿ ಎಂಬ ಅಪ್ಪಣೆಯನ್ನು ಅವನಿಂದ ಹೊಂದಿ ಹೊರಟುಬಂದರು. 17:15	",
 },			
 {			
-"question" :	"	7. Paul's spirit was stirred in him, when he saw Athens was wholly turned over to	",
+"question" :	"	7 ಅಥೇನ್ಯ ಪಟ್ಟಣದವರು ಪೂರ್ಣವಾಗಿ ________ಒಳಗಾಗಿರುವುದನ್ನು ನೋಡಿ ಪೌಲನ ಆತ್ಮವು ಅವನೊಳಗೆ ಕುದಿಯಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rome.	",
-	"	b. Caesar.	",
-	"	c. Jesus.	",
-	"	d. Idolatry.	"
+	"	A. ರೋಮಾಪುರದವರಿಗೆ	",
+	"	B. ಕೈಸರನಿಗೆ	",
+	"	C. ಯೇಸುವಿಗೆ	",
+	"	D. ವಿಗ್ರಹಗಳಿಗೆ	"
 ],			
-"correct" :	"	d. Idolatry.	",
-"explanation" :	"	Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry.Acts17:16	",
+"correct" :	"	D. ವಿಗ್ರಹಗಳಿಗೆ	",
+"explanation" :	"	ಪೌಲನು ಅವರಿಗೋಸ್ಕರ ಅಥೇನೆಯಲ್ಲಿ ಕಾದುಕೊಂಡಿರುವಾಗ ಆ ಪಟ್ಟಣದಲ್ಲಿ ಎಲ್ಲೆಲ್ಲಿಯೂ ವಿಗ್ರಹಗಳೇ ಇರುವದನ್ನು ನೋಡಿ ಅವನ ಮನಸ್ಸು ಅವನೊಳಗೆ ಕುದಿಯಿತು 17:16	",
 },			
 {			
-"question" :	"	8. Paul said, the men of Athens were in all things too 	",
+"question" :	"	8 ಪೌಲನು ಹೇಳಿದ್ದು, ಅಥೇನ್ಯರೇ ನೀವು ಎಲ್ಲಾ ವಿಷಯಗಳಲ್ಲಿ ಅತೀ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Lazy.	",
-	"	b. Superstitious.	",
-	"	c. Wise.	",
-	"	d. Slow.	"
+	"	A. ಸೋಮಾರಿಗಳು	",
+	"	B. ಮೂಢವಿಶ್ವಾಸಿ	",
+	"	C. ಬುದ್ಧಿವಂತರು	",
+	"	D. ನಿಧಾನರು	"
 ],			
-"correct" :	"	b. Superstitious.	",
-"explanation" :	"	Then Paul stood in the midst of Mars' hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious.Acts17:22	",
+"correct" :	"	B. ಮೂಢವಿಶ್ವಾಸಿ	",
+"explanation" :	"	ಪೌಲನು ಅರಿಯೋಪಾಗದ ಮಧ್ಯದಲ್ಲಿ ನಿಂತುಕೊಂಡು ಹೇಳಿದ್ದೇನಂದರೆ - ಅಥೇನೆಯ ಜನರೇ, ನೀವು ಎಲ್ಲಾದರಲ್ಲೂ ಅತಿಭಕ್ತಿವಂತರೆಂದು ನನಗೆ ತೋರುತ್ತದೆ.  17:22	",
 },			
 {			
-"question" :	"	9. What inscription did Paul see on an altar?	",
+"question" :	"	9 ಪೌಲನು ಒಂದು ವೇದಿಯ ಮುಂದೆ ಏನು ಬರೆದಿರುವುದನ್ನು ಕಂಡನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus is Christ	",
-	"	b. To the unknown God	",
-	"	c. To the creator	",
-	"	d. In God we trust	"
+	"	A. ಯೇಸುವೇ ಕ್ರಿಸ್ತನು	",
+	"	B. ತಿಳಿಯದ ದೇವರಿಗೆ	",
+	"	C. ಸೃಷ್ಟಿಕರ್ತನು	",
+	"	D. ನಾವು ನಂಬುವ ದೇವರಿಗೆ	"
 ],			
-"correct" :	"	b. To the unknown God	",
-"explanation" :	"	For as I passed by, and beheld your devotions, I found an altar with this inscription, To The Unknown God. Whom therefore ye ignorantly worship, him declare I unto you.Acts17:23	",
+"correct" :	"	B. ತಿಳಿಯದ ದೇವರಿಗೆ	",
+"explanation" :	"	ನಾನು ನಿಮ್ಮ ಪಟ್ಟಣದಲ್ಲಿ ತಿರುಗಾಡುತ್ತಾ ನೀವು ಪೂಜಿಸುವ ದೇವತಾಪ್ರತಿಮೆಗಳನ್ನು ಚೆನ್ನಾಗಿ ನೋಡುತ್ತಾ ಇದ್ದಾಗ ಒಂದು ಬಲಿಪೀಠವು ನನ್ನ ಕಣ್ಣಿಗೆ ಬಿತ್ತು; ಅದರ ಮೇಲೆ ತಿಳಿಯದ ದೇವರಿಗೆ ಎಂದು ಬರೆದಿತ್ತು. ಆದಕಾರಣ ನೀವು ಯಾವದನ್ನು ತಿಳಿಯದೆ ಪೂಜಿಸುತ್ತೀರೋ ಅದನ್ನೇ ನಿಮಗೆ ತಿಳಿಯಪಡಿಸುತ್ತೇನೆ, ಕೇಳಿರಿ 17:23	",
 },			
 {			
-"question" :	"	10. Paul said, God now commands all men everywhere to do this.	",
+"question" :	"	10 ಪೌಲನಯ ಹೇಳಿದ್ದು, ಇದನ್ನು ಮಾಡಬೇಕೆಂದು ಎಲ್ಲಾ ಜನರಿಗೆ ದೇವರು ಆಜ್ಞಾಪಿಸುತ್ತಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pay tithes	",
-	"	b. Repent	",
-	"	c. Cover their sin	",
-	"	d. Pray for Jerusalem	"
+	"	A. ದಶಮಾಂಶ ನೀಡಬೇಕು	",
+	"	B. ಮಾನಸಾಂತರ ಹೊಂದಬೇಕು	",
+	"	C. ತಮ್ಮ ಪಾಪಗಳನ್ನು ಮರೆಮಾಡಿಕೊಳ್ಳಬೇಕು	",
+	"	D. ಯೆರೂಷಲೇಮಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಬೇಕು	"
 ],			
-"correct" :	"	b. Repent	",
-"explanation" :	"	And the times of this ignorance God winked at; but now commandeth all men every where to repent:Acts17:30	",
+"correct" :	"	B. ಮಾನಸಾಂತರ ಹೊಂದಬೇಕು	",
+"explanation" :	"	ಆ ಅಜ್ಞಾನಕಾಲಗಳನ್ನು ದೇವರು ಲಕ್ಷ್ಯಕ್ಕೆ ತರಲಿಲ್ಲ; ಈಗಲಾದರೋ ಆತನು ನಾಲ್ಕು ದಿಕ್ಕಿನಲ್ಲಿರುವ ಮನುಷ್ಯರೆಲ್ಲರೂ ತನ್ನ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳಬೇಕೆಂದು ಅಪ್ಪಣೆಕೊಡುತ್ತಾನೆ 17:30	",
 },			
 ]			

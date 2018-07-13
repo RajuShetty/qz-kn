@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 22";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
-"question" :	"	1. In the parable, for whom did the king have a marriage celebration?	",
+"question" :	"	1 ಒಂದು ಸಾಮ್ಯದಲ್ಲಿ, ಅರಸನು ಯಾರಿಗೆ ಮದುವೆ ಮಾಡಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Himself	",
-	"	b. His son	",
-	"	c. His mother	",
-	"	d. His brother	"
+	"	A. ಅರಸನಿಗೆ ಮದುವೆ	",
+	"	B. ಅರಸನ ಮಗನು	",
+	"	C. ಅರಸನ ತಾಯಿ	",
+	"	D. ಅರಸನ ಸಹೋದರ	"
 ],			
-"correct" :	"	b. His son	",
-"explanation" :	"	The kingdom of heaven is like a certain king who arranged a marriage for his son, - Matt 22:2	",
+"correct" :	"	B. ಅರಸನ ಮಗನು	",
+"explanation" :	"	ಪರಲೋಕರಾಜ್ಯವು ಮಗನಿಗೆ ಮದುವೆಮಾಡಿದ ಒಬ್ಬ ಅರಸನಿಗೆ ಹೋಲಿಕೆಯಾಗಿದೆ.  ಮತ್ತಾಯ 22:2	",
 },			
 {			
-"question" :	"	2. When the servants bid the guests, what did they do?	",
+"question" :	"	2 ಸೇವಕರು ಅತಿಥಿಗಳನ್ನು ಕರೆತರಲು ಹೋದಾಗ ಅವರು ಏನು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hurried to the wedding	",
-	"	b. Put on wedding garments	",
-	"	c. Made light of it	",
-	"	d. Purchased gifts	"
+	"	A. ಮದುವೆಗೆ ಹೋಗಲು ತ್ವರೆಪಟ್ಟರು	",
+	"	B. ಮದುವೆ ವಸ್ತ್ರಗಳನ್ನು ಧರಿಸಿದರು	",
+	"	C. ಅಲಕ್ಷ್ಯ ಮಾಡಿದರು	",
+	"	D. ಉಡುಗೊರೆಗಳನ್ನು ಕೊಂಡುಕೊಂಡರು	"
 ],			
-"correct" :	"	c. Made light of it	",
-"explanation" :	"	But they made light of it and went their ways, one to his own farm, another to his business. - Matt 22:5	",
+"correct" :	"	C. ಅಲಕ್ಷ್ಯ ಮಾಡಿದರು	",
+"explanation" :	"	ಆದರೆ ಅವರು ಅಲಕ್ಷ್ಯ ಮಾಡಿ ಒಬ್ಬನು ತನ್ನ ಹೊಲಕ್ಕೆ ಒಬ್ಬನು ತನ್ನ ವ್ಯಾಪಾರಕ್ಕೆ ಹೋಗಿಬಿಟ್ಟರು.  ಮತ್ತಾಯ 22:5	",
 },			
 {			
-"question" :	"	3. What did the king do to those who were invited, but did not come to the wedding?	",
+"question" :	"	3 ಮದುವೆಗೆ ಯಾರ್ಯಾರನ್ನು ಆಹ್ವಾನಿಸಿದ್ದರೋ ಅವರು ಬರದೇ ಹೋದಾಗ ಅರಸನು ಏನು ಮಾಡಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Burned their cities	",
-	"	b. Cancelled the wedding	",
-	"	c. Invited other kings	",
-	"	d. Postponed the wedding	"
+	"	A. ಅವರ ಪಟ್ಟಣಗಳನ್ನು ಸುಟ್ಟುಬಿಟ್ಟನು	",
+	"	B. ಮದುವೆಯನ್ನು ನಿಲ್ಲಿಸಿಬಿಟ್ಟನು	",
+	"	C. ಬೇರೆ ಅರಸರನ್ನು ಕರೆದನು	",
+	"	D. ಮದುವೆಯನ್ನು ಮುಂದೂಡಿದನು	"
 ],			
-"correct" :	"	a. Burned their cities	",
-"explanation" :	"	But when the king heard about it, he was furious. And he sent out his armies, destroyed those murderers, and burned up their city.- Matt 22:7	",
+"correct" :	"	A. ಅವರ ಪಟ್ಟಣಗಳನ್ನು ಸುಟ್ಟುಬಿಟ್ಟನು	",
+"explanation" :	"	ಅರಸನು ಸಿಟ್ಟುಗೊಂಡು ತನ್ನ ದಂಡುಗಳನ್ನು ಕಳುಹಿಸಿ ಆ ಕೊಲೆಗಾರರನ್ನು ನಾಶಮಾಡಿ ಅವರ ಪಟ್ಟಣವನ್ನು ಸುಟ್ಟುಬಿಟ್ಟನು.  ಮತ್ತಾಯ 22:7	",
 },			
 {			
-"question" :	"	4. From where did the servants bring the guests?	",
+"question" :	"	4. ಎಲ್ಲಿಂದ ಅತಿಥಿಗಳನ್ನು ಸೇವಕರು ಕರೆತಂದರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Another country	",
-	"	b. The finest homes	",
-	"	c. The highways	",
-	"	d. The palace	"
+	"	A. ಬೇರೆ ದೇಶದಿಂದ	",
+	"	B. ಉನ್ನತ ಕುಟುಂಬಗಳಿಂದ	",
+	"	C. ಹಾದಿಗಳಲ್ಲಿ	",
+	"	D. ಅರಮನೆಯಲ್ಲಿ	"
 ],			
-"correct" :	"	c. The highways	",
-"explanation" :	"	So those servants went out into the highways and gathered together all whom they found, both bad and good. And the wedding hall was filled with guests. - Matt 22:10	",
+"correct" :	"	C. ಹಾದಿಗಳಲ್ಲಿ	",
+"explanation" :	"	ಆ ಆಳುಗಳು ಹಾದಿಗಳಿಗೆ ಹೋಗಿ ಕೆಟ್ಟವರು ಒಳ್ಳೆಯವರು ಅನ್ನದೆ ಕಂಡವರನ್ನೆಲ್ಲಾ ಕೂಡಿಸಿ ಕರಕೊಂಡು ಬಂದರು.  ಮತ್ತಾಯ 22:10	",
 },			
 {			
-"question" :	"	5. Why was the man cast into outer darkness?	",
+"question" :	"	5 ಒಬ್ಬ ಮನುಷ್ಯನನ್ನು ಏಕೆ ಹೊರಗೆ ಕತ್ತಲೆಗೆ ನೂಕಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He refused to go to the wedding.	",
-	"	b. He killed a servant.	",
-	"	c. He brought no wedding gift.	",
-	"	d. He was not wearing a wedding garment.	"
+	"	A. ಅವನು ಮದುವೆಗೆ ಹೋಗಲು ನಿರಾಕರಿಸಿದನು	",
+	"	B. ಅವನು ಸೇವಕನನ್ನು ಕೊಂದನು	",
+	"	C. ಅವನು ಮದುವೆಗೆ ಉಡುಗೊರೆಯನ್ನು ತಂದಿರಲಿಲ್ಲ	",
+	"	D. ಅವನು ಮದುವೆಯ ವಸ್ತ್ರವನ್ನು ಧರಿಸಿರಲಿಲ್ಲ	"
 ],			
-"correct" :	"	d. He was not wearing a wedding garment.	",
-"explanation" :	"	But when the king came in to see the guests, he saw a man there who did not have on a wedding garment.So he said to him, 'Friend, how did you come in here without a wedding garment?' And he was speechless.Then the king said to the servants, 'Bind him hand and foot, take him away, and cast him into outer darkness; there will be weeping and gnashing of teeth. - matt 22:11-13	",
+"correct" :	"	D. ಅವನು ಮದುವೆಯ ವಸ್ತ್ರವನ್ನು ಧರಿಸಿರಲಿಲ್ಲ	",
+"explanation" :	"	ಆಮೇಲೆ ಅರಸನು ಕೂತವರನ್ನು ನೋಡುವದಕ್ಕೆ ಒಳಕ್ಕೆ ಬರಲಾಗಿ ಮದುವೇಬಟ್ಟೆಯನ್ನು ಹಾಕಿಕೊಳ್ಳದ ಒಬ್ಬನನ್ನು ಕಂಡು ಅವನನ್ನು ಏನಪ್ಪಾ ಮದುವೆಯ ಬಟ್ಟೆ ಇಲ್ಲದೆ ನೀನಿಲ್ಲಿ ಹೇಗೆ ಒಳಕ್ಕೆ ಬಂದಿ ಎಂದು ಕೇಳಲು ಅವನು ಸುಮ್ಮನಿದ್ದನು.  ಆಮೇಲೆ ಅರಸನು ಸೇವಕರಿಗೆ ಅವನ ಕೈಕಾಲು ಕಟ್ಟಿ ಅವನನ್ನು ಹೊರಗೆ ಕತ್ತಲೆಗೆ ನೂಕಿರಿ ಎಂದು ಹೇಳಿದನು.  ಮತ್ತಾಯ 22:11-13	",
 },			
 {			
-"question" :	"	6. They tried to entangle Jesus.	",
+"question" :	"	6 ಅವರು ಯೇಸುವನ್ನು ಮಾತಿನಲ್ಲಿ ಸಿಕ್ಕಿಸುವುದಕ್ಕೆ ಪ್ರಯತ್ನಿಸಿದರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pharisees	",
-	"	b. Paul & Silas	",
-	"	c. Roman centurions	",
-	"	d. Judas & the chief priests	"
+	"	A. ಫರಿಸಾಯರು	",
+	"	B. ಪೌಲ ಮತ್ತು ಸೀಲ	",
+	"	C. ರೋಮಾಪುರದ ಶತಾಧಿಪತಿ	",
+	"	D. ಯೂದ ಮತ್ತು ಮಹಾಯಾಜಕರು	"
 ],			
-"correct" :	"	a. Pharisees	",
-"explanation" :	"	Then the Pharisees went and plotted how they might entangle Him in His talk. - Matt 22:15	",
+"correct" :	"	A. ಫರಿಸಾಯರು	",
+"explanation" :	"	ಆಗ್ಗೆ ಫರಿಸಾಯರು ಹೊರಟು ಆತನನ್ನು ಮಾತಿನಲ್ಲಿ ಹೇಗೆ ಸಿಕ್ಕಿಸುವ ಎಂದು ಕೂಡಿ ಆಲೋಚಿಸಿಕೊಂಡು;   ಮತ್ತಾಯ 22:15	",
 },			
 {			
-"question" :	"	7. Jesus said, Render unto Caesar, the things which are Caesar’s	",
+"question" :	"	7 ಯೇಸು ಹೇಳಿದ್ದು: ಕೈಸರಸನದು ಕೈಸರನಿಗೆ ಕೊಡಿರಿ ಮತ್ತು	",
 "image" :	"",		
 "choices" : [			
-	"	a. For this is lawful.	",
-	"	b. And you will be blessed.	",
-	"	c. And unto God the things that are God’s.	",
-	"	d. And obey the laws of the land.	"
+	"	A. ಇದು ಧರ್ಮಶಾಸ್ತ್ರ	",
+	"	B. ನೀವು ಆಶೀರ್ವದಿಸಲ್ಪಡುವಿ	",
+	"	C. ದೇವರದು ದೇವರಿಗೆ ಕೊಡಿರಿ	",
+	"	D. ಈ ಲೋಕದ ಕಟ್ಟಳೆಗೆ ವಿಧೇಯರಾಗಿರಿ	"
 ],			
-"correct" :	"	c. And unto God the things that are God’s.	",
-"explanation" :	"	They said to Him, Caesar's.And He said to them, Render therefore to Caesar the things that are Caesar's, and to God the things that are God's.	",
+"correct" :	"	C. ದೇವರದು ದೇವರಿಗೆ ಕೊಡಿರಿ	",
+"explanation" :	"	ಆಗ ಆತನು ಅವರಿಗೆ ಹಾಗಾದರೆ ಕೈಸರನದನ್ನು ಕೈಸರನಿಗೆ ಕೊಡಿರಿ; ದೇವರದನ್ನು ದೇವರಿಗೆ ಕೊಡಿರಿ ಎಂದು ಹೇಳಿದನು.  ಮತ್ತಾಯ 22:21	",
 },			
 {			
-"question" :	"	8. The first and great commandment is, thou shalt love the Lord, thy God	",
+"question" :	"	8 ಮುಖ್ಯವಾದ ಮತ್ತು ಮೊದಲನೆಯ ಆಜ್ಞೆಯು, ನಿನ್ನ ದೇವರಾಗಿರುವ ಕರ್ತನನ್ನು ನಿನ್ನ _______________ ಪ್ರೀತಿಸಬೇಕು	",
 "image" :	"",		
 "choices" : [			
-	"	a. With thy first fruits.	",
-	"	b. And sacrifice to Him.	",
-	"	c. With all thy heart, soul & mind.	",
-	"	d. As thyself.	"
+	"	A. ನಿನ್ನ ಪ್ರಥಮ ಫಲದಿಂದ	",
+	"	B. ಆತನಿಗೆ ಯಜ್ಞ ಮಾಡಿ	",
+	"	C. ನಿನ್ನ ಪೂರ್ಣ ಹೃದಯದಿಂದ, ನಿನ್ನ ಪೂರ್ಣ ಆತ್ಮದಿಂದ ಮತ್ತು ನಿನ್ನ ಪೂರ್ಣ ಬುದ್ದಿಯಿಂದ	",
+	"	D. ನಿನ್ನ ಹಾಗೆಯೇ	"
 ],			
-"correct" :	"	c. With all thy heart, soul & mind.	",
-"explanation" :	"	Teacher, which is the great commandment in the law? Jesus said to him, You shall love the Lord your God with all your heart, with all your soul, and with all your mind. - Matt 22:36,37	",
+"correct" :	"	C. ನಿನ್ನ ಪೂರ್ಣ ಹೃದಯದಿಂದ, ನಿನ್ನ ಪೂರ್ಣ ಆತ್ಮದಿಂದ ಮತ್ತು ನಿನ್ನ ಪೂರ್ಣ ಬುದ್ದಿಯಿಂದ	",
+"explanation" :	"	ನಿನ್ನ ದೇವರಾಗಿರುವ ಕರ್ತನನ್ನು ನಿನ್ನ ಪೂರ್ಣಹೃದಯದಿಂದಲೂ ನಿನ್ನ ಪೂರ್ಣ ಪ್ರಾಣದಿಂದಲೂ ನಿನ್ನ ಪೂರ್ಣ ಬುದ್ದಿಯಿಂದಲೂ ಪ್ರಿತಿಸಬೇಕು ಎಂಬ ಆಜ್ಞೆಯೇ ಮುಖ್ಯವಾದದದು ಮತ್ತು ಮೊದಲನೆಯದು.  ಮತ್ತಾಯ 22:37-38	",
 },			
 {			
-"question" :	"	9. What did Jesus say is the second great commandment?	",
+"question" :	"	9 ಎರಡನೇ ಮುಖ್ಯವಾದ ಆಜ್ಞೆ ಯಾವುದು ಎಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Thou shalt not kill.	",
-	"	b. Honor thy father & mother.	",
-	"	c. Thou shalt not covet thy neighbor’s goods.	",
-	"	d. Love thy neighbor as thyself.	"
+	"	A.ನೀನು ಕೊಲ್ಲಬಾರದು	",
+	"	B. ನಿನ್ನ ತಂದೆ ತಾಯಿಯನ್ನು ಸನ್ಮಾನಿಸಬೇಕು	",
+	"	C. ನಿನ್ನ ನೆರೆಯವನ ವಸ್ತುಗಳನ್ನು ಬಚ್ಚಿಟ್ಟುಕೊಳ್ಳಬಾರದು	",
+	"	D. ನಿನ್ನ ನೆರೆಯವನನ್ನು ನಿನ್ನಂತೆಯೇ ಪ್ರೀತಿಸಬೇಕು	"
 ],			
-"correct" :	"	d. Love thy neighbor as thyself.	",
-"explanation" :	"	And the second is like it: You shall love your neighbor as yourself. - Matt 22:39	",
+"correct" :	"	D. ನಿನ್ನ ನೆರೆಯವನನ್ನು ನಿನ್ನಂತೆಯೇ ಪ್ರೀತಿಸಬೇಕು	",
+"explanation" :	"	ಇದಕ್ಕೆ ಸಮಾನವಾದ ಎರಡನೆಯ ಆಜ್ಞೆ ಒಂದು ಉಂಟು, ಅದು ಯಾವದಂದರೆ ನಿನ್ನ ನೆರೆಯವನನ್ನು ನಿನ್ನಂತೆಯೇ ಪ್ರೀತಿಸಬೇಕು ಎಂಬದೇ.  ಮತ್ತಾಯ 22:39	",
 },			
 {			
-"question" :	"	10. Who asked, What think ye of Christ, whose son is he?	",
+"question" :	"	10 ಬರಬೇಕಾದ ಕ್ರಿಸ್ತನ ವಿಷಯವಾಗಿ ನಿಮಗೆ ಹೇಗೆ ತೋರುತ್ತದೆ, ಆತನು ಯಾರ ಮಗನು? ಎಂದು ಯಾರು ಕೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Herodians	",
-	"	b. The Pharisees	",
-	"	c. The Sadducees	",
-	"	d. Jesus	"
+	"	A. ಹೆರೋದ್ಯಳು	",
+	"	B. ಫರಿಸಾಯರು	",
+	"	C. ಸದ್ದುಕಾಯರು	",
+	"	D. ಯೇಸು	"
 ],			
-"correct" :	"	d. Jesus	",
-"explanation" :	"	While the Pharisees were gathered together, Jesus asked them,saying, What do you think about the Christ? Whose Son is He? They said to Him, The Son of David. - Matt 22:41,42	",
+"correct" :	"	D. ಯೇಸು	",
+"explanation" :	"	ಫರಿಸಾಯರು ಕೂಡಿಬಂದಿರುವಾಗ ಯೇಸು ಅವರಿಗೆ ಬರಬೇಕಾದ ಕ್ರಿಸ್ತನ ವಿಷಯವಾಗಿ ನಿಮಗೆ ಹೇಗೆ ತೋರುತ್ತದೆ? ಆತನು ಯಾರ ಮಗನು ಎಂದು___ ಮತ್ತಾಯ 22:41-42	",
 },			
 ]			

@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 11";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. When the people complained it displeased the Lord and this happened.	",

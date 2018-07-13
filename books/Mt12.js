@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 12";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
-"question" :	"	1. When Jesus and His disciples were hungry, they ate some	",
+"question" :	"	1. ಯೇಸು ಮತ್ತು ಆತನ ಶಿಷ್ಯರು ಹಸಿದಾಗ ಅವರು ಏನು ತಿಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Figs.	",
-	"	b. Corn.	",
-	"	c. Pomegranates.	",
-	"	d. Berries.	"
+	"	A. ಅಂಜೂರ	",
+	"	B. ತೆನೆಗಳು	",
+	"	C. ದಾಳಿಂಬೆ	",
+	"	D. ಚಿಕ್ಕ ಹಣ್ಣುಗಳು	"
 ],			
-"correct" :	"	b. Corn.	",
-"explanation" :	"	At that time Jesus went through the grainfields on the Sabbath. And His disciples were hungry, and began to pluck heads of grain and to eat. - Matt 12:1	",
+"correct" :	"	B. ತೆನೆಗಳು	",
+"explanation" :	"	ಆ ಕಾಲದಲ್ಲಿ ಯೇಸು ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಪೈರಿನ ಹೊಲಗಳನ್ನು ಹಾದುಹೋಗುತ್ತಿರುವಾಗ ಆತನ ಶಿಷ್ಯರು ಹಸಿದು ತೆನೆಗಳನ್ನು ಮುರುಕೊಂಡು ತಿನ್ನುತ್ತಿದ್ದರು.  ಮತ್ತಾಯ 12:1	",
 },			
 {			
-"question" :	"	2. What did Jesus say King David and his men ate?	",
+"question" :	"	2 ಅರಸನಾದ ದಾವೀದನು ಮತ್ತು ಆತನ ಮನುಷ್ಯರು ಏನನ್ನು ತಿಂದರೆಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pork	",
-	"	b. Shewbread	",
-	"	c. Manna	",
-	"	d. Corn	"
+	"	A. ಹಂದಿಮಾಂಸ	",
+	"	B. ಯಜ್ಷದ ರೊಟ್ಟಿ	",
+	"	C. ಮನ್ನ	",
+	"	D. ಜೋಳ	"
 ],			
-"correct" :	"	b. Shewbread	",
-"explanation" :	"	But He said to them, Have you not read what David did when he was hungry, he and those who were with him:how he entered the house of God and ate the showbread which was not lawful for him to eat, nor for those who were with him, but only for the priests? - Matt 12:3,4	",
+"correct" :	"	B. ಯಜ್ಷದ ರೊಟ್ಟಿ	",
+"explanation" :	"	ದಾವೀದನು ತಾನೂ ತನ್ನ ಸಂಗಡ ಇದ್ದವರೂ ಹಸಿದಾಗ ಏನು ಮಾಡಿದನೆಂಬದನ್ನು ನೀವು ಓದಲಿಲ್ಲವೋ, ಅವನು ದೇವರ ಮಂದಿರದೊಳಕ್ಕೆ ಹೋಗಿ ಯಾಜಕರು ಮಾತ್ರವೇ ಹೊರತು ತಾನಾಗಲಿ ತನ್ನ ಸಂಗಡ ಇದ್ದವರಾಗಲಿ ತಿನ್ನಬಾರದಾಗಿದ್ದ ನೈವೇದ್ಯದ ರೊಟ್ಟಿಗಳನ್ನು ತಿಂದನಲ್ಲವೇ.  ಮತ್ತಾಯ 12:3-4	",
 },			
 {			
-"question" :	"	3. Where did Jesus see the man with the withered hand?	",
+"question" :	"	3. ಕೈ ಬತ್ತಿಹೋದ ಮನುಷ್ಯನನ್ನು ಯೇಸು ಎಲ್ಲಿ ನೋಡಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bethlehem	",
-	"	b. In the marketplace	",
-	"	c. Nazareth	",
-	"	d. The synagogue	"
+	"	A. ಬೆತ್ಲೇಹೇಮ್	",
+	"	B. ಮಾರುಕಟ್ಟೆ ಪ್ರದೇಶದಲ್ಲಿ	",
+	"	C. ನಜರೇತು	",
+	"	D. ಸಭಾ ಮಂದಿರದಲ್ಲಿ	"
 ],			
-"correct" :	"	d. The synagogue	",
-"explanation" :	"	Now when He had departed from there, He went into their synagogue.And behold, there was a man who had a withered hand. And they asked Him, saying, Is it lawful to heal on the Sabbath?--that they might accuse Him.- Matt 12:9,10	",
+"correct" :	"	D. ಸಭಾ ಮಂದಿರದಲ್ಲಿ	",
+"explanation" :	"	ಆತನು ಅಲ್ಲಿಂದ ಹೊರಟು ಸಭಾಮಂದಿರಕ್ಕೆ ಹೋದಾಗ ಅಲ್ಲಿ ಕೈಬತ್ತಿದ್ದವನೊಬ್ಬನಿದ್ದನು. ಮತ್ತಾಯ 12:9	",
 },			
 {			
-"question" :	"	4. What did Jesus tell the man with the withered hand?	",
+"question" :	"	4. ಕೈ ಬತ್ತಿಹೋದ ಮನುಷ್ಯನಿಗೆ ಯೇಸು ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Stretch forth thine hand.	",
-	"	b. It is unlawful to heal on the Sabbath.	",
-	"	c. Be thou made whole.	",
-	"	d. You shall be healed tomorrow.	"
+	"	A. ನಿನ್ನ ಕೈ ಚಾಚು	",
+	"	B. ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಗುಣಪಡಿಸುವುದು ಧರ್ಮಕ್ಕೆ ವಿರುದ್ಧವಾದುದು	",
+	"	C. ನೀನು ಶುದ್ದನಾಗು	",
+	"	D. ನೀನು ನಾಳೆ ಸ್ವಸ್ಥನಾಗುವಿ	"
 ],			
-"correct" :	"	a. Stretch forth thine hand.	",
-"explanation" :	"	Then He said to the man, Stretch out your hand. And he stretched it out, and it was restored as whole as the other. - Matt 12:13	",
+"correct" :	"	A. ನಿನ್ನ ಕೈ ಚಾಚು	",
+"explanation" :	"	ಆ ಮನುಷ್ಯನಿಗೆ ನಿನ್ನ ಕೈ ಚಾಚು ಎಂದು ಹೇಳಿದನು.  ಮತ್ತಾಯ 12:13	",
 },			
 {			
-"question" :	"	5. Great multitudes followed Jesus, and He did this, to them all.	",
+"question" :	"	5  ಜನರ ಗುಂಪು ಯೇಸುವನ್ನು ಹಿಂಬಾಲಿಸಿತು, ಆತನು ಅವರಿಗೆ ಇದನ್ನು ಮಾಡಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rebuked	",
-	"	b. Chastised	",
-	"	c. Healed	",
-	"	d. Baptized	"
+	"	A. ಗದರಿಸಿದನು	",
+	"	B. ಛಡಿಯೇಟು ನೀಡಿದನು	",
+	"	C. ಸ್ವಸ್ಥಪಡಿಸಿದನು	",
+	"	D. ದೀಕ್ಷಾಸ್ನಾನ ನೀಡಿದನು	"
 ],			
-"correct" :	"	c. Healed	",
-"explanation" :	"	But when Jesus knew it, He withdrew from there. And great multitudes followed Him, and He healed them all. - Matt 12:15	",
+"correct" :	"	C. ಸ್ವಸ್ಥಪಡಿಸಿದನು	",
+"explanation" :	"	ಅನೇಕರು ಆತನ ಹಿಂದೆ ಹೋದರು, ಆತನು ಅವರೆಲ್ಲರನ್ನು ಸ್ವಸ್ಥಮಾಡಿ ತಾನು ಇಂಥವನೆಂಬದಾಗಿ _____ ಮತ್ತಾಯ 12:16	",
 },			
 {			
-"question" :	"	6. This cannot stand.	",
+"question" :	"	6 ಇದು ನಿಲ್ಲುವುದಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. An unguarded city	",
-	"	b. A broken gate	",
-	"	c. A wicked & deceitful man	",
-	"	d. A house divided against itself	"
+	"	A. ಕಾವಲುಗಾರನಿಲ್ಲದ ಪಟ್ಟಣ	",
+	"	B. ಮುರಿದುಹೋದ ದ್ವಾರ	",
+	"	C. ಮೋಸ ಹಾಗು ವಂಚನೆಯ ಮನುಷ್ಯ	",
+	"	D. ತನ್ನಲ್ಲಿ ಭೇದ ಹುಟ್ಟಿದ ಮನೆಯು	"
 ],			
-"correct" :	"	d. A house divided against itself	",
-"explanation" :	"	But Jesus knew their thoughts, and said to them: Every kingdom divided against itself is brought to desolation, and every city or house divided against itself will not stand. - Matt 12:25	",
+"correct" :	"	D. ತನ್ನಲ್ಲಿ ಭೇದ ಹುಟ್ಟಿದ ಮನೆಯು	",
+"explanation" :	"	ಆತನು ಅವರ ಆಲೋಚನೆಗಳನ್ನು ತಿಳುಕೊಂಡು ಅವರಿಗೆ ಹೇಳಿದ್ದೇನಂದರೆ, ಯಾವ ರಾಜ್ಯವಾದರೂ ತನ್ನಲ್ಲಿ ಭೇದ ಹುಟ್ಟಿದರೆ ಹಾಳಾಗುವದು, ತನ್ನಲ್ಲಿ ಭೇದ ಹುಟ್ಟಿ ಯಾವ ಪಟ್ಟಣವಾದರೂ ಮನೆಯಾದರೂ ನಿಲ್ಲದು.  ಮತ್ತಾಯ 12:25	",
 },			
 {			
-"question" :	"	7. What did Jesus say would not be forgiven?	",
+"question" :	"	7 ಯಾವುದು ಕ್ಷಮಿಸಲ್ಪಡುವುದಿಲ್ಲ ಎಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Lying	",
-	"	b. Blasphemy against the Holy Ghost	",
-	"	c. Murder	",
-	"	d. Adultery	"
+	"	A. ಸುಳ್ಳು ಹೇಳುವುದು	",
+	"	B. ಪವಿತ್ರಾತ್ಮನಿಗೆ ವಿರುದ್ದವಾಗಿ ಮಾಡಿದ ಪಾಪ	",
+	"	C. ಕೊಲೆ	",
+	"	D. ವ್ಯಭಿಚಾರ	"
 ],			
-"correct" :	"	b. Blasphemy against the Holy Ghost	",
-"explanation" :	"	Therefore I say to you, every sin and blasphemy will be forgiven men, but the blasphemy against the Spirit will not be forgiven men.- Matt 12:31	",
+"correct" :	"	B. ಪವಿತ್ರಾತ್ಮನಿಗೆ ವಿರುದ್ದವಾಗಿ ಮಾಡಿದ ಪಾಪ	",
+"explanation" :	"	ಮನುಷ್ಯರು ಮಾಡುವ ಪ್ರತಿಯೊಂದು ಪಾಪಕ್ಕೂ ದೂಷಣೆಗೂ ಕ್ಷಮಾಪಣೆ ಉಂಟಾಗುವದು; ಆದರೆ ಪವಿತ್ರಾತ್ಮ ದೂಷಣೆಗೆ ಕ್ಷಮಾಪಣೆಯಿಲ್ಲ.  ಮತ್ತಾಯ 12;31	",
 },			
 {			
-"question" :	"	8. By what did Jesus say a tree is known?	",
+"question" :	"	8 ಯಾವುದರಿಂದ ಮರವು ಗೊತ್ತಾಗುತ್ತದೆ ಎಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The leaves	",
-	"	b. The roots	",
-	"	c. The branches	",
-	"	d. The fruit	"
+	"	A. ಎಲೆಗಳಿಂದ	",
+	"	B. ಬೇರುಗಳಿಂದ	",
+	"	C. ಕೊಂಬೆಗಳಿಂದ	",
+	"	D. ಫಲಗಳಿಂದ	"
 ],			
-"correct" :	"	d. The fruit	",
-"explanation" :	"	Either make the tree good and its fruit good, or else make the tree bad and its fruit bad; for a tree is known by its fruit. - Matt 12:33	",
+"correct" :	"	D. ಫಲಗಳಿಂದ	",
+"explanation" :	"	ಮರ ಒಳ್ಳೇದಂದರೆ ಅದರ ಫಲವೂ ಒಳ್ಳೇದನ್ನಿರಿ.  ಮರ ಹುಳುಕು ಅಂದರೆ ಅದರ ಫಲವೂ ಹುಳುಕು ಅನ್ನಿರಿ.  ಫಲದಿಂದಲೇ ಮರದ ಗುಣವು ಗೊತ್ತಾಗುವುದು.  ಮತ್ತಾಯ: 12:33	",
 },			
 {			
-"question" :	"	9. What did Jesus say the people of Nineveh had done?	",
+"question" :	"	9  ನಿನವೆಯ ಜನರು ಏನು ಮಾಡಿದರೆಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Repented	",
-	"	b. Gone to battle	",
-	"	c. Honored Solomon	",
-	"	d. Destroyed the prophets	"
+	"	A. ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಂಡರು	",
+	"	B. ಯುದ್ಧಕ್ಕೆ ಹೋದರು	",
+	"	C. ಸೊಲೊಮೋನನನ್ನು ಗೌರವಿಸಿದರು	",
+	"	D. ಪ್ರವಾದಿಗಳನ್ನು ನಾಶ ಮಾಡಿದರು	"
 ],			
-"correct" :	"	a. Repented	",
-"explanation" :	"	The men of Nineveh will rise up in the judgment with this generation and condemn it, because they repented at the preaching of Jonah; and indeed a greater than Jonah is here.- Matt 12:41	",
+"correct" :	"	A. ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಂಡರು	",
+"explanation" :	"	ನ್ಯಾಯ ವಿಚಾರಣೆಯಲ್ಲಿ ನಿನೆವೆ ಪಟ್ಟಣದವರು ಈ ಸಂತತಿಯವರೊಂದಿಗೆ ನಿಂತು ಇವರನ್ನು ಅಪರಾಧಿಗಳೆಂದು ಹೇಳುವರು; ಅವರು ಯೋನನು ಸಾರಿದ ವಾಕ್ಯವನ್ನು ಕೇಳಿ ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಂಡರು. ಮತ್ತಾಯ 12:41	",
 },			
 {			
-"question" :	"	10. Who did Jesus say, is His mother and brothers?	",
+"question" :	"	10 ಯೇಸು ಯಾರನ್ನು ತನ್ನ ತಾಯಿ ಹಾಗು ಸಹೋದರರು ಎಂದು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mary, James & Jonas	",
-	"	b. The 12 disciples	",
-	"	c. The Pharisees	",
-	"	d. Those that do the Father’s will	"
+	"	A. ಮರಿಯ, ಯಾಕೋಬ ಮತ್ತು ಯೋನ	",
+	"	B. 12 ಜನ ಶಿಷ್ಯರು	",
+	"	C. ಫರಿಸಾಯರು	",
+	"	D. ತಂದೆಯ ಚಿತ್ತವನ್ನು ನೆರವೇರಿಸುವರು	"
 ],			
-"correct" :	"	d. Those that do the Father’s will	",
-"explanation" :	"	For whoever does the will of My Father in heaven is My brother and sister and mother. - matt 12:50	",
+"correct" :	"	D. ತಂದೆಯ ಚಿತ್ತವನ್ನು ನೆರವೇರಿಸುವರು	",
+"explanation" :	"	ಪರಲೋಕದಲ್ಲಿರುವ ನನ್ನ ತಂದೆಯ ಚಿತ್ತದಂತೆ ನಡೆಯುವವನೇ ನನಗೆ ತಮ್ಮನೂ ತಂಗಿಯೂ ತಾಯಿಯೂ ಆಗಬೇಕು ಅಂದನು. ಮತ್ತಾಯ 12:50	",
 },			
 ]			

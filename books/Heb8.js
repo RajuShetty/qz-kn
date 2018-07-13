@@ -1,4 +1,4 @@
-var quiztitle = " Hebrews chapter 8";			
+var quiztitle = " ಇಬ್ರಿಯರಿಗೆ ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. ಇಲ್ಲಿ ಕುಳಿತುಕೊಳ್ಳುವಂತಹ ಮಹಾ ಯಾಜಕನು ನಮಗಿದ್ದಾನೆ.	",

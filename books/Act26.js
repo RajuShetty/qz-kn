@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 26";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 26";			
 var quiz = [			
 {			
-"question" :	"	1. Paul was speaking before this king.	",
+"question" :	"	1  ಪೌಲನು ಈ ರಾಜನ ಮುಂದೆ ಮಾತನಾಡುತ್ತಿದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Agrippa	",
-	"	b. Herod	",
-	"	c. Anak	",
-	"	d. Solomon	"
+	"	A. ಅಗ್ರಿಪ್ಪ	",
+	"	B. ಹೆರೋದ	",
+	"	C. ಅನಾಕ	",
+	"	D. ಸೊಲೊಮೋನ	"
 ],			
-"correct" :	"	a. Agrippa	",
-"explanation" :	"	Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:I think myself happy, king Agrippa, because I shall answer for myself this day before thee touching all the things whereof I am accused of the Jews:Acts26:1,2	",
+"correct" :	"	A. ಅಗ್ರಿಪ್ಪ	",
+"explanation" :	"	ಆಗ ಅಗ್ರಿಪ್ಪನು ಪೌಲನಿಗೆ - ನೀನು ನಿನ್ನ ಪಕ್ಷದಲ್ಲಿ ಮಾತಾಡಬಹುದು ಅನ್ನಲು ಪೌಲನು ಕೈಯೆತ್ತಿ ಪ್ರತಿವಾದ ಮಾಡಿದ್ದೇನಂದರೆ - ಅಗ್ರಿಪ್ಪರಾಜನೇ, ಯೆಹೂದ್ಯರು ನನ್ನ ಮೇಲೆ ಆರೋಪಿಸುವ ಎಲ್ಲಾ ದೋಷಗಳ ವಿಷಯವಾಗಿ ನಿನ್ನ ಎದುರಿನಲ್ಲಿ ನಾನು ಈಹೊತ್ತು ಪ್ರತಿವಾದ ಮಾಡಬೇಕಾಗಿರುವದರಿಂದ ನನ್ನನ್ನು ಧನ್ಯನೆಂದು ಎಣಿಸಿಕೊಳ್ಳುತ್ತೇನೆ 26:1,2	",
 },			
 {			
-"question" :	"	2. Paul said, the king was an expert concerning this.	",
+"question" :	"	2 ಪೌಲನು ಹೇಳಿದ್ದು, ರಾಜನು ಈ ವಿಷಯಗಳನ್ನು ಚೆನ್ನಾಗಿ ಬಲ್ಲನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Geography	",
-	"	b. Roman law	",
-	"	c. Customs of the Jews	",
-	"	d. Human nature	"
+	"	A. ಭೂಗೋಳ	",
+	"	B. ರೋಮನ್ನರ ನಿಯಮಗಳು	",
+	"	C. ಯೆಹೂದ್ಯರ ಆಚಾರಗಳು	",
+	"	D. ಮನುಷ್ಯನ ಸ್ವಭಾವಗಳು	"
 ],			
-"correct" :	"	c. Customs of the Jews	",
-"explanation" :	"	Especially because I know thee to be expert in all customs and questions which are among the Jews: wherefore I beseech thee to hear me patiently.Acts26:3	",
+"correct" :	"	C. ಯೆಹೂದ್ಯರ ಆಚಾರಗಳು	",
+"explanation" :	"	ಯಾಕಂದರೆ ಯೆಹೂದ್ಯರಲ್ಲಿರುವ ಎಲ್ಲಾ ಆಚಾರಗಳನ್ನೂ ವಿವಾದಗಳನ್ನೂ ನೀನು ಚೆನ್ನಾಗಿ ಬಲ್ಲವನಾಗಿರುತ್ತೀ. ನನ್ನ ಮಾತುಗಳನ್ನು ಸಹನದಿಂದ ಕೇಳಬೇಕೆಂದು ಬೇಡಿಕೊಳ್ಳುತ್ತೇನೆ. 26:3	",
 },			
 {			
-"question" :	"	3. Paul was of this sect.	",
+"question" :	"	3  ಪೌಲನು ಈ ಪಂಗಡಕ್ಕೆ ಸೇರಿದವನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sadducees	",
-	"	b. Pharisees	",
-	"	c. Nazarites	",
-	"	d. Nicolaitanes	"
+	"	A. ಸದ್ದುಕಾಯರು	",
+	"	B. ಫರಿಸಾಯರು	",
+	"	C. ನಜರೇತಿನವನು	",
+	"	D. ನಿಕೋಲಾಯರು	"
 ],			
-"correct" :	"	b. Pharisees	",
-"explanation" :	"	Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.Acts26:5	",
-},		 	
-{			
-"question" :	"	4. At one time, Paul did this to the saints.	",
-"image" :	"",		
-"choices" : [			
-	"	a. Protected them	",
-	"	b. Fed them	",
-	"	c. Hid them	",
-	"	d. Put them in prison	"
-],			
-"correct" :	"	d. Put them in prison	",
-"explanation" :	"	Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against them.Acts26:10	",
+"correct" :	"	B. ಫರಿಸಾಯರು	",
+"explanation" :	"	ನಮ್ಮ ಧರ್ಮದಲ್ಲಿ ಬಹು ಖಂಡಿತವಾದ ಮತವನ್ನನುಸರಿಸಿ ಫರಿಸಾಯನಾಗಿ ನಡಕೊಂಡೆನೆಂದು ಪ್ರಾರಂಭದಿಂದಲೂ ಅವರು ಬಲ್ಲರು; ಸಾಕ್ಷಿಹೇಳುವದಕ್ಕೆ ಅವರಿಗೆ ಮನಸ್ಸಿದ್ದರೆ ಹೇಳಬಹುದು.  26:5	",
 },			
 {			
-"question" :	"	5. On the way here, Paul saw a light from heaven.	",
+"question" :	"	4  ಒಂದು ಕಾಲದಲ್ಲಿ ಪೌಲನು ವಿಶ್ವಾಸಿಗಳಿಗೆ ಹೀಗೆ ಮಾಡುತ್ತಿದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jericho	",
-	"	b. Emmaus	",
-	"	c. Damascus	",
-	"	d. Tarshish	"
+	"	A. ರಕ್ಷಿಸುತ್ತಿದ್ದನು	",
+	"	B. ಅವರಿಗೆ ಉಣಿಸುತ್ತಿದ್ದನು	",
+	"	C. ಅವರನ್ನು ಬಚ್ಚಿಡುತ್ತಿದ್ದನು	",
+	"	D. ಅವರನ್ನು ಸೆರೆಮನೆಗಳಿಗೆ ಹಾಕಿಸುತ್ತಿದ್ದನು	"
 ],			
-"correct" :	"	c. Damascus	",
-"explanation" :	"	Whereupon as I went to Damascus with authority and commission from the chief priests,At midday, O king, I saw in the way a light from heaven, above the brightness of the sun, shining round about me and them which journeyed with me.Acts26:12,13	",
+"correct" :	"	D. ಅವರನ್ನು ಸೆರೆಮನೆಗಳಿಗೆ ಹಾಕಿಸುತ್ತಿದ್ದನು	",
+"explanation" :	"	ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ಹಾಗೆಯೇ ನಡಿಸಿದೆನು. ಮಹಾಯಾಜಕರಿಂದ ಅಧಿಕಾರವನ್ನು ಪಡೆದು ದೇವಜನರಲ್ಲಿ ಅನೇಕರನ್ನು ಸೆರೆಮನೆಗಳಲ್ಲಿ ಇಡಿಸಿ ಅವರಿಗೆ ಮರಣದ ತೀರ್ಪಾದಾಗ ನನ್ನ ಸಮ್ಮತಿಯನ್ನು ಸೂಚಿಸಿದೆನು 26:10	",
 },			
 {			
-"question" :	"	6. Paul heard a voice speaking in this tongue.	",
+"question" :	"	5  ಈ ಮಾರ್ಗದಲ್ಲಿದ್ದಾಗ ಪೌಲನು ಆಕಾಶದಲ್ಲಿ ಬೆಳಕನ್ನು ಕಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hebrew	",
-	"	b. Greek	",
-	"	c. Egyptian	",
-	"	d. Unknown	"
+	"	A. ಯೆರಿಕೋ	",
+	"	B. ಎಮ್ಮಾವು	",
+	"	C. ದಮಸ್ಕಸ್	",
+	"	D. ತಾರ್ಷೀಷ್	"
 ],			
-"correct" :	"	a. Hebrew	",
-"explanation" :	"	 And when we were all fallen to the earth, I heard a voice speaking unto me, and saying in the Hebrew tongue, Saul, Saul, why persecutest thou me? it is hard for thee to kick against the pricks.Acts26:14	",
+"correct" :	"	C. ದಮಸ್ಕಸ್	",
+"explanation" :	"	ಈ ಉದ್ದೇಶದಿಂದ ನಾನು ಮಹಾಯಾಜಕರಿಂದ ಅಧಿಕಾರವನ್ನೂ ಉದ್ಯೋಗವನ್ನೂ ಹೊಂದಿ ದಮಸ್ಕಕ್ಕೆ ಹೋಗುತ್ತಾ ನಾನು ದಾರಿಯಲ್ಲಿದ್ದಾಗ ರಾಜನೇ, ಮಧ್ಯಾಹ್ನದ ಹೊತ್ತಿನಲ್ಲಿ ಪರಲೋಕದಿಂದಾದ ಒಂದು ಬೆಳಕು ನನ್ನ ಸುತ್ತಲೂ ನನ್ನ ಜೊತೆಯಲ್ಲಿ ಪ್ರಯಾಣಮಾಡುತ್ತಿದ್ದವರ ಸುತ್ತಲೂ ಸೂರ್ಯನ ಹೊಳಪಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಹೊಳೆಯುವದನ್ನು ಕಂಡೆನು. 26:12,13	",
 },			
 {			
-"question" :	"	7. Who did the voice identify himself as?	",
+"question" :	"	6  ಒಂದು ಸ್ವರವು ಈ ಭಾಷೆಯಲ್ಲಿ ಮಾತನಾಡುವುದನ್ನು ಪೌಲನು ಕೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. An angel	",
-	"	c. Satan	",
-	"	d. Moses	"
+	"	A. ಇಬ್ರಿಯ	",
+	"	B. ಗ್ರೀಕ್	",
+	"	C. ಐಗುಪ್ತ	",
+	"	D. ಅನ್ಯಭಾಷೆ	"
 ],			
-"correct" :	"	a. Jesus	",
-"explanation" :	"	And I said, Who art thou, Lord? And he said, I am Jesus whom thou persecutest.Acts26:15	",
+"correct" :	"	A. ಇಬ್ರಿಯ	",
+"explanation" :	"	ನಾವೆಲ್ಲರು ನೆಲಕ್ಕೆ ಬೀಳಲು - ಸೌಲನೇ, ಸೌಲನೇ, ನನ್ನನ್ನು ಯಾಕೆ ಹಿಂಸೆಪಡಿಸುತ್ತೀ? ಮುಳ್ಳುಗೋಲನ್ನು ಒದೆಯುವದು ನಿನಗೆ ಕಷ್ಟ ಎಂದು ಇಬ್ರಿಯ ಭಾಷೆಯಿಂದ ಹೇಳುವ ವಾಣಿಯನ್ನು ಕೇಳಿದೆನು 26:14	",
 },			
 {			
-"question" :	"	8. Festus told Paul, that his much learning had made Paul	",
+"question" :	"	7 ಆ ಶಬ್ಧವು ತನ್ನನ್ನು ಯಾರೆಂದು ಪರಿಚಯಿಸಿಕೊಂಡಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Brilliant.	",
-	"	b. Mad.	",
-	"	c. Undisputable.	",
-	"	d. Wise.	"
+	"	A. ಯೇಸು	",
+	"	B. ದೂತ	",
+	"	C. ಸೈತಾನ	",
+	"	D. ಮೋಶೆ	"
 ],			
-"correct" :	"	b. Mad.	",
-"explanation" :	"	And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad.Acts26:24	",
+"correct" :	"	A. ಯೇಸು	",
+"explanation" :	"	ಆಗ ನಾನು - ಕರ್ತನೇ, ನೀನಾರು? ಅನ್ನಲು ಕರ್ತನು - ನೀನು ಹಿಂಸೆಪಡಿಸುವ ಯೇಸುವೇ ನಾನು. ನೀನು ಎದ್ದು ನಿಂತುಕೋ 26:15	",
 },			
 {			
-"question" :	"	9. The king told Paul, he had almost persuaded him to do this.	",
+"question" :	"	8 ಫೆಸ್ತನು ಪೌಲನಿಗೆ ಹೇಳಿದ್ದು, ನೀನು ಬಹಳವಾಗಿ ಮಾಡುವ ವಿಚಾರವು ನಿನ್ನನ್ನು __________	",
 "image" :	"",		
 "choices" : [			
-	"	a. Release Paul	",
-	"	b. Kill Paul	",
-	"	c. Be a Christian	",
-	"	d. Believe the Jews	"
+	"	A. ಬುದ್ದಿವಂತನನ್ನಾಗಿಸಿದೆ	",
+	"	B. ಮರುಳುಗೊಳಿಸಿದೆ	",
+	"	C. ವಿವಾದಸ್ಪದವಲ್ಲದವನಾಗಿಸಿದೆ	",
+	"	D. ಜ್ಞಾನವಂತನಾಗಿಸಿದೆ	"
 ],			
-"correct" :	"	c. Be a Christian	",
-"explanation" :	"	Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.Acts26:28	",
+"correct" :	"	B. ಮರುಳುಗೊಳಿಸಿದೆ	",
+"explanation" :	"	ಹೀಗೆ ಪೌಲನು ಪ್ರತಿವಾದ ಮಾಡುತ್ತಿದ್ದಾಗ ಫೆಸ್ತನು ಮಹಾಶಬ್ದದಿಂದ - ಪೌಲನೇ, ನೀನು ಮರುಳಾಗಿದ್ದೀ; ನೀನು ಬಹಳವಾಗಿ ಮಾಡುವ ಶಾಸ್ತ್ರವಿಚಾರವು ನಿನ್ನನ್ನು ಮರುಳುಗೊಳಿಸುತ್ತದೆ ಎಂದು ಹೇಳಿದನು 26:24	",
 },			
 {			
-"question" :	"	10. The king said, Paul might have been set free, had he not done this.	",
+"question" :	"	9  ರಾಜನು ಪೌಲನಿಗೆ ಹೇಳಿದ್ದು, ಆತನು ಪೌಲನನ್ನು ಹೀಗೆ ಮಾಡುವವನಿದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Angered the Jews	",
-	"	b. Blasphemed	",
-	"	c. Appealed to Caesar	",
-	"	d. Tried to escape	"
+	"	A. ಬಿಡುಗಡೆ	",
+	"	B. ಕೊಲ್ಲುತ್ತಿದ್ದನು	",
+	"	C. ಕ್ರೈಸ್ತನನ್ನಾಗಿಸುತ್ತಿದ್ದನು	",
+	"	D. ಯೆಹೂದ್ಯರನ್ನು ನಂಬಿದನು	"
 ],			
-"correct" :	"	c. Appealed to Caesar	",
-"explanation" :	"	Then said Agrippa unto Festus, This man might have been set at liberty, if he had not appealed unto Caesar.Acts26:32	",
+"correct" :	"	C. ಕ್ರೈಸ್ತನನ್ನಾಗಿಸುತ್ತಿದ್ದನು	",
+"explanation" :	"	ಅದಕ್ಕೆ ಅಗ್ರಿಪ್ಪನು - ಅಲ್ಪಪ್ರಯತ್ನದಿಂದ ನನ್ನನ್ನು ಕ್ರೈಸ್ತನಾಗುವದಕ್ಕೆ ಒಡಂಬಡಿಸುತ್ತೀಯಾ? ಎಂದು ಹೇಳಲು 26:28	",
+},			
+{			
+"question" :	"	10  ಪೌಲನು ಇದನ್ನು ಹೇಳದೇ ಹೋಗಿದ್ದರೆ, ಅವನನ್ನು ಬಿಡಬಹುದಾಗಿತ್ತು ಎಂದು ರಾಜನು ಹೇಳಿದ.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಯೆಹೂದ್ಯರನ್ನು ಕೋಪಗೊಳಿಸಿದ್ದು	",
+	"	B. ದೇವದೂಷಣೆ	",
+	"	C. ಕೈಸರನಿಗೆ ಅಪೀಲು	",
+	"	D. ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಯತ್ನಿಸಿದ್ದು	"
+],			
+"correct" :	"	C. ಕೈಸರನಿಗೆ ಅಪೀಲು	",
+"explanation" :	"	ಅಗ್ರಿಪ್ಪನು ಫೆಸ್ತನಿಗೆ - ಈ ಮನುಷ್ಯನು ಚಕ್ರವರ್ತಿಯ ಎದುರಿನಲ್ಲಿ ಹೇಳಿಕೊಳ್ಳುತ್ತೇನೆಂದು ಹೇಳದೆ ಹೋಗಿದ್ದರೆ ಇವನನ್ನು ಬಿಡಬಹುದಾಗಿತ್ತು ಎಂದು ಹೇಳಿದನು. 26:32	",
 },			
 ]			

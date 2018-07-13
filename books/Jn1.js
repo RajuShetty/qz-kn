@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 1";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
-"question" :	"	1. In the beginning was the Word and the Word was with God and the Word was	",
+"question" :	"	1  ಆದಿಯಲ್ಲಿ ವಾಕ್ಯವಿತ್ತು, ವಾಕ್ಯವು ದೇವರ ಬಳಿಯಲ್ಲಿತ್ತು ಮತ್ತು ವಾಕ್ಯವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Honest.	",
-	"	b. Heavenly.	",
-	"	c. Love.	",
-	"	d. God.	"
+	"	A. ಪ್ರಾಮಾಣಿಕವಾಗಿತ್ತು	",
+	"	B. ಪರಲೋಕವಾಗಿತ್ತು	",
+	"	C. ಪ್ರೀತಿಯಾಗಿತ್ತು	",
+	"	D. ದೇವರಾಗಿತ್ತು	"
 ],			
-"correct" :	"	d. God.	",
-"explanation" :	"	In the beginning was the Word, and the Word was with God, and the Word was God. - Jn 1:1	",
+"correct" :	"	D. ದೇವರಾಗಿತ್ತು	",
+"explanation" :	"	ಆದಿಯಲ್ಲಿ ವಾಕ್ಯವಿತ್ತು; ಆ ವಾಕ್ಯವು ದೇವರ ಬಳಿಯಲ್ಲಿತ್ತು; ಆ ವಾಕ್ಯವು ದೇವರಾಗಿತ್ತು      ಯೋಹಾನ 1:1	",
 },			
 {			
-"question" :	"	2. As many as receive Jesus and believe on His name	",
+"question" :	"	2  ಯಾರಾರು ಆತನನ್ನು ಅಂಗೀಕರಿಸಿದರೋ, ಅಂದರೆ ಆತನ ಹೆಸರಿನಲ್ಲಿ ನಂಬಿಕೆಯಿಟ್ಟರೋ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. He gave power to become the sons of God.	",
-	"	b. Were martyred.	",
-	"	c. Fulfill the law.	",
-	"	d. Stand alone.	"
+	"	A. ಅವರಿಗೆ ದೇವರ ಮಕ್ಕಳಾಗುವ ಅಧಿಕಾರ ಕೊಟ್ಟನು	",
+	"	B. ಅವರು ರಕ್ತಸಾಕ್ಷಿಗಳಾದರು	",
+	"	C. ಧರ್ಮಶಾಸ್ತ್ರವನ್ನು ನೆರವೇರಿಸಿದರು	",
+	"	D. ಏಕಾಂಗಿಯಾಗಿ ನಿಂತರು	"
 ],			
-"correct" :	"	a. He gave power to become the sons of God.	",
-"explanation" :	"	But as many as received Him, to them He gave the right to become children of God, to those who believe in His name - Jn 1:12	",
+"correct" :	"	A. ಅವರಿಗೆ ದೇವರ ಮಕ್ಕಳಾಗುವ ಅಧಿಕಾರ ಕೊಟ್ಟನು	",
+"explanation" :	"	ಯಾರಾರು ಆತನನ್ನು ಅಂಗೀಕರಿಸಿದರೋ, ಅಂದರೆ ಆತನ ಹೆಸರಿನಲ್ಲಿ ನಂಬಿಕೆಯಿಟ್ಟರೋ, ಅವರಿಗೆ ದೇವರ ಮಕ್ಕಳಾಗುವ ಅಧಿಕಾರ ಕೊಟ್ಟನು    ಯೋಹಾನ 1:12	",
 },			
 {			
-"question" :	"	3. This was made flesh and dwelt among us.	",
+"question" :	"	3  _________ ನರಾವತಾರ ಇತ್ತು ನಮ್ಮ ಮಧ್ಯದಲ್ಲಿ ವಾಸಮಾಡಿದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Clay	",
-	"	b. The Word	",
-	"	c. The wind	",
-	"	d. An angel	"
+	"	A. ಮಣ್ಣೆಂಬುವನು	",
+	"	B. ವಾಕ್ಯವೆಂಬುವನು	",
+	"	C. ಗಾಳಿಯೆಂಬುವನು	",
+	"	D. ದೂತನೆಂಬುವನು	"
 ],			
-"correct" :	"	b. The Word	",
-"explanation" :	"	And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth. - Jn 1:14	",
+"correct" :	"	B. ವಾಕ್ಯವೆಂಬುವನು	",
+"explanation" :	"	ಆ ವಾಕ್ಯವೆಂಬುವವನು fಮನುಷ್ಯನಾಗಿ ನಮ್ಮ ಮಧ್ಯದಲ್ಲಿ ವಾಸಮಾಡಿದನು. ಯೋಹಾನ 1:14	",
 },			
 {			
-"question" :	"	4. The law was given by Moses, but grace and truth came	",
+"question" :	"	4  ಧರ್ಮಶಾಸ್ತ್ರವು ಮೇಶೆಯ ಮುಖಾಂತರ ಕೊಡಲ್ಪಟ್ಟಿತು; ಕೃಪೆಯೂ ಸತ್ಯವೂ _______ ಮುಖಾಂತರ ಬಂದವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Alone.	",
-	"	b. By Jesus Christ.	",
-	"	c. Without repentance.	",
-	"	d. By John the Baptist.	"
+	"	A. ಒಂಟಿಯಾಗಿ	",
+	"	B. ಯೇಸುಕ್ರಿಸ್ತನ	",
+	"	C. ಮನ:ಪರಿವರ್ತನೆಯಿಲ್ಲದ	",
+	"	D. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನ	"
 ],			
-"correct" :	"	b. By Jesus Christ.	",
-"explanation" :	"	For the law was given through Moses, but grace and truth came through Jesus Christ. - Jn 1:17	",
+"correct" :	"	B. ಯೇಸುಕ್ರಿಸ್ತನ	",
+"explanation" :	"	ಧರ್ಮಶಾಸ್ತ್ರವು ಮೋಶೆಯ ಮುಖಾಂತರ ಕೊಡಲ್ಪಟ್ಟಿತು. ಆದರೆ ಕೃಪೆಯೂ, ಸತ್ಯವೂ ಯೇಸು ಕ್ರಿಸ್ತನ ಮುಖಾಂತರ ಬಂದವು  ಯೋಹಾನ 1:17	",
 },			
 {			
-"question" :	"	5. He referred to himself as “the voice of one crying in the wilderness.”	",
+"question" :	"	5. ಕರ್ತನ ದಾರಿಯನ್ನು ನೆಟ್ಟಗೆ ಮಾಡಿರಿ ಎಂದು ಅಡವಿಯಲ್ಲಿ ಕೂಗುವವನ ಶಬ್ದವದೆ ಎಂಬದಾಗಿ ಯೆಶಾಯಪ್ರವಾದಿಯು ಹೇಳಿದನಷ್ಟೆ; ಆ ಶಬ್ದವೇ ನಾನು ಎಂದು ಗುರುತಿಸುಕೊಂಡವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. Moses	",
-	"	c. Nathaniel	",
-	"	d. John	"
+	"	A. ಯೇಸು	",
+	"	B. ಮೋಶೆ	",
+	"	C. ನತಾನಿಯೇಲ	",
+	"	D. ಯೋಹಾನ	"
 ],			
-"correct" :	"	d. John	",
-"explanation" :	"	Now this is the testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who are you?He confessed, and did not deny, but confessed, I am not the Christ.And they asked him, What then? Are you Elijah? He said, I am not.Are you the Prophet? And he answered, No.Then they said to him, Who are you, that we may give an answer to those who sent us? What do you say about yourself?He said: I am 'The voice of one crying in the wilderness: Make straight the way of the Lord, ' as the prophet Isaiah said. - Jn 1:19-23	",
+"correct" :	"	D. ಯೋಹಾನ	",
+"explanation" :	"	ಯೋಹಾನನು ಕೊಟ್ಟ ಸಾಕ್ಷಿ ಏನಂದರೆ - ಯೆಹೋದ್ಯರು ಯೆರೂಸಲೇಮಿನಿಂದ ಯಾಜಕರನ್ನೂ ಲೇವಿಯರನ್ನೂ ಅವನ ಬಳಿಗೆ ಕಳುಹಿಸಿ	",
 },			
 {			
-"question" :	"	6. John referred to Jesus as	",
+"question" :	"	6  ಯೋಹಾನನು ಯೇಸುವನ್ನು ಏನೆಂದು ಕರೆದಿದ್ದಾನೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Elias.	",
-	"	b. The voice of one crying in the wilderness.	",
-	"	c. The Lamb of God.	",
-	"	d. A Pharisee.	"
+	"	A. ಎಲೀಯ	",
+	"	B. ಅಡವಿಯಲ್ಲಿ ಕೂಗುವವನ ಶಬ್ಧ	",
+	"	C. ದೇವರು ನೇಮಿಸಿದ ಕುರಿಮರಿ	",
+	"	D. ಫರಿಸಾಯ	"
 ],			
-"correct" :	"	c. The Lamb of God.	",
-"explanation" :	"	The next day John saw Jesus coming toward him, and said, Behold! The Lamb of God who takes away the sin of the world - Jn 1:29	",
+"correct" :	"	C. ದೇವರು ನೇಮಿಸಿದ ಕುರಿಮರಿ	",
+"explanation" :	"	ಮರುದಿನ ಯೋಹಾನನು ತನ್ನ ಕಡೆಗೆ ಬರುವ ಯೇಸುವನ್ನು ನೋಡಿ - ಅಗೋ [ಯಜ್ಞಕ್ಕೆ] ದೇವರು ನೇಮಿಸಿದ . ಲೋಕದ ಪಾಪವನ್ನು ನಿವಾರಣೆ ಮಾಡುವವನು1:29	",
 },			
 {			
-"question" :	"	7. When John baptized Jesus, he saw the Spirit descend like this.	",
+"question" :	"	7 ಯೋಹಾನನು ಯೇಸುವಿಗೆ ದೀಕ್ಷಾಸ್ನಾನ ನೀಡುವಾಗ ಆತನು ಆತ್ಮನು ಈ ರೀತಿಯಾಗಿ ಯೇಸುವಿನ  ಮೇಲೆ ಇಳಿಯುವುದನ್ನು ನೋಡಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A law	",
-	"	b. A raven	",
-	"	c. A dove	",
-	"	d. Lightening	"
+	"	A. ಧರ್ಮಶಾಸ್ತ್ರ	",
+	"	B. ಕಾಗೆ	",
+	"	C. ಪಾರಿವಾಳ	",
+	"	D. ಮಿಂಚು	"
 ],			
-"correct" :	"	c. A dove	",
-"explanation" :	"	And John bore witness, saying, I saw the Spirit descending from heaven like a dove, and He remained upon Him. - Jn 1:32	",
+"correct" :	"	C. ಪಾರಿವಾಳ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಯೋಹಾನನು ಸಾಕ್ಷಿಕೊಟ್ಟು ಹೇಳಿದ್ದೇನಂದರೆ - ದೇವರಾತ್ಮವು ಪಾರಿವಾಳದಂತೆ ಆಕಾಶದಿಂದ ಇಳಿಯುವದನ್ನು ನೋಡಿದೆನು. ಅದು ಆತನ ಮೇಲೆ ನೆಲೆಗೊಂಡಿತು1:32	",
 },			
 {			
-"question" :	"	8. Jesus baptizes with	",
+"question" :	"	8  ಯೇಸುವು _______________ ದೀಕ್ಷಾಸ್ನಾನ ಕೊಡುವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Water.	",
-	"	b. Holy water.	",
-	"	c. The Holy Ghost.	",
-	"	d. Love.	"
+	"	A. ನೀರಿನಿಂದ	",
+	"	B. ಪರಿಶುದ್ಧ ನೀರಿನಿಂದ	",
+	"	C. ಪವಿತ್ರಾತ್ಮನಿಂದ	",
+	"	D. ಪ್ರೀತಿಯಿಂದ	"
 ],			
-"correct" :	"	c. The Holy Ghost.	",
-"explanation" :	"	I did not know Him, but He who sent me to baptize with water said to me, 'Upon whom you see the Spirit descending, and remaining on Him, this is He who baptizes with the Holy Spirit. - Jn 1:33	",
+"correct" :	"	C. ಪವಿತ್ರಾತ್ಮನಿಂದ	",
+"explanation" :	"	ನನಗೂ ಆತನ ಗುರುತಿರಲಿಲ್ಲ; ಆದರೆ ನೀರಿನ ಸ್ನಾನವನ್ನು ಮಾಡಿಸುವದಕ್ಕೆ ನನ್ನನ್ನು ಕಳುಹಿಸಿದಾತನು - ಯಾವನ ಮೇಲೆ ಆತ್ಮವು ಇಳಿದುಬಂದು ಇರುವದನ್ನು ನೀನು ನೋಡುವಿಯೋ ಆತನೇ ಪವಿತ್ರಾತ್ಮದ ಸ್ನಾನವನ್ನು ಕೊಡುವವನು ಎಂದು ತಾನೇ ನನಗೆ ಹೇಳಿದನು. 1:33	",
 },			
 {			
-"question" :	"	9. When this man followed Jesus, he went to find his brother.	",
+"question" :	"	9  ಈ ಮನುಷ್ಯನು ಯೇಸುವನ್ನು ಹಿಂಬಾಲಿಸಿದ ಮೇಲೆ, ತನ್ನ ಸಹೋದರನನ್ನು ಕಂಡುಕೊಳ್ಳಲು   ಹೋದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Andrew	",
-	"	b. John	",
-	"	c. James	",
-	"	d. Elias	"
+	"	A. ಆಂದ್ರೇಯ	",
+	"	B. ಯೋಹಾನ	",
+	"	C. ಯಾಕೋಬ	",
+	"	D. ಎಲೀಯ	"
 ],			
-"correct" :	"	a. Andrew	",
-"explanation" :	"	One of the two who heard John speak, and followed Him, was Andrew, Simon Peter's brother.He first found his own brother Simon, and said to him, We have found the Messiah (which is translated, the Christ) - Jn 1:40-41	",
+"correct" :	"	A. ಆಂದ್ರೇಯ	",
+"explanation" :	"	ಯೋಹಾನನ ಮಾತನ್ನು ಕೇಳಿ ಯೇಸುವನ್ನು ಹಿಂಬಾಲಿಸಿದ ಆ ಇಬ್ಬರಲ್ಲಿ ಸೀಮೋನ್ ಪೇತ್ರನ ತಮ್ಮನಾದ ಅಂದ್ರೆಯನು ಒಬ್ಬನು. ಇವನು ಮೊದಲು ತನ್ನ ಅಣ್ಣನಾದ ಸೀಮೋನನನ್ನು ಕಂಡುಕೊಂಡು ಅವನಿಗೆ - ಮೆಸ್ಸೀಯನು ನಮಗೆ ಸಿಕ್ಕಿದನು ಎಂದು ಹೇಳಿ  1:40-41	",
 },			
 {			
-"question" :	"	10. Jesus told Simon he would be called Cephas, which means	",
+"question" :	"	10 ಯೇಸುವು ಸೀಮೋನನಿಗೆ ನೀನು ಕೇಫನೆನಿಸಿಕೊಳ್ಳುವಿ ಅಂದನು, ಕೇಫನೆಂದರೆ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. Noble man.	",
-	"	b. A fisher.	",
-	"	c. A stone.	",
-	"	d. Rivers of water.	"
+	"	A. ನೀತಿವಂತ ಮನುಷ್ಯ	",
+	"	B. ಮೀನುಗಾರ	",
+	"	C. ಬಂಡೆಗಲ್ಲು	",
+	"	D. ನೀರಿನ ನದಿಗಳು	"
 ],			
-"correct" :	"	c. A stone.	",
-"explanation" :	"	And he brought him to Jesus. Now when Jesus looked at him, He said, You are Simon the son of Jonah. You shall be called Cephas (which is translated, A Stone). - Jn 1:42	",
+"correct" :	"	C. ಬಂಡೆಗಲ್ಲು	",
+"explanation" :	"	ಅವನನ್ನು ಯೇಸುವಿನ ಬಳಿಗೆ ಕರಕೊಂಡು ಬಂದನು.  ಯೇಸು ಅವನನ್ನು ನೋಡಿ - ನೀನು ಯೋಹಾನನ ಮಗನಾದ ಸೀಮೋನನು; ಇನ್ನು ಮೇಲೆ ಕೇಫನೆನಿಸಿಕೊಳ್ಳುವಿ ಅಂದನು (ಕೇಫನಂದರೆ ಪೇತ್ರ.1.42 ಪೇತ್ರ ಅಂದರೆ ಗುಂಡು ಅಥವಾ ಬಂಡೆಗಲ್ಲು.  1:42	",
 },			
 ]			

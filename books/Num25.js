@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 25";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 25";			
 var quiz = [			
 {			
 "question" :	"	1. When Israel was here, they began to commit whoredom.	",
@@ -19,7 +19,7 @@ var quiz = [
 	"	a. Eli	",
 	"	b. Beelzabub	",
 	"	c. Moab	",
-	"	d. Philemon	"
+	"	d. ಫಿಲೆಮೋನನಿಗೆ	"
 ],			
 "correct" :	"	c. Moab	",
 "explanation" :	"	And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab. Num 25:1	",
@@ -66,7 +66,7 @@ var quiz = [
 "choices" : [			
 	"	a. Moses	",
 	"	b. Aaron	",
-	"	c. Philemon	",
+	"	c. ಫಿಲೆಮೋನನಿಗೆ	",
 	"	d. Zimri	"
 ],			
 "correct" :	"	d. Zimri	",

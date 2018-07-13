@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 9";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. When the kings on this side of Jordan heard of the things of Israel, they gathered themselves together	",

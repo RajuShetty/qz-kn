@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 7";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
-"question" :	"	1. The centurion said his servant would be healed, if Jesus	",
+"question" :	"	1. ಯೇಸು ಇದನ್ನು ಮಾಡಿದರೆ ಸಾಕು, ತನ್ನ ಆಳಿಗೆ ಸೌಖ್ಯವಾಗುವುದು ಎಂದು ಶತಾಧಿಪತಿ ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Went to him.	",
-	"	b. Prayed for him.	",
-	"	c. Touched him.	",
-	"	d. Spoke a word.	"
+	"	A. ಅವನ ಬಳಿ ಹೋದರೆ ಸಾಕು	",
+	"	B. ಅವನಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿದರೆ ಸಾಕು	",
+	"	C. ಅವನನ್ನು ಮುಟ್ಟಿದರೆ ಸಾಕು	",
+	"	D. ಒಂದು ಮಾತು ಹೇಳಿದರೆ ಸಾಕು	"
 ],			
-"correct" :	"	d. Spoke a word.	",
-"explanation" :	"	Then Jesus went with them. And when He was already not far from the house, the centurion sent friends to Him, saying to Him, Lord, do not trouble Yourself, for I am not worthy that You should enter under my roof.Therefore I did not even think myself worthy to come to You. But say the word, and my servant will be healed. - Lk 7:6-7	",
+"correct" :	"	D. ಒಂದು ಮಾತು ಹೇಳಿದರೆ ಸಾಕು	",
+"explanation" :	"	ಯೇಸು ಅವರ ಸಂಗಡ ಹೋದನು.  ಆತನು ಇನ್ನೂ ಮನೆಗೆ ಮುಟ್ಟುವದಕ್ಕೆ ಸ್ವಲ್ಪ ದೂರವಿರುವಾಗಲೇ ಶತಾಧಿಪತಿಯು ಸ್ನೇಹಿತರನ್ನು ಆತನ ಬಳಿಗೆ ಕಳುಹಿಸಿ - ಪ್ರಭುವೇ, ತೊಂದರೆ ತೆಗೆದುಕೊಳ್ಳಬೇಡ; ನೀನು ನನ್ನ ಮನೆಗೆ ಬರತಕ್ಕಷ್ಟು ಯೋಗ್ಯತೆ ನನ್ನಲ್ಲಿಲ್ಲ.  ಈ ಕಾರಣದಿಂದ ನಾನು ನನ್ನನ್ನು ನಿನ್ನ ಬಳಿಗೆ ಬರುವದಕ್ಕೆ ತಕ್ಕವನೆಂದು ಎಣಿಸಿಕೊಳ್ಳಲಿಲ್ಲ.  ಆದರೆ ನೀನು ಒಂದು ಮಾತು ಹೇಳು, ನನ್ನ ಆಳಿಗೆ ಗುಣವಾಗುವದು;   ಲೂಕ 7:6-7 ಻	",
 },			
 {			
-"question" :	"	2. When He heard the words of the centurion, Jesus said He had not found this, in all of Israel.	",
+"question" :	"	2. ಯೇಸು ಶತಾಧಿಪತಿಯ ಮಾತುಗಳನ್ನು ಕೇಳಿದಾಗ, ತಾನು ಯಾವ ಇಸ್ರಾಯೇಲ್ಯರಲ್ಲಿ ಇದನ್ನು ಕಾಣಲಿಲ್ಲವೆಂದು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Such humility	",
-	"	b. Such pride	",
-	"	c. Such faith	",
-	"	d. Such sin	"
+	"	A. ಇಂತಹ ಅನುಕಂಪ	",
+	"	B. ಇಂತಹ ಜಂಭ	",
+	"	C. ಇಂತಹ ನಂಬಿಕೆ	",
+	"	D. ಇಂತಹ ಪಾಪ	"
 ],			
-"correct" :	"	c. Such faith	",
-"explanation" :	"	When Jesus heard these things, He marveled at him, and turned around and said to the crowd that followed Him, I say to you, I have not found such great faith, not even in Israel - Lk 7:9	",
+"correct" :	"	C. ಇಂತಹ ನಂಬಿಕೆ	",
+"explanation" :	"	ಯೇಸು ಈ ಮಾತನ್ನು ಕೇಳಿ ಅವನ ವಿಷಯದಲ್ಲಿ ಆಶ್ಚರ್ಯಪಟ್ಟು ತನ್ನ ಹಿಂದೆ ಬರುತ್ತಿರುವ ಗುಂಪನ್ನು ಹಿಂತಿರುಗಿ ನೋಡಿ - ನಾನು ಇಂಥ ದೊಡ್ಡ ನಂಬಿಕೆಯನ್ನು ಇಸ್ರಾಯೇಲ್ ಜನರಲ್ಲಿಯೂ ಕಾಣಲಿಲ್ಲವೆಂದು ನಿಮಗೆ ಹೇಳುತ್ತೇನೆ ಅಂದನು.  ಲೂಕ 7:9	",
 },			
 {			
-"question" :	"	3. Jesus told a widow’s son to arise, who was	",
+"question" :	"	3. ಯೇಸು ವಿಧವೆಯ ಮಗನಿಗೆ ಏಳು ಎಂದು ಹೇಳಿದಾಗ ಅವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sick of the palsy.	",
-	"	b. Lame.	",
-	"	c. Dead.	",
-	"	d. A lunatic.	"
+	"	A. ಅವನು ಪಾರ್ಶ್ವವಾಯು ರೋಗಿಯಾಗಿದ್ದನು	",
+	"	B. ಕುಂಟನಾಗಿದ್ದನು	",
+	"	C. ಸತ್ತುಹೋಗಿದ್ದನು	",
+	"	D. ಬುದ್ದಿ ಭ್ರಮಣೆಯಾದವನು	"
 ],			
-"correct" :	"	c. Dead.	",
-"explanation" :	"	And when He came near the gate of the city, behold, a dead man was being carried out, the only son of his mother; and she was a widow. And a large crowd from the city was with her.When the Lord saw her, He had compassion on her and said to her, Do not weep.Then He came and touched the open coffin, and those who carried him stood still. And He said, Young man, I say to you, arise. - Lk 7:12-14	",
+"correct" :	"	C. ಸತ್ತುಹೋಗಿದ್ದನು	",
+"explanation" :	"	ಆತನು ಊರಬಾಗಿಲಿನ ಹತ್ತಿರಕ್ಕೆ ಬಂದಾಗ ಸತ್ತುಹೋಗಿದ್ದ ಒಬ್ಬನನ್ನು ಹೊರಗೆ ತರುತ್ತಿದ್ದರು.  ಇವನು ತನ್ನ ತಾಯಿಗೆ ಒಬ್ಬನೇ ಮಗನು; ಆಕೆಯು ಗಂಡ ಸತ್ತವಳಾಗಿದ್ದಳು.  ಆಕೆಯ ಸಂಗಡ ಗ್ರಾಮಸ್ಥರು ಅನೇಕರಿದ್ದರು.  ಸ್ವಾಮಿಯು ಆಕೆಯನ್ನು ಕಂಡು ಕನಿಕರಿಸಿ - ಅಳಬೇಡ ಎಂದು ಆಕೆಗೆ ಹೇಳಿ ಚಟ್ಟದ ಹತ್ತಿರಕ್ಕೆ ಹೋಗಿ ಅದನ್ನು ಮುಟ್ಟಲು ಹೊತ್ತುಕೊಂಡವರು ನಿಂತರು.  ಆಗ ಆತನು ಯೌನಸ್ಥನೇ, ಏಳು ಎಂದು ನಿನಗೆ ಹೇಳುತ್ತೇನೆ ಅಂದನು.  ಲೂಕ 7:12-14	",
 },			
 {			
-"question" :	"	4. Who sent messengers, asking Jesus, art thou he that should come or shall we look for another?	",
+"question" :	"	4. ಬರಬೇಕಾದವನು ನೀನೋ, ನಾವು ಮತ್ತೊಬ್ಬನ ದಾರಿಯನ್ನು ಕಾಣಬೇಕೋ ಎಂದು ಹೇಳಿ ಕಳುಹಿಸಿದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Herod	",
-	"	b. Pilate	",
-	"	c. John the Baptist	",
-	"	d. Caiaphas	"
+	"	A. ಹೆರೋದ	",
+	"	B. ಪಿಲಾತ	",
+	"	C. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+	"	D. ಕಾಯಫ	"
 ],			
-"correct" :	"	c. John the Baptist	",
-"explanation" :	"	When the men had come to Him, they said, John the Baptist has sent us to You, saying, 'Are You the Coming One, or do we look for another - Lk 7:20	",
+"correct" :	"	C. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+"explanation" :	"	ಅವರು ಆತನ ಬಳಿಗೆ ಬಂದು ಬರಬೇಕಾದವನು ನೀನೋ, ನಾವು ಮತ್ತೊಬ್ಬನ ದಾರಿಯನ್ನು ನೋಡಬೇಕೋ ಎಂದು ಕೇಳುವದಕ್ಕಾಗಿ ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು ನಮ್ಮನ್ನು ನಿನ್ನ ಬಳಿಗೆ ಕಳುಹಿಸಿದ್ದಾನೆ ಅಂದರು.  ಲೂಕ 7:20	",
 },			
 {			
-"question" :	"	5. Jesus said, there is not a greater prophet born among women, than this man.	",
+"question" :	"	5. ಯೇಸು ಹೇಳಿದ್ದು: ಸ್ತ್ರೀಯರಲ್ಲಿ ಹುಟ್ಟಿದವರಲ್ಲಿ ಈತನಿಗಿಂತ ದೊಡ್ಡವನು ಒಬ್ಬನೂ ಇಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. John the Baptist	",
-	"	b. Elijah	",
-	"	c. Nathan	",
-	"	d. Simeon	"
+	"	A. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+	"	B. ಎಲೀಯ	",
+	"	C. ನಾತಾನ್	",
+	"	D. ಸಿಮಿಯೋನ	"
 ],			
-"correct" :	"	a. John the Baptist	",
-"explanation" :	"	For I say to you, among those born of women there is not a greater prophet than John the Baptist; but he who is least in the kingdom of God is greater than he. - Lk 6:28	",
+"correct" :	"	A. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+"explanation" :	"	ಸ್ತ್ರೀಯರಲ್ಲಿ ಹುಟ್ಟಿದವರೊಳಗೆ ಯೋಹಾನನಿಗಿಂತ ದೊಡ್ಡವನು ಒಬ್ಬನೂ ಇಲ್ಲ;    ಲೂಕ 7:28	",
 },			
 {			
-"question" :	"	6. A sinful woman washed Jesus’ feet with	",
+"question" :	"	6. ದುರಾಚಾರಿಯಾದ ಹೆಂಗಸು ಯೇಸುವಿನ ಪಾದಗಳನ್ನು ಇದರಿಂದ ತೊಳೆದಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wine.	",
-	"	b. Blood.	",
-	"	c. Tears.	",
-	"	d. Frankincense.	"
+	"	A. ದ್ರಾಕ್ಷಾರಸ	",
+	"	B. ರಕ್ತ	",
+	"	C. ಕಣ್ಣೀರಿಂದ	",
+	"	D. ಸುಗಂಧ ದ್ರವ್ಯಗಳು	"
 ],			
-"correct" :	"	c. Tears.	",
-"explanation" :	"	And behold, a woman in the city who was a sinner, when she knew that Jesus sat at the table in the Pharisee's house, brought an alabaster flask of fragrant oil,and stood at His feet behind Him weeping; and she began to wash His feet with her tears, and wiped them with the hair of her head; and she kissed His feet and anointed them with the fragrant oil. - Lk 7:37-38	",
+"correct" :	"	C. ಕಣ್ಣೀರಿಂದ	",
+"explanation" :	"	ಆಗ ಆ ಊರಲ್ಲಿದ್ದ ದುರಾಚಾರಿಯಾದ ಒಬ್ಬ ಹೆಂಗಸು ಫರಿಸಾಯನ ಮನೆಯಲ್ಲಿ ಆತನು ಊಟಕ್ಕೆ ಒರಗಿದ್ದಾನೆಂದು ಗೊತ್ತುಹಿಡುಕೊಂಡು ಸುಗಂಧತೈಲದ ಭರಣಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಬಂದು ಹಿಂದೆ ಆತನ ಪಾದಗಳ ಬಳಿಯಲ್ಲಿ ನಿಂತುಕೊಂಡು ಅಳುತ್ತಾ ತನ್ನ ಕಣ್ಣೀರಿನಿಂದ ಆತನ ಪಾದಗಳನ್ನು ತ್ಯಾವಮಾಡಿ ತನ್ನ ತಲೇಕೂದಲಿನಿಂದ ಒರಸಿ ಅವುಗಳಿಗೆ ಮುದ್ದಿಟ್ಟು ಆ ತೈಲವನ್ನು ಹಚ್ಚಿದಳು.  ಲೂಕ 7:37-38	",
 },			
 {			
-"question" :	"	7. The woman wiped Jesus’ feet with this.	",
+"question" :	"	7. ಆ ಹೆಂಗಸು ಯೇಸುವಿನ ಪಾದಗಳನ್ನು ಇದರಿಂದ ಒರೆಸಿದಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Linen	",
-	"	b. Satin	",
-	"	c. Her hair	",
-	"	d. Wool	"
+	"	A. ಲೆನಿನ್ ಬಟ್ಟೆ	",
+	"	B. ಸ್ಯಾಟಿನ್ ಬಟ್ಟೆ	",
+	"	C. ಆಕೆಯ ತಲೇಕೂದಲು	",
+	"	D. ಉಣ್ಣೆಯ ಬಟ್ಟೆ	"
 ],			
-"correct" :	"	c. Her hair	",
-"explanation" :	"	and stood at His feet behind Him weeping; and she began to wash His feet with her tears, and wiped them with the hair of her head; and she kissed His feet and anointed them with the fragrant oil. - Lk 7:38	",
+"correct" :	"	C. ಆಕೆಯ ತಲೇಕೂದಲು	",
+"explanation" :	"	ಆಗ ಆ ಊರಲ್ಲಿದ್ದ ದುರಾಚಾರಿಯಾದ ಒಬ್ಬ ಹೆಂಗಸು ಫರಿಸಾಯನ ಮನೆಯಲ್ಲಿ ಆತನು ಊಟಕ್ಕೆ ಒರಗಿದ್ದಾನೆಂದು ಗೊತ್ತುಹಿಡುಕೊಂಡು ಸುಗಂಧತೈಲದ ಭರಣಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಬಂದು ಹಿಂದೆ ಆತನ ಪಾದಗಳ ಬಳಿಯಲ್ಲಿ ನಿಂತುಕೊಂಡು ಅಳುತ್ತಾ ತನ್ನ ಕಣ್ಣೀರಿನಿಂದ ಆತನ ಪಾದಗಳನ್ನು ತ್ಯಾವಮಾಡಿ ತನ್ನ ತಲೇಕೂದಲಿನಿಂದ ಒರಸಿ ಅವುಗಳಿಗೆ ಮುದ್ದಿಟ್ಟು ಆ ತೈಲವನ್ನು ಹಚ್ಚಿದಳು.  ಲೂಕ 7:37-38	",
 },			
 {			
-"question" :	"	8. Jesus was in this Pharisee’s home.	",
+"question" :	"	8. ಯೇಸುವು ಈ ಫರಿಸಾಯನ ಮನೆಯಲ್ಲಿದ್ದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Simon	",
-	"	b. Caiaphas	",
-	"	c. Nathan	",
-	"	d. David	"
+	"	A. ಸಿಮೋನ	",
+	"	B. ಕಾಯಫ	",
+	"	C. ನಾತಾನ್	",
+	"	D. ದಾವೀದ	"
 ],			
-"correct" :	"	a. Simon	",
-"explanation" :	"	Now when the Pharisee who had invited Him saw this, he spoke to himself, saying, This man, if He were a prophet, would know who and what manner of woman this is who is touching Him, for she is a sinner.And Jesus answered and said to him, Simon, I have something to say to you. So he said, Teacher, say it. - Lk 7:39-40	",
+"correct" :	"	A. ಸಿಮೋನ	",
+"explanation" :	"	ಆದರೆ ಆತನನ್ನು ಊಟಕ್ಕೆ ಕರೆದ ಫರಿಸಾಯನು ಇದನ್ನು ಕಂಡು ಇವಳು ದುರಾಚಾರಿ; ಇವನು ಪ್ರವಾದಿಯಾಗಿದ್ದರೆ ತನ್ನನ್ನು ಮುಟ್ಟಿದ ಈ ಹೆಂಗಸು ಇಂಥವಳೆಂದು ತಿಳುಕೊಳ್ಳುತ್ತಿದ್ದನು ಅಂದುಕೊಂಡನು.   ಅದಕ್ಕೆ ಯೇಸು - ಸೀಮೋನನೇ, ನಾನು ನಿನಗೆ ಹೇಳಬೇಕಾದ ಒಂದು ಮಾತದೆ ಅಂದಾಗ;  ಲೂಕ 7:39-40	",
 },			
 {			
-"question" :	"	9. When neither debtor could pay the creditor, he	",
+"question" :	"	9. ಸಾಲಗಾರನು ಸಾಲವನ್ನು ಪಾವತಿಸದೇ ಹೋದಾಗ, ಹಣ ಕೊಟ್ಟವನು ಅವನನ್ನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Killed them.	",
-	"	b. Threw them in prison.	",
-	"	c. Sold them.	",
-	"	d. Forgave them.	"
+	"	A. ಕೊಂದು ಹಾಕಿಸಿದನು	",
+	"	B. ಸೆರೆಮನೆಗೆ ಹಾಕಿಸಿದನು	",
+	"	C. ಅವನನ್ನು ಮಾರಿದನು	",
+	"	D. ಅವನನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟನು	"
 ],			
-"correct" :	"	d. Forgave them.	",
-"explanation" :	"	And when they had nothing with which to repay, he freely forgave them both. Tell Me, therefore, which of them will love him more - Lk 7:42	",
+"correct" :	"	D. ಅವನನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟನು	",
+"explanation" :	"	ತೀರಿಸುವದಕ್ಕೆ ಅವರಿಗೆ ಗತಿಯಿಲ್ಲದ್ದರಿಂದ ಆ ಇಬ್ಬರಿಗೂ ಸಾಲವನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟನು;   ಲೂಕ 7:42	",
 },			
 {			
-"question" :	"	10. Jesus said, the woman loved much, because	",
+"question" :	"	10. ಯೇಸು ಹೇಳಿದ್ದು: ಈ ಹೆಂಗಸು ಹೆಚ್ಚಾಗಿ ಪ್ರೀತಿಸುತ್ತಾಳೆ, ಯಾಕೆಂದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. She was forgiven much.	",
-	"	b. She was honorable.	",
-	"	c. She was Jewish.	",
-	"	d. She was falsely accused.	"
+	"	A. ಆಕೆ ಬಹಳವಾಗಿ ಕ್ಷಮಿಸಲ್ಪಟ್ಟಿದ್ದಾಳೆ	",
+	"	B. ಆಕೆಯು ಯೋಗ್ಯಳು	",
+	"	C. ಆಕೆಯು ಯೆಹೂದ್ಯಳು	",
+	"	D. ಆಕೆಯ ಮೇಲೆ ಸುಳ್ಳು ಸಾಕ್ಷಿ ಹೊರಿಸಲಾಗಿತ್ತು	"
 ],			
-"correct" :	"	a. She was forgiven much.	",
-"explanation" :	"	Therefore I say to you, her sins, which are many, are forgiven, for she loved much. But to whom little is forgiven, the same loves little. - Lk 7:47	",
+"correct" :	"	A. ಆಕೆ ಬಹಳವಾಗಿ ಕ್ಷಮಿಸಲ್ಪಟ್ಟಿದ್ದಾಳೆ	",
+"explanation" :	"	ಹೀಗಿರಲು ನಾನು ಹೇಳುವ ಮಾತೇನಂದರೆ - ಇವಳ ಪಾಪಗಳು ಬಹಳವಾಗಿದ್ದರೂ ಅವು ಕ್ಷಮಿಸಲ್ಪಟ್ಟಿವೆ.  ಇದಕ್ಕೆ ಪ್ರಮಾಣವೇನಂದರೆ ಇವಳು ತೋರಿಸಿದ ಪ್ರೀತಿ ಬಹಳ.  ಲೂಕ 7:47	",
 },			
 ]			

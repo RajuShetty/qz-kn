@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 9";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಕೊರಿಂಥ ಸಭೆಗೆ ಸಿದ್ಧವಾಗಿರಬೇಕೆಂದು ಸಹೋದರರನ್ನು ಕಳುಹಿಸಿದನು, ಇಲ್ಲದಿದ್ದಲ್ಲಿ ಅವರು	",

@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 10";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus sent this many more disciples to preach and heal the sick.	",
+"question" :	"	1. ಯೇಸು ಇಷ್ಟು ಜನರನ್ನು ಸಾರುವುದಕ್ಕೂ ಸೌಖ್ಯಪಡಿಸುವುದಕ್ಕೂ ಕಳುಹಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 10	",
-	"	b. 14	",
-	"	c. 57	",
-	"	d. 70	"
+	"	A. 10	",
+	"	B. 14	",
+	"	C. 57	",
+	"	D. 70	"
 ],			
-"correct" :	"	d. 70	",
-"explanation" :	"	After these things the Lord appointed seventy others also, and sent them two by two before His face into every city and place where He Himself was about to go. - Lk 10:1	",
+"correct" :	"	D. 70	",
+"explanation" :	"	ಇದಾದ ಮೇಲೆ ಸ್ವಾಮಿಯು ಇನ್ನೂ ಎಪ್ಪತ್ತು ಮಂದಿಯನ್ನು ನೇಮಿಸಿ;   ಲೂಕ 10:1	",
 },			
 {			
-"question" :	"	2. Jesus said, He was sending the disciples out as lambs among	",
+"question" :	"	2.ಯೇಸು ಹೇಳಿದ್ದು: _______ ನಡುವೆ ಕುರಿಮರಿಗಳನ್ನು ಹೊಗಿಸಿದಂತೆ ನಾನು ನಿಮ್ಮನ್ನು ಕಳುಹಿಸಿಕೊಡುತ್ತೇನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Lions.	",
-	"	b. Bears.	",
-	"	c. Wolves.	",
-	"	d. Green pastures.	"
+	"	A. ಸಿಂಹಗಳ	",
+	"	B. ಕರಡಿಗಳ	",
+	"	C. ತೋಳಗಳ	",
+	"	D. ಹುಲ್ಲುಗಾವಲುಗಳ	"
 ],			
-"correct" :	"	c. Wolves.	",
-"explanation" :	"	Go your way; behold, I send you out as lambs among wolves. - Lk 10:3	",
+"correct" :	"	C. ತೋಳಗಳ	",
+"explanation" :	"	ಹೋಗಿರಿ; ತೋಳಗಳ ನಡೆಉವೆ ಕುರಿಮರಿಗಳನ್ನು ಹೊಗಿಸಿದಂತೆ ನಾನು ನಿಮ್ಮನ್ನು ಕಳುಹಿಸಿಕೊಡುತ್ತೇನೆ ನೋಡಿರಿ.  ಲೂಕ 10:3	",
 },			
 {			
-"question" :	"	3. Who did Jesus say He beheld as lightening falling from heaven?	",
+"question" :	"	3. ಯಾರು ಸಿಡಿಲಿನಂತೆ ಆಕಾಶದಿಂದ ಬೀಳುವುದನ್ನು ಕಂಡೆನು ಎಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Satan	",
-	"	b. Michael	",
-	"	c. Gabriel	",
-	"	d. Judas	"
+	"	A. ಸೈತಾನ	",
+	"	B. ಮಿಕಾಯೇಲ	",
+	"	C. ಗಬ್ರಿಯೇಲ	",
+	"	D. ಯೂದ	"
 ],			
-"correct" :	"	a. Satan	",
-"explanation" :	"	And He said to them, I saw Satan fall like lightning from heaven. - Lk 10:18	",
+"correct" :	"	A. ಸೈತಾನ	",
+"explanation" :	"	ಆತನು ಅವರಿಗೆ - ಸೈತಾನನು ಸಿಡಿಲಿನಂತೆ ಆಕಾಶದಿಂದ ಬೀಳುವದನ್ನು ಕಂಡೆನು.  ಲೂಕ 10:18	",
 },			
 {			
-"question" :	"	4. Jesus told the disciples to rejoice because	",
+"question" :	"	4. ಯೇಸು ತನ್ನ ಶಿಷ್ಯರಿಗೆ ಸಂತೋಷಪಡಿರೆಂದು ಹೇಳಿದನು,  ಏಕೆಂದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rome would fall.	",
-	"	b. Abraham is their father.	",
-	"	c. Their names are written in heaven.	",
-	"	d. It was the year of jubilee.	"
+	"	A. ರೋಮ್ ಸಾಮ್ರಾಜ್ಯವು ಬಿದ್ದು ಹೋಗುವುದು	",
+	"	B. ಅಬ್ರಹಾಮನು ಅವರ ತಂದೆಯು	",
+	"	C. ಅವರ ಹೆಸರುಗಳು ಪರಲೋಕದಲ್ಲಿ ಬರೆಯಲ್ಪಟ್ಟಿವೆ	",
+	"	D. ಅದು ಜುಬಿಲಿ ವರ್ಷ	"
 ],			
-"correct" :	"	c. Their names are written in heaven.	",
-"explanation" :	"	Nevertheless do not rejoice in this, that the spirits are subject to you, but rather rejoice because your names are written in heaven - Lk 10:20	",
+"correct" :	"	C. ಅವರ ಹೆಸರುಗಳು ಪರಲೋಕದಲ್ಲಿ ಬರೆಯಲ್ಪಟ್ಟಿವೆ	",
+"explanation" :	"	ಆದರೂ ದೆವ್ವಗಳು ನಮಗೆ ಅಧೀನವಾಗಿವೆ ಎಂದು ಸಂತೋಷಪಡದೆ ನಮ್ಮ ಹೆಸರುಗಳು ಪರಲೋಕದಲ್ಲಿ ಬರೆದಿರುತ್ತವೆ ಎಂದು ಸಂತೋಷಪಡಿರಿ ಎಂಬದಾಗಿ ಹೇಳಿದನು.  ಲೂಕ 10:20	",
 },			
 {			
-"question" :	"	5. A lawyer asked Jesus, what he must do to	",
+"question" :	"	5. ಒಬ್ಬ ಧರ್ಮೋಪದೇಶಕನು ಯೇಸುವಿಗೆ, ನಾನು _____ ಏನು ಮಾಡಬೇಕೆಂದು ಕೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Inherit eternal life.	",
-	"	b. Serve in the synagogue.	",
-	"	c. Heal the sick.	",
-	"	d. Earn a living.	"
+	"	 A. ನಿತ್ಯಜೀವಕ್ಕೆ ಬಾಧ್ಯನಾಗಲು	",
+	"	B. ಸಭಾಮಂದಿರದಲ್ಲಿ ಸೇವೆ ಮಾಡಲು	",
+	"	C. ರೋಗಿಗಳನ್ನು ವಾಸಿಮಾಡಲು	",
+	"	D. ಜೀವನವನ್ನು ಗಳಿಸಲು	"
 ],			
-"correct" :	"	a. Inherit eternal life.	",
-"explanation" :	"	And behold, a certain lawyer stood up and tested Him, saying, Teacher, what shall I do to inherit eternal life - Lk 10:25	",
+"correct" :	"	A. ನಿತ್ಯಜೀವಕ್ಕೆ ಬಾಧ್ಯನಾಗಲು	",
+"explanation" :	"	ಆಗ ಒಬ್ಬ ಧರ್ಮೋಪದೇಶಕನು ಎದ್ದು ಆತನನ್ನು ಪರೀಕ್ಷಿಸುವದಕ್ಕಾಗಿ - ಬೋಧಕನೇ, ನಾನು ನಿತ್ಯಜೀವಕ್ಕೆ ಬಾಧ್ಯನಾಗುವಂತೆ ಏನು ಮಾಡಬೇಕು ಎಂದು ಕೇಳಲು;   ಲೂಕ 10:25	",
 },			
 {			
-"question" :	"	6. What did the priest do when he saw the injured man?	",
+"question" :	"	6. ಗಾಯಗೊಂಡ ಮನುಷ್ಯನನ್ನು ಕಂಡಾಗ ಯಾಜಕನು ಏನು ಮಾಡಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Helped him	",
-	"	b. Passed on the other side	",
-	"	c. Prayed for him	",
-	"	d. Killed him	"
+	"	A. ಸಹಾಯ ಮಾಡಿದ	",
+	"	B. ಓರೆಯಾಗಿ ಹೋದ	",
+	"	C. ಅವನಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿದ	",
+	"	D. ಅವನನ್ನು ಕೊಂದುಹಾಕಿದ	"
 ],			
-"correct" :	"	b. Passed on the other side	",
-"explanation" :	"	Now by chance a certain priest came down that road. And when he saw him, he passed by on the other side. - Lk 10:31	",
+"correct" :	"	B. ಓರೆಯಾಗಿ ಹೋದ	",
+"explanation" :	"	ಆಗ ಹೇಗೋ ಒಬ್ಬ ಯಾಜಕನು ಆ ದಾರಿಯಲ್ಲಿ ಇಳಿದುಬರುತ್ತಾ ಅವನನ್ನು ಕಂಡು ವಾರೆಯಾಗಿ ಹೋದನು.  ಲೂಕ 10:31	",
 },			
 {			
-"question" :	"	7. What did the Levite do when he saw the injured man?	",
+"question" :	"	7. ಗಾಯಗೊಂಡ ಮನುಷ್ಯನನ್ನು ಲೇವಿಯನು ನೋಡಿದಾಗ ಏನು ಮಾಡಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Helped him	",
-	"	b. Passed on the other side	",
-	"	c. Prayed for him	",
-	"	d. Killed him	"
+	"	A. ಸಹಾಯ ಮಾಡಿದ	",
+	"	B. ಓರೆಯಾಗಿ ಹೋದ	",
+	"	C. ಅವನಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿದ	",
+	"	D. ಅವನನ್ನು ಕೊಂದುಹಾಕಿದ	"
 ],			
-"correct" :	"	b. Passed on the other side	",
-"explanation" :	"	Likewise a Levite, when he arrived at the place, came and looked, and passed by on the other side. Lk 10:32	",
+"correct" :	"	B. ಓರೆಯಾಗಿ ಹೋದ	",
+"explanation" :	"	ಅದೇ ರೀತಿಯಲ್ಲಿ ಒಬ್ಬ ಲೇವಿಯನೂ ಆ ಸ್ಥಳಕ್ಕೆ ಬಂದು ಅವನನ್ನು ಕಂಡು ವಾರೆಯಾಗಿ ಹೋದನು.  ಲೂಕ 10:32	",
 },			
 {			
-"question" :	"	8. What did the Samaritan do when he saw the injured man?	",
+"question" :	"	8. ಗಾಯಗೊಂಡ ಮನುಷ್ಯನನ್ನು ಒಬ್ಬ ಸಮಾರ್ಯದವನು ನೋಡಿದಾಗ ಏನು ಮಾಡಿದ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Helped him	",
-	"	b. Passed on the other side	",
-	"	c. Prayed for him	",
-	"	d. Killed him	"
+	"	A. ಆರೈಕೆ ಮಾಡಿದ	",
+	"	B. ಓರೆಯಾಗಿ ಹೋದ	",
+	"	C. ಅವನಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿದ	",
+	"	D. ಅವನನ್ನು ಕೊಂದುಹಾಕಿದ	"
 ],			
-"correct" :	"	a. Helped him	",
-"explanation" :	"	But a certain Samaritan, as he journeyed, came where he was. And when he saw him, he had compassion.So he went to him and bandaged his wounds, pouring on oil and wine; and he set him on his own animal, brought him to an inn, and took care of him. - Lk 10:33-34	",
+"correct" :	"	A. ಆರೈಕೆ ಮಾಡಿದ	",
+"explanation" :	"	ಆದರೆ ಒಬ್ಬ ಸಮಾರ್ಯದವನು ಪ್ರಯಾಣ ಮಾಡುತ್ತಾ ಅವನಿದ್ದಲ್ಲಿಗೆ ಬಂದು ಅವನನ್ನು ಕಂಡು ಕನಿಕರಿಸಿ ಅವನ ಹತ್ತಿರ ಹೋಗಿ ಅವನ ಗಾಯಗಳಲ್ಲಿ ಎಣ್ಣೆಯನ್ನೂ ದ್ರಾಕ್ಷಾರಸವನ್ನೂ ಹೊಯ್ದು ಕಟ್ಟಿ ತನ್ನ ಸ್ವಂತ ವಾಹನದ ಮೇಲೆ ಹತ್ತಿಸಿಕೊಂಡು ಛತ್ರಕ್ಕೆ ಕರಕೊಂಡು ಹೋಗಿ ಅವನನ್ನು ಆರೈಕೆ ಮಾಡಿದನು.  ಲೂಕ 10:33-34	",
 },			
 {			
-"question" :	"	9. Who was Martha’s sister?	",
+"question" :	"	9. ಮಾರ್ಥಳ ಸಹೋದರಿ ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mary	",
-	"	b. Luanne	",
-	"	c. Dorcas	",
-	"	d. Lydia	"
+	"	A. ಮರಿಯಳು	",
+	"	B. ಲೂಯಾನ್ನಳು	",
+	"	C. ದೊರ್ಕಳು	",
+	"	D. ಲುದ್ಯಳು	"
 ],			
-"correct" :	"	a. Mary	",
-"explanation" :	"	Now it happened as they went that He entered a certain village; and a certain woman named Martha welcomed Him into her house.And she had a sister called Mary, who also sat at Jesus' feet and heard His word. - Lk 10:38-39	",
+"correct" :	"	A. ಮರಿಯಳು	",
+"explanation" :	"	ಅವರು ಸಂಚಾರ ಮಾಡುತ್ತಿರುವಾಗ ಆತನು ಒಂದಾನೊಂದು ಹಳ್ಳಿಗೆ ಬಂದನು;  ಅಲ್ಲಿ ಮಾರ್ಥಳೆಂಬ ಒಬ್ಬ ಸ್ತ್ರೀಯು ಆತನನ್ನು ತನ್ನ ಮನೆಯಲ್ಲಿ ಇಳಿಸಿಕೊಂಡಳು.  ಆಕೆಗೆ ಮರಿಯಳೆಂಬ ಒಬ್ಬ ತಂಗಿ ಇದ್ದಳು.  ಲೂಕ 10:38-39	",
 },			
 {			
-"question" :	"	10. What was Martha’s sister doing that made Martha complain?	",
+"question" :	"	10. ಮರಿಯಳ ಯಾವ ಕೆಲಸ ಮಾರ್ಥಳಿಗೆ ಬೇಸರ ತರಿಸಿತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Eating at the guest’s table	",
-	"	b. Lying in bed	",
-	"	c. Sitting at Jesus’ feet	",
-	"	d. Serving the guests	"
+	"	A. ಅತಿಥಿಗಳ ಮೇಜಿನ ಬಳಿ ಊಟ ಮಾಡಿದ್ದು	",
+	"	B. ಹಾಸಿಗೆಯಲ್ಲಿ ಮಲಗಿದ್ದಿದ್ದು	",
+	"	C. ಯೇಸುವಿನ ಪಾದಗಳ ಬಳಿಯಲ್ಲಿ ಕುಳಿತಿದ್ದುದ್ದು	",
+	"	D. ಅತಿಥಿಗಳಿಗೆ ಸೇವೆ ಮಾಡಿದ್ದು	"
 ],			
-"correct" :	"	c. Sitting at Jesus’ feet	",
-"explanation" :	"	And she had a sister called Mary, who also sat at Jesus' feet and heard His word.But Martha was distracted with much serving, and she approached Him and said, Lord, do You not care that my sister has left me to serve alone? Therefore tell her to help me. - Lk 10:39-40	",
+"correct" :	"	C. ಯೇಸುವಿನ ಪಾದಗಳ ಬಳಿಯಲ್ಲಿ ಕುಳಿತಿದ್ದುದ್ದು	",
+"explanation" :	"	ಆಕೆಗೆ ಮರಿಯಳೆಂಬ ಒಬ್ಬ ತಂಗಿ ಇದ್ದಳು.  ಈಕೆಯು ಸ್ವಾಮಿಯ ಪಾದಗಳ ಬಳಿಯಲ್ಲಿ ಕೂತುಕೊಂಡು ಆತನ ವಾಕ್ಯವನ್ನು ಕೇಳುತ್ತಿದ್ದಳು.  ಆದರೆ ಮಾರ್ಥಳು ಬಹಳ ಸೇವೆಯ ವಿಷಯವಾಗಿ ಬೇಸತ್ತು ಆತನ ಬಳಿಗೆ ಬಂದು - ಸ್ವಾಮೀ, ನನ್ನ ತಂಗಿಯು ಸೇವೆಗೆ ನನ್ನೊಬ್ಬಳನ್ನೇ ಬಿಟ್ಟಿದ್ದಾಳೆ, ಇದಕ್ಕೆ ನಿನಗೆ ಚಿಂತೆಯಿಲ್ಲವೋ? ನನಗೆ ನೆರವಾಗಬೇಕೆಂದು ಆಕೆಗೆ ಹೇಳು ಅಂದಳು;  ಲೂಕ 10:39-40	",
 },			
 ]			

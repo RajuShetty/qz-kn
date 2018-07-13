@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 9";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. Abimelech was given seventy pieces of this, with which he hired vain and light persons.	",

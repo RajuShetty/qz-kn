@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 8";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. When Gideon and his men came to Succoth, they were	",

@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 16";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. This servant brought David provisions. 	",

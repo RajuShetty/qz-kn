@@ -1,4 +1,4 @@
-var quiztitle = "1 Corinthians chapter 6";			
+var quiztitle = "1 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1.  ಲೋಕಕ್ಕೆ ತೀರ್ಪು ನೀಡುವವರು ಯಾರು?	",

@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 8";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. Do this, that you may live and multiply and possess the land.	",

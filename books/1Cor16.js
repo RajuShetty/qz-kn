@@ -1,4 +1,4 @@
-var quiztitle = "1 Corinthians chapter 16";			
+var quiztitle = "1 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಯಾರಿಗೋಸ್ಕರ ಹಣವನ್ನು ವಸೂಲಿಮಾಡಬೇಕೆಂದು ಹೇಳಿದನು?	",

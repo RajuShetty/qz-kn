@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 15";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
-"question" :	"	1. The Pharisees murmured because Jesus ate with	",
+"question" :	"	1. ಯೇಸು ಇವರೊಂದಿಗೆ  ಊಟ ಮಾಡಿದ್ದಕ್ಕೆ ಫರಿಸಾಯರು ಗೊಣಗಾಡಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Children.	",
-	"	b. His hands.	",
-	"	c. Kings & princes.	",
-	"	d. Sinners.	"
+	"	A. ಮಕ್ಕಳು	",
+	"	B. ತನ್ನ ಕೈಯಿಂದ 	",
+	"	C. ರಾಜರು ಮತ್ತು ರಾಜಕುಮಾರರು	",
+	"	D. ಪಾಪಿಗಳು	"
 ],			
-"correct" :	"	d. Sinners.	",
-"explanation" :	"	And the Pharisees and scribes complained, saying, This Man receives sinners and eats with them. - Lk 15:2	",
+"correct" :	"	D. ಪಾಪಿಗಳು	",
+"explanation" :	"	ಫರಿಸಾಯರೂ ಶಾಸ್ತ್ರಿಗಳೂ - ಇವನು ಪಾಪಿಗಳನ್ನು ಸೇರಿಸಿಕೊಂಡು ಅವರ ಜೊತೆಯಲ್ಲಿ ಊಟಮಾಡುತ್ತಾನೆ ಎಂದು ಹೇಳಿಕೊಂಡು ಗುಣುಗುಟ್ಟುತ್ತಿದ್ದರು.  ಲೂಕ 15:2	",
 },			
 {			
-"question" :	"	2. If a man had one hundred of these, and one got lost, he would go look for it.	",
+"question" :	"	2. ಒಬ್ಬ ಮನುಷ್ಯನಿಗೆ ನೂರು _______ ಇರಲಾಗಿ,  ಅದರಲ್ಲಿ ಒಂದು ತಪ್ಪಿಹೋದರೂ ಅದನ್ನು ಹುಡುಕುವನಲ್ಲವೇ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sheep	",
-	"	b. Camels	",
-	"	c. Sons	",
-	"	d. Chariots	"
+	"	A. ಕುರಿಗಳು	",
+	"	B. ಒಂಟೆಗಳು	",
+	"	C. ಮಕ್ಕಳು	",
+	"	D. ರಥಗಳು	"
 ],			
-"correct" :	"	a. Sheep	",
-"explanation" :	"	What man of you, having a hundred sheep, if he loses one of them, does not leave the ninety-nine in the wilderness, and go after the one which is lost until he finds it? - Lk 15:4	",
+"correct" :	"	A. ಕುರಿಗಳು	",
+"explanation" :	"	ಅದೇನಂದರೆ - ನಿಮ್ಮೊಳಗೆ ಯಾವ ಮನುಷ್ಯನಾದರೂ ತನಗೆ ನೂರು ಕುರಿಗಳಿರಲಾಗಿ ಅವುಗಳಲ್ಲಿ ಒಂದು ಕಳೆದು ಹೋದರೆ ಅವನು ತೊಂಭತ್ತೊಂಭತ್ತನ್ನು ಅಡವಿಯಲ್ಲಿ ಬಿಟ್ಟು ಕಳೆದುಹೋದದ್ದು ಸಿಕ್ಕವ ತನಕ ಅದನ್ನು ಹುಡುಕಿಕೊಂಡು ಹೋಗದೆ ಇದ್ದಾನೇ? ಲೂಕ 15:4	",
 },			
 {			
-"question" :	"	3. There is joy in heaven over	",
+"question" :	"	3. ಪರಲೋಕದಲ್ಲಿ ಯಾವಾಗ ಸಂತೋಷ ಉಂಟಾಗುತ್ತದೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The birth of a baby.	",
-	"	b. A sinner that repents.	",
-	"	c. The birth of Jesus.	",
-	"	d. The resurrection of Jesus.	"
+	"	A. ಮಗು ಹುಟ್ಟಿದಾಗ	",
+	"	B. ಪಾಪಿಯು ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಂಡಾಗ	",
+	"	C. ಯೇಸು ಹುಟ್ಟಿದಾಗ	",
+	"	D. ಯೇಸುವಿನ ಪುನರುತ್ಥಾನದಲ್ಲಿ	"
 ],			
-"correct" :	"	b. A sinner that repents.	",
-"explanation" :	"	I say to you that likewise there will be more joy in heaven over one sinner who repents than over ninety-nine just persons who need no repentance - Lk 15:7	",
+"correct" :	"	B. ಪಾಪಿಯು ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಂಡಾಗ	",
+"explanation" :	"	ಅದರಂತೆ ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳುವದಕ್ಕೆ ಅವಶ್ಯವಿಲ್ಲದ ತೊಂಭತ್ತೊಂಭತ್ತು ಮಂದಿ ನೀತಿವಂತರಿಗಿಂತ ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳುವ ಒಬ್ಬ ಪಾಪಿಯ ವಿಷವಾಗಿ ಪರಲೋಕದಲ್ಲಿ ಸಂತೋಷವುಂಟಾಗುವದೆಂದು ನಿಮಗೆ ಹೇಳುತ್ತೇನೆ.   ಲೂಕ 15:7	",
 },			
 {			
-"question" :	"	4. If a woman has ten of these, and loses one, she will seek diligently until she finds it.	",
+"question" :	"	4. ಒಬ್ಬ ಹೆಂಗಸಿಗೆ ಹತ್ತು _________ ಇರಲಾಗಿ, ಅವುಗಳಲ್ಲಿ ಒಂದು ಕಳೆದುಹೋದರೆ ದೀಪ ಹಚ್ಚಿ ಅದು ಸಿಕ್ಕುವವರೆಗೂ ಅದನ್ನು ಎಚ್ಚರದಿಂದ ಹುಡುಕುವಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pieces of silver	",
-	"	b. Pieces of gold	",
-	"	c. Linen robes	",
-	"	d. Vessels	"
+	"	A. ಬೆಳ್ಳಿಯ ನಾಣ್ಯಗಳು	",
+	"	B. ಚಿನ್ನದ ನಾಣ್ಯಗಳು	",
+	"	C. ಲೆನಿನ್ ವಸ್ತ್ರಗಳು	",
+	"	D. ಪಾತ್ರೆಗಳು	"
 ],			
-"correct" :	"	a. Pieces of silver	",
-"explanation" :	"	Or what woman, having ten silver coins, if she loses one coin, does not light a lamp, sweep the house, and search carefully until she finds it? - Lk 15:8	",
+"correct" :	"	A. ಬೆಳ್ಳಿಯ ನಾಣ್ಯಗಳು	",
+"explanation" :	"	ಯಾವ ಹೆಂಗಸು ತನ್ನಲ್ಲಿ ಹತ್ತು ಪಾವಲಿಗಳಿರಲಾಗಿ ಒಂದು ಪಾವಲಿ ಕಳೆದುಹೋದರೆ ದೀಪಾಹಚ್ಚಿ ಮನೆಯನ್ನು ಗುಡಿಸಿ ಸಿಕ್ಕುವ ತನಕ ಅದನ್ನು ಎಚ್ಚರದಿಂದ ಹುಡುಕದೆ ಇದ್ದಾಳು?    ಲೂಕ 15:8	",
 },			
 {			
-"question" :	"	5. After wasting his inheritance, the younger son got a job doing this.	",
+"question" :	"	5. ಕಿರಿಯವನು ತನಗೆ ಸಿಕ್ಕ ಆಸ್ತಿಯನ್ನೆಲ್ಲಾ ಹಾಳು ಮಾಡಿದ ಮೇಲೆ ಆತನಿಗೆ ಏನು ಕೆಲಸ ಸಿಕ್ಕಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Digging wells	",
-	"	b. Building houses	",
-	"	c. Feeding swine	",
-	"	d. Selling shoes	"
+	"	A.ಹಳ್ಳ ತೋಡುವುದು	",
+	"	B. ಮನೆ ಕಟ್ಟುವುದು	",
+	"	C. ಹಂದಿಗಳನ್ನು ಮೇಯಿಸುವುದು	",
+	"	D. ಚಪ್ಪಲಿ ಮಾರುವುದು	"
 ],			
-"correct" :	"	c. Feeding swine	",
-"explanation" :	"	Then he went and joined himself to a citizen of that country, and he sent him into his fields to feed swine. - Lk 15:15	",
+"correct" :	"	C. ಹಂದಿಗಳನ್ನು ಮೇಯಿಸುವುದು	",
+"explanation" :	"	ಆಗ ಅವನು ಹೋಗಿ ಆ ದೇಶದ ನಿವಾಸಿಗಳೊಳಗೆ ಒಬ್ಬನನ್ನು ಸೇರಿಕೊಂಡನು.  ಆ ಮನುಷ್ಯನು ಹಂದಿಗಳನ್ನು ಮೇಯಿಸುವುದಕ್ಕೆ ಅವನನ್ನು ತನ್ನ ಹೊಲಗಳಿಗೆ ಕಳುಹಿಸಿದನು.   ಲೂಕ 15:15	",
 },			
 {			
-"question" :	"	6. The younger son said he would go ask his father to	",
+"question" :	"	6. ಕಿರಿಯ ಮಗನು ಹೋಗಿ ತನ್ನ ತಂದೆಯನ್ನು ಹೀಗೆ ಕೇಳುವೆನು ಅಂದುಕೊಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Make him a son again.	",
-	"	b. Make him a servant.	",
-	"	c. Make him a feast.	",
-	"	d. Send him some money.	"
+	"	A. ನನ್ನನ್ನು ನಿನ್ನ ಮಗನಾಗಿ ಸೇರಿಸಿಕೋ	",
+	"	B. ನಿನ್ನ ಆಳುಗಳಲ್ಲಿ ಒಬ್ಬನಂತೆ ಸೇರಿಸಿಕೋ	",
+	"	C. ನನಗೆ ಔತಣ ಮಾಡು	",
+	"	D. ನನಗೆ ಸ್ವಲ್ಪ ಹಣ ಕೊಡು	"
 ],			
-"correct" :	"	b. Make him a servant.	",
-"explanation" :	"	I will arise and go to my father, and will say to him, Father, I have sinned against heaven and before you,and I am no longer worthy to be called your son. Make me like one of your hired servants. - Lk 15:18-19	",
+"correct" :	"	B. ನಿನ್ನ ಆಳುಗಳಲ್ಲಿ ಒಬ್ಬನಂತೆ ಸೇರಿಸಿಕೋ	",
+"explanation" :	"	ನಾನು ಎದ್ದು ನನ್ನ ತಂದೆಯ ಬಳಿಗೆ ಹೋಗಿ ಅವನಿಗೆ - ಅಪ್ಪಾ ಪರಲೋಕಕ್ಕೆ ವಿರೋಧವಾಗಿಯೂ ನಿನ್ನ ಮುಂದೆಯೂ ಪಾಪ ಮಾಡಿದ್ದೇನೆ; ಇನ್ನು ನಾನು ನಿನ್ನ ಮಗನೆನಿಸಿಕೊಳ್ಳುವದಕ್ಕೆ ಯೋಗ್ಯನಲ್ಲ; ನನ್ನನ್ನು ನಿನ್ನ ಕೂಲಿಯಾಳುಗಳಲ್ಲಿ ಒಬ್ಬನಂತೆ ಮಾಡು ಎಂದು ಹೇಳುವೆನು ಅಂದುಕೊಂಡು ಎದ್ದು ತನ್ನ ತಂದೆಯ ಕಡೆಗೆ ಬಂದನು.   ಲೂಕ 15:18-19	",
 },			
 {			
-"question" :	"	7. When the father saw his son returning, the father	",
+"question" :	"	7. ತನ್ನ ಮಗನು ಬರುತ್ತಿರುವುದನ್ನು ತಂದೆಯು ನೋಡಿದಾಗ ಆತನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Was angry.	",
-	"	b. Hid his face.	",
-	"	c. Ran & kissed him.	",
-	"	d. Sent him away.	"
+	"	A. ಕೋಪಗೊಂಡನು	",
+	"	B. ತನ್ನ ಮುಖ ಮರೆಮಾಡಿಕೊಂಡನು	",
+	"	C. ಓಡಿಹೋಗಿ ಮುದ್ದಿಟ್ಟನು	",
+	"	D. ಅವನನ್ನು ಹಿಂದಕ್ಕೆ ಕಳುಹಿಸಿಬಿಟ್ಟನು	"
 ],			
-"correct" :	"	c. Ran & kissed him.	",
-"explanation" :	"	And he arose and came to his father. But when he was still a great way off, his father saw him and had compassion, and ran and fell on his neck and kissed him. - Lk 15:20	",
+"correct" :	"	C. ಓಡಿಹೋಗಿ ಮುದ್ದಿಟ್ಟನು	",
+"explanation" :	"	ಅವನು ಇನ್ನೂ ದೂರದಲ್ಲಿರುವಾಗ ಅವನ ತಂದೆಯು ಅವನನ್ನು ಕಂಡು ಕನಿಕರಪಟ್ಟು ಓಡಿಬಂದು ಅವನ ಕೊರಳನ್ನು ಅಪ್ಪಿಕೊಂಡು ಅವನಿಗೆ ಬಹಳವಾಗಿ ಮುದ್ದಿಟ್ಟನು.  ಲೂಕ 15:20	",
 },			
 {			
-"question" :	"	8. The father had this brought for his younger son.	",
+"question" :	"	8. ತಂದೆಯು ಕಿರಿಯವನಿಗೆ ಇವುಗಳನ್ನು ತರಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Shackles	",
-	"	b. Shoes, robe & a ring	",
-	"	c. The raiment of a servant	",
-	"	d. A robe & crown	"
+	"	A. ಸಂಕೋಲೆಗಳು	",
+	"	B. ಚಪ್ಪಲಿ, ಅಂಗಿ ಮತ್ತು ಉಂಗುರ	",
+	"	C. ಸೇವಕನ ಬಟ್ಟೆ	",
+	"	D. ವಸ್ತ್ರ ಮತ್ತು ಕಿರೀಟ	"
 ],			
-"correct" :	"	b. Shoes, robe & a ring	",
-"explanation" :	"	But the father said to his servants, 'Bring out the best robe and put it on him, and put a ring on his hand and sandals on his feet. - Lk 15:22	",
+"correct" :	"	B. ಚಪ್ಪಲಿ, ಅಂಗಿ ಮತ್ತು ಉಂಗುರ	",
+"explanation" :	"	ತಂದೆಯು ತನ್ನ ಆಳುಗಳಿಗೆ - ಶ್ರೇಷ್ಠವಾದ ನಿಲುವಂಗಿಯನ್ನು ತಟ್ಟನೆ ತಂದು ಇವನಿಗೆ ತೊಡಿಸಿರಿ; ಇವನ ಕೈಗೆ ಉಂಗುರವನ್ನು ಇಡಿರಿ; ಕಾಲಿಗೆ ಜೋಡು ಮೆಡಿಸಿರಿ;   ಲೂಕ 15:22	",
 },			
 {			
-"question" :	"	9. Where was the elder son when the younger came home?	",
+"question" :	"	9. ಕಿರಿಯವನು ಬಂದಾಗ ಹಿರೀ ಮಗನು ಎಲ್ಲಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. In the temple	",
-	"	b. In the field	",
-	"	c. On the rooftop	",
-	"	d. At the marketplace	"
+	"	A. ದೇವಾಲಯದಲ್ಲಿ	",
+	"	B. ಹೊಲದಲ್ಲಿ	",
+	"	C. ಮೇಲ್ಛಾವಣಿಯಲ್ಲಿ	",
+	"	D. ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ	"
 ],			
-"correct" :	"	b. In the field	",
-"explanation" :	"	Now his older son was in the field. And as he came and drew near to the house, he heard music and dancing.- Lk 15:25	",
+"correct" :	"	B. ಹೊಲದಲ್ಲಿ	",
+"explanation" :	"	ಆದರೆ ಅವನ ಹಿರೀಮಗನು ಹೊಲದಲ್ಲಿದ್ದನು;   ಲೂಕ 15:25	",
 },			
 {			
-"question" :	"	10. When the older son heard of his brother’s return he	",
+"question" :	"	10. ತನ್ನ ತಮ್ಮನು ಹಿಂದಕ್ಕೆ ಬಂದಿದ್ದಾನೆ ಎಂದು ಹಿರೀ ಮಗನು ಕೇಳಿದಾಗ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hurried to the house.	",
-	"	b. Rejoiced.	",
-	"	c. Got angry.	",
-	"	d. Praised God.	"
+	"	A. ಮನೆಗೆ ತ್ವರೆಯಾಗಿ ಬಂದನು	",
+	"	B. ಸಂತೋಷಿಸಿದನು	",
+	"	C. ಕೋಪಗೊಂಡನು	",
+	"	D. ದೇವರನ್ನು ಸ್ತುತಿಸಿದನು	"
 ],			
-"correct" :	"	c. Got angry.	",
-"explanation" :	"	But he was angry and would not go in. Therefore his father came out and pleaded with him.- Lk 15:28	",
+"correct" :	"	C. ಕೋಪಗೊಂಡನು	",
+"explanation" :	"	ಆಳು ಅವನಿಗೆ - ನಿನ್ನ ತಮ್ಮ ಬಂದಿದ್ದಾನೆ; ಇವನು ಸುರಕ್ಷಿತವಾಗಿ ಬಂದದ್ದರಿಂದ  ನಿನ್ನ ತಂದೆಯು ಆ ಕೊಬ್ಬಿಸಿದ ಕರುವನ್ನು ಕೊಯ್ಸಿದ್ದಾನೆ ಎಂದು ಹೇಳಿದನು.   ಇದನ್ನು ಕೇಳಿ ಅವನಿಗೆ ಸಿಟ್ಟುಬಂದು ಒಳಕ್ಕೆ ಹೋಗಲೊಲ್ಲದೆ ಇದ್ದನು;   ಲೂಕ 15:27-28.	",
 },			
 ]			

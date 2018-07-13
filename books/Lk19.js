@@ -1,125 +1,124 @@
 			
-var quiztitle = "Luke chapter 19";			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
-"question" :	"	1. Who was the rich publican that desired to see Jesus?	",
+"question" :	"	1. ಯೇಸುವನ್ನು ನೋಡಬೇಕೆಂದು ಆಸೆಪಟ್ಟ ಐಶ್ವರ್ಯವಂತನಾದ ಸುಂಕದವನು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bartimaeus	",
-	"	b. Zacchaeus	",
-	"	c. Cornelius	",
-	"	d. Timotheus	"
+	"	A. ಬಾರ್ತಿಮಾಯ	",
+	"	B. ಜಕ್ಕಾಯ	",
+	"	C. ಕೊರ್ನೋಲ್ಯ	",
+	"	D. ತಿಮೋಥೆ	"
 ],			
-"correct" :	"	b. Zacchaeus	",
-"explanation" :	"	Now behold, there was a man named Zacchaeus who was a chief tax collector, and he was rich.And he sought to see who Jesus was, but could not because of the crowd, for he was of short stature. - Lk 19:2-3	",
+"correct" :	"	B. ಜಕ್ಕಾಯ	",
+"explanation" :	"	ಆತನು ಯೆರಿಕೋ ಊರನ್ನು ಹೊಕ್ಕು ದಾಟಿಹೋಗುತ್ತಿದ್ದನು.  ಅಲ್ಲಿ ಜಕ್ಕಾಯನೆಂಬ ಹೆಸರುಳ್ಳ ಒಬ್ಬ ಮನುಷ್ಯನಿದ್ದನು.  ಅವನು ಸುಂಕದ ಗುತ್ತಿಗೇದಾರನು ಮತ್ತು ಐಶ್ವರ್ಯವಂತನು.  ಅವನು ಯೇಸು ಎಂಥವನೆಂದು ನೋಡಲಪೇಕ್ಷಿಸಿದರೂ;   ಲೂಕ 19:1-3	",
 },			
 {			
-"question" :	"	2. The rich publican came here, to try to see Jesus.	",
+"question" :	"	2. ಐಶ್ವರ್ಯವಂತನಾದ ಸುಂಕದವನು ಯೇಸುವನ್ನು ನೋಡಲು ಇಲ್ಲಿಗೆ ಬಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The temple	",
-	"	b. Jerusalem	",
-	"	c. A sycamore tree	",
-	"	d. A ship	"
+	"	A. ದೇವಾಲಯಕ್ಕೆ	",
+	"	B. ಯೆರೂಷಲೇಮಿಗೆ	",
+	"	C. ಆಲದ ಮರದ ಬಳಿ	",
+	"	D. ಹಡಗಿನ ಬಳಿ	"
 ],			
-"correct" :	"	c. A sycamore tree	",
-"explanation" :	"	So he ran ahead and climbed up into a sycamore tree to see Him, for He was going to pass that way. - Lk 19:4	",
+"correct" :	"	C. ಆಲದ ಮರದ ಬಳಿ	",
+"explanation" :	"	ಆದಕಾರಣ ಆತನನ್ನು ನೋಡುವುದಕ್ಕಾಗಿ ಮುಂದೆ ಓಡಿಹೋಗಿ ಆತನು ಬರುತ್ತಿದ್ದ ಮಾರ್ಗದಲ್ಲಿದ್ದ ಆಲದ ಮರವನ್ನು ಹತ್ತಿದನು;   ಲೂಕ 19:4	",
 },			
 {			
-"question" :	"	3. In the parable, the nobleman gave this to his servants, and said, occupy until I come.	",
+"question" :	"	3. ಒಬ್ಬಾನೊಬ್ಬ ಶ್ರೀಮಂತನು ಇದನ್ನು ತನ್ನ ಸೇವಕರಿಗೆ ಕೊಟ್ಟು, ನಾನು ಬರುವ ತನಕ ವ್ಯಾಪಾರ ಮಾಡಿಕೊಂಡಿರ್ರಿ ಎಂದು ಹೇಳಿ ಹೋದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. His ring	",
-	"	b. 10 pounds	",
-	"	c. Food & water	",
-	"	d. Swords & shields	"
+	"	A. ತನ್ನ ಉಂಗುರ	",
+	"	B. 10 ಮೊಹರು	",
+	"	C. ಆಹಾರ ಮತ್ತು ನೀರು	",
+	"	D. ಕತ್ತು ಮತ್ತು ಗುರಾಣಿ	"
 ],			
-"correct" :	"	b. 10 pounds	",
-"explanation" :	"	So he called ten of his servants, delivered to them ten minas, and said to them, 'Do business till I come. - Lk 19:13	",
+"correct" :	"	B. 10 ಮೊಹರು	",
+"explanation" :	"	ಹೊರಡುವಾಗ ತನ್ನ ಆಳುಗಳಲ್ಲಿ ಹತ್ತು ಮಂದಿಯನ್ನು ಕರೆದು ಅವರಿಗೆ ಹತ್ತು ಮೊಹರಿಗಳನ್ನು ಕೊಟ್ಟು- ನಾನು ಬರುವ ತನಕ ವ್ಯಾಪಾರ ಮಾಡಿಕೊಂಡಿರಿ ಎಂದು ಹೇಳಿಹೋದನು.   ಲೂಕ 19:13	",
 },			
 {			
-"question" :	"	4. The nobleman called one of his servants wicked, and asked why he did not	",
+"question" :	"	4. ಶ್ರೀಮಂತನು ಕೆಟ್ಟ ಆಳನ್ನು ಕರೆದು, ನೀನು ಯಾಕೆ ಹೀಗೆ ಮಾಡಲಿಲ್ಲ ಎಂದು ಕೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Put the money in the bank.	",
-	"	b. Feed the servants.	",
-	"	c. Pity the orphans & widows.	",
-	"	d. Protect his household.	"
+	"	A. ಸಾಹುಕಾರನ ಕೈಯಲ್ಲಿ ಯಾಕೆ ಕೊಡಲಿಲ್ಲ	",
+	"	B. ಆಳುಗಳಿಗೆ ಯಾಕೆ ಉಣಿಸಲಿಲ್ಲ	",
+	"	C. ಆನಾಥರು ಮತ್ತು ವಿಧವೆಯರಿಗೆ ಕರುಣೆ ತೋರಿಸಲಿಲ್ಲ	",
+	"	D. ನಿನ್ನ ಮನೆಯವರನ್ನು ರಕ್ಷಿಸಲಿಲ್ಲ	"
 ],			
-"correct" :	"	a. Put the money in the bank.	",
-"explanation" :	"	Why then did you not put my money in the bank, that at my coming I might have collected it with interest? - Lk 19:23	",
+"correct" :	"	A. ಸಾಹುಕಾರನ ಕೈಯಲ್ಲಿ ಯಾಕೆ ಕೊಡಲಿಲ್ಲ	",
+"explanation" :	"	ಹಾಗಾದರೆ ನೀನು ನನ್ನ ಹಣವನ್ನು ಸಾಹುಕಾರನ ಕೈಯಲ್ಲಿ ಯಾಕೆ ಕೊಡಲಿಲ್ಲ? ಆಮೇಲೆ ನಾನು ಬಂದು ಅದನ್ನು ಬಡ್ಡಿ ಸಹಿತ ತೆಗೆದುಕೊಳ್ಳುತ್ತಿದ್ದೆನು ಎಂದು ಹೇಳಿ;   ಲೂಕ 19:23	",
 },			
 {			
-"question" :	"	5. Jesus sent two of His disciples for this.	",
+"question" :	"	5. ಯೇಸು ತನ್ನ ಇಬ್ಬರು ಶಿಷ್ಯರನ್ನು ಇದಕ್ಕಾಗಿ ಕಳುಹಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Food	",
-	"	b. Water	",
-	"	c. Money	",
-	"	d. A colt	"
+	"	A. ಆಹಾರ  	",
+	"	B. ನೀರು	",
+	"	C. ಹಣ	",
+	"	D. ಕತ್ತೇಮರಿ	"
 ],			
-"correct" :	"	d. A colt	",
-"explanation" :	"	And it came to pass, when He came near to Bethphage and Bethany, at the mountain called Olivet, that He sent two of His disciples,saying, Go into the village opposite you, where as you enter you will find a colt tied, on which no one has ever sat. Loose it and bring it here. - Lk 19:29-30	",
+"correct" :	"	D. ಕತ್ತೇಮರಿ	",
+"explanation" :	"	ಆಮೇಲೆ ಆತನು ಎಣ್ಣೇಮರಗಳ ಗುಡ್ಡ ಎನಿಸಿಕೊಳ್ಳುವ ಗುಡ್ಡದ ಬಳಿಯಲ್ಲಿರುವ ಬೇತ್ಫಗೆಗೂ ಬೇಥಾನ್ಯಕ್ಕೂ ಸಮೀಪಿಸಿದಾಗ ಶಿಷ್ಯರಲ್ಲಿ ಇಬ್ಬರನ್ನು ಕರೆದು - ನಿಮ್ಮೆದುರಿಗಿರುವ ಹಳ್ಳಿಗೆ ಹೋಗಿರಿ, ಅದರೊಳಗೆ ಸೇರುತ್ತಿರುವಾಗಲೇ ಅಲ್ಲಿ ಕಟ್ಟಿರುವ ಒಂದು ಕತ್ತೇಮರಿಯನ್ನು ಕಾಣುವಿರಿ; ಇದುವರೆಗೂ ಅದರ ಮೇಲೆ ಯಾರೂ ಹತ್ತಿಲ್ಲ; ಅದನ್ನು ಬಿಚ್ಚಿ ಹಿಡುಕೊಂಡು ಬನ್ನಿರಿ;   ಲೂಕ 19:30	",
 },			
 {			
-"question" :	"	6. The disciples spread this, in the path of Jesus.	",
+"question" :	"	6. ಯೇಸು ಬರುವ ಹಾದಿಯಲ್ಲಿ ಶಿಷ್ಯರು ಇದನ್ನು ಹಾಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Flowers	",
-	"	b. Clothes	",
-	"	c. Money	",
-	"	d. Oil	"
+	"	A. ಹೂವುಗಳು 	",
+	"	B. ಬಟ್ಟೆಗಳು	",
+	"	C. ಹಣ	",
+	"	D. ಎಣ್ಣೆ	"
 ],			
-"correct" :	"	b. Clothes	",
-"explanation" :	"	Then they brought him to Jesus. And they threw their own clothes on the colt, and they set Jesus on him.And as He went, many spread their clothes on the road. - Lk 19:35-36 	",
+"correct" :	"	B. ಬಟ್ಟೆಗಳು	",
+"explanation" :	"	ಆತನು ಹೋಗುತ್ತಿರುವಾಗ ಅವರು ತಮ್ಮ ಬಟ್ಟೆಗಳನ್ನು ದಾರಿಯಲ್ಲಿ ಹಾಸಿದರು.   ಲೂಕ 19:36	",
 },			
 {			
-"question" :	"	7. Jesus said, if His disciples were to be quiet, these would cry out.	",
+"question" :	"	7. ಶಿಷ್ಯರು ಸುಮ್ಮನಾದರೆ ಇವು ಕೂಗುತ್ತವೆ ಎಂದು ಯೇಸು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The stones	",
-	"	b. The angels	",
-	"	c. The winds	",
-	"	d. The stars	"
+	"	A. ಕಲ್ಲುಗಳು	",
+	"	B. ದೂತರು	",
+	"	C. ಗಾಳಿ	",
+	"	D. ನಕ್ಷತ್ರಗಳು	"
 ],			
-"correct" :	"	a. The stones	",
-"explanation" :	"	But He answered and said to them, I tell you that if these should keep silent, the stones would immediately cry out. - Lk 19:40	",
+"correct" :	"	A. ಕಲ್ಲುಗಳು	",
+"explanation" :	"	ಆತನು - ಇವರು ಸುಮ್ಮನಾದರೆ ಈ ಕಲ್ಲುಗಳೇ ಕೂಗುತ್ತವೆ ಎಂದು ನಿಮಗೆ ಹೇಳುತ್ತೇನೆ ಅಂದನು;   ಲೂಕ 19:40	",
 },			
 {			
-"question" :	"	8. When Jesus saw Jerusalem He	",
+"question" :	"	8. ಯೆರೂಷಲೇಮನ್ನು ನೋಡಿದಾಗ ಯೇಸು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wept.	",
-	"	b. Rejoiced.	",
-	"	c. Hid Himself.	",
-	"	d. Offered a lamb.	"
+	"	A. ಕಣ್ಣೀರಿಟ್ಟನು	",
+	"	B. ಸಂತೋಷಿಸಿದನು	",
+	"	C. ತನ್ನನ್ನು ಮರೆಮಾಡಿಕೊಂಡನು	",
+	"	D. ಕುರಿಯನ್ನು ಅರ್ಪಿಸಿದನು	"
 ],			
-"correct" :	"	a. Wept.	",
-"explanation" :	"	Now as He drew near, He saw the city and wept over it,- Lk 19:41	",
+"correct" :	"	A. ಕಣ್ಣೀರಿಟ್ಟನು	",
+"explanation" :	"	ತರುವಾಯ ಆತನು ಸಮೀಪಕ್ಕೆ ಬಂದಾಗ ಪಟ್ಟಣವನ್ನು ನೋಡಿ ಅದರ ವಿಷಯವಾಗಿ ಅತ್ತು;  ಲೂಕ 19:41	",
 },			
 {			
-"question" :	"	9. Jesus said, it is written, my house is the house of prayer, but ye have made it	",
+"question" :	"	9. ನನ್ನ ಆಲಯವು ಪ್ರಾರ್ಥನಾಲಯವಾಗಿದೆ ಎಂದು ಬರೆಯಲ್ಪಟ್ಟಿದೆ, ಆದರೆ ನೀವು ಅದನ್ನು ________ ಎಂದು ಯೇಸು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Of no value.	",
-	"	b. A brothel.	",
-	"	c. A den of thieves.	",
-	"	d. A place of worship.	"
+	"	A. ಅಪ್ರಯೋಜಕರವಾಗಿ ಮಾಡಿದ್ದೀರಿ	",
+	"	B. ವ್ಯಭಿಚಾರ ಗೃಹವನ್ನಾಗಿ ಮಾಡಿದ್ದೀರಿ	",
+	"	C. ಕಳ್ಳರ ಗವಿಯನ್ನಾಗಿ	",
+	"	D. ಆರಾಧನೆಯ ಸ್ಥಳವನ್ನಾಗಿ ಮಾಡಿದ್ಧೀರಿ	"
 ],			
-"correct" :	"	c. A den of thieves.	",
-"explanation" :	"	saying to them, It is written, 'My house is a house of prayer,' but you have made it a 'den of thieves. - Lk 19:46	",
+"correct" :	"	C. ಕಳ್ಳರ ಗವಿಯನ್ನಾಗಿ	",
+"explanation" :	"	ನನ್ನ ಆಲಯವು ಪ್ರಾರ್ಥನಾಲಯವಾಗಿರುವುದು ಎಂದು ಬರೆದದೆಯಲ್ಲಾ; ಆದರೆ ನೀವು ಅದನ್ನು ಕಳ್ಳರ ಗವಿ ಮಾಡಿದ್ದೀರಿ ಎಂದು ಹೇಳಿದನು;   ಲೂಕ 19:46	",
 },			
 {			
-"question" :	"	10. The chief priests and scribes sought to	",
+"question" :	"	10. ಮಹಾಯಾಜಕರು ಮತ್ತು ಫರಿಸಾಯರು _______ ಪ್ರಯತ್ನಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Please God.	",
-	"	b. Destroy Jesus.	",
-	"	c. Tax the people.	",
-	"	d. Rebuild the temple.	"
+	"	A. ದೇವರನ್ನು ಸಂತೋಷಿಸಲು	",
+	"	B. ಯೇಸುವನ್ನು ಕೊಲ್ಲಲು	",
+	"	C. ಜನರಿಗೆ ಸುಂಕ ಹೇರಲು	",
+	"	D. ದೇವಾಲಯವನ್ನು ಮತ್ತೆ ಕಟ್ಟಲು	"
 ],			
-"correct" :	"	b. Destroy Jesus.	",
-"explanation" :	"	And He was teaching daily in the temple. But the chief priests, the scribes, and the leaders of the people sought to destroy Him, - Lk 19:47 	",
+"correct" :	"	B. ಯೇಸುವನ್ನು ಕೊಲ್ಲಲು	",
+"explanation" :	"	ಮತ್ತು ಆತನು ದಿನಾಲು ದೇವಾಲಯದಲ್ಲಿ ಉಪದೇಶ ಮಾಡುತ್ತಿದ್ದನು.   ಅಷ್ಟರಲ್ಲಿ ಮಹಾಯಾಜಕರೂ ಶಾಸ್ತ್ರಿಗಳೂ ಪ್ರಜೆಗಳಲ್ಲಿ ಮುಖ್ಯಸ್ಥರೂ ಆತನನ್ನು ಕೊಲ್ಲುವದಕ್ಕೆ ಸಂದರ್ಭ ನೋಡುತ್ತಿದ್ದರು.   ಲೂಕ 19:47	",
 },			
 ]			
-			

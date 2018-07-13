@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 17";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. Jehoshaphat did not seek after 	",

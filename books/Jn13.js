@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 13";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
-"question" :	"	1. Which disciple betrayed Jesus?	",
+"question" :	"	1  ಯೇಸುವನ್ನು ಹಿಡಿದುಕೊಟ್ಟ ಶಿಷ್ಯನು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. John	",
-	"	b. Simon	",
-	"	c. Peter	",
-	"	d. Judas Iscariot	"
+	"	A. ಯೋಹಾನ	",
+	"	B. ಸೀಮೋನ	",
+	"	C. ಪೇತ್ರ	",
+	"	D. ಇಸ್ಕರಿಯೋತ ಯೂದ	"
 ],			
-"correct" :	"	d. Judas Iscariot	",
-"explanation" :	"	And supper being ended,the devil having already put it into the heart of Judas Iscariot, Simon’s son, to betray Him, Jn 13:2	",
+"correct" :	"	D. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+"explanation" :	"	ಅವರು ಊಟಕ್ಕೆ ಕೂತುಕೊಂಡಿದ್ದರು; ಅಷ್ಟರೊಳಗೆ ಸೈತಾನನು ಸೀಮೋನನ ಮಗನಾದ ಇಸ್ಕರಿಯೋತ ಯೂದನ ಮನಸ್ಸಿನಲ್ಲಿ ಯೇಸುವನ್ನು ಹಿಡುಕೊಡಬೇಕೆಂಬ ಆಲೋಚನೆಯನ್ನು ಹುಟ್ಟಿಸಿದ್ದನು 13:2	",
 },			
 {			
-"question" :	"	2. Who put it in his heart to betray Jesus?	",
+"question" :	"	2  ಅವನ ಮನಸ್ಸಿನಲ್ಲಿ ಯೇಸುವನ್ನು ಹಿಡಿಕೊಡಬೇಕೆಂಬ ಆಲೋಚನೆಯನ್ನು ಹುಟ್ಟಿಸಿದ್ದು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. An angel	",
-	"	b. The Pharisees	",
-	"	c. God	",
-	"	d. The devil	"
+	"	A. ದೇವದೂತನು	",
+	"	B. ಫರಿಸಾಯನು	",
+	"	C. ದೇವರು	",
+	"	D. ಸೈತಾನನು	"
 ],			
-"correct" :	"	d. The devil	",
-"explanation" :	"	And supper being ended,the devil having already put it into the heart of Judas Iscariot, Simon’s son, to betray Him, Jn 13:2	",
+"correct" :	"	D. ಸೈತಾನನು	",
+"explanation" :	"	ಅವರು ಊಟಕ್ಕೆ ಕೂತುಕೊಂಡಿದ್ದರು; ಅಷ್ಟರೊಳಗೆ ಸೈತಾನನು ಸೀಮೋನನ ಮಗನಾದ ಇಸ್ಕರಿಯೋತ ಯೂದನ ಮನಸ್ಸಿನಲ್ಲಿ ಯೇಸುವನ್ನು ಹಿಡುಕೊಡಬೇಕೆಂಬ ಆಲೋಚನೆಯನ್ನು ಹುಟ್ಟಿಸಿದ್ದನು 13:2	",
 },			
 {			
-"question" :	"	3. Jesus washed the disciples	",
+"question" :	"	3  ಯೇಸು ಶಿಷ್ಯರ ___________ ತೊಳೆದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hands.	",
-	"	b. Faces.	",
-	"	c. Garments.	",
-	"	d. Feet.	"
+	"	A. ಕೈಗಳನ್ನು	",
+	"	B. ಮುಖಗಳನ್ನು	",
+	"	C. ವಸ್ತ್ರಗಳನ್ನು	",
+	"	D. ಕಾಲುಗಳನ್ನು	"
 ],			
-"correct" :	"	d. Feet.	",
-"explanation" :	"	After that, He poured water into a basin and began to wash the disciples’ feet, and to wipe them with the towel with which He was girded. Jn13:5	",
+"correct" :	"	D. ಕಾಲುಗಳನ್ನು	",
+"explanation" :	"	ಆಗ ಬೋಗುಣಿಯಲ್ಲಿ ನೀರು ಹಾಕಿಕೊಂಡು ಶಿಷ್ಯರ ಕಾಲುಗಳನ್ನು ತೊಳೆಯುವದಕ್ಕೂ ನಡುವಿಗೆ ಕಟ್ಟಿಕೊಂಡಿದ್ದ ಕೈಪಾವುಡದಿಂದ ಒರಸುವದಕ್ಕೂ ಪ್ರಾರಂಭಿಸಿದನು 13:5	",
 },			
 {			
-"question" :	"	4. Jesus did that	",
+"question" :	"	4  ಯೇಸು ಇದನ್ನು ಮಾಡಿದ್ದು,	",
 "image" :	"",		
 "choices" : [			
-	"	a. Even though it was unlawful.	",
-	"	b. Because it was tradition.	",
-	"	c. Because they asked Him to.	",
-	"	d. As an example.	"
+	"	A. ಧರ್ಮಶಾಸ್ತ್ರಕ್ಕೆ ವಿರುದ್ದವಾದರು ಸಹ	",
+	"	B. ಅದು ಸಂಪ್ರದಾಯವಾಗಿತ್ತು	",
+	"	C. ಏಕೆಂದರೆ ಹಾಗೆ ಮಾಡಲು ಶಿಷ್ಯರು ಕೇಳಿದ್ದರು	",
+	"	D. ಒಂದು ಮಾದರಿಯಾಗಿ	"
 ],			
-"correct" :	"	d. As an example.	",
-"explanation" :	"	For I have given you an example, that you should do as I have done to you. Jn 13:15	",
+"correct" :	"	D. ಒಂದು ಮಾದರಿಯಾಗಿ	",
+"explanation" :	"	ನಾನು ನಿಮಗೆ ಮಾಡಿದ ಮೇರೆಗೆ ನೀವು ಸಹ ಮಾಡುವಂತೆ ನಿಮಗೆ ಮಾದರಿಯನ್ನು ತೋರಿಸಿದ್ದೇನೆ. 13:15	",
 },			
 {			
-"question" :	"	5. Jesus said, the servant	",
+"question" :	"	5  ಯೇಸು ಹೇಳಿದ್ದು, ಆಳು…………………………	",
 "image" :	"",		
 "choices" : [			
-	"	a. Is greater than his lord.	",
-	"	b. Is not greater than his lord.	",
-	"	c. Remains outside the lord’s house.	",
-	"	d. Shall sit at the lord’s table.	"
+	"	A. ತನ್ನ ಧಣಿಗಿಂತ ದೊಡ್ಡವನು	",
+	"	B. ತನ್ನ ಧಣಿಗಿಂತ ದೊಡ್ಡವನಲ್ಲ	",
+	"	C. ಧಣಿಯ ಮನೆಯ ಹೊರಗಡೆ ನಿಲ್ಲುವನು	",
+	"	D. ಧಣಿಯ ಮೇಜಿನಲ್ಲಿ ಕುಳಿತುಕೊಳ್ಳುವನು	"
 ],			
-"correct" :	"	b. Is not greater than his lord.	",
-"explanation" :	"	Most assuredly, I say to you, a servant is not greater than his master; nor is he who is sent greater than he who sent him. Jn 13:16	",
+"correct" :	"	B. ತನ್ನ ಧಣಿಗಿಂತ ದೊಡ್ಡವನಲ್ಲ	",
+"explanation" :	"	ನಿಮಗೆ ನಿಜನಿಜವಾಗಿ ಹೇಳುತ್ತೇನೆ, ದಣಿಗಿಂತ ಆಳು ದೊಡ್ಡವನಲ್ಲ, ಕಳುಹಿಸಲ್ಪಟ್ಟವನು ಕಳುಹಿಸಿದವನಿಗಿಂತ ದೊಡ್ಡವನಲ್ಲ.  13:16	",
 },			
 {			
-"question" :	"	6. Jesus identified His betrayer by saying, He would do this.	",
+"question" :	"	6  ಯೇಸು ತನ್ನನ್ನು ಹಿಡಿದುಕೊಡುವನನ್ನು ಹೀಗೆ ಶಿಷ್ಯರಿಗೆ ಗುರುತಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Give him a sop	",
-	"	b. Send lightening & thunder	",
-	"	c. Send fire from heaven	",
-	"	d. Take his breath from his soul	"
+	"	A. ತುತ್ತನ್ನು ಅದ್ದಿ ಅವನಿಗೆ ನೀಡುವದರಿಂದ	",
+	"	B. ಗುಡುಗು ಮತ್ತು ಮಿಂಚನ್ನು ಕಳುಹಿಸುವದರಿಂದ	",
+	"	C. ಆಕಾಶದಿಂದ ಬೆಂಕಿಯನ್ನು ಕಳುಹಿಸುವುದರಿಂದ	",
+	"	D. ಆತನ ಆತ್ಮನಿಂದ ಉಸಿರನ್ನು ತೆಗೆಯುವುದರಿಂದ	"
 ],			
-"correct" :	"	a. Give him a sop	",
-"explanation" :	"	Jesus answered, It is he to whom I shall give a piece of bread when I have dipped it. And having dipped the bread, He gave it to Judas Iscariot, the son of Simon. Jn13:26	",
+"correct" :	"	A. ತುತ್ತನ್ನು ಅದ್ದಿ ಅವನಿಗೆ ನೀಡುವದರಿಂದ	",
+"explanation" :	"	ಅದಕ್ಕೆ ಯೇಸು - ನಾನು ಈ ತುತ್ತನ್ನು ಅದ್ದಿ ಯಾರಿಗೆ ಕೊಡುತ್ತೇನೋ ಅವನೇ ಎಂದು ಹೇಳಿ ಆ ತುತ್ತನ್ನು ಅದ್ದಿ ತೆಗೆದು ಸೀಮೋನನ ಮಗನಾದ ಇಸ್ಕರಿಯೋತ ಯೂದನಿಗೆ ಕೊಟ್ಟನು 13:26	",
 },			
 {			
-"question" :	"	7. When Judas left, Jesus told him to do what he was going to do	",
+"question" :	"	7  ಯೂದನು ಹೋಗುವಾಗ ಯೇಸು ಅವನಿಗೆ, ನೀನು ಮಾಡುವದನ್ನು _______ ಮಾಡಿಬಿಡು  ಅಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Carefully.	",
-	"	b. Fearfully.	",
-	"	c. Without remorse.	",
-	"	d. Quickly.	"
+	"	A. ಎಚ್ಚರಿಕೆಯಿಂದ	",
+	"	B. ಭಯದಿಂದ	",
+	"	C. ಕನಿಕರವಿಲ್ಲದೆ	",
+	"	D. ಬೇಗನೆ	"
 ],			
-"correct" :	"	d. Quickly.	",
-"explanation" :	"	Now after the piece of bread, Satan entered him. Then Jesus said to him, What you do, do quickly. Jn13:27	",
+"correct" :	"	D. ಬೇಗನೆ	",
+"explanation" :	"	ಅವನು ಆ ತುತ್ತನ್ನು ತೆಗೆದುಕೊಂಡ ಕೂಡಲೆ ಸೈತಾನನು ಅವನೊಳಗೆ ಹೊಕ್ಕನು. ಆಗ ಯೇಸು ಅವನಿಗೆ - ನೀನು ಮಾಡುವದನ್ನು ಬೇಗನೆ ಮಾಡಿಬಿಡು ಎಂದು ಹೇಳಿದನು 13:27	",
 },			
 {			
-"question" :	"	8. Jesus gave the disciples a new	",
+"question" :	"	8  ಯೇಸು ಶಿಷ್ಯರಿಗೆ ಹೊಸ _________ ನೀಡಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Garment.	",
-	"	b. Language.	",
-	"	c. Commandment.	",
-	"	d. Name.	"
+	"	A. ವಸ್ತ್ರಗಳನ್ನು	",
+	"	B. ಭಾಷೆಯನ್ನು	",
+	"	C. ಆಜ್ಞೆಯನ್ನು	",
+	"	D. ಹೆಸರನ್ನು	"
 ],			
-"correct" :	"	c. Commandment.	",
-"explanation" :	"	A new commandment I give to you, that you love one another; as I have loved you, that you also love one another. Jn13:34	",
+"correct" :	"	C. ಆಜ್ಞೆಯನ್ನು	",
+"explanation" :	"	ನಾನು ನಿಮಗೆ ಒಂದು ಹೊಸ ಆಜ್ಞೆಯನ್ನು ಕೊಡುತ್ತೇನೆ; ಏನಂದರೆ ನೀವು ಒಬ್ಬರನ್ನೊಬ್ಬರು ಪ್ರೀತಿಸಬೇಕು; ನಾನು ನಿಮ್ಮನ್ನು ಪ್ರೀತಿಸಿದ ಮೇರೆಗೆ ನೀವು ಸಹ ಒಬ್ಬರನ್ನೊಬ್ಬರು ಪ್ರೀತಿಸಬೇಕು ಎಂಬದೇ 13:34	",
 },			
 {			
-"question" :	"	9. Jesus said, men will know you are my disciples if you	",
+"question" :	"	9  ಯೇಸು ಹೇಳಿದ್ದು, ನಿಮ್ಮೊಳಗೆ ______________ ಎಲ್ಲರೂ ನಿಮ್ಮನ್ನು ನನ್ನ ಶಿಷ್ಯರೆಂದು   ತಿಳುಕೊಳ್ಳುವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pray aloud.	",
-	"	b. Fast.	",
-	"	c. Love one another.	",
-	"	d. Preach my word.	"
+	"	A. ಗಟ್ಟಿಯಾಗಿ ಪ್ರಾರ್ಥಿಸಿದರೆ	",
+	"	B. ಉಪವಾಸ ಮಾಡಿದರೆ	",
+	"	C. ಒಬ್ಬರ ಮೇಲೊಬ್ಬರಿಗೆ ಪ್ರೀತಿಯಿದ್ದರೆ	",
+	"	D. ನನ್ನ ವಾಕ್ಯವನ್ನು ಸಾರಿದರೆ	"
 ],			
-"correct" :	"	c. Love one another.	",
-"explanation" :	"	By this all will know that you are My disciples, if you have love for one another.Jn13:35	",
+"correct" :	"	C. ಒಬ್ಬರ ಮೇಲೊಬ್ಬರಿಗೆ ಪ್ರೀತಿಯಿದ್ದರೆ	",
+"explanation" :	"	ನಿಮ್ಮೊಳಗೆ ಒಬ್ಬರ ಮೇಲೊಬ್ಬರಿಗೆ ಪ್ರೀತಿಯಿದ್ದರೆ ಎಲ್ಲರೂ ನಿಮ್ಮನ್ನು ನನ್ನ ಶಿಷ್ಯರೆಂದು ತಿಳುಕೊಳ್ಳುವರು ಅಂದನು 13:35	",
 },			
 {			
-"question" :	"	10. Jesus said, Peter would deny Him this many times, before the cock crowed.	",
+"question" :	"	10  ಪೇತ್ರನು ಕೋಳಿ ಕೂಗುವದಕ್ಕಿಂತ ಮುಂಚೆ ____ ನನ್ನನ್ನು ಅರಿಯನೆಂದು ಹೇಳುವನು ಎಂದು  ಯೇಸು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1	",
-	"	b. 2	",
-	"	c. 3	",
-	"	d. 4	"
+	"	A. 1	",
+	"	B. 2	",
+	"	C. 3	",
+	"	D. 4	"
 ],			
-"correct" :	"	c. 3	",
-"explanation" :	"	Jesus answered him, Will you lay down your life for My sake? Most assuredly, I say to you, the rooster shall not crow till you have denied Me three times. Jn 13:38	",
+"correct" :	"	C. 3	",
+"explanation" :	"	ಯೇಸು - ನನಗಾಗಿ ಪ್ರಾಣ ಕೊಟ್ಟೀಯಾ? ನಿನಗೆ ನಿಜನಿಜವಾಗಿ ಹೇಳುತ್ತೇನೆ, ನೀನು ನನ್ನ ವಿಷಯದಲ್ಲಿ ಅವನನ್ನು ಅರಿಯೆನೆಂದು ಮೂರು ಸಾರಿ ಹೇಳುವ ತನಕ ಕೋಳಿ ಕೂಗುವದೇ ಇಲ್ಲ ಅಂದನು. 13:38	",
 },			
 ]			

@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 17";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. A sheep or bullock shall not be offered to the Lord that is	",

@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 14";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. Joshua, the heads of the tribes, and this priest, distributed the inheritance to the children of Israel.	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 1";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. What was the name of the man who yearly went to Shiloh?	",

@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 12";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. When Israel possessed the land, they were to do this to all the places the nations served their gods.	",

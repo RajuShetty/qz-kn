@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 16";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
-"question" :	"	1. What did the Sadducees and Pharisees want Jesus to show them?	",
+"question" :	"	1 ಯೇಸು ಏನು ತೋರಿಸಬೇಕೆಂದು ಸದ್ದುಕಾಯರು ಮತ್ತು ಫರಿಸಾಯರು ಅಪೇಕ್ಷೆ ಪಟ್ಟರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. His home	",
-	"	b. How to pray	",
-	"	c. His disciples	",
-	"	d. A sign from heaven	"
+	"	A. ಆತನ ಮನೆ	",
+	"	B. ಹೇಗೆ ಪ್ರಾರ್ಥಿಸಬೇಕು	",
+	"	C. ಆತನ ಶಿಷ್ಯರನ್ನು	",
+	"	D. ಆಕಾಶದಲ್ಲಿ ಒಂದು ಸೂಚಕ ಕಾರ್ಯ	"
 ],			
-"correct" :	"	d. A sign from heaven	",
-"explanation" :	"	Then the Pharisees and Sadducees came, and testing Him asked that He would show them a sign from heaven. - Matt 16:1	",
+"correct" :	"	D. ಆಕಾಶದಲ್ಲಿ ಒಂದು ಸೂಚಕ ಕಾರ್ಯ	",
+"explanation" :	"	ತರುವಾಯ ಫರಿಸಾಯರೂ ಸದ್ದುಕಾಯರೂ ಬಂದು ಆತನನ್ನು ಪರೀಕ್ಷಿಸುವದಕ್ಕಾಗಿ ನೀನು ಆಕಾಶದಲ್ಲಿ ಒಂದು ಸೂಚಕಕಾರ್ಯವನ್ನು ತೋರಿಸಿಕೊಡಬೇಕೆಂದು ಕೇಳಿದರು.  ಮತ್ತಾಯ 16:1	",
 },			
 {			
-"question" :	"	2. How did Jesus say they discerned the weather?	",
+"question" :	"	2 ವಾತಾವರಣವನ್ನು ಹೇಗೆ ಅಂದಾಜಿಸುತ್ತಾರೆ ಎಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. By reports they heard	",
-	"	b. By the air temperature	",
-	"	c. By the color of the sky	",
-	"	d. By the number of stars	"
+	"	A. ಅವರು ಕೇಳಿದ ವರದಿಗಳ ಪ್ರಕಾರ	",
+	"	B. ಗಾಳಿಯ ಉಷ್ಣತೆಯಿಂದ	",
+	"	C. ಆಕಾಶದ ಸ್ಥಿತಿಯಿಂದ	",
+	"	D. ನಕ್ಷತ್ರಗಳ ಸಂಖ್ಯೆಯಿಂದ	"
 ],			
-"correct" :	"	c. By the color of the sky	",
-"explanation" :	"	He answered and said to them, When it is evening you say, It will be fair weather, for the sky is red;and in the morning, It will be foul weather today, for the sky is red and threatening. Hypocrites! You know how to discern the face of the sky, but you cannot discern the signs of the times. - Matt - 16:2,3	",
+"correct" :	"	C. ಆಕಾಶದ ಸ್ಥಿತಿಯಿಂದ	",
+"explanation" :	"	ಸಂಜೇವೇಳೆಯಲ್ಲಿ ನೀವು ಆಕಾಶವು ಕೆಂಪಾಗಿದೆ, ನಿರ್ಮಲದಿನ ಬರುವದು ಅನ್ನುತ್ತೀರಿ, ಬೆಳಿಗ್ಗೆ ಆಕಾಶವು ಮೋಡಮುಚ್ಚಿಕೊಂಡು ಕೆಂಪಾಗಿದೆ, ಈ ಹೊತ್ತು ಗಾಳಿ ಮಳೆ ಅನ್ನುತ್ತೀರಿ ಅಲ್ಲವೇ, ಆಕಾಶದ ಸ್ಥಿತಿಯನ್ನು ನೋಡಿ ಇದು ಹೀಗೆ ಅದು ಹಾಗೆ ಅನ್ನುವದಕ್ಕೆ ಬಲ್ಲಿರಿ.  ಮತ್ತಾಯ 16:2-3.	",
 },			
 {			
-"question" :	"	3. What Old Testament prophet did Jesus refer to as the only sign they would receive?	",
+"question" :	"	3.  ಯಾವ ಹಳೇ ಒಡಂಬಡಿಕೆಯ ಪ್ರವಾದಿಯು, ಯೇಸುವನ್ನು ಅವರು ಹೊಂದುವ ಒಂದೇ ಒಂದು ಸೂಚನೆ ಎಂದು ಹೇಳಿದ್ದಾನೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jonah	",
-	"	b. Ezekiel	",
-	"	c. Isaiah	",
-	"	d. Moses	"
+	"	A. ಯೋನ	",
+	"	B. ಯೆಹೇಜ್ಕಿಯೇಲ್	",
+	"	C. ಯೆಶಾಯ	",
+	"	D. ಮೋಶೆ	"
 ],			
-"correct" :	"	a. Jonah	",
-"explanation" :	"	A wicked and adulterous generation seeks after a sign, and no sign shall be given to it except the sign of the prophet Jonah. And He left them and departed. - Matt 16:4	",
+"correct" :	"	A. ಯೋನ	",
+"explanation" :	"	ವೈಭಿಚಾರಿಣಿಯಂತಿರುವ ಈ ಕೆಟ್ಟ ಸಂತತಿಯು ಸೂಚಕಕಾರ್ಯವನ್ನು ನೋಡಬೇಕೆಂದು ಅಪೇಕ್ಷಿಸುತ್ತದೆ, ಆದರೆ ಯೋನನಲ್ಲಿ ಆದ ಸೂಚಕಕಾರ್ಯವೇ ಹೊರತು ಬೇರೆ ಯಾವದೂ ಇದಕ್ಕೆ ಸಿಕ್ಕುವುದಿಲ್ಲ   ಮತ್ತಾಯ 16:4	",
 },			
 {			
-"question" :	"	4. When Jesus asked, whom do you say that I am, what did Peter answer?	",
+"question" :	"	4 ನನ್ನನ್ನು ಯಾರೆಂದು ನೀವೇಳುತ್ತೀರಿ ಎಂದು ಯೇಸು ಕೇಳಿದಾಗ ಪೇತ್ರನು ಏನೆಂದನೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jeremiah	",
-	"	b. Elisha	",
-	"	c. John the Baptist	",
-	"	d. The Christ	"
+	"	A. ಯೆರೇಮಿಯ	",
+	"	B. ಎಲೀಷ	",
+	"	C. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+	"	D. ಕ್ರಿಸ್ತನು	"
 ],			
-"correct" :	"	d. The Christ	",
-"explanation" :	"	He said to them, But who do you say that I am? Simon Peter answered and said, You are the Christ, the Son of the living God. - Matt 16:15,16	",
+"correct" :	"	D. ಕ್ರಿಸ್ತನು	",
+"explanation" :	"	ಸೀಮೋನ್ ಪೇತ್ರನು ನೀನು ಬರಬೇಕಾಗಿರುವ ಕ್ರಿಸ್ತನು ಜೀವಸ್ವರೂಪನಾದ ದೇವರ ಕುಮಾರನು ಎಂದು ಉತ್ತರಕೊಟ್ಟನು.  ಮತ್ತಾಯ 16:16	",
 },			
 {			
-"question" :	"	5. Who did Jesus say revealed that to Peter?	",
+"question" :	"	5 ಇದನ್ನು ಪೇತ್ರನಿಗೆ ಪ್ರಕಟಪಡಿಸಿದ್ದು ಯಾರು ಎಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. His heavenly Father	",
-	"	b. John the Baptist	",
-	"	c. An angel	",
-	"	d. The Pharisees & Sadducees	"
+	"	A. ಪರಲೋಕದ ತಂದೆ	",
+	"	B. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+	"	C. ದೇವದೂತ	",
+	"	D. ಫರಿಸಾಯರು ಮತ್ತು ಸದ್ದುಕಾಯರು	"
 ],			
-"correct" :	"	a. His heavenly Father	",
-"explanation" :	"	Jesus answered and said to him, Blessed are you, Simon Bar-Jonah, for flesh and blood has not revealed this to you, but My Father who is in heaven. - Matt 16:17	",
+"correct" :	"	A. ಪರಲೋಕದ ತಂದೆ	",
+"explanation" :	"	ಯೋನನ ಮಗನಾದ ಸೀಮೋನನೇ, ನೀನು ಧನ್ಯನು, ಈ ಗುಟ್ಟು ನಿನಗೆ ತಿಳಿಸಿದವನು ನರಮನುಷ್ಯನಲ್ಲ, ಪರಲೋಕದಲ್ಲಿರುವ ನನ್ನ ತಂದೆಯೇ ತಿಳಿಸಿದನು.  ಮತ್ತಾಯ 16:17	",
 },			
 {			
-"question" :	"	6. From that time, Jesus began talking about	",
+"question" :	"	6 ಆ ದಿನದಿಂದ ಯೇಸು ಯಾವುದನ್ನು ಕುರಿತು ಹೇಳುವುದಕ್ಕೆ ಪ್ರಾರಂಭಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. His death.	",
-	"	b. The streets of gold.	",
-	"	c. How to destroy the Pharisees.	",
-	"	d. The past.	"
+	"	A. ಆತನ ಮರಣ	",
+	"	B. ಚಿನ್ನದ ಬೀದಿಗಳು	",
+	"	C. ಫರಿಸಾಯರನ್ನು ಹೇಗೆ ನಾಶಮಾಡಬೇಕು	",
+	"	D. ಉಪವಾಸದ ಕುರಿತು	"
 ],			
-"correct" :	"	a. His death.	",
-"explanation" :	"	From that time Jesus began to show to His disciples that He must go to Jerusalem, and suffer many things from the elders and chief priests and scribes, and be killed, and be raised the third day. - Matt 16:21	",
+"correct" :	"	A. ಆತನ ಮರಣ	",
+"explanation" :	"	ಅಂದಿನಿಂದ ಯೇಸು ಕ್ರಿಸ್ತನು ತಾನು ಯೆರೂಸಲೇಮಿಗೆ ಹೋಗಿ ಅಲ್ಲಿ ಹಿರಿಯರಿಂದಲೂ ಮಹಾಯಾಜಕರಿಂದಲೂ ಶಾಸ್ತ್ರಿಗಳಿಂದಲೂ ಬಹು ಕಷ್ಟಗಳನ್ನನುಭವಿಸಿ ಕೊಲ್ಲಲ್ಪಟ್ಟು ಮೂರನೆಯ ದಿನದಲ್ಲಿ ಜೀವಿತನಾಗಿ ಎಬ್ಬಿಸಲ್ಪಡಬೇಕೆಂದು ತನ್ನ ಶಿಷ್ಯರಿಗೆ ತಿಳಿಸುವಕ್ಕೆ ಪ್ರಾರಂಭಮಾಡಿದನು.  ಮತ್ತಾಯ 16:21	",
 },			
 {			
-"question" :	"	7. What did Jesus say, when Peter began to rebuke him?	",
+"question" :	"	7  ಪೇತ್ರನು ಯೇಸುವನ್ನು ಗದರಿಸುವುದಕ್ಕೆ ಪ್ರಾರಂಭಿಸಿದಾಗ ಯೇಸು ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. I am your Lord & master.	",
-	"	b. Thou shalt not tempt the Lord.	",
-	"	c. Get thee behind me Satan.	",
-	"	d. Thou must obey the signs.	"
+	"	A. ನಾನು ನಿಮ್ಮ ಕರ್ತನು ಮತ್ತು ಗುರುವು	",
+	"	B. ನೀವು ಕರ್ತನನ್ನು ಪರೀಕ್ಷಿಸಬಾರದು	",
+	"	C. ಸೈತಾನನೇ ನನ್ನನ್ನು ಬಿಟ್ಟು ಹೋಗು	",
+	"	D. ನೀವು ಸೂಚನೆಗಳಿಗೆ ವಿಧೇಯರಾಗಿರಬೇಕು	"
 ],			
-"correct" :	"	c. Get thee behind me Satan.	",
-"explanation" :	"	hen Peter took Him aside and began to rebuke Him, saying, Far be it from You, Lord; this shall not happen to You! But He turned and said to Peter, Get behind Me, Satan! You are an offense to Me, for you are not mindful of the things of God, but the things of men. - Matt 16:22,23	",
+"correct" :	"	C. ಸೈತಾನನೇ ನನ್ನನ್ನು ಬಿಟ್ಟು ಹೋಗು	",
+"explanation" :	"	ನಿನಗೆ ಹೀಗೆ ಎಂದಿಗೂ ಆಗಬಾರದು ಎಂದು ಆತನನ್ನು ಗದರಿಸುವಕ್ಕೆ ಪ್ರಾರಂಭಿಸಲು ಆತನು ತಿರುಗಿಕೊಂಡು ಪೇತ್ರನಿಗೆ ಸೈತಾನನೇ, ನನ್ನ ಮುಂದೆ ನಿಲ್ಲಬೇಡ, ನಡೆ, ನನಗೆ ನೀನು ವಿಘ್ನವಾಗಿದ್ದೀ, ನಿನ್ನ ಯೋಚನೆ ಮನುಷ್ಯರ ಯೋಚನೆಯೇ ಹೊರತು ದೇವರದಲ್ಲ ಎಂದು ಹೇಳಿದನು.  ಮತ್ತಾಯ 16:23	",
 },			
 {			
-"question" :	"	8. What did Jesus say one must do to follow Him?	",
+"question" :	"	8  ಒಬ್ಬನು ತನ್ನನ್ನು ಹಿಂಬಾಲಿಸಲು ಏನು ಮಾಡಬೇಕೆಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Deny himself	",
-	"	b. Pray daily	",
-	"	c. Observe the signs	",
-	"	d. Study the prophets	"
+	"	A. ತನ್ನನ್ನು ನಿರಾಕರಿಸಬೇಕು	",
+	"	B. ದಿನವೂ ಪ್ರಾರ್ಥಿಸಬೇಕು	",
+	"	C. ಸೂಚನೆಗಳನ್ನು ಗಮನಿಸಬೇಕು	",
+	"	D. ಪ್ರವಾದಿಗಳನ್ನು ಅಭ್ಯಾಸಿಸಬೇಕು	"
 ],			
-"correct" :	"	a. Deny himself	",
-"explanation" :	"	Then Jesus said to His disciples, If anyone desires to come after Me, let him deny himself, and take up his cross, and follow Me. - Matt 16:24	",
+"correct" :	"	A. ತನ್ನನ್ನು ನಿರಾಕರಿಸಬೇಕು	",
+"explanation" :	"	ಯೇಸು ತನ್ನ ಶಿಷ್ಯರಿಗೆ ಹೇಳಿದ್ದೇನಂದರೆ ಯಾವನಿಗಾದರೂ ನನ್ನ ಹಿಂದೆ ಬರುವದಕ್ಕೆ ಮನಸ್ಸಿದ್ದರೆ ಅವನು ತನ್ನನ್ನು ನಿರಾಕರಿಸಿ ತನ್ನ ಶಿಲುಬೆಯನ್ನು ಹೊತ್ತುಕೊಂಡು ನನ್ನ ಹಿಂದೆ ಬರಲಿ.   ಮತ್ತಾಯ 16:24	",
 },			
 {			
-"question" :	"	9. Jesus asked, what a man profits, if he gains the whole world and loses this.	",
+"question" :	"	9 ಯೇಸು ಹೇಳಿದ್ದು, ಒಬ್ಬ ಮನುಷ್ಯನು ಲೋಕವನ್ನೆಲ್ಲಾ ಸಂಪಾದಿಸಿ, ______________ನಷ್ಟಪಟ್ಟರೆ ಅವನಿಗೆ ಏನು ಪ್ರಯೋಜನ	",
 "image" :	"",		
 "choices" : [			
-	"	a. His life	",
-	"	b. His mind	",
-	"	c. His soul	",
-	"	d. His good name	"
+	"	A. ತನ್ನ ಜೀವ	",
+	"	B. ತನ್ನ ಮನಸ್ಸು	",
+	"	C. ತನ್ನ ಪ್ರಾಣ	",
+	"	D. ತನ್ನ ಒಳ್ಳೇ ಹೆಸರು	"
 ],			
-"correct" :	"	c. His soul	",
-"explanation" :	"	For what profit is it to a man if he gains the whole world, and loses his own soul? Or what will a man give in exchange for his soul? - Matt 16:26	",
+"correct" :	"	C. ತನ್ನ ಪ್ರಾಣ	",
+"explanation" :	"	ಒಬ್ಬ ಮನುಷ್ಯನು ಲೋಕವನ್ನೆಲ್ಲಾ ಸಂಪಾದಿಸಿಕೊಂಡರೂ ಪ್ರಾಣನಷ್ಟಪಟ್ಟರೆ ಅವನಿಗೆ ಪ್ರಯೋಜನವೇನು?  ಮತ್ತಾಯ 16:26	",
 },			
 {			
-"question" :	"	10. Everyone will be rewarded according to his	",
+"question" :	"	10 ಪ್ರತಿಯೊಬ್ಬರೂ ತಮ್ಮ ತಮ್ಮ _______ ಪ್ರಕಾರ ಪ್ರತಿಫಲ ಹೊಂದುವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Thoughts.	",
-	"	b. Ability.	",
-	"	c. Works.	",
-	"	d. Sincerity.	"
+	"	A. ಯೋಚನೆಗಳು	",
+	"	B. ಸಾಮಥ್ರ್ಯ	",
+	"	C. ನಡತೆ	",
+	"	D. ಪ್ರಾಮಾಣಿಕತೆ	"
 ],			
-"correct" :	"	c. Works.	",
-"explanation" :	"	For the Son of Man will come in the glory of His Father with His angels, and then He will reward each according to his works. - Matt 16:27	",
+"correct" :	"	C. ನಡತೆ	",
+"explanation" :	"	ತನ್ನ ತಂದೆಯ ಪ್ರಭಾವದೊಡನೆ ತನ್ನ ದೂತರ ಸಮೇತವಾಗಿ ಬರುವನು, ಆವಾಗ ಆತನು ಒಬ್ಬೊಬ್ಬನಿಗೆ ಅವನವನ ನಡತೆಗೆ ತಕ್ಕ ಫಲವನ್ನು ಕೊಡುವನು.  ಮತ್ತಾಯ 16:27	",
 },			
 ]			

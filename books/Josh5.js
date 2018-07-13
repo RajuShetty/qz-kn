@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 5";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. What happened when the kings of the Amorites, and kings of the Canaanites, heard the Lord dried up the waters before the children of Israel?	",

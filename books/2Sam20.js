@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 20";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1. The men of Israel began to follow this man.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 19";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. Every man is instructed to fear them.	",

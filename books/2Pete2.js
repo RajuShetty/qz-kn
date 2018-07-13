@@ -1,4 +1,4 @@
-var quiztitle = " 2 Peter chapter 2";			
+var quiztitle = " 2 ಪೇತ್ರನು ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1.ಸುಳ್ಳು ಪ್ರವಾದಿಗಳು ಇದನ್ನು ತಮ್ಮ ಮೇಲೆ ಫಕ್ಕನೆ ಬರಮಾಡಿಕೊಳ್ಳುವರು.	",

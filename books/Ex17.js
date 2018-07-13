@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 17";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. When the children of Israel pitched in Rephidim there was none of this.	",

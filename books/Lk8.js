@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 8";				
-var quiz = [				
-{				
-"question" :	"	1. Seven devils came out of this woman.	",	
-"image" :	"",			
-"choices" : [				
-	"	a. Mary Magdalene	",	
-	"	b. Deborah	",	
-	"	c. Rebecca	",	
-	"	d. Joanna	"	
-],				
-"correct" :	"	a. Mary Magdalene	",	
-"explanation" :	"	and certain women who had been healed of evil spirits and infirmities--Mary called Magdalene, out of whom had come seven demons, - Lk 8:2	",	
-},				
-{				
-"question" :	"	2. In the parable the seed represented	",	
-"image" :	"",			
-"choices" : [				
-	"	a. Faith.	",	
-	"	b. The pride of man.	",	
-	"	c. Peace.	",	
-	"	d. The word of God.	"	
-],				
-"correct" :	"	d. The word of God.	",	
-"explanation" :	"	Now the parable is this: The seed is the word of God. - Lk 8:11	",	
-},				
-{				
-"question" :	"	3. No one would put this, under a bed.	",	
-"image" :	"",			
-"choices" : [				
-	"	a. A thief	",	
-	"	b. Their shoes	",	
-	"	c. Gold	",	
-	"	d. A candle	"	
-],				
-"correct" :	"	d. A candle	",	
-"explanation" :	"	No one, when he has lit a lamp, covers it with a vessel or puts it under a bed, but sets it on a lampstand, that those who enter may see the light. - Lk 8:16	",	
-},				
-{				
-"question" :	"	4. Jesus called those who hear the word of God and do it	",	
-"image" :	"",			
-"choices" : [				
-	"	a. Wise children.	",	
-	"	b. His mother & brethren.	",	
-	"	c. Saints of God.	",	
-	"	d. Pillars of the faith.	"	
-],				
-"correct" :	"	b. His mother & brethren.	",	
-"explanation" :	"	But He answered and said to them, My mother and My brothers are these who hear the word of God and do it. - Lk 8:21	",	
-},				
-{				
-"question" :	"	5. What was Jesus doing when the storm came?	",	
-"image" :	"",			
-"choices" : [				
-	"	a. Eating	",	
-	"	b. Sleeping	",	
-	"	c. Praying	",	
-	"	d. Preaching	"	
-],				
-"correct" :	"	b. Sleeping	",	
-"explanation" :	"	But as they sailed He fell asleep. And a windstorm came down on the lake, and they were filling with water, and were in jeopardy. - Lk 8:23	",	
-},				
-{				
-"question" :	"	6. What did the man with the devils say his name was?	",	
-"image" :	"",			
-"choices" : [				
-	"	a. Legion	",	
-	"	b. Jesse	",	
-	"	c. Samson	",	
-	"	d. Gideon	"	
-],				
-"correct" :	"	a. Legion	",	
-"explanation" :	"	Jesus asked him, saying, What is your name? And he said, Legion, because many demons had entered him. - Lk 8:30	",	
-},				
-{				
-"question" :	"	7. What did the devils enter?	",	
-"image" :	"",			
-"choices" : [				
-	"	a. Swine	",	
-	"	b. Buffalo	",	
-	"	c. Dogs	",	
-	"	d. Camels	"	
-],				
-"correct" :	"	a. Swine	",	
-"explanation" :	"	Then the demons went out of the man and entered the swine, and the herd ran violently down the steep place into the lake and drowned. - Lk 8:33	",	
-},				
-{				
-"question" :	"	8. This ruler of the synagogue asked Jesus to heal his daughter.	",	
-"image" :	"",			
-"choices" : [				
-	"	a. Simeon	",	
-	"	b. Nathan	",	
-	"	c. Caiaphas	",	
-	"	d. Jairus	"	
-],				
-"correct" :	"	d. Jairus	",	
-"explanation" :	"	And behold, there came a man named Jairus, and he was a ruler of the synagogue. And he fell down at Jesus' feet and begged Him to come to his house, - Lk 8:41	",	
-},				
-{				
-"question" :	"	9. How many years had the woman had an issue of blood?	",	
-"image" :	"",			
-"choices" : [				
-	"	a. 2	",	
-	"	b. 5	",	
-	"	c. 10	",	
-	"	d. 12	"	
-],				
-"correct" :	"	d. 12	",	
-"explanation" :	"	Now a woman, having a flow of blood for twelve years, who had spent all her livelihood on physicians and could not be healed by any, - Lk 8:43	",	
-},				
-{				
-"question" :	"	10. After the woman was healed, Jesus said, this had made her whole.	",	
-"image" :	"",			
-"choices" : [				
-	"	a. Her faith	",	
-	"	b. Her money	",	
-	"	c. Her love	",	
-	"	d. Her compassion	"	
-],				
-"correct" :	"	a. Her faith	",	
-"explanation" :	"	And He said to her, Daughter, be of good cheer; your faith has made you well. Go in peace. - Lk 8:48	",	
-},				
-]				
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 8";			
+var quiz = [			
+{			
+"question" :	"	1. ಈಕೆಯಿಂದ ಏಳು ದೆವ್ವಗಳು ಹೊರಬಂದವು.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಮಗ್ಧಲದ ಮರಿಯಳು	",
+	"	B. ದೆಬೋರ	",
+	"	C. ರೆಬೆಕ್ಕ	",
+	"	D. ಯೊನ್ನ	"
+],			
+"correct" :	"	A. ಮಗ್ಧಲದ ಮರಿಯಳು	",
+"explanation" :	"	ದೆವ್ವಗಳ ಕಾಟದಿಂದಲೂ ಗುಣಹೊಂದಿದ ರೋಗಗಳಿಂದಲೂ ಗುಣಹೊಂದಿದ ಕೆಲವು ಹೆಂಗಸರು ಸಹ ಿದ್ದರು.  ಈ ಹೆಂಗಸರು ಯಾರಾರಂದರೆ - ಏಳು ದೆವ್ವಗಳು ಬಿಟ್ಟುಹೋಗಿದ್ದ ಮಗ್ದಲದವಳೆಂಬ ಮರಿಯಳು.  ಲೂಕ 8:2	",
+},			
+{			
+"question" :	"	2. ಸಾಮ್ಯದಲ್ಲಿ ಬೀಜವು ಸೂಚಿಸುವುದು	",
+"image" :	"",		
+"choices" : [			
+	"	A. ನಂಬಿಕೆ	",
+	"	B. ಮನುಷ್ಯನ ಅಹಂಕಾರ	",
+	"	C. ಶಾಂತಿ	",
+	"	D. ದೇವರ ವಾಕ್ಯ	"
+],			
+"correct" :	"	D. ದೇವರ ವಾಕ್ಯ	",
+"explanation" :	"	ಈ ಸಾಮ್ಯದ ಻ರ್ಥವೇನಂದರೆ - ಆ ಬೀಜವೆಂದರೆ ದೇವರ ವಾಕ್ಯ     ಲೂಕ 8:11	",
+},			
+{			
+"question" :	"	3. ಇದನ್ನು ಮಂಚದ ಕೆಳಗೆ ಯಾರು ಇಡುವುದಿಲ್ಲ.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಕಳ್ಳನನ್ನು	",
+	"	B. ಅವರ ಚಪ್ಪಲಿಗಳನ್ನು	",
+	"	C. ಚಿನ್ನವನ್ನು	",
+	"	D. ದೀಪವನ್ನು	"
+],			
+"correct" :	"	D. ದೀಪವನ್ನು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಯಾರೂ ದೀಪವನ್ನು ಹಚ್ಚಿ ಮಡಿಕೆಯಿಂದ ಮುಚ್ಚುವದಿಲ್ಲ, ಮಂಚದ ಕೆಳಗೂ ಇಡುವದಿಲ್ಲ;   ಲೂಕ 8:16	",
+},			
+{			
+"question" :	"	4. ದೇವರ ಮಾತುಗಳನ್ನು ಕೇಳಿ ಅದರಂತೆ ಮಾಡುವವರನ್ನು ಯೇಸು ಹೀಗೆಂದಿದ್ದಾರೆ.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಬುದ್ಧಿವಂತ ಮಕ್ಕಳು	",
+	"	B. ತನ್ನ ತಾಯಿಯು ಮತ್ತು ಸಹೋದರರು	",
+	"	C. ದೇವರ ಸಂತರು	",
+	"	D. ನಂಬಿಕೆಯ ಸ್ಥಂಭಗಳು	"
+],			
+"correct" :	"	B. ತನ್ನ ತಾಯಿಯು ಮತ್ತು ಸಹೋದರರು	",
+"explanation" :	"	ಆತನು ಅವರಿಗೆ - ಯಾರು ದೇವರ ವಾಕ್ಯವನ್ನು ಕೇಳಿ ಅದರಂತೆ ನಡೆಯುತ್ತಾರೋ ಅವರೇ ನನಗೆ ತಾಯಿಯೂ ಸಹೋದರರೂ ಆಗಬೇಕು ಎಂದು ಉತ್ತರಕೊಟ್ಟನು.  ಲೂಕ 8:21	",
+},			
+{			
+"question" :	"	5. ಬಿರುಗಾಳಿ ಬಂದಾಗ ಯೇಸು ಏನು ಮಾಡುತ್ತಿದ್ದರು?	",
+"image" :	"",		
+"choices" : [			
+	"	A. ತಿನ್ನುತ್ತಿದ್ದರು	",
+	"	B. ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದರು	",
+	"	C. ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದರು	",
+	"	D. ಭೋದಿಸುತ್ತಿದ್ದರು	"
+],			
+"correct" :	"	B. ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದರು	",
+"explanation" :	"	ಅವರು ಹೋಗುತ್ತಿರುವಾಗ ಆತನಿಗೆ ನಿದ್ರೆ ಹತ್ತಿತು;  ಅಷ್ಟರಲ್ಲಿ ಬಿರುಗಾಳಿ ಕೆರೆಯ ಮೇಲೆ ಬರಲು ದೋಣಿಯೊಳಗೆ ನೀರು ತುಂಬಿಕೊಂಡದರಿಂದ ಅವರು ಅಪಾಯಕ್ಕೆ ಗುರಿಯಾದರು.  ಲೂಕ 8:23	",
+},			
+{			
+"question" :	"	6. ದೆವ್ವಗಳು ಹಿಡಿದಿದ್ದ ಮನುಷ್ಯನು ತನ್ನ ಹೆಸರನ್ನು ಏನೆಂದು ಹೇಳಿದನು?	",
+"image" :	"",		
+"choices" : [			
+	"	A. ದಂಡು	",
+	"	B. ಜೆಸ್ಸಿ	",
+	"	C. ಸಂಸೋನ	",
+	"	D. ಗಿದ್ಯೋನ	"
+],			
+"correct" :	"	A. ದಂಡು	",
+"explanation" :	"	ಯೇಸು - ನಿನ್ನ ಹೆಸರೇನೆಂದು ಅವನನ್ನು ಕೇಳಿದ್ದಕ್ಕೆ ಅವನು - ನನ್ನ ಹೆಸರು ದಂಡು ಅಂದನು;   ಲೂಕ 8:30	",
+},			
+{			
+"question" :	"	7. ದೆವ್ವಗಳು ಯಾವುದರೊಳಗೆ ಹೊಕ್ಕವು?	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಹಂದಿಗಳು	",
+	"	B. ಎಮ್ಮೆಗಳು	",
+	"	C. ನಾಯಿಗಳು	",
+	"	D. ಒಂಟೆಗಳು	"
+],			
+"correct" :	"	A. ಹಂದಿಗಳು	",
+"explanation" :	"	ಆತನು ಆಗಲಿ ಎಂದು ಅವುಗಳಿಗೆ ಅಪ್ಪಣೆ ಕೊಡಲು ದೆವ್ವಗಳು ಆ ಮನಹುಷ್ಯನೊಳಗಿಂದ ಹೊರಗೆ ಬಂದು ಹಂದಿಗಳೊಳಗೆ ಹೊಕ್ಕವು.  ಲೂಕ 8:33	",
+},			
+{			
+"question" :	"	8. ಸಭಾಮಂದಿರದ ಈ ಅಧಿಕಾರಿಯು ತನ್ನ ಮಗಳನ್ನು ಸೌಖ್ಯಪಡಿಸೆಂದು ಯೇಸುವನ್ನು ಕೇಳಿದನು.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಸಿಮೋನ	",
+	"	B. ನಾತಾನ್	",
+	"	C. ಕಾಯಫ	",
+	"	D. ಯಾಯಿರನು	"
+],			
+"correct" :	"	D. ಯಾಯಿರನು	",
+"explanation" :	"	ಆಗ ಸಭಾಮಂದಿರದ ಅಧಿಕಾರಿಯಾದ ಯಾಯೀರನೆಂಬ ಒಬ್ಬ ಮನುಷ್ಯನು ಬಂದು ಯೇಸುವಿನ ಪಾದಗಳಿಗೆ ಬಿದ್ದನು.  ಹೆಚ್ಚು ಕಡಿಮೆ ಹನ್ನೆರಡು ವರುಷದವಳಾದ ಅವನ ಒಬ್ಬಳೇ ಮಗಳು ಸಾಯುವವಳಾಗಿದ್ದ ಕಾರಣ ಆತನನ್ನು ತನ್ನ ಮನೆಗೆ ಬರಬೇಕೆಂದು ಬೇಡಿಕೊಂಡನು.  ಲೂಕ 8:41-42	",
+},			
+{			
+"question" :	"	9. ಆ ಸ್ತ್ರೀಯು ಎಷ್ಟು ವರ್ಷಗಳಿಂದ ರಕ್ತಕುಸುಮ ರೋಗದಿಂದ ಬಾದೆಪಡುತ್ತಿದ್ದಳು?	",
+"image" :	"",		
+"choices" : [			
+	"	A. 2	",
+	"	B. 5	",
+	"	C. 10	",
+	"	D. 12	"
+],			
+"correct" :	"	D. 12	",
+"explanation" :	"	ಆಗ ಹನ್ನೆರಡು ವರುಷದಿಂದ ರಕ್ತಕುಸುಮ ರೋಗವಿದ್ದ ಒಬ್ಬ ಹೆಂಗಸು ಬಂದಳು.  ಲೂಕ 8:43	",
+},			
+{			
+"question" :	"	10. ಆಕೆಗೆ ವಾಸಿಯಾದ ನಂತರ, ಇದು ಆಕೆಯನ್ನು ಸ್ವಸ್ಥಮಾಡಿತು ಎಂದು ಯೇಸು ಹೇಳಿದರು.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಆಕೆಯ ನಂಬಿಕೆ	",
+	"	B. ಆಕೆಯ ಹಣ	",
+	"	C. ಆಕೆಯ ಪ್ರೀತಿ	",
+	"	D. ಆಕೆಯ ಅನುಕಂಪ	"
+],			
+"correct" :	"	A. ಆಕೆಯ ನಂಬಿಕೆ	",
+"explanation" :	"	ಆತನು ಆಕೆಗೆ - ಮಗಳೇ ನಿನ್ನ ನಂಬಿಕೆಯೇ ನಿನ್ನನ್ನು ಸ್ವಸ್ಥಮಾಡಿತು; ಸಮಾಧಾನದಿಂದ ಹೋಗು ಎಂದು ಹೇಳಿದನು.  ಲೂಕ 8:48	",
+},			
+]			

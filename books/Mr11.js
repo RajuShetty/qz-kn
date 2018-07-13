@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 11";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
-"question" :	"	1. What did Jesus send some of His disciples go to get?	",
+"question" :	"	1 ಯೇಸು ತನ್ನ ಶಿಷ್ಯರಲ್ಲಿ ಕೆಲವರನ್ನು ಏನು ತರುವುದಕ್ಕಾಗಿ ಕಳುಹಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A vessel	",
-	"	b. A colt	",
-	"	c. A lamp	",
-	"	d. A pitcher	"
+	"	A. ಒಂದು ಪಾತ್ರೆ	",
+	"	B. ಕತ್ತೇಮರಿ	",
+	"	C. ಒಂದು ದೀಪ	",
+	"	D. ಹಡಗಿನ ಹಲಗೆ	"
 ],			
-"correct" :	"	b. A colt	",
-"explanation" :	"	and He said to them, Go into the village opposite you; and as soon as you have entered it you will find a colt tied, on which no one has sat. Loose it and bring it. - Mr 11:2	",
+"correct" :	"	B. ಕತ್ತೇಮರಿ	",
+"explanation" :	"	ಆತನು ತನ್ನ ಶಿಷ್ಯರಲ್ಲಿ ಇಬ್ಬರನ್ನು ಕರೆದು ನಿಮ್ಮೆದುರಿಗಿರುವ ಹಳ್ಳಿಗೆ ಹೋಗಿರಿ; ಅದರೊಳಕ್ಕೆ ಸೇರುತ್ತಿರುವಾಗಲೇ ಅಲ್ಲಿ ಕಟ್ಟಿರುವ ಒಂದು ಕತ್ತೇಮರಿಯನ್ನು ಕಾಣುವಿರಿ; ಇದುವರೆಗೆ ಅದರ ಮೇಲೆ ಯಾರೂ ಹತ್ತಿಲ್ಲ; ಅದನ್ನು ಬಿಚ್ಚಿ ಹಿಡುಕೊಂಡು ಬನ್ನಿರಿ.   ಮಾರ್ಕ11:2	",
 },			
 {			
-"question" :	"	2. How many disciples did Jesus send?	",
+"question" :	"	2 ಎಷ್ಟು ಜನ ಶಿಷ್ಯರನ್ನು ಯೇಸು ಕಳುಹಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 3	",
-	"	c. 4	",
-	"	d. 5	"
+	"	A. 2	",
+	"	B. 3	",
+	"	C. 4	",
+	"	D. 5	"
 ],			
-"correct" :	"	a. 2	",
-"explanation" :	"	Now when they drew near Jerusalem, to Bethphage and Bethany, at the Mount of Olives, He sent two of His disciples - Mr 11:1	",
+"correct" :	"	A.2	",
+"explanation" :	"	ಅವರು ಯೆರೂಸಲೇಮಿಗೆ ಸಮೀಪಿಸಿ ಎಣ್ಣೇ ಮರಗಳ ಗುಡ್ಡದ ಬಳಿಯಲ್ಲಿರುವ ಬೇತ್ಪಗೆಗೂ ಬೇಥಾನ್ಯಕ್ಕೂ ಬಂದಾಗ ಆತನು ತನ್ನ ಶಿಷ್ಯರಲ್ಲಿ ಇಬ್ಬರನ್ನು ಕರೆದು .. ಮಾರ್ಕ 11:1	",
 },			
 {			
-"question" :	"	3. What did Jesus say they should answer, if anyone questioned them?	",
+"question" :	"	3 ಯಾರಾದರು ಏನು ನೀವು ಹೀಗೆ ಮಾಡುವುದೆಂದು ಕೇಳಿದರೆ ಏನೆಂದು ಉತ್ತರಿಸಬೇಕೆಂದು ಯೇಸು  ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Whom seek ye?	",
-	"	b. Loose him & let him go.	",
-	"	c. The Lord hath need of him.	",
-	"	d. This was made for the Master.	"
+	"	A. ನೀವು ಯಾರನ್ನು ಕೇಳುತ್ತಿದ್ದೀರಿ?	",
+	"	B. ಅದು ಹೋಗುವುದಕ್ಕೆ ಬಿಟ್ಟುಬಿಡಿರಿ	",
+	"	C. ಇದು ಸ್ವಾಮಿಯವರಿಗೆ ಬೇಕಾಗಿದೆ	",
+	"	D. ಇದು ಗುರುವಿಗಾಗಿ ಮಾಡಲ್ಪಟ್ಟಿದೆ	"
 ],			
-"correct" :	"	c. The Lord hath need of him.	",
-"explanation" :	"	And if anyone says to you, Why are you doing this?' say, 'The Lord has need of it,' and immediately he will send it here. - Mr 11:3	",
+"correct" :	"	C. ಇದು ಸ್ವಾಮಿಯವರಿಗೆ ಬೇಕಾಗಿದೆ	",
+"explanation" :	"	ಯಾವನಾದರೂ ನಿಮ್ಮನ್ನು ಏನು ಹೀಗೆ ಮಾಡುವದು ಎಂದು ಕೇಳಿದರೆ ಇದು ಸ್ವಾಮಿಯವರಿಗೆ ಬೇಕಾಗಿದೆ ಅವರು ತಡಮಾಡದೆ ತಿರಿಗಿ ಇಲ್ಲಿಗೆ ಕಳುಹಿಸಿಕೊಡುವರು ಅನ್ನಿರಿ ಎಂದು ಹೇಳಿ ಕಳುಹಿಸಿದನು.  ಮಾರ್ಕ 11:3	",
 },			
 {			
-"question" :	"	4. What did the disciples put on the colt's back?	",
+"question" :	"	4  ಆ ಕತ್ತೇಮರಿಯ ಮೇಲೆ ಶಿಷ್ಯರು ಏನು ಹಾಕಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A saddle	",
-	"	b. Nothing	",
-	"	c. A blanket	",
-	"	d. Their garments	"
+	"	A. ತಡಿ	",
+	"	B. ಏನೂ ಇಲ್ಲ	",
+	"	C. ಹೊದಿಕೆ	",
+	"	D. ಅವರ ವಸ್ತ್ರಗಳು	"
 ],			
-"correct" :	"	d. Their garments	",
-"explanation" :	"	Then they brought the colt to Jesus and threw their clothes on it, and He sat on it. - Mr 11:7	",
+"correct" :	"	D. ಅವರ ವಸ್ತ್ರಗಳು	",
+"explanation" :	"	ಶಿಷ್ಯರು ಆ ಮರಿಯನ್ನು ಯೇಸುವಿನ ಬಳಿಗೆ ತಂದು ತಮ್ಮ ಬಟ್ಟೆಗಳನ್ನು ಅದರ ಮೇಲೆ ಹಾಕಲು ಆತನು ಅದನ್ನು ಹತ್ತಿ ಕೂತುಕೊಂಡನು.  ಮಾರ್ಕ 11:7	",
 },			
 {			
-"question" :	"	5. What did many lay in the way?	",
+"question" :	"	5 ಆಗ ಅನೇಕರು ದಾರಿಗಳಲ್ಲಿ ಏನನ್ನು ಹಾಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Their bodies	",
-	"	b. Stumbling blocks	",
-	"	c. Branches & flowers	",
-	"	d. Branches & garments	"
+	"	A. ತಮ್ಮ ದೇಹಗಳನ್ನು	",
+	"	B. ಎಡವುವ ಕಲ್ಲುಗಳು]	",
+	"	C. ಚಿಗುರುಗಳು ಮತ್ತು ಹೂವುಗಳು	",
+	"	D. ಚಿಗುರುಗಳು ಮತ್ತು ವಸ್ತ್ರಗಳು	"
 ],			
-"correct" :	"	d. Branches & garments	",
-"explanation" :	"	And many spread their clothes on the road, and others cut down leafy branches from the trees and spread them on the road.- Mr 11:8	",
+"correct" :	"	D. ಚಿಗುರುಗಳು ಮತ್ತು ವಸ್ತ್ರಗಳು	",
+"explanation" :	"	ಆಗ ಅನೇಕರು ತಮ್ಮ ಬಟ್ಟೆಗಳನ್ನು ದಾರಿಯಲ್ಲಿ ಹಾಸಿದರು.  ಬೇರೆ ಕೆಲವರು ತೋಟಗಳಿಂದ ಚಿಗುರುಗಳನ್ನು ಕೊಯಿದು ತಂದು ಹಾಸಿದರು.  ಮಾರ್ಕ 11:8	",
 },			
 {			
-"question" :	"	6. Jesus asked, is it not written, My house shall be called of all nations a house of prayer, but ye have made it	",
+"question" :	"	6 ಯೇಸು ಹೇಳಿದ್ದು: “ ನನ್ನ ಆಲಯವು ಎಲ್ಲಾ ಜನಾಂಗಗಳಿಗೂ ಪ್ರಾರ್ಥನಾಲಯವೆನಿಸಿಕೊಳ್ಳುವುದು ಎಂದು ಬರೆದಿದೆಯಲ್ಲಾ? ಆದರೆ __________	",
 "image" :	"",		
 "choices" : [			
-	"	a. An abomination.	",
-	"	b. A den of thieves.	",
-	"	c. A house of unbelief.	",
-	"	d. A reproach among men.	"
+	"	A. ಅದನ್ನು ವಿರೋಧವನ್ನಾಗಿ ಮಾಡಿದ್ದೀರಿ	",
+	"	B. ಅದನ್ನು ಕಳ್ಳರ ಗವಿಯನ್ನಾಗಿ ಮಾಡಿದ್ದೀರಿ	",
+	"	C. ಅಪನಂಬಿಕೆಯ ಮನೆಯನ್ನಾಗಿ ಮಾಡಿದ್ದೀರಿ	",
+	"	D. ಜನರಲ್ಲಿ ನಿಂದೆಗೆ ಗುರಿ ಮಾಡಿದ್ದೀರಿ	"
 ],			
-"correct" :	"	b. A den of thieves.	",
-"explanation" :	"	Then He taught, saying to them, Is it not written, 'My house shall be called a house of prayer for all nations'? But you have made it a 'den of thieves. - Mr 11:17	",
+"correct" :	"	B. ಅದನ್ನು ಕಳ್ಳರ ಗವಿಯನ್ನಾಗಿ ಮಾಡಿದ್ದೀರಿ	",
+"explanation" :	"	ಮತ್ತು ಆತನು ಉಪದೇಶಮಾಡಿ ನನ್ನ ಆಲಯವು ಎಲ್ಲಾ ಜನಾಂಗಗಳಿಗೂ ಪ್ರಾರ್ಥನಾಲಯವೆನಿಸಿಕೊಳ್ಳುವದು ಎಂದು ಬರೆದಿದೆಯಲ್ಲಾ? ಆದರೆ ನೀವು ಅದನ್ನು ಕಳ್ಳರ ಗವಿ ಮಾಡಿದ್ದೀರಿ ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 11:17	",
 },			
 {			
-"question" :	"	7. Jesus turned over the tables of the moneychangers and those that bought and sold here.	",
+"question" :	"	7 ಯೇಸು ಇಲ್ಲಿ ಚಿನಿವಾರರ ಮೇಜುಗಳನ್ನು ಮತ್ತು ಮಾರುವವರ ಕೊಳ್ಳುವವರ ಕಾಲ್ಮಣಿಗಳನ್ನು  ಕೆಡವಿಬಿಟ್ಟನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The temple	",
-	"	b. The gate of customs	",
-	"	c. The city gate	",
-	"	d. The market place	"
+	"	A. ದೇವಾಲಯದಲ್ಲಿ	",
+	"	B. ಸುಂಕದ ಕಟ್ಟೆಯಲ್ಲಿ	",
+	"	C. ಪಟ್ಟಣದ ದ್ವಾರಗಳಲ್ಲಿ	",
+	"	D. ಸಂತೇಪೇಟೆಯಲ್ಲಿ	"
 ],			
-"correct" :	"	a. The temple	",
-"explanation" :	"	So they came to Jerusalem. Then Jesus went into the temple and began to drive out those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves. - Mr 11:15	",
+"correct" :	"	A. ದೇವಾಲಯದಲ್ಲಿ	",
+"explanation" :	"	ಅವರು ಯೆರೂಸಲೇಮಿಗೆ ಬಂದಾಗ ಯೇಸು ದೇವಾಲಯಕ್ಕೆ ಹೋಗಿ ಅದರಲ್ಲಿ ಮಾರುವವರನ್ನೂ ಕೊಳ್ಳುವವರನ್ನೂ ಹೊರಡಿಸಿಬಿಡುವದಕ್ಕೆ ಪ್ರಾರಂಭಿಸಿ ಚಿನಿವಾರರ ಮೇಜುಗಳನ್ನೂ ಪಾರಿವಾಳ ಮಾರುವವರ ಕಾಲ್ಮಣೆಗಳನ್ನೂ ಕೆಡವಿದನು;  ಮಾರ್ಕ 11:15	",
 },			
 {			
-"question" :	"	8. When the disciples saw the tree Jesus had cursed was dried up, Jesus said	",
+"question" :	"	8 ಯೇಸು ಶಪಿಸಿದ ಮರವು ಒಣಗಿಹೋಗಿರುವುದನ್ನು ಶಿಷ್ಯರು ನೋಡಿದಾಗ ಯೇಸು ಹೀಗೆ  ಹೇಳಿದರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. So it shall be with man.	",
-	"	b. Have faith in God.	",
-	"	c. Marvel not.	",
-	"	d. This is as the doctrine of thieves.	"
+	"	A. ಮನುಷ್ಯರಿಗೂ ಹೀಗೆ ಆಗುವುದು	",
+	"	B. ದೇವರಲ್ಲಿ ನಂಬಿಕೆ ಇರಲಿ	",
+	"	C. ಆಶ್ಚರ್ಯ ಪಡಬೇಡಿರಿ	",
+	"	D. ಇದು ಕಳ್ಳ ಸೇವಕರ ಸೇವೆಯ ಹಾಗೆ	"
 ],			
-"correct" :	"	b. Have faith in God.	",
-"explanation" :	"	Now in the morning, as they passed by, they saw the fig tree dried up from the roots.And Peter, remembering, said to Him, Rabbi, look! The fig tree which You cursed has withered away.So Jesus answered and said to them, Have faith in God. - Mr 11:20-22	",
+"correct" :	"	B. ದೇವರಲ್ಲಿ ನಂಬಿಕೆ ಇರಲಿ	",
+"explanation" :	"	ಬೆಳಗ್ಗೆ ಅವರು ಬರುತ್ತಿರುವಾಗ ಆ ಅಂಜೂರದ ಮರವು ಬುಡದಿಂದಲೂ ಒಣಗಿ ಹೋಗಿರುವದನ್ನು ಕಂಡರು.  ಆಗ ಪೇತ್ರನು ಹಿಂದಿನ ದಿನದ ಸಂಗತಿಯನ್ನು ನೆನಸಿಕೊಂಡು ಆತನಿಗೆ ಗುರುವೇ ಇಗೋ ನೀನು ಶಾಪಕೊಟ್ಟ ಅಂಜೂರದ ಮರವು ಒಣಗಿ ಹೋಗಿದೆ ಎಂದು ಹೇಳಿದ್ದಕ್ಕೆ ಯೇಸು ಹೇಳಿದ್ದೇನಂದರೆ ನಿಮಗೆ ದೇವರಲ್ಲಿ ನಂಬಿಕೆಯಿರಲಿ.  ನಿಮಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ..  ಮಾರ್ಕ 11:20-22	",
 },			
 {			
-"question" :	"	9. What things soever ye desire when ye pray, do this, and ye shall have them.	",
+"question" :	"	9 ಪ್ರಾರ್ಥನೆ ಮಾಡುವಾಗ ಏನೇನು ಬೇಡಿಕೊಳ್ಳುತ್ತೀರೋ, ಇದನ್ನು ಮಾಡರಿ ಅದು ನಿಮಗೆ ಸಿಕ್ಕುವುದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Worship	",
-	"	b. Weep	",
-	"	c. Believe that ye receive them	",
-	"	d. Humble yourself before God	"
+	"	A. ಆರಾಧನೆ	",
+	"	B. ಅಳಿರಿ	",
+	"	C. ನೀವು ಹೊಂದಿದ್ದೀರೆಂದು ನಂಬಿರಿ	",
+	"	D. ದೇವರ ಮುಂದೆ ದಾಹದಿಂದಿರಿ	"
 ],			
-"correct" :	"	c. Believe that ye receive them	",
-"explanation" :	"	Therefore I say to you, whatever things you ask when you pray, believe that you receive them, and you will have them. - Mr 11:24	",
+"correct" :	"	C. ನೀವು ಹೊಂದಿದ್ದೀರೆಂದು ನಂಬಿರಿ	",
+"explanation" :	"	ಆದಕಾರಣ ನೀವು ಪ್ರಾರ್ಥನೆಮಾಡಿ ಏನೇನು ಬೇಡಿಕೊಳ್ಳುತ್ತೀರೋ ಅದನ್ನೆಲ್ಲಾ ಹೊಂದಿದ್ದೇವೆಂದು ನಂಬಿರಿ; ಅದು ನಿಮಗೆ ಸಿಕ್ಕುವದೆಂದು ನಿಮಗೆ ಹೇಳುತ್ತೇನೆ.  ಮಾರ್ಕ 11:24	",
 },			
 {			
-"question" :	"	10. When you stand praying	",
+"question" :	"	10 ನೀವು ನಿಂತುಕೊಂಡು ಪ್ರಾರ್ಥನೆ ಮಾಡುವಾಗೆಲ್ಲಾ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bow.	",
-	"	b. Forgive.	",
-	"	c. Weep.	",
-	"	d. Raise your eyes to heaven.	"
+	"	A. ಬಾಗಿರಿ	",
+	"	B. ಕ್ಷಮಿಸಿ	",
+	"	C. ಅಳಿರಿ	",
+	"	D. ನಿಮ್ಮ ಕಣ್ಣುಗಳನ್ನು ಪರಲೋಕದ ಕಡೆ ತಿರುಗಿಸಿ	"
 ],			
-"correct" :	"	b. Forgive.	",
-"explanation" :	"	And whenever you stand praying, if you have anything against anyone, forgive him, that your Father in heaven may also forgive you your trespasses.- Mr 11:25	",
+"correct" :	"	B. ಕ್ಷಮಿಸಿ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ನೀವು ನಿಂತುಕೊಂಡು ಪ್ರಾರ್ಥನೆಮಾಡುವಾಗೆಲ್ಲಾ ಯಾರ ಮೇಲೆ ಏನಾದರೂ ವಿರೋಧವಿದ್ದರೆ ಅದನ್ನು ಅವನಿಗೆ ಕ್ಷಮಿಸಿರಿ;    ಮಾರ್ಕ 11:25	",
 },			
 ]			

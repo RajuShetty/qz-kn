@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 28";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 28";			
 var quiz = [			
 {			
 "question" :	"	1. Ahaz made molten images for	",

@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 37";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 37";			
 var quiz = [			
 {			
 "question" :	"	1. He made the ark, and mercy seat, and vessels, and lamp stand and incense altar.	",

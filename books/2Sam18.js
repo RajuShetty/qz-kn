@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 18";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. David sent a third part of the people out under each of these men.	",

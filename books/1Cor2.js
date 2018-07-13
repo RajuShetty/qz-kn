@@ -1,4 +1,4 @@
-var quiztitle = "1 Corinthians chapter 2";			
+var quiztitle = "1 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಹೇಳಿದ್ದು: ನಾನು ನಿಮ್ಮ ಬಳಿಗೆ ಬಂದಾಗ ಇವುಗಳೊಂದಿಗೆ ಬರಲಿಲ್ಲ.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 15";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. If any man have a running issue out of his flesh, he 	",

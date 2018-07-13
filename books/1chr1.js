@@ -1,8 +1,8 @@
-var quiztitle = " 1 Chronicles chapter 1";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
-"question" :	"	1. The chapter begins with this man’s name.	",
-"image" :	"",		
+"question" :	"	1. The ಅಧ್ಯಾಯ begins with this man’s name.	",
+"image" :	"https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Liliumbulbiferumflowertop.jpg/220px-Liliumbulbiferumflowertop.jpg",		
 "choices" : [			
 	"	a. Jesus	",
 	"	b. Joseph	",

@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 27";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 27";			
 var quiz = [			
 {			
 "question" :	"	1. How old was Jotham when he began to reign?	",

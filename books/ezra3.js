@@ -18,7 +18,7 @@ var quiz = [
 "choices" : [			
 	"	a. Jeshua	",
 	"	b. Samuel	",
-	"	c. Luke	",
+	"	c. ಲೂಕ	",
 	"	d. Uzza	"
 ],			
 "correct" :	"	a. Jeshua	",

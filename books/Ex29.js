@@ -1,7 +1,7 @@
-var quiztitle = " Exodus   chapter 29";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 29";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter gives instructions to hallow them that are in this office.	",
+"question" :	"	1. This ಅಧ್ಯಾಯ gives instructions to hallow them that are in this office.	",
 "image" :	"",		
 "choices" : [			
 	"	a. Priest	",

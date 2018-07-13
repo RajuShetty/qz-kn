@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 26";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 26";			
 var quiz = [			
 {			
 "question" :	"	1. They told Saul where David was hiding.	",

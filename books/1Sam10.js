@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 10";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. Samuel poured this, on Saul’s head.	",

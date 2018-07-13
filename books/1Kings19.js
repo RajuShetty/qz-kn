@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 19";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. When she heard that Elijah killed the prophets of Baal, she promised to kill Elijah.	",
@@ -121,7 +121,7 @@ var quiz = [
 "explanation" :	"	So he departed thence, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him. 1 Kings 19:19	",
 },		 	                                                                                                                                                                                                                                  
 ]		 	
-var quiztitle = " 1 Kings chapter 19";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. When she heard that Elijah killed the prophets of Baal, she promised to kill Elijah.	",

@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 32";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 32";			
 var quiz = [			
 {			
 "question" :	"	1. This king had purposed to fight against Jerusalem.	",

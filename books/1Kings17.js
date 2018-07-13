@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 17";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. Elijah came before this king.	",

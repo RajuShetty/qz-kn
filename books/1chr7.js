@@ -1,7 +1,7 @@
-var quiztitle = " 1 Chronicles chapter 7";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter begins with the descendents of	",
+"question" :	"	1. This ಅಧ್ಯಾಯ begins with the descendents of	",
 "image" :	"",		
 "choices" : [			
 	"	a. Issachar.	",

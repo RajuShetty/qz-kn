@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 11";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
-"question" :	"	1. Jewish believers contended with Peter, because he ate with men who were	",
+"question" :	"	1 ಯೆಹೂದ್ಯ ಕ್ರೈಸ್ತರು ಪೇತ್ರನೊಂದಿಗೆ ವಿವಾದಿಸಿದರು, ಏಕೆಂದರೆ ಆತನು _______ ಜನರೊಂದಿಗೆ ಊಟ ಮಾಡಿದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Uncircumcised.	",
-	"	b. Unlearned.	",
-	"	c. Pharisees.	",
-	"	d. Sadducees.	"
+	"	A. ಸುನ್ನತಿಯಿಲ್ಲದ	",
+	"	B. ಕಲಿತಿಲ್ಲದ	",
+	"	C. ಫರಿಸಾಯ	",
+	"	D. ಸದ್ದುಕಾಯ	"
 ],			
-"correct" :	"	a. Uncircumcised.	",
-"explanation" :	"	And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,Saying, Thou wentest in to men uncircumcised, and didst eat with them.Acts11:2,3	",
+"correct" :	"	A. ಸುನ್ನತಿಯಿಲ್ಲದ	",
+"explanation" :	"	ಪೇತ್ರನು ಯೆರೂಸಲೇಮಿಗೆ ಬಂದಾಗ ಸುನ್ನತಿಯವರು - ನೀನು ಸುನ್ನತಿಯಿಲ್ಲದವರಲ್ಲಿ ಸೇರಿ ಅವರ ಸಂಗಡ ಊಟಮಾಡಿದೆಯಲ್ಲಾ ಎಂದು ಅವನ ಕೂಡ ವಿವಾದಿಸಿದರು. 11:2,3	",
 },			
 {			
-"question" :	"	2. Peter answered them, telling of how he saw this in Joppa.	",
+"question" :	"	2 ಯೊಪ್ಪದಲ್ಲಿ ತನಗಾದ ______ ಹೇಳುತ್ತಾ, ಪೇತ್ರನು ಅವರಿಗೆ ಉತ್ತರಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A famine	",
-	"	b. An earthquake	",
-	"	c. An angel	",
-	"	d. A vision	"
+	"	A. ಬರಗಾಲವನ್ನು	",
+	"	B. ಭೂಕಂಪವನ್ನು	",
+	"	C. ದೂತನನ್ನು	",
+	"	D. ದರ್ಶನವನ್ನು	"
 ],			
-"correct" :	"	d. A vision	",
-"explanation" :	"	I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:Acts11:5	",
+"correct" :	"	D. ದರ್ಶನವನ್ನು	",
+"explanation" :	"	ನಾನು ಯೊಪ್ಪ ಪಟ್ಟಣದಲ್ಲಿ ಪ್ರಾರ್ಥನೆಮಾಡುತ್ತಿದ್ದಾಗ ಧ್ಯಾನಪರವಶನಾಗಿದ್ದ ನನಗೆ ಒಂದು ದರ್ಶನವಾಯಿತು; ಅದೇನಂದರೆ ಆಕಾಶದಿಂದ ನಾಲ್ಕು ಮೂಲೆಗಳನ್ನು ಹಿಡಿದಿದ್ದ ದೊಡ್ಡ ಜೋಳಿಗೆಯಂತಿರುವ ಒಂದು ವಸ್ತುವು ಇಳಿಸಲ್ಪಟ್ಟು ನಾನಿದ್ದಲ್ಲಿಗೆ ಬಂತು. 11:5	",
 },			
 {			
-"question" :	"	3. Peter saw a sheet full of this.	",
+"question" :	"	3 ಪೇತ್ರನು ಒಂದು ಜೋಳಿಗೆಯ ತುಂಬಾ ಇದನ್ನು ಕಂಡನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. People	",
-	"	b. Beasts	",
-	"	c. Gold	",
-	"	d. Hope	"
+	"	A. ಆನರು	",
+	"	B. ಕ್ರಿಮಿಕೀಟಗಳು	",
+	"	C. ಅನ್ನ	",
+	"	D. ನಿರೀಕ್ಷೆ	"
 ],			
-"correct" :	"	b. Beasts	",
-"explanation" :	"	Upon the which when I had fastened mine eyes, I considered, and saw fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.Acts11:6	",
+"correct" :	"	B. ಕ್ರಿಮಿಕೀಟಗಳು	",
+"explanation" :	"	ಅದೇನೆಂದು ತಿಳುಕೊಳ್ಳುವದಕ್ಕೆ ನಾನು ಚೆನ್ನಾಗಿ ನೋಡಿದಾಗ ನೆಲದ ಮೇಲೆ ತಿರುಗಾಡುವ ಪಶು ಮೃಗ ಕ್ರಿಮಿಕೀಟಗಳನ್ನೂ ಅಂತರಿಕ್ಷದಲ್ಲಿ ಹಾರಾಡುವ ಹಕ್ಕಿಗಳನ್ನೂ ಕಂಡೆನು. 11:6	",
 },			
 {			
-"question" :	"	4. A voice from heaven answered Peter, saying, what God has cleansed do not call	",
+"question" :	"	4 ಆಕಾಶದಿಂದ ಒಂದು ಶಬ್ಧವು ಪೇತ್ರನಿಗೆ ಕೇಳಿಸಿತು, ‘ದೇವರು ಶುದ್ಧ ಮಾಡಿದ್ದನ್ನು ನೀನು _________  ಎನ್ನಬಾರದು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Clean.	",
-	"	b. Holy.	",
-	"	c. Common.	",
-	"	d. Brother.	"
+	"	A. ಶುದ್ಧ	",
+	"	B. ಪರಿಶುದ್ಧ	",
+	"	C. ಹೊಲೆ	",
+	"	D. ಸಹೋದರ	"
 ],			
-"correct" :	"	c. Common.	",
-"explanation" :	"	But the voice answered me again from heaven, What God hath cleansed, that call not thou common.Acts11:9	",
+"correct" :	"	C. ಹೊಲೆ	",
+"explanation" :	"	ಅದಕ್ಕೆ - ದೇವರು ಶುದ್ಧಮಾಡಿದ್ದನ್ನು ನೀನು ಹೊಲೆ ಎನ್ನಬಾರದು ಎಂಬದಾಗಿ ಎರಡನೆಯ ಸಾರಿ ಆಕಾಶವಾಣಿಯಾಯಿತು 11:9	",
 },			
 {			
-"question" :	"	5. How many men accompanied Peter to Caesarea?	",
+"question" :	"	5 ಕೈಸರದಿಂದ ಬಂದ ಎಷ್ಟು ಜನರು ಪೇತ್ರನ ಜೊತೆಗೂಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 6	",
-	"	c. 10	",
-	"	d. 12	"
+	"	A. 2	",
+	"	B. 6	",
+	"	C. 10	",
+	"	D. 12	"
 ],			
-"correct" :	"	b. 6	",
-"explanation" :	"	And, behold, immediately there were three men already come unto the house where I was, sent from Caesarea unto me.And the Spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man's house:Acts11:11,12	",
+"correct" :	"	B. 6	",
+"explanation" :	"	ಆ ಕ್ಷಣದಲ್ಲೇ ಮೂರು ಮಂದಿ ಮನುಷ್ಯರು ನಾವಿದ್ದ ಮನೆಯ ಮುಂದೆ ನಿಂತಿದ್ದರು. ಅವರು ಕೈಸರೈಯದಿಂದ ನನ್ನ ಹತ್ತರಕ್ಕೆ ಕಳುಹಿಸಲ್ಪಟ್ಟವರು. ದೇವರಾತ್ಮನು - ನೀನು ಏನೂ ಭೇದಮಾಡದೆ ಅವರ ಜೊತೆಯಲ್ಲಿ ಹೋಗು ಎಂದು ನನಗೆ ಹೇಳಿದನು. ಈ ಆರು ಮಂದಿ ಸಹೋದರರು ಸಹ ನನ್ನ ಸಂಗಡ ಬಂದರು 11:11,12	",
 },			
 {			
-"question" :	"	6. Who told the man in Caesarea to call for Peter?	",
+"question" :	"	6 ಪೇತ್ರನನ್ನು ಕರೆಯಿಸಿರಿ ಎಂದು ಕೈಸರದಲ್ಲಿ ಯಾರು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. An angel	",
-	"	b. Barnabas	",
-	"	c. Saul	",
-	"	d. Satan	"
+	"	A. ದೂತನು	",
+	"	B. ಬಾರ್ನಬ	",
+	"	C. ಸೌಲ	",
+	"	D. ಸಾತಾನ್	"
 ],			
-"correct" :	"	a. An angel	",
-"explanation" :	"	And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;Acts11:13	",
+"correct" :	"	A. ದೂತನು	",
+"explanation" :	"	ಆ ಮನುಷ್ಯನ ಮನೆಯೊಳಗೆ ನಾವು ಸೇರಲು ಅವನು ನಮಗೆ - ಒಬ್ಬ ದೇವದೂತನು ನನ್ನ ಮನೆಯಲ್ಲಿ ನಿಂತಿರುವದನ್ನು ಕಂಡೆನು. ಆ ದೂತನು - ನೀನು ಯೊಪ್ಪಕ್ಕೆ ಕಳುಹಿಸಿ ಪೇತ್ರನೆನಿಸಿಕೊಳ್ಳುವ ಸೀಮೋನನನ್ನು ಕರಿಸು 11:13	",
 },			
 {			
-"question" :	"	7. Peter remembered the Lord said, this man baptized with water, but ye shall be baptized with the Holy Ghost.	",
+"question" :	"	7 ‘ಈ ಮನುಷ್ಯನಂತೂ ನೀರಿನ ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿದನು, ನಿಮಗಾದರೋ ಪವಿತ್ರಾತ್ಮದಲ್ಲಿ ಸ್ನಾನವಾಗುವುದು’ ಎಂದು ಯೇಸುಸ್ವಾಮಿ ಹೇಳಿದ ಮಾತು ಪೇತ್ರನ ನೆನಪಿಗೆ ಬಂತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Moses	",
-	"	b. David	",
-	"	c. Noah	",
-	"	d. John	"
+	"	A. ಮೋಶೆ	",
+	"	B. ದಾವೀದ	",
+	"	C. ನೋಹ	",
+	"	D. ಯೊಹಾನ	"
 ],			
-"correct" :	"	d. John	",
-"explanation" :	"	Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost.Acts11:16	",
+"correct" :	"	D. ಯೊಹಾನ	",
+"explanation" :	"	ಆಗ - ಯೋಹಾನನಂತೂ ನೀರಿನ ದೀಕ್ಷಾಸ್ನಾನಮಾಡಿಸಿದನು; ನಿಮಗಾದರೋ ಪವಿತ್ರಾತ್ಮದಲ್ಲಿ ಸ್ನಾನವಾಗುವದು ಎಂದು ಯೇಸುಸ್ವಾಮಿ ಹೇಳಿದ ಮಾತು ನನ್ನ ನೆನಪಿಗೆ ಬಂತು 11:16	",
 },			
 {			
-"question" :	"	8. After Peter explained these things to those believers who contended with him, they	",
+"question" :	"	8 ಈ ಸಂಗತಿಗಳನ್ನೆಲ್ಲಾ ಪೇತ್ರನು ತನ್ನೊಂದಿಗೆ ವಿವಾದಿಸಿದವರಿಗೆ ಹೇಳಿದಾಗ, ಅವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Were angry.	",
-	"	b. Questioned him the more.	",
-	"	c. Glorified God.	",
-	"	d. Wept bitterly.	"
+	"	A. ಕೋಪಗೊಂಡರು	",
+	"	B. ಇನ್ನೂ ಹೆಚ್ಚಾಗಿ ಪ್ರಶ್ನಿಸಿದರು	",
+	"	C. ದೇವರಿಗೆ ಮಹಿಮೆ ಸಲ್ಲಿಸಿದರು	",
+	"	D. ಜೋರಾಗಿ ಅತ್ತರು	"
 ],			
-"correct" :	"	c. Glorified God.	",
-"explanation" :	"	When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life.Acts11:18	",
+"correct" :	"	C. ದೇವರಿಗೆ ಮಹಿಮೆ ಸಲ್ಲಿಸಿದರು	",
+"explanation" :	"	ಹೀಗೆಂದ ಮಾತುಗಳನ್ನು ಆ ಸುನ್ನತಿಯವರು ಕೇಳಿ ಆಕ್ಷೇಪಣೆ ಮಾಡುವದನ್ನು ಬಿಟ್ಟು - ಹಾಗಾದರೆ ದೇವರು ಅನ್ಯಜನರಿಗೂ ಜೀವಕೊಡಬೇಕೆಂದು ಅವರ ಮನಸ್ಸುಗಳನ್ನು ತನ್ನ ಕಡೆಗೆ ತಿರುಗಿಸಿದ್ದಾನೆ ಎಂದು ದೇವರನ್ನು ಕೊಂಡಾಡಿದರು. 11:18	",
 },			
 {			
-"question" :	"	9. Barnabas brought this man with him to Antioch.	",
+"question" :	"	9 ಬಾರ್ನಬನು ತನ್ನೊಂದಿಗೆ ಈ ಮನುಷ್ಯನನ್ನು ಅಂತಿಯೋಕ್ಯಕ್ಕೆ ಕರೆತಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Saul	",
-	"	b. James	",
-	"	c. Philip	",
-	"	d. Peter	"
+	"	A. ಸೌಲ	",
+	"	B. ಯಾಕೋಬ	",
+	"	C. ಫಿಲಿಪ್ಪಿ	",
+	"	D. ಪೇತ್ರ	"
 ],			
-"correct" :	"	a. Saul	",
-"explanation" :	"	Then departed Barnabas to Tarsus, for to seek Saul:And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.Acts11:25,26	",
+"correct" :	"	A. ಸೌಲ	",
+"explanation" :	"	ಆಗ ಬಹುಮಂದಿ ಕರ್ತನಿಗೆ ಸೇರಿಕೊಂಡರು. ತರುವಾಯ ಬಾರ್ನಬನು ಸೌಲನನ್ನು ಹುಡುಕುವದಕ್ಕಾಗಿ ತಾರ್ಸಕ್ಕೆ ಹೋಗಿ ಅವನನ್ನು ಕಂಡು ಅಂತಿಯೋಕ್ಯಕ್ಕೆ ಕರೆದುಕೊಂಡು ಬಂದನು. ಆಮೇಲೆ ಅವರು ಪೂರಾ ಒಂದು ವರುಷ ಸಭೆಯವರ ಸಂಗಡ ಕೂಡಿದ್ದು ಬಹು ಜನರಿಗೆ ಉಪದೇಶಮಾಡಿದರು. ಅಂತಿಯೋಕ್ಯದಲ್ಲಿಯೇ ಶಿಷ್ಯರಿಗೆ ಕ್ರೈಸ್ತರೆಂಬ ಹೆಸರು ಮೊದಲು ಬಂತು. 11:25,26	",
 },			
 {			
-"question" :	"	10. The disciples were first called Christians here.	",
+"question" :	"	10 ಶಿಷ್ಯರನ್ನು ಕ್ರೈಸ್ತರೆಂದು ಮೊದಲು ಕರೆದದ್ದು ಇಲ್ಲಿಯೇ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Antioch	",
-	"	b. Jerusalem	",
-	"	c. Corinth	",
-	"	d. Ephesus	"
+	"	A. ಅಂತಿಯೋಕ್ಯ	",
+	"	B. ಯೆರೂಷಲೇಮು	",
+	"	C. ಕೊರಿಂಥ	",
+	"	D. ಎಫೆಸ	"
 ],			
-"correct" :	"	a. Antioch	",
-"explanation" :	"	And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.Acts11:26	",
+"correct" :	"	A. ಅಂತಿಯೋಕ್ಯ	",
+"explanation" :	"	ಅವನನ್ನು ಕಂಡು ಅಂತಿಯೋಕ್ಯಕ್ಕೆ ಕರೆದುಕೊಂಡು ಬಂದನು. ಆಮೇಲೆ ಅವರು ಪೂರಾ ಒಂದು ವರುಷ ಸಭೆಯವರ ಸಂಗಡ ಕೂಡಿದ್ದು ಬಹು ಜನರಿಗೆ ಉಪದೇಶಮಾಡಿದರು. ಅಂತಿಯೋಕ್ಯದಲ್ಲಿಯೇ ಶಿಷ್ಯರಿಗೆ ಕ್ರೈಸ್ತರೆಂಬ ಹೆಸರು ಮೊದಲು ಬಂತು. 11:26	",
 },			
 ]			

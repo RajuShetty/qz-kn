@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 3";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. Solomon brought this man’s daughter to the city of David.	",

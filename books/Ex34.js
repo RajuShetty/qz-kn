@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 34";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 34";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord told Moses to make ready	",

@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 26";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 26";			
 var quiz = [			
 {			
 "question" :	"	1. God spoke to Moses and this son of Aaron.	",
@@ -6,7 +6,7 @@ var quiz = [
 "choices" : [			
 	"	a. Eleazar	",
 	"	b. Nathan	",
-	"	c. Philemon	",
+	"	c. ಫಿಲೆಮೋನನಿಗೆ	",
 	"	d. Cornelius	"
 ],			
 "correct" :	"	a. Eleazar	",

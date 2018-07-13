@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 10";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. ದೇವದೂತನು ಏನನ್ನು ಧರಿಸಿಕೊಂಡಿದ್ದನು?	",

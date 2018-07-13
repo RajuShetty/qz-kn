@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 6";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. Since the Lord brought His people from this land, He had not chosen a city to build His house in, or a man to be ruler over Israel.	",

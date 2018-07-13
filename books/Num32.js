@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 32";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 32";			
 var quiz = [			
 {			
 "question" :	"	1. These tribes asked Moses for the land without crossing Jordan.	",

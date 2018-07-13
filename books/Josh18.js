@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 18";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. All of the children of Israel gathered here.	",

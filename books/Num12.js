@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 12";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. They spoke against Moses.	",

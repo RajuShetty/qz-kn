@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 18";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. Jehoshaphat joined in league with this king of Israel.	",

@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 11";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. ಈಕೆಯು ಸರ್ಪದ ಕುಯುಕ್ತಿಗೆ ಮೋಸಹೋದಳು.	",

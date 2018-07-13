@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 20";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1. How many soldiers presented themselves in the assembly of the children of Israel?	",

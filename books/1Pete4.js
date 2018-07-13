@@ -1,4 +1,4 @@
-var quiztitle = " 1 Peter chapter 4";			
+var quiztitle = " 1 ಪೇತ್ರನು ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. ಮೊಟ್ಟಮೊದಲು ನಿಮ್ಮನಿಮ್ಮೊಳಗೆ ಇದಿರಲಿ.	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 5";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. Who was the king of Tyre?	",

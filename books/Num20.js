@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 20";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1. This woman died and was buried in Kadesh.	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 2";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. Who prayed?	",

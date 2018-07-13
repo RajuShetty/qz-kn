@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 16";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. The Passover was to be kept in the month of Abib, which is the month God brought Israel from here.	",
@@ -115,7 +115,7 @@ var quiz = [
 	"	a. Pray	",
 	"	b. Dance	",
 	"	c. Plant a grove of trees	",
-	"	d. Remove holy landmarks	"
+	"	d. Remove holy landಮಾರ್ಕs	"
 ],			
 "correct" :	"	c. Plant a grove of trees	",
 "explanation" :	"	Thou shalt not plant thee a grove of any trees near unto the altar of the LORD thy God, which thou shalt make thee. Deut 16:21	",

@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 5";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. Who told Pharaoh, God said, let my people go?	",
@@ -31,7 +31,7 @@ var quiz = [
 	"	a. Canaan	",
 	"	b. Mt. Horeb	",
 	"	c. The wilderness	",
-	"	d. Judea	"
+	"	d. ಯೂದನುa	"
 ],			
 "correct" :	"	c. The wilderness	",
 "explanation" :	"	And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness. Ex 5:1	",
@@ -58,7 +58,7 @@ var quiz = [
 	"	d. Curse the land.	"
 ],			
 "correct" :	"	b. Fall upon us with a pestilence or sword.	",
-"explanation" :	"	And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days' journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword. Ex 5:3	",
+"explanation" :	"	And they said, The God of the ಇಬ್ರಿಯರಿಗೆ hath met with us: let us go, we pray thee, three days' journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword. Ex 5:3	",
 },		 	
 {			
 "question" :	"	6. Pharaoh commanded the taskmasters, to no longer give this, to the people.	",
@@ -79,7 +79,7 @@ var quiz = [
 	"	a. Made the people make as many bricks.	",
 	"	b. Allowed the people to make less bricks.	",
 	"	c. Showed the people leniency.	",
-	"	d. Hired help for the Hebrews.	"
+	"	d. Hired help for the ಇಬ್ರಿಯರಿಗೆ.	"
 ],			
 "correct" :	"	a. Made the people make as many bricks.	",
 "explanation" :	"	And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish ought thereof: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God. Ex 5:8	",

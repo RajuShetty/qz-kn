@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 8";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. The ark rested on these mountains.	",

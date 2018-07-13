@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 10";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
-"question" :	"	1. Which disciple betrayed Jesus?	",
+"question" :	"	1. ಯೇಸುವನ್ನು ಹಿಡಿದುಕೊಟ್ಟ ಶಿಷ್ಯನು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Simon	",
-	"	b. Andrew	",
-	"	c. Judas Iscariot	",
-	"	d. Philip	"
+	"	A. ಹಿಮೋನ	",
+	"	B. ಆಂದ್ರೇಯ	",
+	"	C. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+	"	D. ಫಿಲಿಪ್ಪಿ	"
 ],			
-"correct" :	"	c. Judas Iscariot	",
-"explanation" :	"	Simon the Cananite, and Judas Iscariot, who also betrayed Him. - matt 10:4	",
+"correct" :	"	C. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+"explanation" :	"	ಯೇಸುವನ್ನು ಹಿಡಿದುಕೊಟ್ಟ ಇಸ್ಕರಿಯೋತ ಯೂದ.  ಮತ್ತಾಯ 10:4	",
 },			
 {			
-"question" :	"	2. Jesus sent the disciples to preach to them.	",
+"question" :	"	2. ಶಿಷ್ಯರನ್ನು ಯೇಸು ಇವರ ಬಳಿಗೆ ಉಪದೇಶಿಸಲು ಕಳುಹಿಸಿದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Philistines	",
-	"	b. The Romans	",
-	"	c. The Gentiles	",
-	"	d. The lost sheep of Israel	"
+	"	A. ಪಿಲಿಪ್ಪಿಯರಿಗೆ	",
+	"	B. ರೋಮಾಪುರದವರಿಗೆ	",
+	"	C. ಅನ್ಯಜನಗಳಿಗೆ	",
+	"	D. ತಪ್ಪಿಹೋದ ಕುರಿಗಳಂತಿರುವ ಇಸ್ರಾಯೇಲ್ಯರು	"
 ],			
-"correct" :	"	d. The lost sheep of Israel	",
-"explanation" :	"	These twelve Jesus sent out and commanded them, saying: Do not go into the way of the Gentiles, and do not enter a city of the Samaritans.But go rather to the lost sheep of the house of Israel.And as you go, preach, saying, 'The kingdom of heaven is at hand. - matt 10:5-7	",
+"correct" :	"	D. ತಪ್ಪಿಹೋದ ಕುರಿಗಳಂತಿರುವ ಇಸ್ರಾಯೇಲ್ಯರು	",
+"explanation" :	"	ಇವರನ್ನು ಬಿಟ್ಟು ತಪ್ಪಿಸಿಕೊಂಡ ಕುರಿಗಳಂತಿರುವ ಇಸ್ರಾಯೇಲನ ಮನೆತನದವರ ಬಳಿಗೆ ಹೋಗಿರಿ.  ಮತ್ತಾಯ 10:6	",
 },			
 {			
-"question" :	"	3. What did Jesus say they should do when departing a city that did not receive them?	",
+"question" :	"	3. ಯಾರಾದರು ನಿಮ್ಮನ್ನು ಸೇರಿಸಿಕೊಳ್ಳದೆ ಹೋದರೆ ಆ ಊರನ್ನು ಬಿಟುಹೋಗುವಾಗ ನೀವು ಏನು ಮಾಡಬೇಕೆಂದು ಯೇಸು ತನ್ನ ಶಿಷ್ಯರಿಗೆ ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Curse the ground	",
-	"	b. Pray for their forgiveness	",
-	"	c. Shake the dust off their feet	",
-	"	d. Turn back and re-enter the city	"
+	"	A. ಭೂಮಿಯನ್ನು ಶಪಿಸಬೇಕು	",
+	"	B. ಅವರ ಕ್ಷಮಾಪಣೆಗಾಗಿ ಪ್ರಾರ್ಥಿಸಬೇಕು	",
+	"	C. ಕಾಲಿನ ದೂಳನ್ನು ಜಾಡಿಸಬೇಕು	",
+	"	D. ಹಿಂತಿರುಗಿ ಮತ್ತೆ ಆ ಪಟ್ಟಣವನ್ನು ಪ್ರವೇಶಿಸಬೇಕು	"
 ],			
-"correct" :	"	c. Shake the dust off their feet	",
-"explanation" :	"	And whoever will not receive you nor hear your words, when you depart from that house or city, shake off the dust from your feet.- Matt 10:14	",
+"correct" :	"	C. ಕಾಲಿನ ದೂಳನ್ನು ಜಾಡಿಸಬೇಕು	",
+"explanation" :	"	ಯಾರಾದರೂ ನಿಮ್ಮನ್ನು ಸೇರಿಸಿಕೊಳ್ಳದೆಯೂ ನಿಮ್ಮ ವಾಕ್ಯಗಳನ್ನು ಕೇಳದೆಯೂ ಹೋದರೆ ನೀವು ಆ ಮನೆಯನ್ನಾಗಲಿ ಆ ಊರನ್ನಾಗಲಿ ಬಿಟ್ಟು ಹೊರಡುವಾಗ ನಿಮ್ಮ ಕಾಲಿಗೆ ಹತ್ತಿದ ದೂಳನ್ನು ಝಾಡಿಸಿಬಿಡಿರಿ.  ಮತ್ತಾಯ 10:14	",
 },			
 {			
-"question" :	"	4. Jesus instructed the disciples to be wise as serpents, and harmless as these.	",
+"question" :	"	4 ಆದುದರಿಂದ ಸರ್ಪಗಳಂತೆ ಜಾಣರೂ, ______ಗಳಂತೆ ನಿಷ್ಕಪಟಿಗಳೂ ಆಗಿರಿ ಎಂದು  ಯೇಸು ತನ್ನ ಶಿಷ್ಯರಿಗೆ ಸೂಚಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Doves	",
-	"	b. Butterflies	",
-	"	c. Babies	",
-	"	d. Angels	"
+	"	A. ಪಾರಿವಾಳ	",
+	"	B. ಚಿಟ್ಟೆ	",
+	"	C. ಮಕ್ಕಳು	",
+	"	D. ದೇವದೂತರು	"
 ],			
-"correct" :	"	a. Doves	",
-"explanation" :	"	Behold, I send you out as sheep in the midst of wolves. Therefore be wise as serpents and harmless as doves. - matt 10:16	",
+"correct" :	"	A. ಪಾರಿವಾಳ	",
+"explanation" :	"	ಆದುದರಿಂದ ಸರ್ಪಗಳಂತೆ ಜಾಣರೂ, ಪಾರಿವಾಳಗಳಂತೆ ನಿಷ್ಕಪಟಿಗಳೂ ಆಗಿರಿ.  ಮತ್ತಾಯ 10:16	",
 },			
 {			
-"question" :	"	5. He that endures to the end shall be	",
+"question" :	"	5 ಕಡೇವರೆಗೂ ತಾಳುವವನು _____ ಹೊಂದುವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rewarded.	",
-	"	b. Saved.	",
-	"	c. Honored.	",
-	"	d. Remembered.	"
+	"	A. ಬಹುದೂರ	",
+	"	B. ರಕ್ಷಣೆ	",
+	"	C. ಗೌರವ	",
+	"	D. ಸ್ಮರಣೆ	"
 ],			
-"correct" :	"	b. Saved.	",
-"explanation" :	"	And you will be hated by all for My name's sake. But he who endures to the end will be saved. - Matt 10:22	",
+"correct" :	"	B. ರಕ್ಷಣೆ	",
+"explanation" :	"	ಆದರೆ ಕಡೇವರೆಗೂ ತಾಳುವವನು ರಕ್ಷಣೆ ಹೊಂದುವನು.  ಮತ್ತಾಯ 10:23	",
 },			
 {			
-"question" :	"	6. Jesus said, not to fear them which are able to kill the body	",
+"question" :	"	6 ಯೇಸು ಹೇಳಿದ್ದು, ನೀವು ದೇಹವನ್ನು ಕೊಂದು, ______ ಹೆದರಬೇಡಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. But not the soul.	",
-	"	b. Because you shall rise again.	",
-	"	c. Because you have power over them.	",
-	"	d. For they shall pay with their actions.	"
+	"	A. ಆತ್ಮವನ್ನು ಕೊಲ್ಲಲಾರದವರಿಗೆ	",
+	"	B. ಮತ್ತೆ ನೀವು ಎದ್ದು ಬರುವುದರಿಂದ	",
+	"	C. ಏಕೆಂದರೆ ಅವರ ಮೇಲೆ ನಿಮಗೆ ಅಧಿಕಾರ ಉಂಟು	",
+	"	D. ಅವರ ತಮ್ಮ ಕೃತ್ಯಗಳಿಗೆ ದಂಡ ಪಾವತಿಸುವರು	"
 ],			
-"correct" :	"	a. But not the soul.	",
-"explanation" :	"	And do not fear those who kill the body but cannot kill the soul. But rather fear Him who is able to destroy both soul and body in hell. matt 10:28	",
+"correct" :	"	A. ಆತ್ಮವನ್ನು ಕೊಲ್ಲಲಾರದವರಿಗೆ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ದೇಹವನ್ನು ಕೊಂದು ಆತ್ಮವನ್ನು ಕೊಲ್ಲಲಾರದವರಿಗೆ ಹೆದರಬೇಡಿರಿ. ಮತ್ತಾಯ 10:28	",
 },			
 {			
-"question" :	"	7. What did Jesus say are numbered?	",
+"question" :	"	7 ಯಾವುದು ಎಣಿದೆಯಾಗಲ್ಪಟ್ಟಿದೆ ಎಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The sins of the world	",
-	"	b. The people of the world	",
-	"	c. The hairs of your head	",
-	"	d. My disciples	"
+	"	A. ಲೋಕದ ಪಾಪಗಳು	",
+	"	B. ಲೋಕದ ಜನರು	",
+	"	C. ನಿಮ್ಮ ತಲೇಕೂದಲುಗಳೂ	",
+	"	D. ನನ್ನ ಶಿಷ್ಯರು	"
 ],			
-"correct" :	"	c. The hairs of your head	",
-"explanation" :	"	But the very hairs of your head are all numbered. Matt 10:30	",
+"correct" :	"	C. ನಿಮ್ಮ ತಲೇಕೂದಲುಗಳೂ	",
+"explanation" :	"	ನಿಮ್ಮ ತಲೇಕೂದಲುಗಳು ಸಹ ಎಲ್ಲವೂ ಎಣಿಕೆಯಾಗಿವೆ.  ಮತ್ತಾಯ: 10:30	",
 },			
 {			
-"question" :	"	8. Jesus said, whoever confesses Him before men	",
+"question" :	"	8 ಯೇಸು ಹೇಳಿದ್ದು, ಜನರ ಮುಂದೆ ಯಾರು ನನ್ನನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುವರೋ _____	",
 "image" :	"",		
 "choices" : [			
-	"	a. He will confess before His Father.	",
-	"	b. Shall be exalted.	",
-	"	c. Shall be rewarded.	",
-	"	d. Is my disciple.	"
+	"	A. ತನ್ನ ತಂದೆಯ ಮುಂದೆ ಆತನು ಒಪ್ಪಿಕೊಳ್ಳುವನು	",
+	"	B. ಅವನು ಹೆಚ್ಚಿಸಲ್ಪಡುವನು	",
+	"	C. ಅವನು ಬಹುಮಾನ ಹೊಂದುವನು	",
+	"	D. ಅವನು ನನ್ನ ಶಿಷ್ಯನು	"
 ],			
-"correct" :	"	a. He will confess before His Father.	",
-"explanation" :	"	Therefore whoever confesses Me before men, him I will also confess before My Father who is in heaven. - matt 10:32	",
+"correct" :	"	A. ತನ್ನ ತಂದೆಯ ಮುಂದೆ ಆತನು ಒಪ್ಪಿಕೊಳ್ಳುವನು	",
+"explanation" :	"	ಯಾವನು ಮನುಷ್ಯರ ಮುಂದೆ ತಾನು ಯೇಸುವಿನವನೆಂದು ಒಪ್ಪಿಕೊಳ್ಳುವನೋ, ನಾನು ಸಹ ಅವನನ್ನು ನನ್ನವನೆಂದು ಪರಲೋಕದಲ್ಲಿರುವ ನನ್ನ ತಂದೆಯ ಮುಂದೆ ಒಪ್ಪಿಕೊಳ್ಳುವೆನು. ಮತ್ತಾಯ 10:32	",
 },			
 {			
-"question" :	"	9. Jesus said, he who does not do this, is not worthy of Me.	",
+"question" :	"	9 ಯೇಸು ಹೇಳಿದ್ದು, ಯಾರು ಇದನ್ನು ಮಾಡುವುದಿಲ್ಲವೋ ಅವರು ನನಗೆ  ಯೋಗ್ಯರಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pray	",
-	"	b. Fast	",
-	"	c. Tithe	",
-	"	d. Take his cross	"
+	"	A. ಪ್ರಾರ್ಥನೆ	",
+	"	B. ಉಪವಾಸ	",
+	"	C. ದಶಮಾಂಶ	",
+	"	D. ತನ್ನ ಶಿಲುಬೆಯನ್ನು ಹೊತ್ತುಕೊಳ್ಳದಿರುವುದು	"
 ],			
-"correct" :	"	d. Take his cross	",
-"explanation" :	"	And he who does not take his cross and follow after Me is not worthy of Me. - matt 10:38	",
+"correct" :	"	D. ತನ್ನ ಶಿಲುಬೆಯನ್ನು ಹೊತ್ತುಕೊಳ್ಳದಿರುವುದು	",
+"explanation" :	"	ಯಾವನಾದರೂ ತನ್ನ ಶಿಲುಬೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ನನ್ನ ಹಿಂದೆ ಬಂದ ಹೊರತು ನನಗೆ ಯೋಗ್ಯನಲ್ಲ. ಮತ್ತಾಯ 10:38	",
 },			
 {			
-"question" :	"	10. Jesus said, he that receives a righteous man, in the name of a righteous man, shall receive	",
+"question" :	"	10 ಯೇಸು ಹೇಳಿದ್ದು, ನೀತಿವಂತನನ್ನು ನೀತಿವಂತನೆಂದು ಸೇರಿಸಿಕೊಳ್ಳುವವನು ................... ಪಡೆದುಕೊಳ್ಳುವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. 10 fold.	",
-	"	b. 100 fold.	",
-	"	c. Much sorrow.	",
-	"	d. A righteous man’s reward.	"
+	"	A. 10 ರಷ್ಟು	",
+	"	B. 100 ರಷ್ಟು	",
+	"	C. ತುಂಬಾ ದು:ಖ	",
+	"	D. ನೀತಿವಂತನಿಗೆ ಸಿಗುವ ಬಹುಮಾನ	"
 ],			
-"correct" :	"	d. A righteous man’s reward.	",
-"explanation" :	"	He who receives a prophet in the name of a prophet shall receive a prophet's reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man's reward. - Matt 10:41	",
+"correct" :	"	D. ನೀತಿವಂತನಿಗೆ ಸಿಗುವ ಬಹುಮಾನ	",
+"explanation" :	"	ನೀತಿವಂತನನ್ನು ನೀತಿವಂತನೆಂದು ಸೇರಿಸಿಕೊಳ್ಳುವವನು ನೀತಿವಂತನಿಗೆ ಬರತಕ್ಕ ಪ್ರತಿಫಲವನ್ನು ಹೊಂದುವನು.  ಮತ್ತಾಯ 10:41	",
 },			
 ]			

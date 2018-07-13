@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 24";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 24";			
 var quiz = [			
 {			
 "question" :	"	1. Nadab, Abihu, Eleazar and Ithamar were the sons of 	",

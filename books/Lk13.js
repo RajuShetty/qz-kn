@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 13";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
-"question" :	"	1. Who had mingled the blood of some Galileans with sacrifices?	",
+"question" :	"	1. ಗಲಿಲಾಯದವರ ರಕ್ತವನ್ನು ಅವರು ಕೊಟ್ಟ ರಕ್ತವನ್ನು ಬಲಿಗಳ ಸಂಗಡ ಯಾರು ಬೆರೆಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pilate	",
-	"	b. Caiaphas	",
-	"	c. Potiphar	",
-	"	d. Ananias	"
+	"	A. ಪಿಲಾತ	",
+	"	B. ಕಾಯಫ	",
+	"	C. ಪೋಟಿಪೋರ	",
+	"	D. ಅನನೀಯ	"
 ],			
-"correct" :	"	a. Pilate	",
-"explanation" :	"	There were present at that season some who told Him about the Galileans whose blood Pilate had mingled with their sacrifices. - Lk 13:1	",
+"correct" :	"	A. ಪಿಲಾತ	",
+"explanation" :	"	ಅದೇ ಸಮಯದಲ್ಲಿ ಕೆಲವರು ಆತನ ಹತ್ತಿರದಲ್ಲಿದ್ದು - ಪಿಲಾತನು ಗಲಿಲಾಯದವರ ರಕ್ತವನ್ನು ಅವರು ಕೊಟ್ಟ ಬಲಿಗಳ ಸಂಗಡ  ಬೆರಸಿದನೆಂದು ಆತನಿಗೆ ತಿಳಿಸಿದರು.   ಲೂಕ 13:1	",
 },			
 {			
-"question" :	"	2. This fell on 18 people in Siloam.	",
+"question" :	"	2. ಸಿಲೋವಾಮಿನಲ್ಲಿ ಇದು 18 ಜನರ ಮೇಲೆ ಬಿತ್ತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A mountain	",
-	"	b. Leprosy	",
-	"	c. Fire & brimstone	",
-	"	d. A tower	"
+	"	A. ಬೆಟ್ಟ	",
+	"	B. ಕುಷ್ಠ	",
+	"	C. ಅಗ್ನಿ ಮತ್ತು ಗಂಧಕ	",
+	"	D. ಬುರುಜು	"
 ],			
-"correct" :	"	d. A tower	",
-"explanation" :	"	Or those eighteen on whom the tower in Siloam fell and killed them, do you think that they were worse sinners than all other men who dwelt in Jerusalem? - Lk 13:4	",
+"correct" :	"	D. ಬುರುಜು	",
+"explanation" :	"	ಇಲ್ಲವೆ ಸಿಲೋವಾಮಿನಲ್ಲಿ ಬುರುಜುಬಿದ್ದು ಸತ್ತ ಆ ಹದಿನೆಂಟು ಮಂದಿಯು ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ವಾಸವಾಗಿರುವ ಎಲ್ಲಾ ಮನುಷ್ಯರಿಗಿಂತಲೂ ಅಪರಾಧಿಗಳೆಂದು ಭಾವಿಸುತ್ತೀರೋ?   ಲೂಕ 13:4	",
 },			
 {			
-"question" :	"	3. In the parable, a man had this kind of tree planted that bare no fruit.	",
+"question" :	"	3. ಸಾಮ್ಯದಲ್ಲಿ ಒಬ್ಬನು ಒಂದು ಮರವನ್ನು  ನೆಡಿಸಿದ್ದನು, ಆದರೆ ಅದು ಫಲವನ್ನು ಕೊಡಲಲಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fig	",
-	"	b. Apple	",
-	"	c. Pear	",
-	"	d. Persimmon	"
+	"	A. ಅಂಜೂರ	",
+	"	B. ಆಪಲ್	",
+	"	C. ಸೀಬೆಹಣ್ಣು	",
+	"	D. ಪರ್ಸಿಮನ್	"
 ],			
-"correct" :	"	a. Fig	",
-"explanation" :	"	He also spoke this parable: A certain man had a fig tree planted in his vineyard, and he came seeking fruit on it and found none. - Lk 13:6	",
+"correct" :	"	A. ಅಂಜೂರ	",
+"explanation" :	"	ಆಮೇಲೆ ಆತನು ಒಂದು ಸಾಮ್ಯವನ್ನು ಹೇಳಿದನು.  ಅದೇನಂದರೆ - ಒಬ್ಬಾನೊಬ್ಬನು ತನ್ನ ದ್ರಾಕ್ಷೆಯ ತೋಟದಲ್ಲಿ ಒಂದು ಅಂಜೂರದ ಗಿಡವನ್ನು ನೆಡಿಸಿದ್ದನು.  ಲೂಕ 13:6	",
 },			
 {			
-"question" :	"	4. Jesus healed a woman who had been sick for this many years.	",
+"question" :	"	4. ಎಷ್ಟು ವರ್ಷಗಳಿಂದ ರೋಗಿಯಾಗಿದ್ದ ಸ್ತ್ರೀಯನ್ನು ಯೇಸು ಸ್ವಸ್ಥಪಡಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 12	",
-	"	c. 18	",
-	"	d. 38	"
+	"	A. 2	",
+	"	B. 12	",
+	"	C. 18	",
+	"	D. 38	"
 ],			
-"correct" :	"	c. 18	",
-"explanation" :	"	And behold, there was a woman who had a spirit of infirmity eighteen years, and was bent over and could in no way raise herself up.But when Jesus saw her, He called her to Him and said to her, Woman, you are loosed from your infirmity.And He laid His hands on her, and immediately she was made straight, and glorified God. - Lk 13:11-13	",
+"correct" :	"	C. 18	",
+"explanation" :	"	ಅಲ್ಲಿ ಹದಿನೆಂಟು ವರುಷಗಳಿಂದ ದೆವ್ವ ಬಡಿದು ಮೈಯಲ್ಲಿ ರೋಗವುಳ್ಳ ಒಬ್ಬ ಸ್ತ್ರೀಯು ಇದ್ದಳು.   ಲೂಕ 13:11	",
 },			
 {			
-"question" :	"	5. The ruler of the synagogue was full of indignation, because Jesus healed	",
+"question" :	"	5. ಸಭಾಮಂದಿರದ ಅಧಿಕಾರಿಯು ತುಂಬಾ ರೋಷವುಳ್ಳವನಾಗಿದ್ದನು, ಯಾಕೆಂದರೆ ಯೇಸು ಗುಣಪಡಿಸಿದ್ದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. On the Sabbath.	",
-	"	b. A Samaritan.	",
-	"	c. A sinner.	",
-	"	d. Outside the synagogue.	"
+	"	A. ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ	",
+	"	B. ಸಮಾರ್ಯದವನನ್ನು	",
+	"	C. ಪಾಪಿಯನ್ನು	",
+	"	D. ಸಭಾಮಂದಿರದ ಹೊರಗೆ	"
 ],			
-"correct" :	"	a. On the Sabbath.	",
-"explanation" :	"	But the ruler of the synagogue answered with indignation, because Jesus had healed on the Sabbath; and he said to the crowd, There are six days on which men ought to work; therefore come and be healed on them, and not on the Sabbath day. - Lk 13:14	",
+"correct" :	"	A. ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ	",
+"explanation" :	"	ಆದರೆ ಸಭಾಮಂದಿರದ ಅಧಿಕಾರಿಯು ನಡೆದ  ಸಂಗತಿಯನ್ನು ನೋಡಿ ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಯೇಸು ಸ್ವಸ್ಥಮಾಡಿದನಲ್ಲಾ  ಎಂದು ರೋಷಗೊಂಡು ಜನರಿಗೆ;  ಲೂಕ 13:14	",
 },			
 {			
-"question" :	"	6. Jesus likened the kingdom of God unto a grain of	",
+"question" :	"	6. ಯೇಸು ಪರಲೋಕ ರಾಜ್ಯವನ್ನು ಈ ಕಾಳಿಗೆ ಹೋಲಿಸಿದ್ದಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Corn.	",
-	"	b. Wheat.	",
-	"	c. Salt.	",
-	"	d. Mustard seed.	"
+	"	A. ಜೋಳ	",
+	"	B. ಗೋಧಿ	",
+	"	C. ಉಪ್ಪು	",
+	"	D. ಸಾಸಿವೆ ಬೀಜ	"
 ],			
-"correct" :	"	d. Mustard seed.	",
-"explanation" :	"	Then He said, What is the kingdom of God like? And to what shall I compare it? It is like a mustard seed, which a man took and put in his garden; and it grew and became a large tree, and the birds of the air nested in its branches. - Lk 13:18-19	",
+"correct" :	"	D. ಸಾಸಿವೆ ಬೀಜ	",
+"explanation" :	"	ಆತನು ಹೇಳಿದ್ದೇನಂದರೆ - ದೇವರ ರಾಜ್ಯವು ಯಾವದಕ್ಕೆ ಹೋಲಿಕೆಯಾಗಿದೆ?  ಅದನ್ನು ನಾನು ಯಾವದಕ್ಕೆ ಹೋಲಿಸಲಿ? ಅದು ಸಾಸಿವೆ ಕಾಳಿಗೆ ಹೋಲಿಕೆಯಾಗಿದೆ.  ಲೂಕ 13:18-19	",
 },			
 {			
-"question" :	"	7. Jesus likened the kingdom of God unto	",
+"question" :	"	7. ಯೇಸು ಪರಲೋಕ ರಾಜ್ಯವನ್ನು ಇದಕ್ಕೆ ಹೋಲಿಸಿದ್ದಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Leaven.	",
-	"	b. The wind.	",
-	"	c. A cloud.	",
-	"	d. A roaring lion.	"
+	"	A. ಹುಳಿಹಿಟ್ಟು	",
+	"	B. ಗಾಳಿ	",
+	"	C. ಮೋಡ	",
+	"	D. ಘರ್ಜಿಸುವ ಸಿಂಹ	"
 ],			
-"correct" :	"	a. Leaven.	",
-"explanation" :	"	And again He said, To what shall I liken the kingdom of God? It is like leaven, which a woman took and hid in three measures of meal till it was all leavened. - Lk 13:20-21	",
+"correct" :	"	A. ಹುಳಿಹಿಟ್ಟು	",
+"explanation" :	"	ಆತನೂ ಇನ್ನೂ ಹೇಳಿದ್ದೇನೆಂದರೆ - ದೇವರ ರಾಜ್ಯವನ್ನು ನಾನು ಯಾವದಕ್ಕೆ ಹೋಲಿಸಲಿ?  ಅದು ಹುಳಿಹಿಟ್ಟಿಗೆ ಹೋಲಿಕೆಯಾಗಿದೆ.  ಲೂಕ 13:20	",
 },			
 {			
-"question" :	"	8. Jesus said, strive to enter at the	",
+"question" :	"	8. ಯೇಸು ಹೇಳಿದ್ದು _____ ಒಳಕ್ಕೆ ಹೋಗಲು ಹೆಣಗಾಡಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. City gate.	",
-	"	b. Temple gate.	",
-	"	c. Straight gate.	",
-	"	d. Pearly gate.	"
+	"	A. ಪಟ್ಟಣದ ಬಾಗಿಲಿನಿಂದ	",
+	"	B. ಆಲಯದ ಬಾಗಿಲಿನಿಂದ	",
+	"	C. ಇಕ್ಕಟ್ಟಾದ ಬಾಗಿಲಿನಿಂದ	",
+	"	D. ಮುತ್ತುಗಳ ಬಾಗಿಲಿನಿಂದ	"
 ],			
-"correct" :	"	c. Straight gate.	",
-"explanation" :	"	Strive to enter through the narrow gate, for many, I say to you, will seek to enter and will not be able. - Lk 13:24	",
+"correct" :	"	C. ಇಕ್ಕಟ್ಟಾದ ಬಾಗಿಲಿನಿಂದ	",
+"explanation" :	"	ಆತನು ಅವರಿಗೆ - ಇಕ್ಕಟ್ಟಾದ ಬಾಗಿಲಿನಿಂದ ಒಳಕ್ಕೆ ಹೋಗುವದಕ್ಕೆ ಹೆಣಗಾಡಿರಿ;   ಲೂಕ 13:24	",
 },			
 {			
-"question" :	"	9. The Pharisees warned Jesus that this man would kill him	",
+"question" :	"	9. ಈ ಮನುಷ್ಯನು ನಿನ್ನನ್ನು ಕೊಲ್ಲಬಹುದು ಎಂದು ಯೇಸುವಿಗೆ ಕೆಲವು ಮಂದಿ ಫರಿಸಾಯರು ಎಚ್ಚರಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Herod	",
-	"	b. Pharaoh	",
-	"	c. Simeon	",
-	"	d. Elijah	"
+	"	A. ಹೆರೋದ	",
+	"	B. ಫರೋಹ	",
+	"	C. ಸಿಮಿಯೋನ	",
+	"	D. ಎಲೀಯ	"
 ],			
-"correct" :	"	a. Herod	",
-"explanation" :	"	On that very day some Pharisees came, saying to Him, Get out and depart from here, for Herod wants to kill You. - Lk 13:31	",
+"correct" :	"	A. ಹೆರೋದ	",
+"explanation" :	"	ಅದೇ ಗಳಿಗೆಯಲ್ಲಿ ಕೆಲವು ಮಂದಿ ಫರಿಸಾಯರು ಹತ್ತಿರ ಬಂದು ಆತನಿಗೆ ನೀನು ಇಲ್ಲಿಂದ ಹೊರಟುಹೋಗು, ಹೆರೋದನು ನಿನ್ನನ್ನು ಕೊಲ್ಲಬೇಕೆಂದಿದ್ದಾನೆ ಎಂದು ಹೇಳಲು;   ಲೂಕ 13:31	",
 },			
 {			
-"question" :	"	10. Who killed the prophets?	",
+"question" :	"	10. ಪ್ರವಾದಿಗಳನ್ನು ಕೊಂದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Syria	",
-	"	b. Egypt	",
-	"	c. The Midian	",
-	"	d. Jerusalem	"
+	"	A. ಸಿರಿಯಾ	",
+	"	B. ಐಗುಪ್ತ	",
+	"	C. ಮಿದ್ಯಾನ್ಯ	",
+	"	D. ಯೆರೂಷಲೇಮೆ್	"
 ],			
-"correct" :	"	d. Jerusalem	",
-"explanation" :	"	O Jerusalem, Jerusalem, the one who kills the prophets and stones those who are sent to her! How often I wanted to gather your children together, as a hen gathers her brood under her wings, but you were not willing - Lk 13:34	",
+"correct" :	"	D. ಯೆರೂಷಲೇಮೆ್	",
+"explanation" :	"	ಯೆರೂಸಲೇಮೇ, ಯೆರೂಸಲೇಮೇ, ಪ್ರವಾದಿಗಳ ಪ್ರಾಣ ತೆಗೆಯುವವಳೇ, ದೇವರು ನಿನ್ನ ಬಳಿಗೆ ಕಳುಹಿಸಿಕೊಟ್ಟವರನ್ನು ಕಲ್ಲೆಸೆದು ಕೊಲ್ಲುವವಳೇ,   ಲೂಕ 13:34	",
 },			
 ]			

@@ -1,4 +1,4 @@
-var quiztitle = "1 Timothy chapter 6 ";			
+var quiztitle = "1 ತಿಮೊಥೆಯನಿಗೆ ಅಧ್ಯಾಯ 6 ";			
 var quiz = [			
 {			
 "question" :	"	1. ದಾಸರಾಗಿ ಮತ್ತೊಬ್ಬರ ಅಧೀನದಲ್ಲಿರುವವರು ತಮ್ಮ ಯಜಮಾನರನ್ನು	",

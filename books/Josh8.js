@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 8";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. God told Joshua, he would do to Ai and her king, as he did to 	",

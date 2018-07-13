@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 7";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. ನಾಲ್ಕು ದೇವದೂತರು ಏನನ್ನು ಹಿಡಿದಿದ್ದರು?	",

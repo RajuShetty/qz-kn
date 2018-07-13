@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 10";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. Ahab had this many sons in Samaria.	",

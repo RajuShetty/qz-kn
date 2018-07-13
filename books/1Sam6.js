@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 6";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. How long was the ark of the Lord in the country of the Philistines?	",

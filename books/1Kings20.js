@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 20";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1. Benhadad gathered all his host together with this many kings and warred against Samaria.	",

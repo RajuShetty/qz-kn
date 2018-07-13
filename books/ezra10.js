@@ -109,7 +109,7 @@ var quiz = [
 "explanation" :	"	And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away. Ezra 10:8	",
 },			
 {			
-"question" :	"	10. The chapter lists those who	",
+"question" :	"	10. The ಅಧ್ಯಾಯ lists those who	",
 "image" :	"",		
 "choices" : [			
 	"	a. Returned to Babylon.	",

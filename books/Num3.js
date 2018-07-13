@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 3";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. These two men died before the Lord.	",

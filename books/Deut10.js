@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 10";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. Moses was told to hew this of stone.	",

@@ -1,7 +1,7 @@
-var quiztitle = " Joshua  chapter 12";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter gives a list of	",
+"question" :	"	1. This ಅಧ್ಯಾಯ gives a list of	",
 "image" :	"",		
 "choices" : [			
 	"	a. Animals.	",

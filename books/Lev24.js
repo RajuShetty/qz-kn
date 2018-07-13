@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 24";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 24";			
 var quiz = [			
 {			
 "question" :	"	1. What kind of oil were the children of Israel to bring?	",

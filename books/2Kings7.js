@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 7";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. When a lord questioned the words of Elisha saying there would be food the next day, Elisha told him he would see it	",

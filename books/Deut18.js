@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 18";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. This tribe shall have no part or inheritance with Israel.	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 14";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. Who did Jonathan take with him to the garrison of the Philistines?	",

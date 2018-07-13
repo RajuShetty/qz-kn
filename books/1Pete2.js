@@ -1,4 +1,4 @@
-var quiztitle = " 1 Peter chapter 2";			
+var quiztitle = " 1 ಪೇತ್ರನು ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಎಲ್ಲಾ ಕೆಟ್ಟತನವನ್ನೂ ಎಲ್ಲಾ ವಂಚನೆಯನ್ನೂ ಕಪಟವನ್ನೂ	",

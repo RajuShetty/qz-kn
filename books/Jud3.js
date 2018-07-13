@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 3";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. The children of Israel disobeyed God by doing this, with other nations.	",

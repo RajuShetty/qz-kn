@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 15";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord’s release shall be at the end of every 	",

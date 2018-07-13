@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 5";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. Who sang the song?	",
@@ -66,11 +66,11 @@ var quiz = [
 "choices" : [			
 	"	a. Their bravery.	",
 	"	b. Deborah & Barak.	",
-	"	c. The Lord’s righteous acts.	",
+	"	c. The Lord’s righteous ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು.	",
 	"	d. Abraham, Isaac & Jacob.	"
 ],			
-"correct" :	"	c. The Lord’s righteous acts.	",
-"explanation" :	"	They that are delivered from the noise of archers in the places of drawing water, there shall they rehearse the righteous acts of the LORD, even the righteous acts toward the inhabitants of his villages in Israel: then shall the people of the LORD go down to the gates. Jud 5:11	",
+"correct" :	"	c. The Lord’s righteous ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು.	",
+"explanation" :	"	They that are delivered from the noise of archers in the places of drawing water, there shall they rehearse the righteous ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು of the LORD, even the righteous ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು toward the inhabitants of his villages in Israel: then shall the people of the LORD go down to the gates. Jud 5:11	",
 },		 	
 {			
 "question" :	"	7. She shall be blessed among women.	",

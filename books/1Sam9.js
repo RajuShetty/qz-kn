@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 9";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. What was the name of Saul’s father?	",

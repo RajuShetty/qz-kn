@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 1";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
-"question" :	"	1. Where did John Baptize Jesus?	",
+"question" :	"	1  ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು ಯೇಸುವಿಗೆ ಎಲ್ಲಿ ದೀಕ್ಷಾಸ್ನಾನ ನೀಡಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jordan River	",
-	"	b. Sea of Galilee	",
-	"	c. Red Sea	",
-	"	d. Dead Sea	"
+	"	A. ಯೋರ್ದಾನ್ ನದಿಯಲ್ಲಿ	",
+	"	B. ಗಲಿಲಾಯ ಸಮುದ್ರದಲ್ಲಿ	",
+	"	C. ಕೆಂಪು ಸಮುದ್ರದಲ್ಲಿ	",
+	"	D. ಮೃತ ಸಮುದ್ರದಲ್ಲಿ	"
 ],			
-"correct" :	"	a. Jordan River	",
-"explanation" :	"	It came to pass in those days that Jesus came from Nazareth of Galilee, and was baptized by John in the Jordan. - Mr 1:9	",
+"correct" :	"	A. ಯೋರ್ದಾನ್ ನದಿಯಲ್ಲಿ	",
+"explanation" :	"	ಆ ದಿನಗಳಲ್ಲಿ ಯೇಸು ಗಲಿಲಾಯ ಸೀಮೆಗೆ ಸೇರಿದ ನಜರೇತೆಂಬ ಊರಿನಿಂದ ಬಂದು ಯೊರ್ದನ್ ಹೊಳೆಯಲ್ಲಿ ಯೋಹಾನನಿಂದ ಸ್ನಾನ ಮಾಡಿಸಿಕೊಂಡನು.  ಮಾರ್ಕ 1:9	",
 },			
 {			
-"question" :	"	2. How long did Jesus stay in the wilderness?	",
+"question" :	"	2  ಯೇಸು ಅಡವಿಯಲ್ಲಿ ಎಷ್ಟು ದಿನಗಳಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 10 days	",
-	"	b. 20 days	",
-	"	c. 30 days	",
-	"	d. 40 days	"
+	"	A. 10 ದಿನಗಳು	",
+	"	B. 20 ದಿನಗಳು	",
+	"	C. 30 ದಿನಗಳು	",
+	"	D. 40 ದಿನಗಳು	"
 ],			
-"correct" :	"	d. 40 days	",
-"explanation" :	"	And He was there in the wilderness forty days, tempted by Satan, and was with the wild beasts; and the angels ministered to Him. - Mr 1:13	",
+"correct" :	"	D. 40 ದಿನಗಳು	",
+"explanation" :	"	ಆತನು ನಾಲ್ವತ್ತು ದಿವಸ ಅಡವಿಯಲ್ಲಿ ಮೃಗಗಳೊಂದಿಗೆ ಇದ್ದು ಸೈತಾನನಿಂದ ಶೋಧಿಸಲ್ಪಡುವವನಾದನು.  ಮಾರ್ಕ 1:13	",
 },			
 {			
-"question" :	"	3. Jesus preached, saying, the kingdom of God is at hand,	",
+"question" :	"	3  ದೇವರ ರಾಜ್ಯ ಸಮೀಪಿಸಿತು,_____________ ಎಂದು ಯೇಸು ಸಾರಿಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hearken to the law.	",
-	"	b. Repent & believe the gospel.	",
-	"	c. Cleanse your hands ye sinners.	",
-	"	d. The Spirit dwell in you.	"
+	"	A. ಧರ್ಮಶಾಸ್ತ್ರವನ್ನು ಕೇಳಿರಿ	",
+	"	B. ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಂಡು ಸುವಾರ್ತೆಯನ್ನು ನಂಬಿರಿ	",
+	"	C. ಪಾಪಿಗಳೇ, ನಿಮ್ಮ ಕೈಗಳನ್ನು ಶುದ್ಧಿಮಾಡಿಕೊಳ್ಳಿರಿ	",
+	"	D. ದೇವರಾತ್ಮನು ನಿಮ್ಮಲ್ಲಿ ವಾಸಿಸುವನು	"
 ],			
-"correct" :	"	b. Repent & believe the gospel.	",
-"explanation" :	"	and saying, The time is fulfilled, and the kingdom of God is at hand. Repent, and believe in the gospel. - Mr 1:15	",
+"correct" :	"	B. ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಂಡು ಸುವಾರ್ತೆಯನ್ನು ನಂಬಿರಿ	",
+"explanation" :	"	ಕಾಲ ಪರಿಪೂರ್ಣವಾಯಿತು, ದೇವರ ರಾಜ್ಯವು ಸಮೀಪಿಸಿತು, ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಂಡು ಸುವಾರ್ತೆಯನ್ನು ನಂಬಿರಿ ಎಂದು ದೇವರ ಸುವಾರ್ತೆಯನ್ನು ಸಾರಿ ಹೇಳಿದನು. ಮಾರ್ಕ 1:15	",
 },			
 {			
-"question" :	"	4. After calling Andrew and Simon to follow Him, Jesus called these two brothers.	",
+"question" :	"	4  ಆಂದ್ರೇಯ ಮತ್ತು ಸೀಮೋನನನ್ನು ತನ್ನನ್ನು ಹಿಂಬಾಲಿಸುವಂತೆ ಕರೆದ ಮೇಲೆ ಯೇಸು ಇವರನ್ನು  ಕರೆದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. James & Mark	",
-	"	b. Mark & Luke	",
-	"	c. James & John	",
-	"	d. John & Mark	"
+	"	A. ಯಾಕೋಬ ಮತ್ತು ಮಾರ್ಕ	",
+	"	B. ಮಾರ್ಕ ಮತ್ತು ಲೂಕ	",
+	"	C. ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+	"	D. ಯೋಹಾನ ಮತ್ತು ಮಾರ್ಕ	"
 ],			
-"correct" :	"	c. James & John	",
-"explanation" :	"	When He had gone a little farther from there, He saw James the son of Zebedee, and John his brother, who also were in the boat mending their nets. And immediately He called them, and they left their father Zebedee in the boat with the hired servants, and went after Him. - Mr 1:19,20	",
+"correct" :	"	C. ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+"explanation" :	"	ಇನ್ನೂ ಸ್ವಲ್ಪ ಮುಂದೆ ಹೋಗಿ ಜೆಬೆದಾಯನ ಮಗನಾದ ಯಾಕೋಬನನ್ನೂ ಅವನ ತಮ್ಮನಾದ ಯೋಹಾನನ್ನೂ ಕಂಡನು.  ಇವರು ದೋಣಿಯಲ್ಲಿ ತಮ್ಮ ಬಲೆಗಳನ್ನು ಸರಿಮಾಡುತ್ತಿದ್ದರು.  ಕೂಡಲೆ ಇವರನ್ನೂ ಕರೆದನು.  ಅವರು ತಮ್ಮ ತಂದೆಯಾದ ಜೆಬೆದಾಯನನ್ನು ಕೂಲಿಯಾಳುಗಳ ಸಂಗಡ ದೋಣಿಯಲ್ಲಿ ಬಿಟ್ಟು ಆತನ ಹಿಂದೆ ಹೋದರು.  ಮಾರ್ಕ1:19-20	",
 },			
 {			
-"question" :	"	5. Where was Jesus, when He commanded the unclean spirit to come out of a man?	",
+"question" :	"	5  ಯೇಸು ಒಂದು ದೆವ್ವಕ್ಕೆ, ಇವನನ್ನು ಬಿಟ್ಟುಹೋಗು ಎಂದು ಆಜ್ಞಾಪಿಸಿದಾಗ ಯೇಸು ಎಲ್ಲಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. In the market place	",
-	"	b. At a house	",
-	"	c. In the synagogue	",
-	"	d. At the Jordan River	"
+	"	A. ಪೇಟೆ ಬೀದಿಗಳಲ್ಲಿ	",
+	"	B. ಮನೆಯಲ್ಲಿ	",
+	"	C. ಸಭಾಮಂದಿರದಲ್ಲಿ	",
+	"	D. ಯೋರ್ದಾನ್ ನದಿಯಲ್ಲಿ	"
 ],			
-"correct" :	"	c. In the synagogue	",
-"explanation" :	"	Now there was a man in their synagogue with an unclean spirit. And he cried out, saying, Let us alone! What have we to do with You, Jesus of Nazareth? Did You come to destroy us? I know who You are--the Holy One of God!But Jesus rebuked him, saying, Be quiet, and come out of him! - Mr 1:23-25	",
+"correct" :	"	C. ಸಭಾಮಂದಿರದಲ್ಲಿ	",
+"explanation" :	"	ಆಗ ಅವರ ಸಭಾಮಂದಿರದಲ್ಲಿ ದೆವ್ವಹಿಡಿದ ಒಬ್ಬ ಮನುಷ್ಯನಿದ್ದನು.  ಆ ದೆವ್ವವು ನಜರೇತಿನ ಯೇಸುವೇ, ನಮ್ಮ ಗೊಡವೆ ನಿನಗೇಕೆ? ನಮ್ಮನ್ನು ನಾಶ ಮಾಡುವದಕ್ಕೆ ಬಂದೆಯಾ? ನಿನ್ನನ್ನು ಬಲ್ಲೆನು; ನೀನು ದೇವರು ಪ್ರತಿಷ್ಠಿಸಿದವನೇ ಎಂದು ಕೂಗಿ ಹೇಳಿತು.  ಯೇಸು ಅದನ್ನು ಗದರಿಸಿ-ಸುಮ್ಮನಿರು, ಇವನನ್ನು ಬಿಟ್ಟು ಹೋಗು ಎನ್ನಲಾಗಿ..      ಮಾರ್ಕ1:23-25	",
 },			
 {			
-"question" :	"	6. Whose mother-in-law was sick of a fever?	",
+"question" :	"	6  ಯಾರ ಅತ್ತೆಯು ಜ್ವರದಿಂದ ಬಳಲುತ್ತಿದ್ದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Simon	",
-	"	b. Andrew	",
-	"	c. Mark	",
-	"	d. John	"
+	"	A. ಸೀಮೋನ	",
+	"	B. ಆಂದ್ರೇಯ	",
+	"	C. ಮಾರ್ಕ	",
+	"	D. ಯೋಹಾನ	"
 ],			
-"correct" :	"	a. Simon	",
-"explanation" :	"	But Simon's wife's mother lay sick with a fever, and they told Him about her at once. - Mr 1:30	",
+"correct" :	"	A. ಸೀಮೋನ	",
+"explanation" :	"	ಅಲ್ಲಿ ಸೀಮೋನನ ಅತ್ತೆ ಜ್ವರ ಬಂದು ಮಲಗಿರಲಾಗಿ ಅವರು ಆಕೆಯ ಸಂಗತಿಯನ್ನು ಆತನಿಗೆ ತಿಳಿಸಿದರು.    ಮಾರ್ಕ 1:30	",
 },			
 {			
-"question" :	"	7. Who gathered at her door?	",
+"question" :	"	7  ಬಾಗಿಲಿನ ಮುಂದೆ ಯಾರು ಒಟ್ಟುಗೂಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pharisees	",
-	"	b. Doctors & nurses	",
-	"	c. Scribes	",
-	"	d. Many that were sick	"
+	"	A. ಫರಿಸಾಯರು	",
+	"	B. ವೈದ್ಯರು ಮತ್ತು ಶುಶ್ರೂಷಕಿಯರು	",
+	"	C. ಸದ್ದುಕಾಯರು	",
+	"	D. ಮೈಯಲ್ಲಿ ನೆಟ್ಟಗಿಲ್ಲದೇ ಇರುವ ಬಹಳಷ್ಟು ಮಂದಿ	"
 ],			
-"correct" :	"	d. Many that were sick	",
-"explanation" :	"	At evening, when the sun had set, they brought to Him all who were sick and those who were demon-possessed. And the whole city was gathered together at the door. - Mr 1:32-33	",
+"correct" :	"	D. ಮೈಯಲ್ಲಿ ನಟ್ಟಗಿಲ್ಲದೇ ಇರುವ ಬಹಳಷ್ಟು ಮಂದಿ	",
+"explanation" :	"	ಸಂಜೆಯಾಗಿ ಹೊತ್ತು ಮುಣುಗಿದ ಮೇಲೆ ಜನರು ಮೈಯಲ್ಲಿ ನೆಟ್ಟಗಿಲ್ಲದವರೆಲ್ಲರನ್ನೂ ದೆವ್ವ ಹಿಡಿದವರನ್ನೂ ಆತನ ಬಳಿಗೆ ಕರತಂದರು.  ಊರೆಲ್ಲಾ ಬಾಗಲಿನ ಮುಂದೆ ಒಟ್ಟುಗೂಡಿತ್ತು.  ಮಾರ್ಕ 1:32-33	",
 },			
 {			
-"question" :	"	8. What did Jesus rise early to do?	",
+"question" :	"	8  ಮುಂಜಾನೆ ಯೇಸು ಬೇಗ ಎದ್ದು ಏನು ಮಾಡುತ್ತಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Travel	",
-	"	b. Pray	",
-	"	c. Eat	",
-	"	d. Preach	"
+	"	A. ಪ್ರಯಾಣ	",
+	"	B. ಪ್ರಾರ್ಥನೆ	",
+	"	C. ತಿನ್ನುವುದು	",
+	"	D. ಭೋದಿಸುವುದು	"
 ],			
-"correct" :	"	b. Pray	",
-"explanation" :	"	Now in the morning, having risen a long while before daylight, He went out and departed to a solitary place; and there He prayed. - Mr 1:35	",
+"correct" :	"	B. ಪ್ರಾರ್ಥನೆ	",
+"explanation" :	"	ಮುಂಜಾನೆ ಇನ್ನೂ ಮೊಬ್ಬಿರುವಾಗ ಆತನು ಎದ್ದು ಹೊರಟು ಅಡವಿಯ ಸ್ಥಳಕ್ಕೆ ಹೋಗಿ ದೇವರನ್ನು ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದನು.  ಮಾರ್ಕ 1:35	",
 },			
 {			
-"question" :	"	9. What did the leper say to Jesus?	",
+"question" :	"	9  ಕುಷ್ಠರೋಗಿಯು ಯೇಸುವಿಗೆ ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Unclean! Unclean!	",
-	"	b. Be merciful & touch my body.	",
-	"	c. If thou wilt, thou canst make me clean.	",
-	"	d. Ask of the Father on my behalf.	"
+	"	A. ಅಶುದ್ಧರು! ಅಶುದ್ಧರು!	",
+	"	B. ಕರುಣೆಯುಳ್ಳವರಾಗಿ ನನ್ನ ದೇಹವನ್ನು ಮುಟ್ಟಿರಿ	",
+	"	C. ಸ್ವಾಮಿ, ನಿನಗೆ ಮನಸ್ಸಿದ್ದರೆ, ನನ್ನನ್ನು ಶುದ್ಧ ಮಾಡಬಲ್ಲೆ	",
+	"	D. ನನ್ನ ಪರವಾಗಿ ತಂದೆಯನ್ನು ಕೇಳು	"
 ],			
-"correct" :	"	c. If thou wilt, thou canst make me clean.	",
-"explanation" :	"	Now a leper came to Him, imploring Him, kneeling down to Him and saying to Him, If You are willing, You can make me clean. - Mr 1:40	",
+"correct" :	"	C. ಸ್ವಾಮಿ, ನಿನಗೆ ಮನಸ್ಸಿದ್ದರೆ, ನನ್ನನ್ನು ಶುದ್ಧ ಮಾಡಬಲ್ಲೆ	",
+"explanation" :	"	ಒಬ್ಬ ಕುಷ್ಠರೋಗಿಯು ಯೇಸುವಿನ ಬಳಿಗೆ ಬಂದು ಆತನ ಮುಂದೆ ಮೊಣಕಾಲೂರಿಕೊಂಡು ನಿನಗೆ ಮನಸ್ಸಿದ್ದರೆ ನನ್ನನ್ನು ಶುದ್ಧ ಮಾಡಬಲ್ಲೆ ಎಂದು ಬೇಡಿಕೊಳ್ಳಲು        ಮಾರ್ಕ1:40	",
 },			
 {			
-"question" :	"	10. What did Jesus instruct the leper to do after He healed him?	",
+"question" :	"	10 ಯೇಸು ಕುಷ್ಠರೋಗಿಯನ್ನು ವಾಸಿ ಮಾಡಿದ ನಂತರ ಅವನಿಗೆ ಏನು ಸೂಚನೆ ಕೊಟ್ಟನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Testify to all men of Me.	",
-	"	b. Go and sin no more.	",
-	"	c. Follow me.	",
-	"	d. Say nothing to any man.	"
+	"	A. ನನ್ನ ಎಲ್ಲಾ ಜನರಿಗೆ ಸಾಕ್ಷಿ ಹೇಳು	",
+	"	B. ಹೋಗು ಮತ್ತೆ ಪಾಪ ಮಾಡಬೇಡ	",
+	"	C. ನನ್ನನ್ನು ಹಿಂಬಾಲಿಸು	",
+	"	D. ಯಾರಿಗೂ ಏನೂ ಹೇಳಬೇಡ	"
 ],			
-"correct" :	"	d. Say nothing to any man.	",
-"explanation" :	"	and said to him, See that you say nothing to anyone; but go your way, show yourself to the priest, and offer for your cleansing those things which Moses commanded, as a testimony to them. - Mr 1:44	",
+"correct" :	"	D. ಯಾರಿಗೂ ಏನೂ ಹೇಳಬೇಡ	",
+"explanation" :	"	ಕೂಡಲೆ ಅವನ ಕುಷ್ಠವು ಹೋಗಿ ಅವನು ಶುದ್ಧನಾದನು.  ಆಗ ಯೇಸು ಅವನಿಗೆ ಯಾರಿಗೂ ಏನೂ ಹೇಳಬೇಡ ನೋಡು; ಆದರೆ ಹೋಗಿ ಯಾಜಕನಿಗೆ ನಿನ್ನ ಮೈ ತೋರಿಸಿ ಮೋಶೆಯು ನೇಮಕಮಾಡಿರುವದನ್ನು ಅರ್ಪಿಸಿ ನಿನ್ನ ಶುದ್ಧಾಚಾರವನ್ನು ನೆರವೇರಿಸು, ಅದು ಜನರಿಗೆ ಸಾಕ್ಷಿಯಾಗಲಿ ಎಂದು ಖಂಡಿತವಾಗಿ ಹೇಳಿ ಅವನನ್ನು ಕಳುಹಿಸಿಬಿಟ್ಟನು.  ಮಾರ್ಕ1:42-44.	",
 },			
 ]			

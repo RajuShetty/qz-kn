@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 3";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
-"question" :	"	1. These two disciples went to the temple.	",
+"question" :	"	1 ಈ ಇಬ್ಬರು ಶಿಷ್ಯರು ದೇವಾಲಯಕ್ಕೆ ಹೋದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. James & John	",
-	"	b. Peter & John	",
-	"	c. Peter & James	",
-	"	d. Peter & Paul	"
+	"	A. ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+	"	B. ಪೇತ್ರ ಮತ್ತು ಯೋಹಾನ	",
+	"	C. ಪೇತ್ರ ಮತ್ತು ಯಾಕೋಬ	",
+	"	D. ಪೇತ್ರ ಮತ್ತು ಪೌಲ	"
 ],			
-"correct" :	"	b. Peter & John	",
-"explanation" :	"	Now Peter and John went up together to the temple at the hour of prayer, the ninth hour.Acts3:1	",
+"correct" :	"	B. ಪೇತ್ರ ಮತ್ತು ಯೋಹಾನ	",
+"explanation" :	"	ಒಂದಾನೊಂದು ದಿವಸ ಪೇತ್ರ ಯೋಹಾನರು ಮಧ್ಯಾಹ್ನದ  ಮೂರು ಘಂಟೆಗೆ ನಡೆಯ ತಕ್ಕ ಪ್ರಾರ್ಥನೆಗಾಗಿ ದೇವಾಲಯಕ್ಕೆ ಹೋಗುತ್ತಿರಲು ಹುಟ್ಟುಕುಂಟನಾಗಿದ್ದ ಒಬ್ಬ ಮನುಷ್ಯನನ್ನು ಯಾರೋ ಹೊತ್ತುಕೊಂಡು ಬಂದರು 3:1	",
 },			
 {			
-"question" :	"	2. Those disciples went to the temple at the hour of	",
+"question" :	"	2 ಆ ಶಿಷ್ಯರು ದೇವಾಲಯಕ್ಕೆ ಯಾವ ಸಮಯದಲ್ಲಿ ಹೋದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sacrifice.	",
-	"	b. Prayer.	",
-	"	c. Confession.	",
-	"	d. Communion.	"
+	"	A. ಬಲಿ ಕೊಡುವ ಸಮಯ	",
+	"	B. ಪ್ರಾರ್ಥನೆಯ ಸಮಯ	",
+	"	C. ಅರಿಕೆ ಮಾಡುವ ಸಮಯ	",
+	"	D. ಕರ್ತನ ಮೇಜಿನ ಸಮಯ	"
 ],			
-"correct" :	"	b. Prayer.	",
-"explanation" :	"	Now Peter and John went up together to the temple at the hour of prayer, the ninth hour.Acts3:1	",
+"correct" :	"	B. ಪ್ರಾರ್ಥನೆಯ ಸಮಯ	",
+"explanation" :	"	ಒಂದಾನೊಂದು ದಿವಸ ಪೇತ್ರ ಯೋಹಾನರು ಮಧ್ಯಾಹ್ನದ ಮೇಲೆ ಮೂರು ಘಂಟೆಗೆ ನಡೆಯ ತಕ್ಕ ಪ್ರಾರ್ಥನೆಗಾಗಿ ದೇವಾಲಯಕ್ಕೆ ಹೋಗುತ್ತಿರಲು ಹುಟ್ಟುಕುಂಟನಾಗಿದ್ದ ಒಬ್ಬ ಮನುಷ್ಯನನ್ನು ಯಾರೋ ಹೊತ್ತುಕೊಂಡು ಬಂದರು 3:1	",
 },			
 {			
-"question" :	"	3. What was the name of the gate?	",
+"question" :	"	3 ಆ ದ್ವಾರದ ಹೆಸರು ಏನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Beautiful	",
-	"	b. Solomon	",
-	"	c. Charity	",
-	"	d. Hope	"
+	"	A. ಸುಂದರ ದ್ವಾರ	",
+	"	B. ಸೊಲೊಮೋನನ ದ್ವಾರ	",
+	"	C. ಧರ್ಮದ ದ್ವಾರ	",
+	"	D. ನಿರೀಕ್ಷೆಯ ದ್ವಾರ	"
 ],			
-"correct" :	"	a. Beautiful	",
-"explanation" :	"	And a certain man lame from his mother’s womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms from those who entered the temple.Acts3:2	",
+"correct" :	"	A. ಸುಂದರ ದ್ವಾರ	",
+"explanation" :	"	ದೇವಾಲಯದೊಳಕ್ಕೆ ಹೋಗುವವರಿಂದ ಭಿಕ್ಷೆಬೇಡುವದಕ್ಕಾಗಿ ಅವನನ್ನು ದೇವಾಲಯದ ಸುಂದರದ್ವಾರವೆಂಬ ಬಾಗಿಲಿನಲ್ಲಿ ದಿನಾಲು ಕೂಡ್ರಿಸುತ್ತಿದ್ದರು 3:2	",
 },			
 {			
-"question" :	"	4. Why was the lame man at the gate? 	",
+"question" :	"	4 ಹುಟ್ಟು ಕುಂಟನು ದ್ವಾರದ ಬಳಿ ಏಕೆ ಕುಳಿತಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. To pray	",
-	"	b. To ask for alms	",
-	"	c. To sacrifice	",
-	"	d. He was lost.	"
+	"	A. ಪ್ರಾರ್ಥಿಸಲು	",
+	"	B. ಭಿಕ್ಷೆಗಾಗಿ	",
+	"	C. ಬಲಿ ನೀಡುವುದಕ್ಕಾಗಿ	",
+	"	D. ಅವನು ತಪ್ಪಿಹೋಗಿದ್ದನು	"
 ],			
-"correct" :	"	b. To ask for alms	",
-"explanation" :	"	And a certain man lame from his mother’s womb was carried, whom they laid daily at the gate of the temple which is called Beautiful, to ask alms from those who entered the temple.Acts3:2	",
+"correct" :	"	B. ಭಿಕ್ಷೆಗಾಗಿ	",
+"explanation" :	"	ದೇವಾಲಯದೊಳಕ್ಕೆ ಹೋಗುವವರಿಂದ ಭಿಕ್ಷೆಬೇಡುವದಕ್ಕಾಗಿ ಅವನನ್ನು ದೇವಾಲಯದ ಸುಂದರದ್ವಾರವೆಂಬ ಬಾಗಿಲಿನಲ್ಲಿ ದಿನಾಲು ಕೂಡ್ರಿಸುತ್ತಿದ್ದರು 3:2	",
 },			
 {			
-"question" :	"	5. What did Peter say he did not have?	",
+"question" :	"	5 ಪೇತ್ರನು ತಮ್ಮ ಬಳಿ ಏನಿಲ್ಲವೆಂದು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Faith	",
-	"	b. Silver or gold	",
-	"	c. Hope	",
-	"	d. A chance	"
+	"	A. ನಂಬಿಕೆ	",
+	"	B. ಬೆಳ್ಳಿ ಅಥವ ಬಂಗಾರ	",
+	"	C. ನಿರೀಕ್ಷೆ	",
+	"	D. ಒಂದು ಅವಕಾಶ	"
 ],			
-"correct" :	"	b. Silver or gold	",
-"explanation" :	"	Then Peter said, Silver and gold I do not have, but what I do have I give you: In the name of Jesus Christ of Nazareth, rise up and walk.Acts3:6	",
+"correct" :	"	B. ಬೆಳ್ಳಿ ಅಥವ ಬಂಗಾರ	",
+"explanation" :	"	ಆಗ ಪೇತ್ರನು - ಬೆಳ್ಳಿಬಂಗಾರವಂತೂ ನನ್ನಲ್ಲಿಲ್ಲ, ನನ್ನಲ್ಲಿರುವದನ್ನು ನಿನಗೆ ಕೊಡುತ್ತೇನೆ. ನಜರೇತಿನ ಯೇಸು ಕ್ರಿಸ್ತನ ಹೆಸರಿನಲ್ಲೇ ಎದ್ದು ನಡೆದಾಡು ಎಂದು ಹೇಳಿ 3:6	",
 },			
 {			
-"question" :	"	6. When the man got up, where did he go?	",
+"question" :	"	6 ಆ ಮನುಷ್ಯನು ಎದ್ದಾಗ, ಅವನು ಎಲ್ಲಿ ಹೋದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Home	",
-	"	b. The market place	",
-	"	c. In the temple	",
-	"	d. Outside the city	"
+	"	A. ಮನೆಗೆ	",
+	"	B. ಮಾರುಕಟ್ಟೆ ಪ್ರದೇಶ	",
+	"	C. ದೇವಾಲಯದೊಳಕ್ಕೆ	",
+	"	D. ಪಟ್ಟಣದ ಹೊರಕ್ಕೆ	"
 ],			
-"correct" :	"	c. In the temple	",
-"explanation" :	"	So he, leaping up, stood and walked and entered the temple with them—walking, leaping, and praising God.Acts3:8	",
+"correct" :	"	C. ದೇವಾಲಯದೊಳಕ್ಕೆ	",
+"explanation" :	"	ಅವನು ಹಾರಿ ನಿಂತು ನಡೆದಾಡಿದನು; ನಡೆಯುತ್ತಾ ಹಾರುತ್ತಾ ದೇವರನ್ನು ಕೊಂಡಾಡುತ್ತಾ ಅವರ ಜೊತೆಯಲ್ಲಿ ದೇವಾಲಯದೊಳಗೆ ಹೋದನು.  3:8	",
 },			
 {			
-"question" :	"	7. What was the name of the porch?	",
+"question" :	"	7 ಆ ಮಂಟಪದ ಹೆಸರೇನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. David's	",
-	"	b. Saul's	",
-	"	c. Michael's	",
-	"	d. Solomon's	"
+	"	A. ದಾವೀದನ ಮಂಟಪ	",
+	"	B. ಸೌಲನ ಮಂಟಪ	",
+	"	C. ಮೀಕಾಯೇಲನ ಮಂಟಪ	",
+	"	D. ಸಮುವೇಲನ ಮಂಟಪ	"
 ],			
-"correct" :	"	d. Solomon's	",
-"explanation" :	"	Now as the lame man who was healed held on to Peter and John, all the people ran together to them in the porch which is called Solomon’s, greatly amazed.Acts3:11	",
+"correct" :	"	D. ಸಮುವೇಲನ ಮಂಟಪ	",
+"explanation" :	"	ಅವನು ಪೇತ್ರ ಯೋಹಾನರನ್ನು ಹಿಡುಕೊಂಡೇ ಇರುವಾಗ ಆಶ್ಚರ್ಯಪಡುತ್ತಿರುವ ಆ ಜನರೆಲ್ಲರು ಅವರ ಬಳಿಗೆ ಸೊಲೊಮೋನನದೆಂಬ ಹೆಸರುಳ್ಳ ಮಂಟಪಕ್ಕೆ ಗುಂಪು ಗುಂಪಾಗಿ ಓಡಿಬಂದರು 3:11	",
 },			
 {			
-"question" :	"	8. Who was determined to let Jesus go?	",
+"question" :	"	8 ಯೇಸುವನ್ನು ಬಿಟ್ಟಬಿಡಬೇಕೆಂದು ಯಾರು ನಿರ್ಣಯಿಸಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pilate	",
-	"	b. Herod	",
-	"	c. Caesar	",
-	"	d. Pharaoh	"
+	"	A. ಪಿಲಾತ	",
+	"	B. ಹೆರೋದ	",
+	"	C. ಕೈಸರ	",
+	"	D. ಫರೋಹ	"
 ],			
-"correct" :	"	a. Pilate	",
-"explanation" :	"	The God of Abraham, Isaac, and Jacob, the God of our fathers, glorified His Servant Jesus, whom you delivered up and denied in the presence of Pilate, when he was determined to let Him go.Acts3:13	",
+"correct" :	"	A. ಪಿಲಾತ	",
+"explanation" :	"	ನಮ್ಮ ಪಿತೃಗಳಾದ ಅಬ್ರಹಾಮ ಇಸಾಕ ಯಾಕೋಬರ ದೇವರು ತನ್ನ ಸೇವಕನಾದ ಯೇಸುವನ್ನು ಮಹಿಮೆಪಡಿಸಿದ್ದಾನೆ. ನೀವಂತೂ ಆತನನ್ನು ಹಿಡಿದುಕೊಟ್ಟಿರಿ; ಮತ್ತು ಪಿಲಾತನು ಆತನನ್ನು ಬಿಡಿಸಬೇಕೆಂದು ನಿರ್ಣಯಿಸಿದಾಗ ಆತನನ್ನು ಬೇಡವೆಂದಿರಿ 3:13	",
 },			
 {			
-"question" :	"	9. This, through faith is what made the lame man strong.	",
+"question" :	"	9 ಇದರ ಮೇಲಿನ ನಂಬಿಕೆಯಿಂದ ಹುಟ್ಟುಕುಂಟನ ಕಾಲುಗಳಿಗೆ ಬಲ ಬಂದಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Love	",
-	"	b. The power of a prophet	",
-	"	c. The name of Jesus	",
-	"	d. An act of kindness	"
+	"	A. ಪ್ರೀತಿ	",
+	"	B. ಪ್ರವಾದಿಯ ಬಲ	",
+	"	C. ಯೇಸುವಿನ ನಾಮ	",
+	"	D. ಕರುಣೆ	"
 ],			
-"correct" :	"	c. The name of Jesus	",
-"explanation" :	"	And His name, through faith in His name, has made this man strong, whom you see and know. Yes, the faith which comes through Him has given him this perfect soundness in the presence of you all.Acts3:16	",
+"correct" :	"	C. ಯೇಸುವಿನ ನಾಮ	",
+"explanation" :	"	ನೀವು ನೋಡುವಂಥ ನಿಮಗೆ ಗುರುತಿರುವಂಥ ಈ ಮನುಷ್ಯನು ನೆಟ್ಟಗಾದದ್ದಕ್ಕೆ ಆತನ ಹೆಸರಿನಲ್ಲಿ ಇಟ್ಟ ನಂಬಿಕೆಯೇ ಕಾರಣ; ಆ ಹೆಸರೇ ಇವನನ್ನು ಬಲಪಡಿಸಿತು. ಆತನ ಮೂಲಕ ಉಂಟಾಗಿರುವ ನಂಬಿಕೆಯೇ ಇವನಿಗೆ ನಿಮ್ಮೆಲ್ಲರ ಮುಂದೆ ಪೂರ್ಣಕ್ಷೇಮವನ್ನು ಕೊಟ್ಟಿತು. 3:16	",
 },			
 {			
-"question" :	"	10. God told this man, in his seed, all the kindreds of the earth would be blessed.	",
+"question" :	"	10 ‘ನಿನ್ನ ಸಂತತಿಯ ಮೂಲಕ ಭೂಲೋಕದ ಎಲ್ಲಾ ಕುಲದವರಿಗೂ ಆಶೀರ್ವಾದವುಂಟಾಗುವುದು’ ಎಂದು ಕರ್ತನು ಯಾರಿಗೆ ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Moses	",
-	"	b. David	",
-	"	c. Solomon	",
-	"	d. Abraham	"
+	"	A. ಮೊಶೆಗೆ	",
+	"	B. ದಾವಿದಗೆ	",
+	"	C. ಸೊಲೊಮೋನನಿಗೆ	",
+	"	D. ಅಬ್ರಹಾಮನಿಗೆ	"
 ],			
-"correct" :	"	d. Abraham	",
-"explanation" :	"	You are sons of the prophets, and of the covenant which God made with our fathers, saying to Abraham, ‘And in your seed all the families of the earth shall be blessed.Acts3:25	",
+"correct" :	"	D. ಅಬ್ರಹಾಮನಿಗೆ	",
+"explanation" :	"	ನೀವು ಪ್ರವಾದಿಗಳ ಶಿಷ್ಯರೂ ದೇವರು ನಮ್ಮ ಪಿತೃಗಳ ಸಂಗಡ ಮಾಡಿಕೊಂಡ ಒಡಂಬಡಿಕೆಗೆ ಬಾಧ್ಯರೂ ಆಗಿದ್ದೀರಿ. ಆತನು ಅಬ್ರಹಾಮನಿಗೆ - ನಿನ್ನ ಸಂತತಿಯ ಮೂಲಕ ಭೂಲೋಕದ ಎಲ್ಲಾ ಕುಲದವರಿಗೂ ಆಶೀರ್ವಾದವುಂಟಾಗುವದು ಎಂದು ಹೇಳಿ ಆ ಒಡಂಬಡಿಕೆಯನ್ನು ಮಾಡಿಕೊಂಡನಲ್ಲಾ. 3:25	",
 },			
 ]			

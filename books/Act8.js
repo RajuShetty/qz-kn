@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 8";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
-"question" :	"	1. This man made havoc of the church,putting men and women into prison.	",
+"question" :	"	1 ಈ ಮನುಷ್ಯನು ಗಂಡಸರನ್ನು ಹೆಂಗಸರನ್ನು ಸೆರೆಗೆ ಹಾಕಿಸುತ್ತಾ ಸಭೆಯನ್ನು ಹಾಳು ಮಾಡುತ್ತಿದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Saul	",
-	"	b. Herod	",
-	"	c. Pilate	",
-	"	d. Caesar	"
+	"	A. ಸೌಲ	",
+	"	B. ಹೆರೋದ	",
+	"	C. ಪಿಲಾತ	",
+	"	D. ಕೈಸರ	"
 ],			
-"correct" :	"	a. Saul	",
-"explanation" :	"	As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison.Acts8:3	",
+"correct" :	"	A. ಸೌಲ	",
+"explanation" :	"	ಆದರೆ ಸೌಲನು ಮನೆಮನೆಗಳಲ್ಲಿ ಹೊಕ್ಕು ಗಂಡಸರನ್ನೂ ಹೆಂಗಸರನ್ನೂ ಎಳಕೊಂಡು ಬಂದು ಸೆರೆಮನೆಗೆ ಹಾಕಿಸಿ ಸಭೆಯನ್ನು ಹಾಳು ಮಾಡುತ್ತಿದ್ದನು. 8:3	",
 },			
 {			
-"question" :	"	2. Philip went down to this place, and preached Christ to them.	",
+"question" :	"	2 ಫಿಲಿಪ್ಪನು ಈ ಸ್ಥಳಕ್ಕೆ ಇಳಿದು ಹೋಗಿ ಅವರಿಗೆ ಯೇಸು ಕುರಿತು ಸಾರಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Samaria	",
-	"	b. Ammon	",
-	"	c. Nineveh	",
-	"	d. Jericho	"
+	"	A. ಸಮಾರ್ಯ	",
+	"	B. ಅಮ್ಮೋನ್	",
+	"	C. ನಿನಿವೆ	",
+	"	D. ಯೆರಿಕೋ	"
 ],			
-"correct" :	"	a. Samaria	",
-"explanation" :	"	Then Philip went down to the city of Samaria, and preached Christ unto them.Acts8:5	",
+"correct" :	"	A. ಸಮಾರ್ಯ	",
+"explanation" :	"	ಫಿಲಿಪ್ಪನು ಸಮಾರ್ಯವೆಂಬ ಪಟ್ಟಣಕ್ಕೆ ಹೋಗಿ ಕ್ರಿಸ್ತನನ್ನು ಅಲ್ಲಿರುವವರಿಗೆ ಪ್ರಕಟಿಸಿದನು 8:5	",
 },			
 {			
-"question" :	"	3. This man was a sorcerer. 	",
+"question" :	"	3 ಈ ಮನುಷ್ಯನು ಮಂತ್ರ ತಂತ್ರ ಮಾಡುವವನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ananias	",
-	"	b. Philip	",
-	"	c. Simon	",
-	"	d. Nathan	"
+	"	A. ಅನನೀಯ	",
+	"	B. ಫಿಲಿಪ್ಪಿ	",
+	"	C. ಸಿಮೋನ	",
+	"	D. ನಾತಾನ್	"
 ],			
-"correct" :	"	c. Simon	",
-"explanation" :	"	But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:Acts8:9	",
+"correct" :	"	C. ಸಿಮೋನ	",
+"explanation" :	"	ಆದರೆ ಕೆಲವು ಕಾಲದಿಂದ ಆ ಪಟ್ಟಣದಲ್ಲಿದ್ದ ಸೀಮೋನನೆಂಬ ಒಬ್ಬ ಮನುಷ್ಯನು ತಾನು ಏನೋ ಒಬ್ಬ ಮಹಾತ್ಮನೆಂದು ಹೇಳಿಕೊಂಡು ಮಂತ್ರತಂತ್ರಗಳನ್ನು ನಡಿಸಿ ಸಮಾರ್ಯದ ಜನರಲ್ಲಿ ಬೆರಗನ್ನು ಹುಟ್ಟಿಸುತ್ತಿದ್ದನು 8:9	",
 },			
 {			
-"question" :	"	4. The apostles sent these two men to the city where Philip was preaching.	",
+"question" :	"	4 ಅಪೋಸ್ತಲರು ಈ ಇಬ್ಬರು ಮನುಷ್ಯರನ್ನು ಫಿಲಿಪ್ಪನು ಸಾರುತ್ತಿದ್ದ ಸ್ಥಳಕ್ಕೆ ಕಳುಹಿಸಿದರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter & Andrew	",
-	"	b. James & John	",
-	"	c. Paul & Silas	",
-	"	d. Peter & John	"
+	"	A. ಪೇತ್ರ ಮತ್ತು ಆಂದ್ರೇಯ	",
+	"	B. ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+	"	C. ಪೌಲ ಮತ್ತು ಸೀಲ	",
+	"	D. ಪೇತ್ರ ಮತ್ತು ಯೋಹಾನ	"
 ],			
-"correct" :	"	d. Peter & John	",
-"explanation" :	"	Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:Acts8:14	",
+"correct" :	"	D. ಪೇತ್ರ ಮತ್ತು ಯೋಹಾನ	",
+"explanation" :	"	ಸಮಾರ್ಯದವರು ದೇವರ ವಾಕ್ಯವನ್ನು ಸ್ವೀಕರಿಸಿದ ವರ್ತಮಾನವನ್ನು ಯೆರೂಸಲೇಮಿನಲ್ಲಿದ್ದ ಅಪೊಸ್ತಲರು ಕೇಳಿ ಪೇತ್ರ ಯೋಹಾನರನ್ನು ಅವರ ಬಳಿಗೆ ಕಳುಹಿಸಿದರು 8:14	",
 },			
 {			
-"question" :	"	5. When Simon saw that the Holy Ghost was given by the laying on of the apostle's hands, he	",
+"question" :	"	5 ಅಪೋಸ್ತಲರು ಕೈಗಳನ್ನಿಡುವುದರಿಂದ ಪವಿತ್ರಾತ್ಮದಾನವಾಗುವುದನ್ನು ಸಿಮೋನನು ನೋಡಿದಾಗ, ಅವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Was greatly afraid.	",
-	"	b. Praised God.	",
-	"	c. Offered them money.	",
-	"	d. Hid himself.	"
+	"	A. ತುಂಬಾ ಭಯಪಟ್ಟನು	",
+	"	B. ದೇವರನ್ನು ಸ್ತುತಿಸಿದನು	",
+	"	C. ಅವರ ಮುಂದೆ ಹಣವನ್ನು ತಂದಿಟ್ಟನು	",
+	"	D. ತನ್ನನ್ನು ಮರೆಮಾಡಿಕೊಂಡನು	"
 ],			
-"correct" :	"	c. Offered them money.	",
-"explanation" :	"	And when Simon saw that through laying on of the apostles' hands the Holy Ghost was given, he offered them money, Acts8:18	",
+"correct" :	"	C. ಅವರ ಮುಂದೆ ಹಣವನ್ನು ತಂದಿಟ್ಟನು	",
+"explanation" :	"	ಅಪೊಸ್ತಲರು ಕೈಗಳನ್ನಿಡುವದರ ಮೂಲಕವಾಗಿ ಪವಿತ್ರಾತ್ಮದಾನವಾಗುವದನ್ನು ಸೀಮೋನನು ನೋಡಿ ಹಣವನ್ನು ತಂದು ಅವರ ಮುಂದಿಟ್ಟು  8:18	",
 },			
 {			
-"question" :	"	6. Who told Philip to go to the desert?	",
+"question" :	"	6 ಅಡವಿಗೆ ಹೋಗೆಂದು ಫಿಲಿಪ್ಪನಿಗೆ ಯಾರು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. The apostles	",
-	"	c. The Lord	",
-	"	d. An angel	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಅಪೋಸ್ತಲರು	",
+	"	C. ಕರ್ತನು	",
+	"	D. ದೇವದೂತನು	"
 ],			
-"correct" :	"	d. An angel	",
-"explanation" :	"	And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert.Acts8:26	",
+"correct" :	"	D. ದೇವದೂತನು	",
+"explanation" :	"	ಅಷ್ಟರಲ್ಲಿ ಕರ್ತನ ದೂತನು ಫಿಲಿಪ್ಪನಿಗೆ - ನೀನು ಎದ್ದು ದಕ್ಷಿಣ ಕಡೆಗೆ ಯೆರೂಸಲೇಮಿನಿಂದ ಗಾಜಕ್ಕೆ ಹೋಗುವ ದಾರಿಯಲ್ಲಿ ಹೋಗು, ಅದು ಅಡವಿ ಎಂದು ಹೇಳಿದನು. 8:26	",
 },			
 {			
-"question" :	"	7. In the desert, Philip saw a eunuch under the authority of this queen of Ethiopia.	",
+"question" :	"	7 ಅಡವಿಯಲ್ಲಿ ಫಿಲಿಪ್ಪನು, ಈ ರಾಣಿಯ ಕಂಚುಕಿಯನ್ನು ಕಂಡನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jezebel	",
-	"	b. Candace	",
-	"	c. Sheba	",
-	"	d. Esther	"
+	"	A. ಈಜೆಬೆಲ್	",
+	"	B. ಕಂದಾಕೆ	",
+	"	C. ಶೆಬಾ	",
+	"	D. ಎಸ್ತೇರ್	"
 ],			
-"correct" :	"	b. Candace	",
-"explanation" :	"	And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship,Acts8:27	",
+"correct" :	"	B. ಕಂದಾಕೆ	",
+"explanation" :	"	ಅವನು ಎದ್ದು ಹೊರಟುಹೋದನು; ಹೋಗುತ್ತಿರುವಾಗ ಐಥಿಯೋಪ್ಯ ದೇಶದ ಒಬ್ಬ ಮನುಷ್ಯನನ್ನು ಕಂಡನು. ಅವನು ಕಂಚುಕಿಯೂ ಐಥಿಯೋಪ್ಯದವರ ರಾಣಿಯಾಗಿದ್ದ ಕಂದಾಕೆಯ ಕೈಕೆಳಗೆ ದೊಡ್ಡ ಅಧಿಕಾರಿಯೂ ಆಕೆಯ ಎಲ್ಲಾ ಖಜಾನೆಯ ಮೇಲ್ವಿಚಾರಕನೂ ಆಗಿದ್ದನು 8:27	",
 },			
 {			
-"question" :	"	8. What was the eunuch doing? 	",
+"question" :	"	8 ಕಂಚುಕಿಯು ಏನು ಮಾಡುತ್ತಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Praying	",
-	"	b. Reading scripture	",
-	"	c. Weeping	",
-	"	d. Sleeping	"
+	"	A. ಪ್ರಾರ್ಥಿಸುತ್ತಿದ್ದನು	",
+	"	B. ಶಾಸ್ತ್ರವನ್ನು ಓದುತ್ತಿದ್ದನು	",
+	"	C. ಅಳುತ್ತಿದ್ದನು	",
+	"	D. ನಿದ್ರಿಸುತ್ತಿದ್ದನು	"
 ],			
-"correct" :	"	b. Reading scripture	",
-"explanation" :	"	 Was returning, and sitting in his chariot read Esaias the prophet.Acts8:28	",
+"correct" :	"	B. ಶಾಸ್ತ್ರವನ್ನು ಓದುತ್ತಿದ್ದನು	",
+"explanation" :	"	ಅವನು ದೇವಾರಾಧನೆಗೋಸ್ಕರ ಯೆರೂಸಲೇಮಿಗೆ ಬಂದು ಹಿಂತಿರುಗಿ ಹೋಗುವಾಗ ತನ್ನ ರಥದಲ್ಲಿ ಕೂತುಕೊಂಡು ಯೆಶಾಯ ಪ್ರವಾದಿಯ ಗ್ರಂಥವನ್ನು ಓದುತ್ತಿದ್ದನು 8:28	",
 },			
 {			
-"question" :	"	9. What did Philip preach to the Eunuch?	",
+"question" :	"	9 ಫಿಲಿಪ್ಪನು ಕಂಚುಕಿಗೆ ಏನು ಬೋಧಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Love	",
-	"	b. The law	",
-	"	c. God's wrath	",
-	"	d. Jesus	"
+	"	A. ಪ್ರೀತಿ	",
+	"	B. ಶಾಸ್ತ್ರ	",
+	"	C. ದೇವರ ಕೋಪ	",
+	"	D. ಯೇಸು	"
 ],			
-"correct" :	"	d. Jesus	",
-"explanation" :	"	Then Philip opened his mouth, and beginning at this Scripture, preached Jesus to him.Acts8:35	",
+"correct" :	"	D. ಯೇಸು	",
+"explanation" :	"	ಫಿಲಿಪ್ಪನು ಉಪದೇಶಿಸುವದಕ್ಕೆ ತೊಡಗಿ ಅದೇ ವಚನವನ್ನು ಆಧಾರ ಮಾಡಿಕೊಂಡು ಅವನಿಗೆ ಯೇಸುವಿನ ವಿಷಯವಾದ ಸುವಾರ್ತೆಯನ್ನು ತಿಳಿಸಿದನು. 8:35	",
 },			
 {			
-"question" :	"	10. When they came to water, the eunuch	",
+"question" :	"	10 ನೀರಿನ ಬಳಿಗೆ ಬಂದಾಗ ಕಂಚುಕಿಯು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Drowned.	",
-	"	b. Got them each a drink.	",
-	"	c. Watered his horses.	",
-	"	d. Was baptized.	"
+	"	A. ಮುಳುಗಿದನು	",
+	"	B. ಅಬ್ಬರಿಗೂ ಕುಡಿಯಲಿಕ್ಕೆ ತಂದನು	",
+	"	C. ಕುದುರೆಗಳಿಗೆ ನೀರುಣಿಸಿದನು	",
+	"	D. ದೀಕ್ಷಾಸ್ನಾನ ಹೊಂದಿದನು	"
 ],			
-"correct" :	"	d. Was baptized.	",
-"explanation" :	"	So he commanded the chariot to stand still. And both Philip and the eunuch went down into the water, and he baptized him.Acts8:38	",
+"correct" :	"	D. ದೀಕ್ಷಾಸ್ನಾನ ಹೊಂದಿದನು	",
+"explanation" :	"	ಫಿಲಿಪ್ಪನು ಕಂಚುಕಿಯು ಇಬ್ಬರೂ ನೀರಿನೊಳಗೆ ಇಳಿದರು. ಫಿಲಿಪ್ಪನು ಅವನಿಗೆ ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿದನು.  8:38	",
 },			
 ]			

@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 21";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
-"question" :	"	1. At Tyre, some disciples said to Paul,through the Spirit, that he should not go here.	",
+"question" :	"	1 ಥೈರದಲ್ಲಿ, ಕೆಲವು ವಿಶ್ವಾಸಿಗಳು ಆತ್ಮನ ಪ್ರೇರಣೆಯಿಂದ ಪೌಲನಿಗೆ ಹೇಳಿದರು, ನೀನು ಇಲ್ಲಿಗೆ ಹೋಗಬಾರದು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jerusalem	",
-	"	b. Asia	",
-	"	c. Jericho	",
-	"	d. Egypt	"
+	"	A. ಯೆರೂಷಲೇಮ್	",
+	"	B. ಆಸ್ಯ	",
+	"	C. ಯೆರಿಕೋ	",
+	"	D. ಐಗುಪ್ತ್ಯ	"
 ],			
-"correct" :	"	a. Jerusalem	",
-"explanation" :	"	And finding disciples, we tarried there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem.Acts21:4	",
+"correct" :	"	A. ಯೆರೂಷಲೇಮ್	",
+"explanation" :	"	ಅಲ್ಲಿ ಶಿಷ್ಯರನ್ನು ಹುಡುಕಿ ಕಂಡು ಏಳು ದಿವಸ ನಿಂತೆವು. ಅವರು ಆತ್ಮನ ಪ್ರೇರಣೆಯಿಂದ ಪೌಲನಿಗೆ - ನೀನು ಯೆರೂಸಲೇಮಿಗೆ ಕಾಲಿಡಬೇಡವೆಂದು ಹೇಳಿದರು. 21:4	",
 },			
 {			
-"question" :	"	2. This evangelist had four daughters,which prophesied.	",
+"question" :	"	2 ಈ ಸುವಾರ್ತಿಕನಿಗೆ ನಾಲ್ಕು ಜನ ಹೆಣ್ಣುಮಕ್ಕಳಿದ್ದರು, ಎಲ್ಲರೂ ಪ್ರವಾದಿನಿಗಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Philip	",
-	"	b. Bartholomew	",
-	"	c. Eutychus	",
-	"	d. Tychicus	"
+	"	A. ಫಿಲಿಪ್ಪಿ	",
+	"	B. ಬಾರ್ತಲೋಮಾಯ	",
+	"	C. ಯೂತಿಕ	",
+	"	D. ತೈಕಿಕಸ್	"
 ],			
-"correct" :	"	a. Philip	",
-"explanation" :	"	And the next day we that were of Paul's company departed, and came unto Caesarea: and we entered into the house of Philip the evangelist, which was one of the seven; and abode with him.And the same man had four daughters, virgins, which did prophesy.Acts21:8,9",
+"correct" :	"	A. ಫಿಲಿಪ್ಪಿ	",
+"explanation" :	"	ಮರುದಿನ ಹೊರಟು ಕೈಸರೈಯಕ್ಕೆ ಬಂದು ಸೌವಾರ್ತಿಕನಾದ ಫಿಲಿಪ್ಪನ ಮನೆಗೆ ಹೋಗಿ ಅವನ ಬಳಿಯಲ್ಲಿಯೇ ಇಳುಕೊಂಡೆವು. ಅವನು ಆ ಏಳ್ವರಲ್ಲಿ ಒಬ್ಬನು. ಅವನಿಗೆ ಮದುವೆಯಾಗದ ನಾಲ್ಕು ಮಂದಿ ಹೆಣ್ಣುಮಕ್ಕಳಿದ್ದರು; ಅವರು ಪ್ರವಾದಿಸುವವರಾಗಿದ್ದರು.  21:8,9	",
 },			
 {			
-"question" :	"	3. This prophet came down form Judea.	",
+"question" :	"	3. ಈ ಪ್ರವಾದಿಯು ಯೂದಾಯದಿಂದ ಬಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Agabus	",
-	"	b. Sebat	",
-	"	c. Havilah	",
-	"	d. Japheth	"
+	"	A. ಆಗಬ	",
+	"	B. ಸೆಬಾಟ್	",
+	"	C. ಹವಿಲ್ಲ	",
+	"	D. ಯೋಫೆತ್	"
 ],			
-"correct" :	"	a. Agabus	",
-"explanation" :	"	And as we tarried there many days, there came down from Judaea a certain prophet, named Agabus.Acts21:10	",
-},		 	
-{			
-"question" :	"	4. That prophet bound his hands and feet with this.	",
-"image" :	"",		
-"choices" : [			
-	"	a. Cords of green	",
-	"	b. Ropes	",
-	"	c. Paul's girdle	",
-	"	d. Ribbons	"
-],			
-"correct" :	"	c. Paul's girdle	",
-"explanation" :	"	And when he was come unto us, he took Paul's girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles.Acts21:11	",
+"correct" :	"	A. ಆಗಬ	",
+"explanation" :	"	ನಾವು ಅಲ್ಲಿ ಅನೇಕ ದಿವಸಗಳು ಇದ್ದ ಮೇಲೆ, ಅಗಬನೆಂಬ ಒಬ್ಬ ಪ್ರವಾದಿಯು ಯೂದಾಯದಿಂದ ನಮ್ಮ ಬಳಿಗೆ ಬಂದು 21:10	",
 },			
 {			
-"question" :	"	5. Paul said, for the name of Jesus, he was not only ready to be bound, but also to	",
+"question" :	"	4 ಆ ಪ್ರವಾದಿಯು ತನ್ನ ಕೈಗಳನ್ನು ಮತ್ತು ಕಾಲುಗಳನ್ನು ಇದರಿಂದ ಬಂಧಿಸಿಕೊಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Be beaten.	",
-	"	b. Be stoned.	",
-	"	c. Die.	",
-	"	d. Be delivered.	"
+	"	A. ಹಸಿರು ಬಳ್ಳಿಗಳಿಂದ	",
+	"	B. ಹಗ್ಗಗಳಿಂದ	",
+	"	C. ಪೌಲನ ನಡುಕಟ್ಟುನುಂದ	",
+	"	D. ರಿಬ್ಬನ್	"
 ],			
-"correct" :	"	c. Die.	",
-"explanation" :	"	Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.Acts21:13	",
+"correct" :	"	C. ಪೌಲನ ನಡುಕಟ್ಟುನುಂದ	",
+"explanation" :	"	ಪೌಲನ ನಡುಕಟ್ಟನ್ನು ತೆಗೆದು ತನ್ನ ಕೈಕಾಲುಗಳನ್ನು ಕಟ್ಟಿಕೊಂಡು - ಈ ನಡುಕಟ್ಟು ಯಾವನದೋ ಆ ಮನುಷ್ಯನನ್ನು ಯೆಹೂದ್ಯರು ಇದೇ ರೀತಿಯಾಗಿ ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ಕಟ್ಟಿ ಅನ್ಯಜನರ ಕೈಗೆ ಒಪ್ಪಿಸಿಕೊಡುವರು, ಹೀಗೆ ಪವಿತ್ರಾತ್ಮನು ಹೇಳುತ್ತಾನೆಂಬದಾಗಿ ಹೇಳಿದನು 21:11	",
 },			
 {			
-"question" :	"	6. At Jerusalem, Paul saw this man along with all the elders.	",
+"question" :	"	5 ಪೌಲನು ಹೇಳಿದ್ದು, ಯೇಸುವಿನ ಹೆಸರಿಗೋಸ್ಕರ ತಾನು ಬೇಡಿಹಾಕಿಸಿಕೊಳ್ಳುವುದು ಮಾತ್ರವಲ್ಲ ______ ಸಿದ್ದನಾಗಿದ್ದೇನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. James	",
-	"	c. Joses	",
-	"	d. Andrew	"
+	"	A.  ಹೊಡೆಸಿಕೊಳ್ಳುವುದಕ್ಕೂ	",
+	"	B. ಕಲ್ಲಿನಿಂದ ಹೊಡೆಸಿಕೊಳ್ಳುವುದಕ್ಕೂ	",
+	"	C. ಸಾಯುವುದಕ್ಕೂ	",
+	"	D. ಬಿಡಿಸಿಕೊಳ್ಳುವುದಕ್ಕೂ	"
 ],			
-"correct" :	"	b. James	",
-"explanation" :	"	And the day following Paul went in with us unto James; and all the elders were present.Acts21:18	",
+"correct" :	"	C. ಸಾಯುವುದಕ್ಕೂ	",
+"explanation" :	"	ಅದಕ್ಕೆ ಪೌಲನು - ನೀವು ಅತ್ತತ್ತು ಯಾಕೆ ನನ್ನನ್ನು ಎದೆ ಒಡಿಸುತ್ತೀರಿ? ನಾನು ಕರ್ತನಾದ ಯೇಸುವಿನ ಹೆಸರಿನ ನಿಮಿತ್ತವಾಗಿ ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ಬೇಡೀಹಾಕಿಸಿಕೊಳ್ಳುವದಕ್ಕೆ ಮಾತ್ರವಲ್ಲದೆ ಸಾಯುವದಕ್ಕೂ ಸಿದ್ಧವಾಗಿದ್ದೇನೆ ಅಂದನು. 21:13	",
 },			
 {			
-"question" :	"	7. The Jews were in an uproar, because they heard that Paul had told the Jews to forsake this.	",
+"question" :	"	6 ಯೆರೂಷಲೇಮಿನಲ್ಲಿ, ಹಿರಿಯರ ಜೊತೆ ಈ ಮನುಷ್ಯನನ್ನು ಪೌಲನನ್ನು ಕಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Their family	",
-	"	b. God	",
-	"	c. Assembling together	",
-	"	d. Moses	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಯಾಕೋಬ	",
+	"	C. ಯೋಸ	",
+	"	D. ಆಂದ್ರೇಯ	"
 ],			
-"correct" :	"	d. Moses	",
-"explanation" :	"	And they are informed of thee, that thou teachest all the Jews which are among the Gentiles to forsake Moses, saying that they ought not to circumcise their children, neither to walk after the customs.Acts21:21	",
+"correct" :	"	B. ಯಾಕೋಬ	",
+"explanation" :	"	ಮರುದಿನ ಪೌಲನು ನಮ್ಮನ್ನು ಕರೆದುಕೊಂಡು ಯಾಕೋಬನ ಬಳಿಗೆ ಹೋದನು. ಸಭೇಹಿರಿಯರೆಲ್ಲರು ಸಹ ಬಂದರು 21:18	",
 },			
 {			
-"question" :	"	8. The Jews took Paul out of the temple and	",
+"question" :	"	7 ಪೌಲನು ಇವುಗಳನ್ನು ಬಿಟ್ಟುಬಿಡಬೇಕೆಂದು ಹೇಳಿದ್ದನ್ನು ಯೆಹೂದ್ಯರು ಕೇಳಿದ್ದರಿಂದ ಅವನ ಮೇಲೆ ಅವರು ತುಂಬಾ ಕೋಪಗೊಂಡಿದ್ದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Honored him.	",
-	"	b. Fed him.	",
-	"	c. Intended to kill him.	",
-	"	d. Questioned him.	"
+	"	A. ಅವರ ಕುಟುಂಬಗಳನ್ನು	",
+	"	B. ದೇವರು	",
+	"	C. ಒಟ್ಟಾಗಿ ಸೇರುವುದನ್ನು	",
+	"	D. ಮೋಶೆ	"
 ],			
-"correct" :	"	c. Intended to kill him.	",
-"explanation" :	"	And all the city was moved, and the people ran together: and they took Paul, and drew him out of the temple: and forthwith the doors were shut.And as they went about to kill him, tidings came unto the chief captain of the band, that all Jerusalem was in an uproar.Acts21:30,31	",
+"correct" :	"	D. ಮೋಶೆ	",
+"explanation" :	"	ನೀನು ಅನ್ಯಜನರಲ್ಲಿ ವಾಸವಾಗಿರುವ ಯೆಹೂದ್ಯರೆಲ್ಲರಿಗೆ - ನಿಮ್ಮ ಮಕ್ಕಳಿಗೆ ಸುನ್ನತಿಮಾಡಿಸಬೇಡಿರಿ, ನಿಮ್ಮ ಆಚಾರಗಳನ್ನು ಅನುಸರಿಸಿ ನಡೆಯಬೇಡಿರಿ ಎಂದು ಹೇಳಿ ಮೋಶೆಯ ಧರ್ಮವನ್ನು ತ್ಯಾಗಮಾಡಬೇಕೆಂಬದಾಗಿ ಬೋಧಿಸುತ್ತೀ ಎಂದು ನಿನ್ನ ವಿಷಯದಲ್ಲಿ ಬಹಳವಾಗಿ ಕೇಳಿದ್ದಾರೆ 21:21	",
 },			
 {			
-"question" :	"	9. Who stopped the Jews?	",
+"question" :	"	8 ಯೆಹೂದ್ಯರು ಪೌಲನನ್ನು ದೇವಾಲಯದ ಹೊರಗೆ ಕರೆದುಕೊಂಡು ಬಂದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Soldiers	",
-	"	b. Herod	",
-	"	c. Pilate	",
-	"	d. James	"
+	"	A. ಗೌರವಿಸಿದರು	",
+	"	B. ಅವನಿಗೆ ಉಣಿಸಿದರು	",
+	"	C. ಅವನನ್ನು ಕೊಲ್ಲಬೇಕೆಂದಿದ್ದರು	",
+	"	D. ಅವನನ್ನು ಪ್ರಶ್ನಿಸಿದರು.	"
 ],			
-"correct" :	"	a. Soldiers	",
-"explanation" :	"	Who immediately took soldiers and centurions, and ran down unto them: and when they saw the chief captain and the soldiers, they left beating of Paul.Acts21:32	",
+"correct" :	"	C. ಅವನನ್ನು ಕೊಲ್ಲಬೇಕೆಂದಿದ್ದರು	",
+"explanation" :	"	ಆಗ ಪಟ್ಟಣವೆಲ್ಲಾ ಕಲಕಿಹೋಯಿತು, ಜನರು ಎಲ್ಲಾ ಕಡೆಯಿಂದ ಓಡಿಬಂದು ಕೂಡಿದರು. ಮತ್ತು ಪೌಲನನ್ನು ಹಿಡಿದು ದೇವಾಲಯದ ಹೊರಗೆ ಎಳೆದುಕೊಂಡು ಬಂದರು. ಕೂಡಲೇ ಬಾಗಿಲುಗಳನ್ನು ಮುಚ್ಚಿದರು. ಅವರು ಅವನನ್ನು ಕೊಲ್ಲುವದಕ್ಕೆ ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದಾಗ ಯೆರೂಸಲೇಮಿನಲ್ಲೆಲ್ಲಾ ಗಲಿಬಿಲಿಯಾಯಿತೆಂದು ಪಟಾಲಮಿನ ಸಹಸ್ರಾಧಿಪತಿಗೆ ವರದಿ ಬಂತು.  21:30,31	",
 },			
 {			
-"question" :	"	10. At the castle, Paul asked the chief captain to allow him to	",
+"question" :	"	9 ಯೆಹೂದ್ಯರನ್ನು ತಡೆದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Leave the city.	",
-	"	b. See a doctor.	",
-	"	c. Speak to the people.	",
-	"	d. Have a fair trial.	"
+	"	A. ಸೈನಿಕರು	",
+	"	B. ಹೆರೋದ	",
+	"	C. ಪಿಲಾತ	",
+	"	D. ಯಾಕೋಬ	"
 ],			
-"correct" :	"	c. Speak to the people.	",
-"explanation" :	"	But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I beseech thee, suffer me to speak unto the people.Acts21:39	",
+"correct" :	"	A. ಸೈನಿಕರು	",
+"explanation" :	"	ಅವನು ತಕ್ಷಣವೇ ಸಿಪಾಯಿಗಳನ್ನೂ ಶತಾಧಿಪತಿಗಳನ್ನೂ ತೆಗೆದುಕೊಂಡು ಅವರ ಮೇಲೆ ಓಡಿಬಂದನು. ಅವರು ಸಹಸ್ರಾಧಿಪತಿಯನ್ನೂ ಸಿಪಾಯಿಗಳನ್ನೂ ನೋಡಿ ಪೌಲನನ್ನು ಹೊಡೆಯುವದನ್ನು ಬಿಟ್ಟರು.   21:32	",
+},			
+{			
+"question" :	"	10 ಆ ಕೋಟೆಯಲ್ಲಿ, ಪೌಲನು ಶತಾಧಿಪತಿಯನ್ನು ತನಗೆ ಇದಕ್ಕೆ ಅಪ್ಪಣೆ ಕೊಡಬೇಕೆಂದು ಕೇಳಿದನು.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಪಟ್ಟಣವನ್ನು ಬಿಟ್ಟುಹೋಗಲು	",
+	"	B. ವೈದ್ಯರನ್ನು ಕಾಣಲು	",
+	"	C. ಜನರೊಟ್ಟಿಗೆ ಮಾತನಾಡಲು	",
+	"	D. ನ್ಯಾಯವಾಗಿ ವಿಚಾರಣೆ ನಡೆಸಲು.	"
+],			
+"correct" :	"	C. ಜನರೊಟ್ಟಿಗೆ ಮಾತನಾಡಲು	",
+"explanation" :	"	ಅದಕ್ಕೆ ಪೌಲನು - ನಾನು ಯೆಹೂದ್ಯನು, ತಾರ್ಸದವನು, ಕಿಲಿಕ್ಯಸೀಮೆಯ ಪ್ರಖ್ಯಾತವಾದ ಪಟ್ಟಣದವನು. ಈ ಜನರಿಗೆ ಕೆಲವು ಮಾತುಗಳನ್ನು ಹೇಳುವದಕ್ಕೆ ನನಗೆ ಅಪ್ಪಣೆಯಾಗಬೇಕೆಂದು ಕೇಳಿಕೊಳ್ಳುತ್ತೇನೆ ಅಂದನು 21:39	",
 },			
 ]			

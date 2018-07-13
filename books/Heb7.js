@@ -1,4 +1,4 @@
-var quiztitle = " Hebrews chapter 7";			
+var quiztitle = " ಇಬ್ರಿಯರಿಗೆ ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. ಈತನು ಅಬ್ರಹಾಮನನ್ನು ಎದುರುಗೊಂಡು ಅವನನ್ನು ಆಶೀರ್ವದಿಸಿದನು	",

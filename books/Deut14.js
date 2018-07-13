@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 14";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. You shall not cut yourself for	",

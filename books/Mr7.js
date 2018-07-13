@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 7";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
-"question" :	"	1. Why did the Pharisees find fault in the disciples?	",
+"question" :	"	1 ಫರಿಸಾಯರು ಶಿಷ್ಯರಲ್ಲಿ ಏನು ತಪ್ಪು ಕಂಡುಹಿಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. They worked on the Sabbath.	",
-	"	b. They did not honor their parents.	",
-	"	c. They ate with unwashed hands.	",
-	"	d. They spoke blasphemy.	"
+	"	A. ಅವರು ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಕೆಲಸ ಮಾಡಿದರು	",
+	"	B. ಅವರ ತಂದೆ ತಾಯಿಗಳನ್ನು ಸನ್ಮಾನಿಸಲಿಲ್ಲ	",
+	"	C. ಅವರ ಕೈ ತೊಳೆಯದೆ ಊಟ ಮಾಡಿದರು	",
+	"	D. ಅವರು ದೇವದೂಷಣೆ ಮಾಡಿದರು	"
 ],			
-"correct" :	"	c. They ate with unwashed hands.	",
-"explanation" :	"	Now when they saw some of His disciples eat bread with defiled, that is, with unwashed hands, they found fault. - Mr 7:2	",
+"correct" :	"	C. ಅವರ ಕೈ ತೊಳೆಯದೆ ಊಟ ಮಾಡಿದರು	",
+"explanation" :	"	ಆತನ ಶಿಷ್ಯರಲ್ಲಿ ಕೆಲವರು ಮೈಲಿಗೆಯ ಕೈಯಿಂದ ಅಂದರೆ ಕೈ ತೊಳಕೊಳ್ಳದೆ ಆಹಾರ ತೆಗೆದುಕೊಳ್ಳುವುದನ್ನು ಆ ಫರಿಸಾಯರೂ ಶಾಸ್ತ್ರಿಗಳೂ ಕಂಡು ಆತನನ್ನು ನಿನ್ನ ಶಿಷ್ಯರು ಹಿರಿಯರಿಂದ ಬಂದ ಸಂಪ್ರದಾಯದಂತೆ ಯಾಕೆ ನಡೆದುಕೊಳ್ಳುವದಿಲ್ಲ? ಮೈಲಿಗೆಯ ಕೈಯಿಂದ ಯಾಕೆ ಆಹಾರ ತೆಗೆದುಕೊಳ್ಳುತ್ತಾರೆ ಎಂದು ಕೇಳಿದರು.  ಮಾರ್ಕ 7:2-5	",
 },			
 {			
-"question" :	"	2. Jesus quoted Isaiah, This people honoureth me with their lips, but this is far from me.	",
+"question" :	"	2 ಯೇಸುವು ಯೆಶಾಯನ ಮಾತುಗಳನ್ನು ಹೇಳಿದನು: ಈ ಜನರು ನನ್ನನ್ನು ತಮ್ಮ ಮಾತುಗಳಿಂದ  ಸನ್ಮಾನಿಸುತ್ತಾರೆ, ಆದರೆ ,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ನನಗೆ ದೂರವಾಗಿದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Their heart	",
-	"	b. Their tongue	",
-	"	c. Their thoughts	",
-	"	d. Their mind	"
+	"	A. ಅವರ ಮನಸ್ಸು	",
+	"	B. ಅವರ ನಾಲಿಗೆ	",
+	"	C. ಅವರ ಯೋಚನೆಗಳು	",
+	"	D. ಅವರ ಬುದ್ದಿ	"
 ],			
-"correct" :	"	a. Their heart	",
-"explanation" :	"	He answered and said to them, Well did Isaiah prophesy of you hypocrites, as it is written: 'This people honors Me with their lips, But their heart is far from Me - Mr 7:6	",
+"correct" :	"	A. ಅವರ ಮನಸ್ಸು	",
+"explanation" :	"	ಆತನು - ಕಪಟಿಗಳಾದ ನಿಮ್ಮ ವಿಷಯದಲ್ಲಿ ಯೆಶಾಯನು ವಿಹಿತವಾಗಿ ಪ್ರವಾದಿಸಿದ್ದಾನೆ; ಅವನು ಬರೆದದ್ದೇನಂದರೆ - ಈ ಜನರು ಮಾತಿನಿಂದ ನನ್ನನ್ನು ಸನ್ಮಾನಿಸುತ್ತಾರೆ ಆದರೆ ಅವರ ಮನಸ್ಸು ನನಗೆ ದೂರವಾಗಿದೆ.   ಮಾರ್ಕ 7:6	",
 },			
 {			
-"question" :	"	3. Jesus told the Pharisees and scribes, they make the word of God of none effect through this.	",
+"question" :	"	3 ಫರಿಸಾಯರು ಮತ್ತು ಶಾಸ್ತ್ರಿಗಳು ಯಾವುದರಿಂದ ದೇವರ ವಾಕ್ಯಗಳನ್ನು ನಿರರ್ಥಕ  ಮಾಡುತ್ತಿದ್ದಾರೆಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Their pride	",
-	"	b. Their tradition	",
-	"	c. Their righteousness	",
-	"	d. Their humility	"
+	"	A. ಅವರ ಅಹಂಕಾರದಿಂದ	",
+	"	B. ಅವರ ಸಂಪ್ರದಾಯದಿಂದ	",
+	"	C. ಅವರ ನೀತಿತನದಿಂದ	",
+	"	D. ಅವರ ವಿನಯದಿಂದ	"
 ],			
-"correct" :	"	b. Their tradition	",
-"explanation" :	"	making the word of God of no effect through your tradition which you have handed down. And many such things you do.- Mr 7:13	",
+"correct" :	"	B. ಅವರ ಸಂಪ್ರದಾಯದಿಂದ	",
+"explanation" :	"	ಹೀಗೆ ನೀವು ಕಲಿಸುತ್ತಾ ಬಂದಿರುವ ಸಂಪ್ರದಾಯದಿಂದ ದೇವರ ವಾಕ್ಯವನ್ನು ನಿರರ್ಥಕಮಾಡುತ್ತೀರಿ ಮತ್ತು ಇಂಥ ಕಾರ್ಯಗಳನ್ನು ಇನ್ನೂ ಎಷ್ಟೋ ಮಾಡುತ್ತೀರಿ ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 7:13	",
 },			
 {			
-"question" :	"	4. Jesus said, this defiles a man.	",
+"question" :	"	4 ಯಾವುದು ಮನುಷ್ಯನನ್ನು ಹೊಲೆ ಮಾಡುತ್ತದೆಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Eating with unwashed hands	",
-	"	b. What goes into a man from without	",
-	"	c. The things that come out of him	",
-	"	d. The law	"
+	"	A. ಕೈ ತೊಳೆಯದೇ ಊಟ ಮಾಡುವುದು	",
+	"	B. ಮನುಷ್ಯನ ಒಳಕ್ಕೆ ಹೋಗುವುದು	",
+	"	C. ಮನುಷ್ಯನೊಳಗಿಂದ ಹೊರಡುವಂಥದೇ	",
+	"	D. ಧರ್ಮಶಾಸ್ತ್ರವು	"
 ],			
-"correct" :	"	c. The things that come out of him	",
-"explanation" :	"	There is nothing that enters a man from outside which can defile him; but the things which come out of him, those are the things that defile a man. - Mr 7:15	",
+"correct" :	"	C. ಮನುಷ್ಯನೊಳಗಿಂದ ಹೊರಡುವಂಥದೇ	",
+"explanation" :	"	ನನ್ನ ಮಾತನ್ನು ಕೇಳಿರಿ, ತಿಳುಕೊಳ್ಳಿರಿ, ಹೊರಗಿನಿಂದ ಮನುಷ್ಯನೊಳಕ್ಕೆ ಹೋಗಿ ಅವನನ್ನು ಹೊಲೆಮಾಡತಕ್ಕಂಥದು ಒಂದೂ ಇಲ್ಲ; ಆದರೆ ಮನುಷ್ಯನೊಳಗಿಂದ ಹೊರಡುವವುಗಳೇ ಮನುಷ್ಯನನ್ನು ಹೊಲೆ ಮಾಡುವಂಥವುಗಳಾಗಿವೆ ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 7:15	",
 },			
 {			
-"question" :	"	5. From where do adulteries, covetousness, pride and foolishness come?	",
+"question" :	"	5 ಯಾವುದರಿಂದ ವ್ಯಭಿಚಾರ, ಹೇಡಿತನ, ಸೊಕ್ಕು ಮತ್ತು ಬುದ್ದಿಗೇಡಿತನ ಬರುತ್ತದೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The heathen	",
-	"	b. Sodom & Gomorrah	",
-	"	c. Man's heart	",
-	"	d. Hell	"
+	"	A.  ಅನ್ಯಧರ್ಮಿಯಿಂದ	",
+	"	B. ಸೋದೋಮ್ ಮತ್ತು ಗೋಮರ	",
+	"	C. ಮನುಷ್ಯನ ಹೃದಯದಿಂದ	",
+	"	D. ನರಕದಿಂದ	"
 ],			
-"correct" :	"	c. Man's heart	",
-"explanation" :	"	For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,thefts, covetousness, wickedness, deceit, lewdness, an evil eye, blasphemy, pride, foolishness.All these evil things come from within and defile a man. - Mr 7:21-23	",
+"correct" :	"	C. ಮನುಷ್ಯನ ಹೃದಯದಿಂದ	",
+"explanation" :	"	ಒಳಗಿನಿಂದ ಅಂದರೆ ಮನುಷ್ಯರ ಮನಸ್ಸಿನೊಳಗಿಂದ ಸೂಳೆಗಾರಿಕೆ ಕಳ್ಳತನ ಕೊಲೆ ಹಾದರ ದ್ರವ್ಯಾಶೆ ಕೆಡುಕುತನ ಮೋಸ ಬಂಡತನ ಹೊಟ್ಟೇಕಿಚ್ಚು ಬೈಗಳು ಸೊಕ್ಕು ಬುದ್ದಿಗೇಡಿತನ ಇವೇ ಮೊದಲಾದವುಗಳ ಕೆಟ್ಟ ಆಲೋಚನೆಗಳು ಹೊರಡುತ್ತವೆ.  ಈ ಕೆಟ್ಟ ವಿಷಯಗಳೆಲ್ಲಾ ಒಳಗಿನಿಂದ ಹೊರಟು ಮನುಷ್ಯನನ್ನು ಹೊಲೆ ಮಾಡುತ್ತವೆ ಅಂದನು.  ಮಾರ್ಕ 7:21-23	",
 },			
 {			
-"question" :	"	6. What was wrong with the woman's daughter?	",
+"question" :	"	6 ಆ ಹೆಂಗಸಿನ ಮಗಳಿಗೆ ಏನು ತೊಂದರೆ ಇತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. She was deaf.	",
-	"	b. She was blind.	",
-	"	c. She had leprosy.	",
-	"	d. She had an unclean spirit.	"
+	"	A. ಆಕೆ ಕಿವುಡಳಾಗಿದ್ದಳು	",
+	"	B. ಆಕೆ ಕುರುಡಳಾಗಿದ್ದಳು	",
+	"	C. ಆಕೆಗೆ ಕುಷ್ಠರೋಗವಿತ್ತು	",
+	"	D. ಆಕೆಗೆ ದೆವ್ವ ಹಿಡಿದಿತ್ತು	"
 ],			
-"correct" :	"	d. She had an unclean spirit.	",
-"explanation" :	"	For a woman whose young daughter had an unclean spirit heard about Him, and she came and fell at His feet.- Mr 7:25	",
+"correct" :	"	D. ಆಕೆಗೆ ದೆವ್ವ ಹಿಡಿದಿತ್ತು	",
+"explanation" :	"	ಕೂಡಲೆ ಒಬ್ಬ ಹೆಂಗಸು ಆತನ ಸುದ್ದಿಯನ್ನು ಕೇಳಿ ಬಂದು ಆತನ ಪಾದಕ್ಕೆ ಬಿದ್ದಳು.  ಆಕೆಯ ಮಗಳಿಗೆ ದೆವ್ವ ಹಿಡಿದಿತ್ತು.  ಮಾರ್ಕ 7:25	",
 },			
 {			
-"question" :	"	7. What nationality was the woman?	",
+"question" :	"	7 ಆ ಹೆಂಗಸು ಯಾವ ಮತದವಳಾಗಿದ್ದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jewish	",
-	"	b. Greek	",
-	"	c. African	",
-	"	d. Ethiopian	"
+	"	A. ಯೆಹೂದ	",
+	"	B. ಗ್ರೀಕ್	",
+	"	C. ಆಫ್ರೀಕ	",
+	"	D. ಇಥಿಯೋಫಿಯ	"
 ],			
-"correct" :	"	b. Greek	",
-"explanation" :	"	The woman was a Greek, a Syro-Phoenician by birth, and she kept asking Him to cast the demon out of her daughter.- Mr 7:26	",
+"correct" :	"	B. ಗ್ರೀಕ್	",
+"explanation" :	"	ಆ ಹೆಂಗಸು ಅನ್ಯಮತದವಳೂ ಸುರೋಪೊಯಿನಿಕ್ಯರವಳೂ ಆಗಿದ್ದಳು.  ಮಾರ್ಕ 7:26	",
 },			
 {			
-"question" :	"	8. What did the woman say the dogs under the table eat?	",
+"question" :	"	8 ಆ ಹೆಂಗಸು ಯಾವುದನ್ನು ಮೇಜಿನಿಂದ ಕೆಳಗೆ ಬೀಳುವುದನ್ನು ನಾಯಿಮರಿಗಳು ತಿನ್ನುತ್ತವೆ ಎಂದು  ಹೇಳಿದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bones	",
-	"	b. Bread	",
-	"	c. Meat	",
-	"	d. The children's crumbs	"
+	"	A. ಮೂಳೆಗಳು	",
+	"	B. ರೊಟ್ಟಿ ಚೂರುಗಳು	",
+	"	C. ಮಾಂಸ	",
+	"	D. ಮಕ್ಕಳ ಕೈಯಿಂದ ಬೀಳುವ ರೊಟ್ಟೀ ತುಂಡುಗಳು	"
 ],			
-"correct" :	"	d. The children's crumbs	",
-"explanation" :	"	And she answered and said to Him, Yes, Lord, yet even the little dogs under the table eat from the children's crumbs. - Mr 7:28	",
+"correct" :	"	D. ಮಕ್ಕಳ ಕೈಯಿಂದ ಬೀಳುವ ರೊಟ್ಟೀ ತುಂಡುಗಳು	",
+"explanation" :	"	ಸ್ವಾಮೀ ಆ ಮಾತು ನಿಜವೇ, ಮೇಜಿನ ಕೆಳಗಿರುವ ನಾಯಿಮರಿಗಳಂತೂ ಮಕ್ಕಳ ಕೈಯಿಂದ ಬೀಳುವ ರೊಟ್ಟೀತುಂಡುಗಳನ್ನು ತಿನ್ನುತ್ತವಲ್ಲಾ ಎಂದು ಉತ್ತರ ಕೊಡಲು    ಮಾರ್ಕ 7:28	",
 },			
 {			
-"question" :	"	9. What was wrong with the man that Jesus healed?	",
+"question" :	"	9 ಯೇಸು ಸೌಖ್ಯಪಡಿಸಿದ ಮನುಷ್ಯನಿಗೆ ಏನು ತೊಂದರೆ ಇತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He was blind.	",
-	"	b. He had an evil spirit.	",
-	"	c. He had leprosy.	",
-	"	d. He was deaf & had a speech impediment.	"
+	"	A. ಅವನು ಕುರುಡನಾಗಿದ್ದನು	",
+	"	B. ಆತನಿಗೆ ದೆವ್ವ ಹಿಡಿದಿತ್ತು	",
+	"	C. ಅವನಿಗೆ ಕುಷ್ಠ ರೋಗವಿತ್ತು	",
+	"	D. ಆತನು ತೊದಲು ಮಾತಾಡುವ ಒಬ್ಬ ಕಿವುಡ	"
 ],			
-"correct" :	"	d. He was deaf & had a speech impediment.	",
-"explanation" :	"	Then they brought to Him one who was deaf and had an impediment in his speech, and they begged Him to put His hand on him.And He took him aside from the multitude, and put His fingers in his ears, and He spat and touched his tongue.Then, looking up to heaven, He sighed, and said to him, Ephphatha, that is, Be opened.Immediately his ears were opened, and the impediment of his tongue was loosed, and he spoke plainly. - Mr 7:32-35	",
+"correct" :	"	D. ಆತನು ತೊದಲು ಮಾತಾಡುವ ಒಬ್ಬ ಕಿವುಡ	",
+"explanation" :	"	ಆಗ ಕೆಲವರು ತೊದಲು ಮಾತಾಡುವ ಒಬ್ಬ ಕಿವುಡನನ್ನು ಆತನ ಬಳಿಗೆ ಕರತಂದು ಇವನ ಮೇಲೆ ನಿನ್ನ ಕೈಯಿಡಬೇಕು ಎಂದು ಆತನನ್ನು ಬೇಡಿಕೊಂಡರು.   ಮಾರ್ಕ 7:32	",
 },			
 {			
-"question" :	"	10. What did the people do when Jesus told them not to publish the miracles?	",
+"question" :	"	10 ಈ ಅದ್ಭುತಗಳನ್ನು ಯಾರಿಗೂ ತಿಳಿಸಬಾರದೆಂದು ಯೇಸು ಹೇಳಿದಾಗ ಆ ಜನರು ಏನು  ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Held their peace	",
-	"	b. Questioned why	",
-	"	c. Told only the priests	",
-	"	d. Published it greatly	"
+	"	A. ಅವರು ಶಾಂತಿಯಿಂದ ಇದ್ದರು	",
+	"	B. ಯಾಕೆಂದು ಪ್ರಶ್ನಿಸಿದರು	",
+	"	C. ಯಾಜಕರಿಗೆ ಮಾತ್ರ ತಿಳಿಸಿದರು	",
+	"	D. ಮತ್ತಷ್ಟು ಹೆಚ್ಚಾಗಿ ಅದನ್ನು ಹಬ್ಬಿಸಿದರು	"
 ],			
-"correct" :	"	d. Published it greatly	",
-"explanation" :	"	Then He commanded them that they should tell no one; but the more He commanded them, the more widely they proclaimed it. - Mr 7:36	",
+"correct" :	"	D. ಮತ್ತಷ್ಟು ಹೆಚ್ಚಾಗಿ ಅದನ್ನು ಹಬ್ಬಿಸಿದರು	",
+"explanation" :	"	ಆಗ ಆತನು ಯಾರಿಗೂ ತಿಳಿಸಬಾರದೆಂದು ಅವರಿಗೆ ಖಂಡಿತವಾಗಿ ಹೇಳಿದರೂ ಅವರು ಮತ್ತುಷ್ಟು ಹೆಚ್ಚಾಗಿ ಅದನ್ನು ಹಬ್ಬಿಸಿದರು.  ಮಾರ್ಕ 7:36	",
 },			
 ]			

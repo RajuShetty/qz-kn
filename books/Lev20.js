@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 20";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1. God strictly forbids the Israelites to offer their seed to this god.	",

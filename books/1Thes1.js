@@ -1,4 +1,4 @@
-var quiztitle = "1 Thessalonians chapter 1";			
+var quiztitle = "1 ಥೆಸಲೋನಿಕದವರಿಗೆ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. ಈ ಪತ್ರಿಕೆಯನ್ನು ಬರೆದವರು ಸೀಲ್ವಾನ, ತಿಮೋಥೆ ಮತ್ತು	",

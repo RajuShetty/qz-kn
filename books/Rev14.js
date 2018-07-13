@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 14";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. ಯಜ್ಞದ ಕುರಿಯಾದಾತನ ಜೊತೆ ನಿಂತಿದ್ದ ಒಂದು ಲಕ್ಷ ನಾಲ್ವತ್ತು ನಾಲ್ಕು ಸಾವಿರ ಮಂದಿ ಹಣೆಯ ಮೇಲೆ ಏನಿತ್ತು?	",

@@ -1,124 +1,123 @@
-			
-var quiztitle = "John chapter 7";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
-"question" :	"	1. They sought to kill Jesus.	",
+"question" :	"	1  ಇವರು ಯೇಸುವನ್ನು ಕೊಲ್ಲಲು ಯೋಚಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. His brothers	",
-	"	b. The Jews	",
-	"	c. The heathen	",
-	"	d. The Egyptians	"
+	"	A. ಆತನ ಸಹೋದರರು	",
+	"	B. ಯೆಹೂದ್ಯರು	",
+	"	C. ವಿಧರ್ಮಿಗಳು	",
+	"	D. ಐಗುಪ್ತರು	"
 ],			
-"correct" :	"	b. The Jews	",
-"explanation" :	"	After these things Jesus walked in Galilee; for He did not want to walk in Judea, because the Jews sought to kill Him - Jn 7:1	",
+"correct" :	"	B. ಯೆಹೂದ್ಯರು	",
+"explanation" :	"	ಈ ಸಂಗತಿಗಳಾದ ಮೇಲೆ ಯೇಸು ಗಲಿಲಾಯದಲ್ಲಿ ಸಂಚಾರಮಾಡುತ್ತಿದ್ದನು; ಯೆಹೂದ್ಯರು ಆತನನ್ನು ಕೊಲ್ಲುವ ಪ್ರಯತ್ನದಲ್ಲಿದ್ದದರಿಂದ ಆತನಿಗೆ ಯೂದಾಯದಲ್ಲಿ ಸಂಚಾರಮಾಡುವ ಮನಸ್ಸಿರಲಿಲ್ಲ. 7:1	",
 },			
 {			
-"question" :	"	2. This feast was at hand.	",
+"question" :	"	2  ಈ ಹಬ್ಬವು ಹತ್ತಿರದಲ್ಲಿತ್ತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Feast of the Trumpets	",
-	"	b. Feast of Tabernacles	",
-	"	c. Year of Jubilee	",
-	"	d. Passover	"
+	"	A. ತುತ್ತೂರಿಗಳ ಹಬ್ಬ	",
+	"	B. ಪರ್ಣಶಾಲೆಗಳ ಹಬ್ಬ	",
+	"	C. ಜುಬಿಲೀ ಸಂವತ್ಸರ	",
+	"	D. ಫಸ್ಕ ಹಬ್ಬ	"
 ],			
-"correct" :	"	b. Feast of Tabernacles	",
-"explanation" :	"	Now the Jews' Feast of Tabernacles was at hand. - Jn 7:2	",
+"correct" :	"	B. ಪರ್ಣಶಾಲೆಗಳ ಹಬ್ಬ	",
+"explanation" :	"	ಪರ್ಣಶಾಲೆಗಳ ಹಬ್ಬವೆಂಬ ಯೆಹೂದ್ಯರದೊಂದು ಜಾತ್ರೆಯು ಸಮೀಪವಾದಾಗ  7:2	",
 },			
 {			
-"question" :	"	3. They did not believe in Jesus, and urged Him to go to Judea for the feast.	",
+"question" :	"	3  ಅವರು ಯೇಸುವನ್ನು ನಂಬದೆ, ಆತನನ್ನು ಅದ್ಭುತಗಳನ್ನು ಮಾಡುವುದಕ್ಕೆ ಯೂದಾಯಕ್ಕೆ ಹೋಗು   ಎಂದು  ಒತ್ತಾಯಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Pharisees	",
-	"	b. His brothers	",
-	"	c. His disciples	",
-	"	d. Nicodemus & Joseph of Arimathaea	"
+	"	A. ಫರಿಸಾಯರು	",
+	"	B. ಆತನ ಸಹೋದರರು	",
+	"	C. ಆತನ ಶಿಷ್ಯರು	",
+	"	D. ನಿಕೋದೇಮನು ಮತ್ತು ಅರಿಮಥಾಯದ ಯೊಸೇಫನು	"
 ],			
-"correct" :	"	b. His brothers	",
-"explanation" :	"	His brothers therefore said to Him, Depart from here and go into Judea, that Your disciples also may see the works that You are doing.For no one does anything in secret while he himself seeks to be known openly. If You do these things, show Yourself to the world.For even His brothers did not believe in Him. - Jn 7:3-5	",
+"correct" :	"	B. ಆತನ ಸಹೋದರರು	",
+"explanation" :	"	ಆತನ ತಮ್ಮಂದಿರು ಆತನಿಗೆ - ನೀನು ಮಾಡುವ ಕಾರ್ಯಗಳನ್ನು ನಿನ್ನ ಶಿಷ್ಯರು ಸಹ ನೋಡುವಂತೆ ಇಲ್ಲಿಂದ ಹೊರಟು ಯೂದಾಯಕ್ಕೆ ಹೋಗು; ಪ್ರಸಿದ್ಧಿಗೆ ಬರಬೇಕೆಂದಿರುವ ಯಾವನಾದರೂ ತಾನು ಮಾಡುವದನ್ನು ಮರೆಯಲ್ಲಿ ಮಾಡುವದಿಲ್ಲವಲ್ಲಾ; ನೀನು ಇಂಥ ಕಾರ್ಯಗಳನ್ನು ಮಾಡುವವನಾದ್ದರಿಂದ ಲೋಕಕ್ಕೆ ತಿಳಿಯಪಡಿಸಿಕೋ ಎಂದು ಹೇಳಿದರು. ಯಾಕಂದರೆ ಆತನ ಸಹೋದರರು ಸಹ ಆತನನ್ನು ನಂಬದೆ ಇದ್ದರು7:3-5	",
 },			
 {			
-"question" :	"	4. Where did Jesus go to teach?	",
+"question" :	"	4  ಯೇಸು ಭೋದಿಸಲು ಎಲ್ಲಿ ಹೋದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. In the marketplace	",
-	"	b. In the wilderness	",
-	"	c. In the temple	",
-	"	d. On the mountains	"
+	"	A. ಸಂತೇಪೇಟೆಗಳಲ್ಲಿ	",
+	"	B. ಆಡವಿಯಲ್ಲಿ	",
+	"	C. ದೇವಾಲಯದಲ್ಲಿ	",
+	"	D. ಬೆಟ್ಟದ ಮೇಲೆ	"
 ],			
-"correct" :	"	c. In the temple	",
-"explanation" :	"	Now about the middle of the feast Jesus went up into the temple and taught. - Jn 7:14	",
+"correct" :	"	C. ದೇವಾಲಯದಲ್ಲಿ	",
+"explanation" :	"	ಜಾತ್ರೆಯ ಮಧ್ಯಕಾಲದಲ್ಲಿ ಯೇಸು ದೇವಾಲಯಕ್ಕೆ ಹೋಗಿ ಬೋಧಿಸುತ್ತಿದ್ದನು.  7:14	",
 },			
 {			
-"question" :	"	5. If any man speaks of himself, he seeks this.	",
+"question" :	"	5  ಕಲ್ಪಿಸಿ ಹೇಳುವವನು ತನಗೆ __________ ಬರುವುದೆಂದು ಹೇಳುವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Truth	",
-	"	b. Righteousness	",
-	"	c. Wisdom	",
-	"	d. His own glory	"
+	"	A. ಸತ್ಯ	",
+	"	B. ನೀತಿ	",
+	"	C. ಜ್ಞಾನ	",
+	"	D. ಮಾನ	"
 ],			
-"correct" :	"	d. His own glory	",
-"explanation" :	"	He who speaks from himself seeks his own glory; but He who seeks the glory of the One who sent Him is true, and no unrighteousness is in Him. - Jn 7:18	",
+"correct" :	"	D. ಮಾನ	",
+"explanation" :	"	ಕಲ್ಪಿಸಿ ಹೇಳುವವನು ತನಗೆ ಮಾನ ಬರಬೇಕೆಂದು ಅಪೇಕ್ಷಿಸುತ್ತಾನೆ; ತನ್ನನ್ನು ಕಳುಹಿಸಿದವನಿಗೆ ಮಾನಬರಬೇಕೆಂದು ಅಪೇಕ್ಷಿಸುವವನು ಸತ್ಯವಂತನು, ಅಧರ್ಮವು ಅವನಲ್ಲಿ ಇಲ್ಲ. 7:18	",
 },			
 {			
-"question" :	"	6. What did Jesussay the Jewish leaders did on the Sabbath day?	",
+"question" :	"	6  ಯೆಹೂದ್ಯ ನಾಯಕರುಗಳು ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಏನು ಮಾಡಿದರೆಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Work	",
-	"	b. Fast	",
-	"	c. Circumcise	",
-	"	d. Travel	"
+	"	A. ಕೆಲಸ	",
+	"	B. ಉಪವಾಸ	",
+	"	C. ಸುನ್ನತಿ	",
+	"	D. ಪ್ರಯಾಣ	"
 ],			
-"correct" :	"	c. Circumcise	",
-"explanation" :	"	Moses therefore gave you circumcision (not that it is from Moses, but from the fathers), and you circumcise a man on the Sabbath. - Jn 7:22	",
+"correct" :	"	C. ಸುನ್ನತಿ	",
+"explanation" :	"	ಮೋಶೆಯು ನಿಮಗೆ ಸುನ್ನತಿಯೆಂಬ ಸಂಸ್ಕಾರವನ್ನು ನೇಮಿಸಿದನು. ಅದು ಮೋಶೆಯಿಂದ ಬಂದದ್ದೆಂದು ನಾನು ಹೇಳುವದಿಲ್ಲ, ಮೂಲಪುರುಷರ ಕಾಲದಿಂದ ಬಂದದ್ದು. ಮತ್ತು ಆ ಸುನ್ನತಿಯನ್ನು ಸಬ್ಬತ್‍ದಿನದಲ್ಲಿಯೂ ಮಾಡುತ್ತೀರಿ 7:22	",
 },			
 {			
-"question" :	"	7. Jesus asked if they were angry because He did this, on the Sabbath.	",
+"question" :	"	7  ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ನಾನು ಇದನ್ನು ಮಾಡಿದ್ದಕ್ಕೆ ಕೋಪಗೊಂಡಿದ್ದೀರೋ ಎಂದು ಯೇಸು ಕೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Prayed	",
-	"	b. Made a man whole	",
-	"	c. Ate meat	",
-	"	d. Taught	"
+	"	A. ಪ್ರಾರ್ಥನೆ	",
+	"	B. ಒಬ್ಬ ಮನುಷ್ಯನನ್ನು ಶುದ್ಧ ಮಾಡಿದ್ದಕ್ಕೆ	",
+	"	C. ಮಾಂಸವನ್ನು ತಿಂದದ್ದಕ್ಕೆ	",
+	"	D. ಕಲಿಸಿದ್ದಕ್ಕೆ	"
 ],			
-"correct" :	"	b. Made a man whole	",
-"explanation" :	"	If a man receives circumcision on the Sabbath, so that the law of Moses should not be broken, are you angry with Me because I made a man completely well on the Sabbath - Jn 7:23	",
+"correct" :	"	B. ಒಬ್ಬ ಮನುಷ್ಯನನ್ನು ಶುದ್ಧ ಮಾಡಿದ್ದಕ್ಕೆ	",
+"explanation" :	"	ಮೋಶೆಯ ನೇಮವನ್ನು ಮೀರಬಾರದೆಂದು ಒಬ್ಬನು ಸಬ್ಬತ್‍ದಿನದಲ್ಲಿ ಸುನ್ನತಿಮಾಡಿಸಿಕೊಳ್ಳುವದಾದರೆ ನಾನು ಸಬ್ಬತ್‍ದಿನದಲ್ಲಿ ಒಬ್ಬ ಮನುಷ್ಯನನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಸ್ವಸ್ಥಮಾಡಿದ್ದಕ್ಕೆ ನನ್ನ ಮೇಲೆ ಕೋಪಗೊಳ್ಳುತ್ತೀರೋ? 7:23	",
 },			
 {			
-"question" :	"	8. Jesus said, there would be a time when they would seek Him	",
+"question" :	"	8  ಯೇಸು ಹೇಳಿದ್ದು, ನೀವು ನನ್ನನ್ನು ಹುಡುಕುವಿರಿ, ಆದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. And kill Him.	",
-	"	b. And find Him.	",
-	"	c. To worship Him.	",
-	"	d. And not find Him.	"
+	"	A. ನನ್ನನ್ನು ಕೊಲ್ಲುವಿರಿ	",
+	"	B. ಕಂಡುಕೊಳ್ಳುವಿರಿ	",
+	"	C. ನನ್ನನ್ನು ಆರಾಧಿಸಲು	",
+	"	D. ನನ್ನನ್ನು ಕಂಡುಕೊಳ್ಳದೆ ಹೋಗುವಿರಿ	"
 ],			
-"correct" :	"	d. And not find Him.	",
-"explanation" :	"	Then Jesus said to them, I shall be with you a little while longer, and then I go to Him who sent Me.You will seek Me and not find Me, and where I am you cannot come - Jn 7:33-34	",
+"correct" :	"	D. ನನ್ನನ್ನು ಕಂಡುಕೊಳ್ಳದೆ ಹೋಗುವಿರಿ	",
+"explanation" :	"	ಆಗ ಯೇಸು - ಇನ್ನು ಸ್ವಲ್ಪಕಾಲ ನಾನು ನಿಮ್ಮಲ್ಲಿ ಇದ್ದು ಆಮೇಲೆ ನನ್ನನ್ನು ಕಳುಹಿಸಿದಾತನ ಬಳಿಗೆ ಹೊರಟು ಹೋಗುತ್ತೇನೆ. ನೀವು ನನ್ನನ್ನು ಹುಡುಕುವಿರಿ, ಆದರೆ ನನ್ನನ್ನು ಕಂಡುಕೊಳ್ಳದೆ ಹೋಗುವಿರಿ, ನಾನು ಇರುವಲ್ಲಿಗೆ ನೀವು ಬರಲಾರಿರಿ ಅಂದನು 7:33-34	",
 },			
 {			
-"question" :	"	9. When Jesus said, out of the believers belly shall flow rivers of living water, He was speaking	",
+"question" :	"	9  ನನ್ನನ್ನು ನಂಬಿದವನ ಹೊಟ್ಟೆಯೊಳಗಿಂದ ಜೀವಕರವಾದ ನೀರಿನ ಹೊಳೆಗಳು ಹರಿಯುವವು  ಎಂದು ಹೇಳಿದನು, ಆತನು ಯಾವುದರ ಕುರಿತು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Of the Spirit.	",
-	"	b. A lie.	",
-	"	c. About famine.	",
-	"	d. To the 12 disciples only.	"
+	"	A. ಪವಿತ್ರಾತ್ಮ ವರ	",
+	"	B. ಸುಳ್ಳು	",
+	"	C. ಬರಗಾಲ	",
+	"	D. 12 ಶಿಷ್ಯರಿಗೆ ಮಾತ್ರ	"
 ],			
-"correct" :	"	a. Of the Spirit.	",
-"explanation" :	"	He who believes in Me, as the Scripture has said, out of his heart will flow rivers of living water.But this He spoke concerning the Spirit, whom those believing in Him would receive; for the Holy Spirit was not yet given, because Jesus was not yet glorified. - Jn 7:38-39	",
+"correct" :	"	A. ಪವಿತ್ರಾತ್ಮ ವರ	",
+"explanation" :	"	ನನ್ನನ್ನು ನಂಬಿದವನ ಹೊಟ್ಟೆಯೊಳಗಿಂದ ಶಾಸ್ತ್ರದಲ್ಲಿ ಹೇಳಿರುವ ಪ್ರಕಾರ ಜೀವಕರವಾದ ನೀರಿನ ಹೊಳೆಗಳು ಹರಿಯುವವು ಎಂದು ಕೂಗಿ ಹೇಳಿದನು. ಇದನ್ನು ಯೇಸು ತನ್ನನ್ನು ನಂಬಿದವರು ಹೊಂದಲಿರುವ ಪವಿತ್ರಾತ್ಮವರವನ್ನು ಕುರಿತು ಹೇಳಿದನು; ಆತನು ಇನ್ನೂ ತನ್ನ ಮಹಿಮೆಯ ಪದವಿಯನ್ನು ಹೊಂದದೆ ಇದ್ದಕಾರಣ ಪವಿತ್ರಾತ್ಮವರವು ಇನ್ನೂ ಬಂದಿದ್ದಿಲ್ಲ 7:38-39	",
 },			
 {			
-"question" :	"	10. When the Pharisees asked the officers why they did not arrest Jesus, they answered	",
+"question" :	"	10  ಫರಿಸಾಯರು ಓಲೇಕರರನ್ನು, ನೀವು ಯಾಕೆ ಯೇಸುವನ್ನು ಹಿಡತರಲಿಲ್ಲ ಎಂದು ಕೇಳಿದ್ದಕ್ಕೆ   ಅವರು ಹೀಗೆ ಉತ್ತರಿಸಿದರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Never a man spoke like this.	",
-	"	b. The people prevented us.	",
-	"	c. He hid from us.	",
-	"	d. This thing is not holy or acceptable.	"
+	"	A. ಈ ಮನುಷ್ಯನು ಮಾತಾಡುವ ರೀತಿಯಲ್ಲಿ ಯಾರೂ ಎಂದೂ ಮಾತಾಡಿದ್ದಿಲ್ಲ	",
+	"	B. ಜನರು ನಮ್ಮನ್ನು ತಡೆದರು	",
+	"	C. ಆತನು ನಮಗೆ ಮರೆಯಾಗಿದ್ದಾನೆ	",
+	"	D. ಇದು ಪರಿಶುದ್ಧವಾದದೋ ಮತ್ತು ಯೋಗ್ಯವಾದದೋ ಅಲ್ಲ	"
 ],			
-"correct" :	"	a. Never a man spoke like this.	",
-"explanation" :	"	Then the officers came to the chief priests and Pharisees, who said to them, Why have you not brought Him?The officers answered, No man ever spoke like this Man - Jn 7:45-46	",
+"correct" :	"	A. ಈ ಮನುಷ್ಯನು ಮಾತಾಡುವ ರೀತಿಯಲ್ಲಿ ಯಾರೂ ಎಂದೂ ಮಾತಾಡಿದ್ದಿಲ್ಲ	",
+"explanation" :	"	ಬಳಿಕ ಆ ಓಲೇಕಾರರು ಮಹಾಯಾಜಕರ ಮತ್ತು ಫರಿಸಾಯರ ಬಳಿಗೆ ಬಂದಾಗ ಇವರು - ನೀವು ಯಾಕೆ ಅವನನ್ನು ಹಿಡತರಲಿಲ್ಲ? ಎಂದು ಅವರನ್ನು ಕೇಳಿದ್ದಕ್ಕೆ ಆ ಓಲೇಕಾರರು - ಈ ಮನುಷ್ಯನು ಮಾತಾಡುವ ರೀತಿಯಲ್ಲಿ ಯಾರೂ ಎಂದೂ ಮಾತಾಡಿದ್ದಿಲ್ಲ ಎಂದು ಉತ್ತರಕೊಟ್ಟರು.  7:45-46	",
 },			
 ]			

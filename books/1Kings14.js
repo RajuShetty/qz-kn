@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 14";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. This son of Jeroboam fell sick.	",

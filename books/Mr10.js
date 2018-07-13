@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 10";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus told his disciples to allow them to come to Him.	",
+"question" :	"	1 ಇವರನ್ನು ತನ್ನ ಹತ್ತಿರ ಬರಲು ಬಿಡಿರೆಂದು ಯೇಸು ತನ್ನ ಶಿಷ್ಯರಿಗೆ ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pharisees	",
-	"	b. Scribes	",
-	"	c. The sick & lame	",
-	"	d. Children	"
+	"	A. ಫರಿಸಾಯರು	",
+	"	B. ಶಾಸ್ತ್ರಿಗಳು	",
+	"	C. ರೋಗಿಗಳು ಮತ್ತು ಕುಂಟರು	",
+	"	D. ಚಿಕ್ಕಮಕ್ಕಳು	"
 ],			
-"correct" :	"	d. Children	",
-"explanation" :	"	But when Jesus saw it, He was greatly displeased and said to them, Let the little children come to Me, and do not forbid them; for of such is the kingdom of God. - Mr 10:14	",
+"correct" :	"	D. ಚಿಕ್ಕಮಕ್ಕಳು	",
+"explanation" :	"	ಆದರೆ ಯೇಸು ಅದನ್ನು ಕಂಡು ಕೋಪಗೊಂಡು ಅವರಿಗೆ ಮಕ್ಕಳನ್ನು ನನ್ನ ಹತ್ತಿರಕ್ಕೆ ಬರಗೊಡಿಸಿರಿ; ಅವುಗಳಿಗೆ ಅಡ್ಡಿಮಾಡಬೇಡಿರಿ; ದೇವರ ರಾಜ್ಯವು ಇಂಥವರದೇ.   ಮಾರ್ಕ 10:14	",
 },			
 {			
-"question" :	"	2. Whoever does not receive the kingdom of God as this, shall not enter therein.	",
+"question" :	"	2 ಯಾವನು ____________ ದೇವರ ರಾಜ್ಯವನ್ನು ಅಂಗೀಕರಿಸುವದಿಲ್ಲವೋ ಅವನು ಅದರಲ್ಲಿ ಸೇರುವದೇ ಇಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A lamb	",
-	"	b. A child	",
-	"	c. A prince	",
-	"	d. A servant	"
+	"	A. ಕುರಿ	",
+	"	B. ಶಿಶುಭಾವ	",
+	"	C. ರಾಜಕುಮಾರ	",
+	"	D. ಸೇವಕನಂತೆ	"
 ],			
-"correct" :	"	b. A child	",
-"explanation" :	"	Assuredly, I say to you, whoever does not receive the kingdom of God as a little child will by no means enter it. - Mr 10:15	",
+"correct" :	"	B. ಶಿಶುಭಾವ	",
+"explanation" :	"	ನಿಮಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ, ಯಾವನು ಶಿಶುಭಾವದಿಂದ ದೇವರ ರಾಜ್ಯವನ್ನು ಅಂಗೀಕರಿಸುವದಿಲ್ಲವೋ ಅವನು ಅದರಲ್ಲಿ ಸೇರುವದೇ ಇಲ್ಲ.  ಮಾರ್ಕ 10:15	",
 },			
 {			
-"question" :	"	3. A man asked Jesus, what he should do	",
+"question" :	"	3 ಒಬ್ಬ ಮನುಷ್ಯನು ಬಂದು ಯೇಸುವಿಗೆ, ________________ ಏನು ಮಾಡಬೇಕು ಎಂದು  ಕೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. To be healed.	",
-	"	b. For his sick servant.	",
-	"	c. To rebuke his children.	",
-	"	d. To inherit eternal life.	"
+	"	A. ಸೌಖ್ಯಹೊಂದಬೇಕಾದರೆ	",
+	"	B. ತನ್ನ ರೋಗಿಯಾದ ಆಳಿಗೆ	",
+	"	C. ತನ್ನ ಮಕ್ಕಳನ್ನು ಗದರಿಸಲು	",
+	"	D. ನಿತ್ಯ ಜೀವಕ್ಕೆ ಬಾಧ್ಯಸ್ಥನಾಗಲು	"
 ],			
-"correct" :	"	d. To inherit eternal life.	",
-"explanation" :	"	Now as He was going out on the road, one came running, knelt before Him, and asked Him, Good Teacher, what shall I do that I may inherit eternal life? - Mr 10:17	",
+"correct" :	"	D. ನಿತ್ಯ ಜೀವಕ್ಕೆ ಬಾಧ್ಯಸ್ಥನಾಗಲು	",
+"explanation" :	"	ಆತನು ಹೊರಟು ದಾರಿಹಿಡಿದು ಹೋಗುವಾಗ ಒಬ್ಬನು ಓಡುತ್ತಾ ಆತನ ಎದುರಿಗೆ ಬಂದು ಮೊಣಕಾಲೂರಿ ಒಳ್ಳೇ ಬೋಧಕನೇ ನಾನು ನಿತ್ಯಜೀವಕ್ಕೆ ಬಾಧ್ಯಸ್ಥನಾಗಬೇಕಾದರೆ ಏನು ಮಾಡಬೇಕೆಂದು ಆತನನ್ನು ಕೇಳಲಾಗಿ ..    ಮಾರ್ಕ 10:17	",
 },			
 {			
-"question" :	"	4. The man told Jesus, he had observed these since his youth.	",
+"question" :	"	4 ಆ ಮನುಷ್ಯನು ಯೇಸುವಿಗೆ ಹೇಳಿದ್ದು, ಇದಕ್ಕೆ  ನನ್ನ ಚಿಕ್ಕಂದಿನಿಂದ ಸರಿಯಾಗೆ ನಡಕೊಂಡು ಬಂದಿದ್ದೇನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The birds	",
-	"	b. The Pharisees	",
-	"	c. The priests	",
-	"	d. The commandments	"
+	"	A. ಪಕ್ಷಿಗಳಿಗೆ	",
+	"	B. ಫರಿಸಾಯರಿಗೆ	",
+	"	C. ಶಾಸ್ತ್ರಿಗಳಿಗೆ	",
+	"	D. ಆಜ್ಞೆಗಳಿಗೆ	"
 ],			
-"correct" :	"	d. The commandments	",
-"explanation" :	"	You know the commandments: 'Do not commit adultery,' 'Do not murder,' 'Do not steal,' 'Do not bear false witness,' 'Do not defraud,' 'Honor your father and your mother.' And he answered and said to Him, Teacher, all these things I have kept from my youth. - Mr 10:19-20	",
+"correct" :	"	D. ಆಜ್ಞೆಗಳಿಗೆ	",
+"explanation" :	"	ನರಹತ್ಯ ಮಾಡಬಾರದು; ವ್ಯಭಿಚಾರ ಮಾಡಬಾರದು; ಕದಿಯಬಾರದು; ಸುಳ್ಳುಸಾಕ್ಷಿ ಹೇಳಬಾರದು; ಮೋಸಮಾಡಬಾರದು; ನಿನ್ನ ತಂದೆತಾಯಿಗಳನ್ನು ಸನ್ಮಾನಿಸಬೇಕು ಎಂಬ ದೇವರಾಜ್ಞೆಗಳು ನಿನಗೆ ಗೊತ್ತಿವೆಯಷ್ಟೆ ಎಂದು ಹೇಳಿದನು.   ಮಾರ್ಕ 10:19-20	",
 },			
 {			
-"question" :	"	5. When Jesus told him to sell what he had, and give to the poor, and follow Him	",
+"question" :	"	5 ನಿನಗಿರುವುದನ್ನೆಲ್ಲಾ ಮಾರಿ ಬಡವರಿಗೆ ಕೊಟ್ಟುಬಿಟ್ಟು ನನ್ನನ್ನು ಹಿಂಬಾಲಿಸು ಎಂದು ಯೇಸು  ಹೇಳಿದಾಗ ಆ ಮನುಷ್ಯ ಏನು ಮಾಡಿದ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He made excuses.	",
-	"	b. He did as Jesus said.	",
-	"	c. He went away grieved.	",
-	"	d. He became one of the 12 disciples.	"
+	"	A.  ಆತನು ಕಾರಣಗಳನ್ನು ನೀಡಿದನು	",
+	"	B.  ಯೇಸು ಹೇಳಿದ ಹಾಗೆ ಆತ ಮಾಡಿದ	",
+	"	C.  ದು:ಖದಿಂದ ಹೊರಟುಹೋದನು	",
+	"	D.  ಆತನು 12 ಶಿಷ್ಯರಲ್ಲಿ ಒಬ್ಬನಾದನು	"
 ],			
-"correct" :	"	c. He went away grieved.	",
-"explanation" :	"	Then Jesus, looking at him, loved him, and said to him, One thing you lack: Go your way, sell whatever you have and give to the poor, and you will have treasure in heaven; and come, take up the cross, and follow Me.But he was sad at this word, and went away sorrowful, for he had great possessions. - Mr 10:21-22	",
+"correct" :	"	C.  ದು:ಖದಿಂದ ಹೊರಟುಹೋದನು	",
+"explanation" :	"	ಯೇಸು ಅವನನ್ನು ದೃಷ್ಟಿಸಿನೋಡಿ ಪ್ರೀತಿಸಿ ಅವನಿಗೆ ನಿನಗೆ ಒಂದು ಕಡಿಮೆಯಾಗಿದೆ; ಹೋಗು, ನಿನ್ನ ಬದುಕನ್ನೆಲ್ಲಾ ಮಾರಿ ಬಡವರಿಗೆ ಕೊಡು; ಪರಲೋಕದಲ್ಲಿ ನಿನಗೆ ಸಂಪತ್ತಿರುವದು; ನೀನು ಬಂದು ನನ್ನನ್ನು ಹಿಂಬಾಲಿಸು ಎಂದು ಹೇಳಿದನು.  ಆದರೆ ಅವನು ಬಹಳ ಆಸ್ತಿಯುಳ್ಳವನಾಗಿದ್ದದರಿಂದ ಈ ಮಾತಿಗೆ ಮೋರೆ ಬಾಡಿದವನಾಗಿ ಕು:ಖದಿಂದ ಹೊರಟುಹೋದನು.  ಮಾರ್ಕ 10:21-22	",
 },			
 {			
-"question" :	"	6. Jesus said, it is easier for a camel to go through this, than for a rich man to enter into the kingdom of God.	",
+"question" :	"	6 ಯೇಸು ಹೇಳಿದ್ದು: “ ಐಶ್ವರ್ಯವಂತನು ದೇವರ ರಾಜ್ಯದಲ್ಲಿ ಸೇರುವುದಕ್ಕಿಂತ  ಒಂಟೆಯು ……………………… ನುಗ್ಗಿಹೋಗುವುದು ಸುಲಭ”.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A desert	",
-	"	b. A lake	",
-	"	c. The eye of a needle	",
-	"	d. A storm	"
+	"	A. ಮರುಭೂಮಿ	",
+	"	B. ಕೆರೆ	",
+	"	C. ಸೂಜಿ ಕಣ್ಣು	",
+	"	D. ಬಿರುಗಾಳಿ	"
 ],			
-"correct" :	"	c. The eye of a needle	",
-"explanation" :	"	It is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God. - Mr 10:25	",
+"correct" :	"	C. ಸೂಜಿ ಕಣ್ಣು	",
+"explanation" :	"	ಐಶ್ವರ್ಯವಂತನು ದೇವರ ರಾಜ್ಯದಲ್ಲಿ ಸೇರುವದಕ್ಕಿಂತ ಒಂಟೆಯು ಸೂಜೀಕಣ್ಣಿನಲ್ಲಿ ನುಗ್ಗಿಹೋಗುವದು ಸುಲಭ ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 10:25	",
 },			
 {			
-"question" :	"	7. Jesus said, for with God all things	",
+"question" :	"	7 ಯೇಸು ಹೇಳಿದ್ದು: “ ದೇವರಿಗೆ ಎಲ್ಲಾ _______”	",
 "image" :	"",		
 "choices" : [			
-	"	a. Are possible.	",
-	"	b. Are constant.	",
-	"	c. Are shaken.	",
-	"	d. Have life.	"
+	"	A. ಸಾಧ್ಯವೆ	",
+	"	B. ಸ್ಥಿರ	",
+	"	C. ಅಲುಗಾಡುತ್ತದೆ	",
+	"	D. ಜೀವವಿದೆ	"
 ],			
-"correct" :	"	a. Are possible.	",
-"explanation" :	"	But Jesus looked at them and said, With men it is impossible, but not with God; for with God all things are possible. - Mr 10:27	",
+"correct" :	"	A. ಸಾಧ್ಯವೆ	",
+"explanation" :	"	ಯೇಸು ಅವರನ್ನು ದೃಷ್ಟಿಸಿ ನೋಡಿ - ಇದು ಮನುಷ್ಯರಿಗೆ ಅಸಾಧ್ಯ; ದೇವರಿಗೆ ಅಸಾಧ್ಯವಲ್ಲ; ದೇವರಿಗೆ ಎಲ್ಲವು ಸಾಧ್ಯವೇ ಅಂದನು.  ಮಾರ್ಕ 10:27	",
 },			
 {			
-"question" :	"	8. Bartimaeus was	",
+"question" :	"	8 ಬಾರ್ತಿಮಾಯನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Blind.	",
-	"	b. Deaf.	",
-	"	c. A leper.	",
-	"	d. Sick with the palsy.	"
+	"	A. ಕುರುಡ	",
+	"	B. ಕಿವುಡ	",
+	"	C. ಕುಷ್ಠ ರೋಗಿ	",
+	"	D. ಪಾಶ್ರ್ವವಾಯು ರೋಗಿ	"
 ],			
-"correct" :	"	a. Blind.	",
-"explanation" :	"	Now they came to Jericho. As He went out of Jericho with His disciples and a great multitude, blind Bartimaeus, the son of Timaeus, sat by the road begging. - Mr 10:46	",
+"correct" :	"	A. ಕುರುಡ	",
+"explanation" :	"	ಆತನೂ ಆತನ ಶಿಷ್ಯರೂ ಬಹು ಜನರ ಗುಂಪೂ ಆ ಊರಿನಿಂದ ಹೊರಟು ಹೋಗುತ್ತಿರುವಾಗ ತಿಮಾಯನ ಮಗನಾದ ಬಾರ್ತಿಮಾಯನು ದಾರಿಯ ಮಗ್ಗುಲಲ್ಲಿ ಕೂತಿದ್ದನು.  ಅವನು ಕುರುಡ ಭಿಕ್ಷಗಾರನು.  ಮಾರ್ಕ 10:46	",
 },			
 {			
-"question" :	"	9. When many charged Bartimaeus to hold his peace	",
+"question" :	"	9 ಸುಮ್ಮನಿರು ಎಂದು ಎಲ್ಲರೂ ಬಾರ್ತಿಮಾಯನನ್ನು ಗದರಿಸಿದಾಗ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. He was afraid.	",
-	"	b. He was quiet.	",
-	"	c. He cried all the more.	",
-	"	d. He sobbed.	"
+	"	A. ಅವನು ಭಯಪಟ್ಟನು	",
+	"	B. ಅವನು ಸುಮ್ಮನಾದನು	",
+	"	C. ಇನ್ನೂ ಜೋರಾಗಿ ಕೂಗಿಕೊಂಡನು	",
+	"	D. ಅವನು ಅಳಲು ಪ್ರಾರಂಭಿಸಿದನು	"
 ],			
-"correct" :	"	c. He cried all the more.	",
-"explanation" :	"	Then many warned him to be quiet; but he cried out all the more, Son of David, have mercy on me - Mr 10:48	",
+"correct" :	"	C. ಇನ್ನೂ ಜೋರಾಗಿ ಕೂಗಿಕೊಂಡನು	",
+"explanation" :	"	ಅನೇಕರು ಸುಮ್ಮನಿರು ಎಂದು ಅವನನ್ನು ಗದರಿಸಲು ಅವನು ದಾವೀದನ ಕುಮಾರನೇ, ನನ್ನನ್ನು ಕರುಣಿಸು ಎಂದು ಮತ್ತಷ್ಟು ಕೂಗಿಕೊಂಡನು.  ಮಾರ್ಕ 10:48	",
 },			
 {			
-"question" :	"	10. What did Jesus tell Bartimaeus had made him whole?	",
+"question" :	"	10 ಯಾವುದು ಬಾರ್ತಿಮಾಯನನ್ನು ಶುದ್ದಿಮಾಡಿತೆಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. His faith	",
-	"	b. His hope	",
-	"	c. His love	",
-	"	d. Fate	"
+	"	A. ಆತನ ನಂಬಿಕೆ	",
+	"	B. ಆತನ ವಿಶ್ವಾಸ	",
+	"	C. ಆತನ ಪ್ರೀತಿ	",
+	"	D. ಆತನ ಅದೃಷ್ಟ	"
 ],			
-"correct" :	"	a. His faith	",
-"explanation" :	"	Then Jesus said to him, Go your way; your faith has made you well. And immediately he received his sight and followed Jesus on the road. - Mr 10:52	",
+"correct" :	"	A. ಆತನ ನಂಬಿಕೆ	",
+"explanation" :	"	ಯೇಸು ಅವನಿಗೆ ಹೋಗು ನಿನ್ನ ನಂಬಿಕೆಯೇ ನಿನ್ನನ್ನು ಸ್ವಸ್ಥ ಮಾಡಿ ಅದೆ ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 10:52	",
 },			
 ]			

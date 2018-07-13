@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 12";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. The men of this place gathered themselves together before Jephthah.	",

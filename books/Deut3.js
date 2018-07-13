@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 3";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. Who was the king of Bashan?	",

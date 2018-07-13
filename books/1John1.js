@@ -1,4 +1,4 @@
-var quiztitle = " 1 John Peter chapter 1";			
+var quiztitle = " 1 ಯೋಹಾನ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. ಈ ಪತ್ರಿಕೆಯನ್ನು ಇದಕ್ಕಾಗಿ ಬರೆದೆನೆಂದು ಯೋಹಾನನು ಹೇಳುತ್ತಾನೆ.	",

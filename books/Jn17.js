@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 17";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
-"question" :	"	1. Who was Jesus speaking to?	",
+"question" :	"	1  ಯೇಸು ಯಾರೊಂದಿಗೆ ಮಾತನಾಡುತ್ತಿದ್ದಾನೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The disciples	",
-	"	b. The Pharisees	",
-	"	c. The scribes	",
-	"	d. The Father	"
+	"	A. ಶಿಷ್ಯರೊಂದಿಗೆ	",
+	"	B. ಫರಿಸಾಯರೊಂದಿಗೆ	",
+	"	C. ಶಾಸ್ತ್ರಿಗಳೊಂದಿಗೆ	",
+	"	D. ತಂದೆಯೊಂದಿಗೆ	"
 ],			
-"correct" :	"	d. The Father	",
-"explanation" :	"	Jesus spoke these words, lifted up His eyes to heaven, and said: Father, the hour has come. Glorify Your Son, that Your Son also may glorify You,Jn17:1	",
+"correct" :	"	D. ತಂದೆಯೊಂದಿಗೆ	",
+"explanation" :	"	ಯೇಸು ಈ ಮಾತುಗಳನ್ನಾಡಿದ ಮೇಲೆ ಆಕಾಶದ ಕಡೆಗೆ ಕಣ್ಣೆತ್ತಿ ಹೇಳಿದ್ದೇನಂದರೆ - ತಂದೆಯೇ, ಕಾಲ ಬಂದದೆ; ನಿನ್ನ ಮಗನನ್ನು ಮಹಿಮೆಪಡಿಸು, ಆಗ ಮಗನು ನಿನ್ನನ್ನು ಮಹಿಮೆಪಡಿಸುವದಕ್ಕಾಗುವದು.  17:1	",
 },			
 {			
-"question" :	"	2. Jesus said, the time is come;glorify the Son, that the Son	",
+"question" :	"	2  ಯೇಸು ಹೇಳಿದ್ದು, ತಂದೆಯೇ ಕಾಲ ಬಂದದೆ; ನಿನ್ನ ಮಗನನ್ನು ಮಹಿಮೆಪಡಿಸು, ಆಗ ಮಗನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Also may glorify thee.	",
-	"	b. Shall never die.	",
-	"	c. Glorify the disciples.	",
-	"	d. Shall not sin.	"
+	"	A. ನಿನ್ನನ್ನು ಮಹಿಮೆಪಡಿಸುವದಕ್ಕಾಗುವುದು	",
+	"	B. ಎಂದಿಗೂ ಸಾಯುವುದಿಲ್ಲ	",
+	"	C. ಶಿಷ್ಯರನ್ನು ಮಹಿಮೆಪಡಿಸುವನು	",
+	"	D. ಪಾಪ ಮಾಡುವುದಿಲ್ಲ	"
 ],			
-"correct" :	"	a. Also may glorify thee.	",
-"explanation" :	"	Jesus spoke these words, lifted up His eyes to heaven, and said: “Father, the hour has come. Glorify Your Son, that Your Son also may glorify You,Jn17:1	",
+"correct" :	"	A. ನಿನ್ನನ್ನು ಮಹಿಮೆಪಡಿಸುವದಕ್ಕಾಗುವುದು	",
+"explanation" :	"	ಯೇಸು ಈ ಮಾತುಗಳನ್ನಾಡಿದ ಮೇಲೆ ಆಕಾಶದ ಕಡೆಗೆ ಕಣ್ಣೆತ್ತಿ ಹೇಳಿದ್ದೇನಂದರೆ - ತಂದೆಯೇ, ಕಾಲ ಬಂದದೆ; ನಿನ್ನ ಮಗನನ್ನು ಮಹಿಮೆಪಡಿಸು, ಆಗ ಮಗನು ನಿನ್ನನ್ನು ಮಹಿಮೆಪಡಿಸುವದಕ್ಕಾಗುವದು.  17:1	",
 },			
 {			
-"question" :	"	3. Jesus said, I have finished	",
+"question" :	"	3  ಯೇಸು ಹೇಳಿದ್ದು, ______________ ನಾನು ನೆರವೇರಿಸಿದ್ದೇನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Nothing.	",
-	"	b. Building the temple.	",
-	"	c. Showing mercy.	",
-	"	d. The work you gave me to do.	"
+	"	A. ಶೂನ್ಯವನ್ನು	",
+	"	B. ದೇವಾಲಯ ಕಟ್ಟುವ ಕೆಲಸವನ್ನು	",
+	"	C. ಕರುಣೆ ತೋರಿಸುವುದನ್ನು	",
+	"	D. ನೀನು ನನಗೆ ಕೊಟ್ಟ ಕೆಲಸವನ್ನು	"
 ],			
-"correct" :	"	d. The work you gave me to do.	",
-"explanation" :	"	I have glorified You on the earth. I have finished the work which You have given Me to do.Jn17:4	",
+"correct" :	"	D. ನೀನು ನನಗೆ ಕೊಟ್ಟ ಕೆಲಸವನ್ನು	",
+"explanation" :	"	ಮಾಡಬೇಕೆಂದು ನೀನು ನನಗೆ ಕೊಟ್ಟ ಕೆಲಸವನ್ನು ನಾನು ನೆರವೇರಿಸಿ ನಿನ್ನನ್ನು ಭೂಲೋಕದಲ್ಲಿ ಮಹಿಮೆಪಡಿಸಿದೆನು. 17:4	",
 },			
 {			
-"question" :	"	4. Jesus said, He manifested this to the men that the Father gave Him.	",
+"question" :	"	4  ಯೇಸು ಹೇಳಿದ್ದು, ತಂದೆಯು ನನಗೆ ಕೊಟ್ಟದ್ದನ್ನು ಜನರಿಗೆ ಪ್ರಕಟಿಸಿದ್ದೇನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Miracles	",
-	"	b. Mercy	",
-	"	c. Respect	",
-	"	d. The Father’s name	"
+	"	A. ಅದ್ಭುತಗಳು	",
+	"	B. ದಯೆ	",
+	"	C. ಗೌರವ	",
+	"	D. ತಂದೆಯ ಹೆಸರು	"
 ],			
-"correct" :	"	d. The Father’s name	",
-"explanation" :	"	I have manifested Your name to the men whom You have given Me out of the world. They were Yours, You gave them to Me, and they have kept Your word.Jn17:6	",
+"correct" :	"	D. ತಂದೆಯ ಹೆಸರು	",
+"explanation" :	"	ಲೋಕದೊಳಗಿಂದ ನೀನು ನನಗೆ ಕೊಟ್ಟ ಮನುಷ್ಯರಿಗೆ ನಿನ್ನ ಹೆಸರನ್ನು ತಿಳಿಯಪಡಿಸಿದೆನು. ಇವರು ನಿನ್ನವರಾಗಿದ್ದರು, ನೀನು ಇವರನ್ನು ನನಗೆ ಕೊಟ್ಟೆ; ಮತ್ತು ಇವರು ನಿನ್ನ ವಾಕ್ಯವನ್ನು ಕೈಕೊಂಡು ನಡೆದಿದ್ದಾರೆ 17:6	",
 },			
 {			
-"question" :	"	5. The disciples believed that	",
+"question" :	"	5 ಶಿಷ್ಯರು ಇದನ್ನು ನಂಬಿದ್ದಾರೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus would not die.	",
-	"	b. Jesus would overthrow the government.	",
-	"	c. Jesus was evil.	",
-	"	d. Jesus came from the Father.	"
+	"	A. ಯೇಸು ಸಾಯುವುದಿಲ್ಲ	",
+	"	B. ಯೇಸು ರಾಜ್ಯವನ್ನು ಕಿತ್ತೊಗೆಯುವನು	",
+	"	C. ಯೇಸು ಕೆಟ್ಟವನು	",
+	"	D. ಯೇಸುವನ್ನು ತಂದೆಯು ಕಳುಹಿಸಿಕೊಟ್ಟವನೆಂದು	"
 ],			
-"correct" :	"	d. Jesus came from the Father.	",
-"explanation" :	"	For I have given to them the words which You have given Me; and they have received them, and have known surely that I came forth from You; and they have believed that You sent Me.Jn17:8	",
+"correct" :	"	D. ಯೇಸುವನ್ನು ತಂದೆಯು ಕಳುಹಿಸಿಕೊಟ್ಟವನೆಂದು	",
+"explanation" :	"	ಹೇಗಂದರೆ ನೀನು ನನಗೆ ಕೊಟ್ಟ ಮಾತುಗಳನ್ನು ನಾನು ಇವರಿಗೆ ಕೊಟ್ಟಿದ್ದೇನೆ; ಇವರು ಆ ಮಾತುಗಳನ್ನು ಕೈಕೊಂಡು ನನ್ನನ್ನು ನಿನ್ನ ಬಳಿಯಿಂದ ಹೊರಟುಬಂದವನೆಂದು ನಿಜವಾಗಿ ತಿಳಿದು ನೀನೇ ನನ್ನನ್ನು ಕಳುಹಿಸಿಕೊಟ್ಟಿರುವದಾಗಿ ನಂಬಿದ್ದಾರೆ.  17:8	",
 },			
 {			
-"question" :	"	6. Jesus prayed that His disciples	",
+"question" :	"	6  ಶಿಷ್ಯರು _____________ ಯೇಸು ಪ್ರಾರ್ಥಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Not die.	",
-	"	b. Be one.	",
-	"	c. Gain wealth.	",
-	"	d. Rule the earth.	"
+	"	A. ಸಾಯಬಾರದೆಂದು	",
+	"	B. ಒಂದಾಗಿರಬೇಕೆಂದು	",
+	"	C. ಸಂಪತ್ತು ಹೆಚ್ಚಾಗಬೇಕೆಂದು	",
+	"	D. ಭೂಮಿಯನ್ನು ಆಳಬೇಕೆಂದು	"
 ],			
-"correct" :	"	b. Be one.	",
-"explanation" :	"	Now I am no longer in the world,but these are in the world, and I come to You. Holy Father, keep through Your name those whom You have given Me,[b] that they may be one as We are.Jn17:11	",
+"correct" :	"	B. ಒಂದಾಗಿರಬೇಕೆಂದು	",
+"explanation" :	"	ಇನ್ನು ನಾನು ಲೋಕದಲ್ಲಿ ಇರುವದಿಲ್ಲ, ಇವರು ಲೋಕದಲ್ಲಿ ಇರುತ್ತಾರೆ, ನಾನು ನಿನ್ನ ಬಳಿಗೆ ಬರುತ್ತೇನೆ. ಪವಿತ್ರನಾದ ತಂದೆಯೇ, ನಾವು ಒಂದಾಗಿರುವ ಹಾಗೆ ಇವರೂ ಒಂದಾಗಿರಬೇಕೆಂದು ನೀನು ನನಗೆ ಕೊಟ್ಟ ನಿನ್ನ ಹೆಸರಿನಲ್ಲಿ ಇವರನ್ನು ಕಾಯಬೇಕು 17:11	",
 },			
 {			
-"question" :	"	7. Jesus did not pray that His disciples be taken out of the world, but they be kept	",
+"question" :	"	7  ಯೇಸು ತನ್ನ ಶಿಷ್ಯರನ್ನು ಲೋಕದೊಳಗಿಂದ ತೆಗೆದುಕೊಂಡು ಹೋಗಬೇಕೆಂದು ಪ್ರಾರ್ಥಿಸುವುದಿಲ್ಲ,  ಆದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hidden.	",
-	"	b. Humble.	",
-	"	c. From evil.	",
-	"	d. Silent.	"
+	"	A. ಮರೆಮಾಡು	",
+	"	B. ದೀನತೆಯುಳ್ಳವರಾಗಿ ಮಾಡು	",
+	"	C. ಕೆಡುಕನಿಂದ ತಪ್ಪಿಸು	",
+	"	D. ನಿಶ್ಯಬ್ದವಾಗಿಡು	"
 ],			
-"correct" :	"	c. From evil.	",
-"explanation" :	"	I do not pray that You should take them out of the world, but that You should keep them from the evil one.Jn17:15	",
+"correct" :	"	C. ಕೆಡುಕನಿಂದ ತಪ್ಪಿಸು	",
+"explanation" :	"	ಇವರನ್ನು ಲೋಕದೊಳಗಿಂದ ತೆಗೆದುಕೊಂಡು ಹೋಗಬೇಕೆಂದು ನಾನು ಕೇಳಿಕೊಳ್ಳುವದಿಲ್ಲ; ಕೆಡುಕನಿಂದ ತಪ್ಪಿಸಿ ಕಾಪಾಡಬೇಕೆಂದು ಕೇಳಿಕೊಳ್ಳುತ್ತೇನೆ.  17:15	",
 },			
 {			
-"question" :	"	8. Jesus prayed, sanctify them through	",
+"question" :	"	8  ಯೇಸು ಪ್ರಾರ್ಥಿಸಿದರು, ಇವರನ್ನು ________ ಸೇರಿಸಿ ಪ್ರತಿಷ್ಠೆಪಡಿಸು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Thy goodness.	",
-	"	b. Thy mercy.	",
-	"	c. Thy truth.	",
-	"	d. Thy wisdom.	"
+	"	A. ನಿನ್ನ ಒಳ್ಳೇದವುಗಳಲ್ಲಿ	",
+	"	B. ನಿನ್ನ ಕರುಣೆಯಲ್ಲಿ	",
+	"	C. ನಿನ್ನ ಸತ್ಯದಲ್ಲಿ	",
+	"	D. ನಿನ್ನ ಜ್ಞಾನದಲ್ಲಿ	"
 ],			
-"correct" :	"	c. Thy truth.	",
-"explanation" :	"	Sanctify them by Your truth. Your word is truth.Jn17:17	",
+"correct" :	"	C. ನಿನ್ನ ಸತ್ಯದಲ್ಲಿ	",
+"explanation" :	"	ಇವರನ್ನು ಸತ್ಯದಲ್ಲಿ ಸೇರಿಸಿ ಪ್ರತಿಷ್ಠೆ ಪಡಿಸು; ನಿನ್ನ ವಾಕ್ಯವೇ ಸತ್ಯವು.  17:17	",
 },			
 {			
-"question" :	"	9. Thy word is	",
+"question" :	"	9  ನಿನ್ನ ವಾಕ್ಯವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Holy.	",
-	"	b. Truth.	",
-	"	c. Fearful.	",
-	"	d. Ever changing.	"
+	"	A. ಪರಿಶುದ್ಧವಾದುದು	",
+	"	B. ಸತ್ಯವಾದುದು	",
+	"	C. ಭಯವುಳ್ಳದ್ದು	",
+	"	D. ಬದಲಾಗುವಂಥದು	"
 ],			
-"correct" :	"	b. Truth.	",
-"explanation" :	"	Sanctify them by Your truth. Your word is truth.Jn17:17	",
+"correct" :	"	B. ಸತ್ಯವಾದುದು	",
+"explanation" :	"	ಇವರನ್ನು ಸತ್ಯದಲ್ಲಿ ಸೇರಿಸಿ ಪ್ರತಿಷ್ಠೆ ಪಡಿಸು; ನಿನ್ನ ವಾಕ್ಯವೇ ಸತ್ಯವು.  17:17	",
 },			
 {			
-"question" :	"	10. The Father has done this, before the foundation of the earth.	",
+"question" :	"	10 ಲೋಕವು ಹುಟ್ಟುವುದಕ್ಕಿಂತ ಮುಂಚೆಯೇ ತಂದೆಯು ಇದನ್ನು ಮಾಡಿದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Loved Jesus	",
-	"	b. Repented of evil	",
-	"	c. Rejoiced in man	",
-	"	d. Prayed for sinners	"
+	"	A. ಯೇಸುವನ್ನು ಪ್ರೀತಿಸಿದನು	",
+	"	B. ಕೆಟ್ಟವರನ್ನು ಮನ: ತಿರುಗಿಸಿದ್ದನು	",
+	"	C. ಮನುಷ್ಯರಲ್ಲಿ ಆನಂದಿಸಿದನು	",
+	"	D. ಪಾಪಿಗಳಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿದನು	"
 ],			
-"correct" :	"	b. Repented of evil	",
-"explanation" :	"	Father, I desire that they also whom You gave Me may be with Me where I am, that they may behold My glory which You have given Me; for You loved Me before the foundation of the world.Jn17:24	",
+"correct" :	"	B. ಕೆಟ್ಟವರನ್ನು ಮನ: ತಿರುಗಿಸಿದ್ದನು	",
+"explanation" :	"	ತಂದೆಯೇ, ನೀನು ಯಾರನ್ನು ನನಗೆ ಕೊಟ್ಟಿಯೋ ಅವರು ನಾನಿರುವ ಸ್ಥಳದಲ್ಲಿ ನನ್ನ ಕೂಡ ಇದ್ದುಕೊಂಡು ಲೋಕವು ಹುಟ್ಟುವದಕ್ಕಿಂತ ಮುಂಚೆಯೇ ನೀನು ನನ್ನನ್ನು ಪ್ರೀತಿಸಿ ನನಗೆ ಕೊಟ್ಟಿರುವ ಮಹಿಮೆಯನ್ನು ನೋಡಬೇಕೆಂದು ಇಚ್ಫೈಸುತ್ತೇನೆ. 17:24	",
 },			
 ]			

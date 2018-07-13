@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 30";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 30";			
 var quiz = [			
 {			
 "question" :	"	1. Hezekiah sent letters to Israel,Judah, Ephraim and Manasseh that they should come to Jerusalem	",

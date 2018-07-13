@@ -1,4 +1,4 @@
-var quiztitle = "Ephesians chapter 5";			
+var quiztitle = "ಎಫೆಸದವರಿಗೆ ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. ತನ್ನನ್ನು ದೇವರಿಗೆ ಸುಗಂಧ ವಾಸನೆಯಾಗಿ ಸಮರ್ಪಿಸಿಕೊಂಡವರು ಯಾರು?	",

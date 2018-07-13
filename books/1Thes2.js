@@ -1,4 +1,4 @@
-var quiztitle = "1 Thessalonians chapter 2";			
+var quiztitle = "1 ಥೆಸಲೋನಿಕದವರಿಗೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಹೇಳಿದ್ದು: ನಮಗೆ ಈ ಪಟ್ಟಣದಲ್ಲಿ ಅವಮಾನ ಹಿಂಸೆ ಸಂಭವಿಸಿದರೂ ನಿಮಗೆ ಸುವಾರ್ತೆಯನ್ನು ಸಾರಿದೆವು.	",

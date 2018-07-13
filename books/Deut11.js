@@ -1,7 +1,7 @@
-var quiztitle = " Deuteronomy  chapter 11";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
-"question" :	"	1. The people saw the acts God did unto this man, the king of Egypt.	",
+"question" :	"	1. The people saw the ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು God did unto this man, the king of Egypt.	",
 "image" :	"",		
 "choices" : [			
 	"	a. Potiphar	",
@@ -10,7 +10,7 @@ var quiz = [
 	"	d. Herod	"
 ],			
 "correct" :	"	b. Pharaoh	",
-"explanation" :	"	And his miracles, and his acts, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land; Deut 11:3	",
+"explanation" :	"	And his miracles, and his ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು, which he did in the midst of Egypt unto Pharaoh the king of Egypt, and unto all his land; Deut 11:3	",
 },		 	
 {			
 "question" :	"	2. These waters overflowed the Egyptian army.	",
@@ -43,10 +43,10 @@ var quiz = [
 	"	a. Agony.	",
 	"	b. Despair.	",
 	"	c. Visions & dreams.	",
-	"	d. The great acts of the Lord.	"
+	"	d. The great ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು of the Lord.	"
 ],			
-"correct" :	"	d. The great acts of the Lord.	",
-"explanation" :	"	But your eyes have seen all the great acts of the LORD which he did. Deut 11:7	",
+"correct" :	"	d. The great ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು of the Lord.	",
+"explanation" :	"	But your eyes have seen all the great ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು of the LORD which he did. Deut 11:7	",
 },			
 {			
 "question" :	"	5. The Lord swore to their fathers, a land flowing with this.	",
@@ -77,7 +77,7 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. Go back to Egypt.	",
-	"	b. Marry Hebrews.	",
+	"	b. Marry ಇಬ್ರಿಯರಿಗೆ.	",
 	"	c. Serve other gods.	",
 	"	d. Sell your soul.	"
 ],			

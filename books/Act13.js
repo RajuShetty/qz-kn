@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 13";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
-"question" :	"	1. This man was a sorcerer.	",
+"question" :	"	1 ಈ ಮನುಷ್ಯನು ಒಬ್ಬ ಮಂತ್ರವಾದಿ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Barjesus	",
-	"	b. Nagge	",
-	"	c. Lucius	",
-	"	d. Manahath	"
+	"	A. ಬಾರ್‍ಯೇಸು	",
+	"	B. ನಗ್ಗೆ	",
+	"	C. ಲೂಸಿಯಸ್	",
+	"	D. ಮನಹತ್	"
 ],			
-"correct" :	"	a. Barjesus	",
-"explanation" :	"	And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Barjesus:Acts13:6	",
+"correct" :	"	A. ಬಾರ್‍ಯೇಸು	",
+"explanation" :	"	ಅವರು ದ್ವೀಪದಲ್ಲೆಲ್ಲಾ ಸಂಚಾರಮಾಡಿ ಪಾಫೋಸ್ ಎಂಬ ಊರಿನ ತನಕ ಬಂದು ಅಲ್ಲಿ ಸುಳ್ಳುಪ್ರವಾದಿಯೂ ಮಂತ್ರವಾದಿಯೂ ಆಗಿದ್ದ ಬಾರ್‍‍ಯೇಸು ಎಂಬ ಒಬ್ಬ ಯೆಹೂದ್ಯ ಮನುಷ್ಯನನ್ನು ಕಂಡರು 13:6	",
 },			
 {			
-"question" :	"	2. When the sorcerer attempted to turn the deputy from the faith, Saul spoke and the man	",
+"question" :	"	2 ಈ ಮಂತ್ರವಾದಿಯು, ಅಧಿಪತಿಯು ಕ್ರಿಸ್ತನನ್ನು ನಂಬದೇ ಇರುವ ಹಾಗೆ ಪ್ರಯತಿಸಿದನು, ಸೌಲನು ಆ ಮನುಷ್ಯನಿಗೆ ಎದುರಾಗಿ ಮಾತನಾಡಿದಾಗ, ಆ ಮನುಷ್ಯನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fell dead.	",
-	"	b. Became blind.	",
-	"	c. Became leprous.	",
-	"	d. Became violent.	"
+	"	A. ಮರಣಿಸಿದನು	",
+	"	B. ಕುರುಡನಾದನು	",
+	"	C. ಕುಷ್ಟರೋಗಿಯಾದನು	",
+	"	D. ಕ್ರೂರಿಯಾದನು	"
 ],			
-"correct" :	"	b. Became blind.	",
-"explanation" :	"	You are a child of the devil and an enemy of everything that is right! You are full of all kinds of deceit and trickery. Will you never stop perverting the right ways of the Lord?Now the hand of the Lord is against you. You are going to be blind for a time, not even able to see the light of the sun.Acts13:10,11	",
+"correct" :	"	B. ಕುರುಡನಾದನು	",
+"explanation" :	"	ಎಲೋ, ಎಲ್ಲಾ ಮೋಸದಿಂದಲೂ ಎಲ್ಲಾ ಕೆಟ್ಟತನದಿಂದಲೂ ತುಂಬಿರುವವನೇ, ಸೈತಾನನ ಮಗನೇ, ಎಲ್ಲಾ ನೀತಿಗೂ ವಿರೋಧಿಯೇ, ನೀನು ಕರ್ತನ ನೀಟಾದ ಮಾರ್ಗಗಳನ್ನು ಡೊಂಕುಮಾಡುವದನ್ನು ಬಿಡುವದಿಲ್ಲವೋ? ಇಗೋ, ಕರ್ತನು ನಿನ್ನ ಮೇಲೆ ಕೈ ಎತ್ತಿದ್ದಾನೆ; ನೀನು ಕುರುಡನಾಗಿ ಕೆಲವು ಕಾಲ ಸೂರ್ಯನನ್ನು ಕಾಣದೆ ಇರುವಿ ಎಂದು ಹೇಳಿದನು. ಆ ಕ್ಷಣವೇ ಅವನಿಗೆ ಕಣ್ಣು ಮೊಬ್ಬಾಗಿ ಕತ್ತಲೆ ಉಂಟಾಯಿತು; ಅವನು ಕೈಹಿಡಿಯುವವರನ್ನು ಹುಡುಕುತ್ತಾ ತಿರುಗಾಡಿದನು.  13:10,11	",
 },			
 {			
-"question" :	"	3. Saul was called	",
+"question" :	"	3 ಸೌಲನನ್ನು _____ ಎನ್ನುವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Paul.	",
-	"	b. Son of Perdition.	",
-	"	c. Son of Consolation.	",
-	"	d. Comforter.	"
+	"	A. ಪೌಲ	",
+	"	B. ನಾಶನದ ಮಗನು	",
+	"	C. ಸಮಾಧಾನದ ಮಗನು	",
+	"	D. ಸಮಾಧಾನ ಪಡಿಸುವವನು	"
 ],			
-"correct" :	"	a. Paul.	",
-"explanation" :	"	Then Saul, (who also is called Paul,) filled with the Holy Ghost, set his eyes on him.Acts13:9	",
+"correct" :	"	A. ಪೌಲ	",
+"explanation" :	"	ಆಗ ಪೌಲನೆನಿಸಿಕೊಳ್ಳುವ ಸೌಲನು ಪವಿತ್ರಾತ್ಮಭರಿತನಾಗಿ ಅವನನ್ನು ದೃಷ್ಟಿಸಿ ನೋಡಿ  13:9	",
 },			
 {			
-"question" :	"	4. This man started out with Saul and Barnabas, but departed from them.	",
+"question" :	"	4 ಈ ಮನುಷ್ಯನು ಸೌಲ ಮತ್ತು ಬಾರ್ನಬರೊಂದಿಗೆ ಇದ್ದನು, ನಂತರ ಅವರಿಂದ ಬೇರ್ಪಟ್ಟನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. John	",
-	"	b. James	",
-	"	c. Luke	",
-	"	d. Samuel	"
+	"	A. ಯೋಹಾನ	",
+	"	B. ಯಾಕೋಬ	",
+	"	C. ಲೂಕ	",
+	"	D. ಸಮುವೇಲ	"
 ],			
-"correct" :	"	a. John	",
-"explanation" :	"	Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem.Acts13:13	",
+"correct" :	"	A. ಯೋಹಾನ	",
+"explanation" :	"	ತರುವಾಯ ಪೌಲನೂ ಅವನ ಜೊತೆಯಲ್ಲಿದ್ದವರೂ ಪಾಫೋಸೂರನ್ನು ಬಿಟ್ಟು ಸಮುದ್ರಪ್ರಯಾಣ ಮಾಡಿ ಪಂಫುಲ್ಯ ಸೀಮೆಗೆ ಸೇರಿದ ಪೆರ್ಗೆಗೆ ಬಂದರು; ಯೋಹಾನನು ಅವರನ್ನು ಬಿಟ್ಟು ಹಿಂತಿರುಗಿ ಯೆರೂಸಲೇಮಿಗೆ ಹೋದನು 13:13	",
 },			
 {			
-"question" :	"	5. How many years were the people in the wilderness?	",
+"question" :	"	5 ಅಡವಿಯಲ್ಲಿ ಜನರು ಎಷ್ಟು ವರ್ಷಗಳ ಕಾಲ ಇದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 10	",
-	"	b. 20	",
-	"	c. 40	",
-	"	d. 50	"
+	"	A. 10	",
+	"	B. 20	",
+	"	C. 40	",
+	"	D. 50	"
 ],			
-"correct" :	"	c. 40	",
-"explanation" :	"	And about the time of forty years suffered he their manners in the wilderness.Acts13:18	",
+"correct" :	"	C. 40	",
+"explanation" :	"	ಆತನು ಸುಮಾರು ನಾಲ್ವತ್ತು ವರುಷಗಳವರೆಗೂ ಅಡವಿಯಲ್ಲಿ  ಅವರ ನಡಾವಳಿಯನ್ನು ಸಹಿಸಿಕೊಂಡು 13:18	",
 },			
 {			
-"question" :	"	6. How many nations in the land of Canaan, did God destroy to divide the land to Israel?	",
+"question" :	"	6 ಇಸ್ರಾಯೇಲ್ಯರಿಗೆ ದೇಶವನ್ನು ಹಂಚಲು, ಕಾನಾನ್ ದೇಶದಲ್ಲಿ ಎಷ್ಟು ರಾಜ್ಯಗಳನ್ನು ಕರ್ತನು ಸೋಲಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 3	",
-	"	c. 7	",
-	"	d. 30	"
+	"	A. 2	",
+	"	B. 3	",
+	"	C. 7	",
+	"	D. 30	"
 ],			
-"correct" :	"	c. 7	",
-"explanation" :	"	 And when he had destroyed seven nations in the land of Chanaan, he divided their land to them by lot.Acts13:19	",
+"correct" :	"	C. 7	",
+"explanation" :	"	ಕಾನಾನ್ ದೇಶದಲ್ಲಿದ್ದ ಅನ್ಯಜನಗಳ ಏಳು ರಾಜ್ಯಗಳನ್ನು ನಿರ್ಮೂಲ ಮಾಡಿ ಆ ಜನರ ದೇಶವನ್ನು ಅವರಿಗೆ ಬಾಧ್ಯವಾಗಿ ಹಂಚಿಕೊಟ್ಟನು. 13:19	",
 },			
 {			
-"question" :	"	7. When Israel desired a king, God gave them this man.	",
+"question" :	"	7 ಇಸ್ರಾಯೇಲ್ಯರು ತಮಗೆ ಒಬ್ಬ ಅರಸನು ಬೇಕೆಂದು ಬೇಸಿಕೊಂಡಾಗ, ದೇವರ ಅವರಿಗೆ ಈ ಮನುಷ್ಯನನ್ನು ಕೊಟ್ಟನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Saul	",
-	"	b. Samson	",
-	"	c. Solomon	",
-	"	d. Herod	"
+	"	A. ಸೌಲ	",
+	"	B. ಸಂಸೋನ	",
+	"	C. ಸೊಲೊಮೋನ	",
+	"	D. ಹೆರೋದ	"
 ],			
-"correct" :	"	a. Saul	",
-"explanation" :	"	And afterward they desired a king: and God gave unto them Saul the son of Cis, a man of the tribe of Benjamin, by the space of forty years.Acts13:21	",
+"correct" :	"	A. ಸೌಲ	",
+"explanation" :	"	ತರುವಾಯ ಅವರು ತಮಗೆ ಅರಸನು ಬೇಕೆಂದು ಕೇಳಿಕೊಳ್ಳಲು ದೇವರು ಅವರಿಗೆ ಬೆನ್ಯಾಮೀನನ ಕುಲದ ಕೀಷನ ಮಗನಾದ ಸೌಲನನ್ನು ಕೊಟ್ಟನು. ಅವನು ನಾಲ್ವತ್ತು ವರುಷ ಆಳಿದನು 13:21	",
 },			
 {			
-"question" :	"	8. When God removed that king, He raised this son of Jesse up as king.	",
+"question" :	"	8 ದೇವರು ಈ ಅರಸನನ್ನು ತಳ್ಳಿಬಿಟ್ಟ ನಂತರ ಇಷಯನ ಈ ಮಗನನ್ನು ರಾಜನನ್ನಾಗಿ ಆರಿಸಿಕೊಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Samuel	",
-	"	b. Nathan	",
-	"	c. Eli	",
-	"	d. David	"
+	"	A. ಸಮುವೇಲ	",
+	"	B. ನಾತಾನ್	",
+	"	C. ಏಲಿ	",
+	"	D. ದಾವೀದ	"
 ],			
-"correct" :	"	d. David	",
-"explanation" :	"	And when he had removed him, he raised up unto them David to be their king; to whom also he gave their testimony, and said, I have found David the son of Jesse, a man after mine own heart, which shall fulfil all my will.Acts13:22	",
+"correct" :	"	D. ದಾವೀದ	",
+"explanation" :	"	ಆಮೇಲೆ ದೇವರು ಅವನನ್ನು ತೆಗೆದುಹಾಕಿ ದಾವೀದನನ್ನು ಅವರ ಮೇಲೆ ಅರಸನನ್ನಾಗಿ ಮಾಡಿ - ಇಷಯನ ಮಗನಾದ ದಾವೀದನು ನನಗೆ ಸಿಕ್ಕಿದನು, ಅವನು ನನಗೆ ಒಪ್ಪುವ ಮನುಷ್ಯನು, ಅವನು ನನ್ನ ಇಷ್ಟವನ್ನೆಲ್ಲಾ ನೆರವೇರಿಸುವನು ಎಂಬದಾಗಿ ಅವನ ವಿಷಯದಲ್ಲಿ ಸಾಕ್ಷಿಹೇಳಿದನು.  13:22	",
 },			
 {			
-"question" :	"	9. You could not be justified by	",
+"question" :	"	9 ನೀವು ಇದರಿಂದ ನೀತಿವಂತರಾಗುವುದಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. The cross.	",
-	"	b. Jesus.	",
-	"	c. A blood sacrifice.	",
-	"	d. The law of Moses.	"
+	"	A. ಶಿಲುಬೆಯಿಂದ	",
+	"	B. ಯೇಸುವಿನಿಂದ	",
+	"	C. ರಕ್ತ ಬಲಿಯಿಂದ	",
+	"	D. ಮೋಶೆಯ ಧರ್ಮಶಾಸ್ತ್ರದಿಂದ	"
 ],			
-"correct" :	"	d. The law of Moses.	",
-"explanation" :	"	And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses.Acts13:39	",
+"correct" :	"	D. ಮೋಶೆಯ ಧರ್ಮಶಾಸ್ತ್ರದಿಂದ	",
+"explanation" :	"	ಮೋಶೆಯ ಧರ್ಮಶಾಸ್ತ್ರದ ಮೂಲಕ ನೀವು ಬಿಡುಗಡೆಹೊಂದಲಾಗದ ಎಲ್ಲಾ ಪಾಪಗಳಿಂದ ನಂಬುವವರೆಲ್ಲರು ಆತನ ಮೂಲಕವಾಗಿ ಬಿಡುಗಡೆ ಹೊಂದಿ ನೀತಿವಂತರೆನಿಸಿಕೊಳ್ಳುತ್ತಾರೆ 13:39	",
 },			
 {			
-"question" :	"	10. When the Gentiles came to hear the word of God, the Jews	",
+"question" :	"	10 ಅನ್ಯರು ದೇವರ ವಾಕ್ಯವನ್ನು ಕೇಳಲು ಬಂದಾಗ, ಯೆಹೂದ್ಯರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rejoiced.	",
-	"	b. Were envious.	",
-	"	c. Stoned them.	",
-	"	d. Welcomed them.	"
+	"	A. ಸಂತೋಷಪಟ್ಟರು	",
+	"	B. ಅವರ ಹೊಟ್ಟಕಿಚ್ಚಿನಿಂದ ತುಂಬಿದರು	",
+	"	C. ಕಲ್ಲೆಸೆದರು	",
+	"	D. ಅವರನ್ನು ಸ್ವಾಗತಿಸಿದರು	"
 ],			
-"correct" :	"	b. Were envious.	",
-"explanation" :	"	And when the Jews were gone out of the synagogue, the Gentiles besought that these words might be preached to them the next sabbath.Acts13:42	",
+"correct" :	"	B. ಅವರ ಹೊಟ್ಟಕಿಚ್ಚಿನಿಂದ ತುಂಬಿದರು	",
+"explanation" :	"	ಪೌಲನೂ ಬಾರ್ನಬನೂ ಸಭಾಮಂದಿರವನ್ನು ಬಿಟ್ಟುಹೋಗುತ್ತಿರುವಾಗ ಜನರು ಈ ಮಾತುಗಳನ್ನು ಬರುವ ಸಬ್ಬತ್‍ದಿನದಲ್ಲಿಯೂ ತಮಗೆ ಹೇಳಬೇಕೆಂದು ಕೇಳಿಕೊಂಡರು.  13:42	",
 },			
 ]			

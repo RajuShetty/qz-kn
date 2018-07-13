@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 12";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
-"question" :	"	1. Herod killed this man, with the sword.	",
+"question" :	"	1 ಹೆರೋದನು ಕತ್ತಿಯಿಂದ ಈ ಮನುಷ್ಯನನ್ನು ಕೊಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. James	",
-	"	c. John	",
-	"	d. Andres	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಯಾಕೋಬ	",
+	"	C. ಯೋಹಾನ	",
+	"	D. ಆಂದ್ರೇಯ	"
 ],			
-"correct" :	"	b. James	",
-"explanation" :	"	Now about that time Herod the king stretched forth his hands to vex certain of the church.And he killed James the brother of John with the sword.Acts12:1,2	",
+"correct" :	"	B. ಯಾಕೋಬ	",
+"explanation" :	"	ಆ ಸಮಯದಲ್ಲೇ ಅರಸನಾದ ಹೆರೋದನು ಸಭೆಯವರಲ್ಲಿ ಕೆಲವರನ್ನು ಹಿಂಸೆಪಡಿಸುವದಕ್ಕೆ ಕೈಹಾಕಿ 2ಯೋಹಾನನ ಅಣ್ಣನಾದ ಯಾಕೋಬನನ್ನು ಕತ್ತಿಯಿಂದ ಕೊಲ್ಲಿಸಿದನು.  12:1,2	",
 },			
 {			
-"question" :	"	2. When Peter was in prison, the church 	",
+"question" :	"	2 ಪೇತ್ರನು ಸೆರೆಮನೆಯಲ್ಲಿದ್ದಾಗ, ಸಭೆಯು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fled Jerusalem.	",
-	"	b. Prayed for him.	",
-	"	c. Rejoiced.	",
-	"	d. Visited him.	"
+	"	A. ಯೆರೂಷಲೇಮಿಗೆ ಓಡಿಹೋದರು	",
+	"	B. ಆತನಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿತು	",
+	"	C. ಸಂತೋಷಪಟ್ಟರು	",
+	"	D. ಆತನನ್ನು ಸಂದರ್ಶಿಸಿದರು	"
 ],			
-"correct" :	"	b. Prayed for him.	",
-"explanation" :	"	 Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him.Acts12:5	",
+"correct" :	"	B. ಆತನಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿತು	",
+"explanation" :	"	ಪೇತ್ರನು ಸೆರೆಮನೆಯೊಳಗೆ ಕಾವಲಲ್ಲಿದ್ದಾಗ ಸಭೆಯವರು ಆತನಿಗೋಸ್ಕರ ಆಸಕ್ತಿಯಿಂದ ದೇವರಿಗೆ ಪ್ರಾರ್ಥನೆಮಾಡುತ್ತಿದ್ದರು 12:5	",
 },			
 {			
-"question" :	"	3. Peter slept between two of these in prison.	",
+"question" :	"	3 ಪೇತ್ರನು ಸೆರೆಮನೆಯಲ್ಲಿ ಈ ಇಬ್ಬರ ನಡುವೆ ನಿದ್ದೆ ಮಾಡಿದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Thieves	",
-	"	b. Rocks	",
-	"	c. Murderers	",
-	"	d. Soldiers	"
+	"	A. ಕಳ್ಳರು	",
+	"	B. ಕಲ್ಲುಗಳು	",
+	"	C. ಕೊಲೆಗಡುಕರು	",
+	"	D. ಸೈನಿಕರ	"
 ],			
-"correct" :	"	d. Soldiers	",
-"explanation" :	"	And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison.Acts12:6	",
+"correct" :	"	D. ಸೈನಿಕರ	",
+"explanation" :	"	ಹೆರೋದನು ಅವನನ್ನು ಜನರ ಮುಂದೆ ತರಿಸಬೇಕೆಂದಿದ್ದ ದಿವಸದ ಹಿಂದಿನ ರಾತ್ರಿಯಲ್ಲಿ ಪೇತ್ರನು ಎರಡು ಸರಪಣಿಗಳಿಂದ ಕಟ್ಟಲ್ಪಟ್ಟವನಾಗಿ ಇಬ್ಬರು ಸಿಪಾಯಿಗಳ ನಡುವೆ ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದನು. ಕಾವಲುಗಾರರು ಬಾಗಿಲ ಮುಂದೆ ನಿಂತು ಸೆರೆಮನೆಯನ್ನು ಕಾಯುತ್ತಿದ್ದರು. 12:6	",
 },			
 {			
-"question" :	"	4. Who freed Peter from prison? 	",
+"question" :	"	4 ಪೇತ್ರನನ್ನು ಸೆರೆಮನೆಯಿಂದ ಯಾರು ಬಿಡಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. John	",
-	"	b. Rhoda	",
-	"	c. An angel	",
-	"	d. A soldier	"
+	"	A. ಯೋಹಾನ	",
+	"	B. ರೋಧ	",
+	"	C. ಒಬ್ಬ ದೂತ	",
+	"	D. ಒಬ್ಬ ಸೈನಿಕ	"
 ],			
-"correct" :	"	c. An angel	",
-"explanation" :	"	And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.Acts12:7	",
+"correct" :	"	C. ಒಬ್ಬ ದೂತ	",
+"explanation" :	"	ಫಕ್ಕನೆ ಕರ್ತನ ದೂತನು ಪೇತ್ರನೆದುರಿಗೆ ನಿಂತನು. ಅವನಿದ್ದ ಕೋಣೆಯಲ್ಲಿ ಬೆಳಕು ಹೊಳೆಯಿತು. ಅವನು ಪೇತ್ರನನ್ನು ಪಕ್ಕೆ ತಟ್ಟಿ ಎಬ್ಬಿಸಿ - ತಟ್ಟನೆ ಏಳು ಅಂದನು. ಆಗಲೇ ಅವನ ಕೈಗಳಿಗೆ ಹಾಕಿದ್ದ ಸರಪಣಿಗಳು ಕಳಚಿಬಿದ್ದವು 12:7	",
 },			
 {			
-"question" :	"	5. At first Peter thought this was 	",
+"question" :	"	5 ಮೊದಲಿಗೆ ಪೇತ್ರನು ಇದೆಲ್ಲವು ______ ಅಂದುಕೊಂಡನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. A trick.	",
-	"	b. A vision.	",
-	"	c. A dream.	",
-	"	d. Wrong.	"
+	"	A. ತಂತ್ರ	",
+	"	B. ದರ್ಶನ	",
+	"	C. ಕನಸು	",
+	"	D. ತಪ್ಪು	"
 ],			
-"correct" :	"	b. A vision.	",
-"explanation" :	"	And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision.Acts12:9	",
+"correct" :	"	B. ದರ್ಶನ	",
+"explanation" :	"	ಅವನು ಹೊರಗೆ ಬಂದು ಆ ದೂತನ ಹಿಂದೆಯೇ ಹೋಗುತ್ತಾ ದೂತನ ಮೂಲಕವಾಗಿ ನಡೆದ ಸಂಗತಿ ನಿಜವಾದದ್ದೆಂದು ತಿಳಿಯದೆ ತಾನು ನೋಡಿದ್ದು ಕನಸು ಎಂದು ನೆನಸಿದನು. 12:9	",
 },			
 {			
-"question" :	"	6. When Peter was come to himself, he went to this woman's house. 	",
+"question" :	"	6 ಪೇತ್ರನು ಸೆರೆಮನೆಯಿಂದ ಹೊರಗೆ ಬಂದ ಮೇಲೆ ಈಕೆಯ ಮನೆಗೆ ಹೋದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Martha	",
-	"	b. Mary	",
-	"	c. Joanna	",
-	"	d. Rhoda	"
+	"	A. ಮಾರ್ಥಳು	",
+	"	B. ಮರಿಯಳು	",
+	"	C. ಯೊನ್ನ	",
+	"	D. ರೋಧ	"
 ],			
-"correct" :	"	b. Mary	",
-"explanation" :	"	And when he had considered the thing, he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying.Acts12:12	",
+"correct" :	"	B. ಮರಿಯಳು	",
+"explanation" :	"	ತರುವಾಯ ಅವನು ಯೋಚನೆಮಾಡಿಕೊಂಡು ಮಾರ್ಕನೆನಿಸಿಕೊಳ್ಳುವ ಯೋಹಾನನ ತಾಯಿಯಾದ ಮರಿಯಳ ಮನೆಗೆ ಬಂದನು. ಅಲ್ಲಿ ಅನೇಕರು ಕೂಡಿಬಂದು ಪ್ರಾರ್ಥನೆಮಾಡುತ್ತಿದ್ದರು.  12:12	",
 },			
 {			
-"question" :	"	7. Who came to the door when Peter knocked?	",
+"question" :	"	7 ಪೇತ್ರನು ಬಾಗಿಲನ್ನು ತಟ್ಟಿದಾಗ ಬಾಗಿಲ ಬಳಿ ಯಾರು ಬಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rhoda	",
-	"	b. Dorcus	",
-	"	c. Tabitha	",
-	"	d. The butler	"
+	"	A. ರೋದ	",
+	"	B. ದೊರ್ಕಳು	",
+	"	C. ತಬಿಥ	",
+	"	D. ಅಡುಗೆಯವ	"
 ],			
-"correct" :	"	a. Rhoda	",
-"explanation" :	"	And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.Acts12:13	",
+"correct" :	"	A. ರೋದ	",
+"explanation" :	"	ಪೇತ್ರನು ಬಾಗಿಲಿನ ಕದವನ್ನು ತಟ್ಟಲು ರೋದೆ ಎಂಬ ಒಬ್ಬ ಚಾಕರಿಯವಳು ನೋಡುವದಕ್ಕೆ ಬಂದಳು. 12:13	",
 },			
 {			
-"question" :	"	8. When she told them Peter was at the door, they	",
+"question" :	"	8 ಪೇತ್ರನು ಬಾಗಿಲ ಬಳಿ ಇದ್ದಾನೆಂದು ಆಕೆ ಹೇಳಿದಾಗ, ಅವರ8ಉ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rejoiced.	",
-	"	b. Didn't believer her.	",
-	"	c. Thanked God.	",
-	"	d. Sent him away.	"
+	"	A. ಸಂತೋಷಿಸಿದರು	",
+	"	B. ಆಕೆಯನ್ನು ನಂಬಲಿಲ್ಲ	",
+	"	C. ದೇವರಿಗೆ ವಂದನೆ ಹೇಳಿದರು	",
+	"	D. ಅವನನ್ನು ಹೊರಗೆ ಕಳುಹಿಸಿದರು	"
 ],			
-"correct" :	"	b. Didn't believer her.	",
-"explanation" :	"	And when she knew Peter's voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate.And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel.Acts12:14,15	",
+"correct" :	"	B. ಆಕೆಯನ್ನು ನಂಬಲಿಲ್ಲ	",
+"explanation" :	"	ಅವಳು ಪೇತ್ರನ ಧ್ವನಿಯನ್ನು ಗೊತ್ತುಹಿಡಿದು ಸಂತೋಷದ ನಿಮಿತ್ತದಿಂದಲೇ ಬಾಗಿಲನ್ನು ತೆರೆಯದೆ ಒಳಕ್ಕೆ ಓಡಿಹೋಗಿ - ಪೇತ್ರನು ಬಾಗಿಲ ಮುಂದೆ ನಿಂತಿದ್ದಾನೆ ಎಂದು ತಿಳಿಸಿದಳು. ಅವರು ಅವಳಿಗೆ - ನಿನಗೆ ಹುಚ್ಚು ಹಿಡಿದದೆ ಎಂದು ಹೇಳಿದರು. ಆದರೆ ಅವಳು ತಾನು ಹೇಳಿದಂತೆಯೇ ಅದೆ ಎಂದು ದೃಢವಾಗಿ ಹೇಳುತ್ತಾ ಇರಲು ಅವನ ದೂತನಾಗಿರಬೇಕು ಅಂದರು12:14,15	",
 },			
 {			
-"question" :	"	9. Herod did this, to the soldiers who guarded Peter.	",
+"question" :	"	9 ಪೇತ್ರನ ಕಾವಲಿಗಾಗಿ ನೇಮಿಸಿದ್ದ ಸೈನಿಕರಿಗೆ ಹೆರೋದನು ಹೀಗೆ ಮಾಡದಿನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Put them to death	",
-	"	b. Beat them	",
-	"	c. Imprisoned them	",
-	"	d. Bribed them 	"
+	"	A. ಅವರನ್ನು ಮರಣಕ್ಕೆ ಒಪ್ಪಿಸಿದನು	",
+	"	B. ಅವರನ್ನು ಹೊಡೆಸಿದನು	",
+	"	C. ಅವರನ್ನು ಸೆರೆಗೆ ಹಾಕಿಸಿದನು	",
+	"	D. ಅವರನ್ನು ಸುಲಿಗೆ ಮಾಡಿದನು	"
 ],			
-"correct" :	"	a. Put them to death	",
-"explanation" :	"	And when Herod had sought for him, and found him not, he examined the keepers, and commanded that they should be put to death. And he went down from Judaea to Caesarea, and there abode.Acts12:19	",
+"correct" :	"	A. ಅವರನ್ನು ಮರಣಕ್ಕೆ ಒಪ್ಪಿಸಿದನು	",
+"explanation" :	"	ರೋದನು ಅವನನ್ನು ಹುಡುಕಿಸಿ ಅವನು ಸಿಕ್ಕಲಿಲ್ಲವಾದದರಿಂದ ಕಾವಲುಗಾರರನ್ನು ವಿಚಾರಣೆಮಾಡಿ ಅವರಿಗೆ ಮರಣದಂಡನೆಯನ್ನು ವಿಧಿಸಿದನು. ಬಳಿಕ ಯೂದಾಯದಿಂದ ಕೈಸರೈಯಕ್ಕೆ ಹೋಗಿ ಅಲ್ಲಿ ಕೆಲವು ಕಾಲ ಇದ್ದನು. 12:19	",
 },			
 {			
-"question" :	"	10. What happened to Herod?	",
+"question" :	"	10 ಹೆರೋದನಿಗೆ ಏನಾಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He was killed in battle.	",
-	"	b. He was converted.	",
-	"	c. An angel smote him.	",
-	"	d. He moved to Egypt.	"
+	"	A. ಅವನು ಒಂದು ಯುದ್ಧದಲ್ಲಿ ಸತ್ತುಹೋದನು	",
+	"	B. ಅವನು ಮಾನಸಾಂತರ ಹೊಂದಿದನು	",
+	"	C. ದೂತನು ಅವನನ್ನು ಹೊಡೆದನು	",
+	"	D. ಅವನು ಐಗುಪ್ಯಕ್ಕೆ ಹೊರಟು ಹೋದನು	"
 ],			
-"correct" :	"	c. An angel smote him.	",
-"explanation" :	"	And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost.Acts12:23	",
+"correct" :	"	C. ದೂತನು ಅವನನ್ನು ಹೊಡೆದನು	",
+"explanation" :	"	ಆ ಘನವನ್ನು ಅವನು ದೇವರಿಗೆ ಸಲ್ಲಿಸದೆ ಹೋದದರಿಂದ ಕರ್ತನ ದೂತನು ಆ ಕ್ಷಣದಲ್ಲೇ ಅವನನ್ನು ಬಡಿದನು; ಅವನು ಹುಳಬಿದ್ದು ಸತ್ತನು. 12:23	",
 },			
 ]			

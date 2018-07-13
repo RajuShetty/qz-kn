@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 16";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord told Samuel He had chosen a king among this man’s sons.	",

@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 20";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1. This prophet came to Hezekiah when he was sick.	",

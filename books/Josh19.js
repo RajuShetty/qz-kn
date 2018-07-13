@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 19";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. Who did the second lot come up for?	",

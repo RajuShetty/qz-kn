@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 15";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. Azariah was afflicted with	",
@@ -114,7 +114,7 @@ var quiz = [
 "choices" : [			
 	"	a. Ahaz	",
 	"	b. Obadiah	",
-	"	c. Marko	",
+	"	c. ಮಾರ್ಕo	",
 	"	d. Nabal	"
 ],			
 "correct" :	"	a. Ahaz	",

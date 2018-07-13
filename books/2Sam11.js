@@ -1,10 +1,10 @@
-var quiztitle = " 2 Samuel chapter 11";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. Where was David when he saw a very beautiful woman?	",
 "image" :	"",		
 "choices" : [			
-	"	a. In the marketplace	",
+	"	a. In the ಮಾರ್ಕetplace	",
 	"	b. On the roof	",
 	"	c. In the garden	",
 	"	d. In a chariot	"

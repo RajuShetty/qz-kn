@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 40";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 40";			
 var quiz = [			
 {			
 "question" :	"	1. Whose servants were the butler and baker?	",

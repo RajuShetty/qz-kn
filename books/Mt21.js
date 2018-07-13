@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 21";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
-"question" :	"	1. What did the multitude spread in Jesus’ path?	",
+"question" :	"	1 ಜನರ ಗುಂಪು ಯೇಸು ಬರುವ ದಾರಿಯಲ್ಲಿ ಏನನ್ನು ಹರಡುತ್ತಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Flowers & branches	",
-	"	b. Incense	",
-	"	c. Garments & branches	",
-	"	d. Incense & branches	"
+	"	A. ಹೂವುಗಳು ಮತ್ತು ಕೊಂಬೆಗಳು	",
+	"	B. ಧೂಪ	",
+	"	C. ವಸ್ತ್ರಗಳು ಮತ್ತು ಕೊಂಬೆಗಳು	",
+	"	D. ಧೂಪ ಮತ್ತ ಕೊಂಬೆಗಳು	"
 ],			
-"correct" :	"	c. Garments & branches	",
-"explanation" :	"	And a very great multitude spread their clothes on the road; others cut down branches from the trees and spread them on the road. - Matt 21:8	",
+"correct" :	"	C. ವಸ್ತ್ರಗಳು ಮತ್ತು ಕೊಂಬೆಗಳು	",
+"explanation" :	"	ಆಗ ಜನರ ಗುಂಪಿನಲ್ಲಿ ಬಹಳ ಮಂದಿ ತಮ್ಮ ಬಟ್ಟೆಗಳನ್ನು ದಾರಿಯಲ್ಲಿ ಹಾಸಿದರು; ಬೇರೆ ಕೆಲವರು ಮರಗಳಿಂದ ಚಿಗುರುಗಳನ್ನು ಕೊಯಿದು ದಾರಿಯಲ್ಲಿ ಹರಡುತ್ತಿದ್ದರು.  ಮತ್ತಾಯ6 21:8	",
 },			
 {			
-"question" :	"	2. What did the multitude shout?	",
+"question" :	"	2 ಜನರು ಏನೆಂದು ಕೂಗಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. God be with you	",
-	"	b. Mighty man of God	",
-	"	c. Bless our city	",
-	"	d. Hosanna in the highest	"
+	"	A. ದೇವರು ನಿನ್ನೊಂದಿಗಿರಲಿ	",
+	"	B. ದೇವರ ಮಹಿಮೆಯುಳ್ಳ ಮನುಷ್ಯ	",
+	"	C. ನಮ್ಮ ಪಟ್ಟಣವನ್ನು ಆಶೀರ್ವಾದಿಸು	",
+	"	D. ಮೇಲಣ ಲೋಕದಲ್ಲಿ ಜಯ	"
 ],			
-"correct" :	"	d. Hosanna in the highest	",
-"explanation" :	"	Then the multitudes who went before and those who followed cried out, saying: Hosanna to the Son of David! 'Blessed is He who comes in the name of the Lord!' Hosanna in the highest - Matt 21:9	",
+"correct" :	"	D. ಮೇಲಣ ಲೋಕದಲ್ಲಿ ಜಯ	",
+"explanation" :	"	ಆತನ ಹಿಂದೆಯೂ ಮುಂದೆಯೂ ಗುಂಪಾಗಿ ಹೋಗುತ್ತಿದ್ದ ಜನರು-ದಾವೀದನ ಕುಮಾರನಿಗೆ ಜಯ, ಕರ್ತನ ಹೆಸರಿನಲ್ಲಿ ಬರುವವನಿಗೆ ಆಶೀರ್ವಾದ; ಮೇಲಣ ಲೋಕಗಳಲ್ಲಿ ಜಯ ಎಂದು ಆರ್ಭಟಿಸಿದರು.  ಮತ್ತಾಯ 21:9	",
 },			
 {			
-"question" :	"	3. Where did Jesus overthrow the tables of the moneychangers and the seats of those that sold doves?	",
+"question" :	"	3  ಚಿನಿವಾರರ ಮತ್ತು ಪಾರಿವಾಳಗಳನ್ನು ಮಾರುವವರ ಮೇಜುಗಳನ್ನು ಯೇಸು  ಎಲ್ಲಿ ಬಿಸಾಡಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The marketplace	",
-	"	b. The temple	",
-	"	c. The street	",
-	"	d. In a store	"
+	"	A. ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ	",
+	"	B. ದೇವಾಲಯದಲ್ಲಿ	",
+	"	C. ದಾರಿಯಲ್ಲಿ	",
+	"	D. ಅಂಗಡಿಯಲ್ಲಿ	"
 ],			
-"correct" :	"	b. The temple	",
-"explanation" :	"	Then Jesus went into the temple of God and drove out all those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves. - Matt 21:12	",
+"correct" :	"	B. ದೇವಾಲಯದಲ್ಲಿ	",
+"explanation" :	"	ಬಳಿಕ ಯೇಸು ದೇವಾಲಯಕ್ಕೆ ಹೋಗಿ ಅದರಲ್ಲಿ ಮಾರುವ ಕೊಳ್ಳುವ ಎಲ್ಲರನ್ನೂ ಹೊರಡಿಸಿಬಿಟ್ಟು ಚಿನಿವಾರರ ಮೇಜುಗಳನ್ನೂ ಪಾರಿವಾಳ ಮಾರುವವರ ___ ಮತ್ತಾಯ 21:12	",
 },			
 {			
-"question" :	"	4. What kind of tree did Jesus curse?	",
+"question" :	"	4 ಯಾವ ಮರವನ್ನು ಯೇಸು ಶಪಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Apple	",
-	"	b. Fig	",
-	"	c. Persimmon	",
-	"	d. Olive	"
+	"	A. ಆಪಲ್	",
+	"	B. ಅಂಜೂರ	",
+	"	C. ಪರ್ಸಿಮನ್	",
+	"	D. ಆಲೀವ್	"
 ],			
-"correct" :	"	b. Fig	",
-"explanation" :	"	And seeing a fig tree by the road, He came to it and found nothing on it but leaves, and said to it, Let no fruit grow on you ever again. Immediately the fig tree withered away. - Matt 21:19	",
+"correct" :	"	B. ಅಂಜೂರ	",
+"explanation" :	"	ದಾರಿಯಲ್ಲಿ ಒಂದು ಅಂಜೂರದ ಮರವನ್ನು ಕಂಡು ಅದರ ಹತ್ತಿರಕ್ಕೆ ಹೋಗಿ ಅದರಲ್ಲಿ ಬರೀ ಎಲೆಗಳನ್ನೇ ಹೊರತು ಮತ್ತೇನೂ ಕಾಣದೆ ಅದಕ್ಕೆ ಇನ್ನು ಮೇಲೆ ನಿನ್ನಲ್ಲಿ ಫಲವು ಎಂದೆಂದಿಗೂ ಆಗದೆ ಹೋಗಲಿ ಎಂದು ಹೇಳಿದನು.  ಮತ್ತಾಯ 21:19	",
 },			
 {			
-"question" :	"	5. Why did Jesus curse the tree?	",
+"question" :	"	5 ಯೇಸು ಮರವನ್ನು ಏಕೆ ಶಪಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. It had no fruit	",
-	"	b. The fruit was bitter	",
-	"	c. He did not like its fruit	",
-	"	d. It was in the way	"
+	"	A. ಅದು ಫಲವನ್ನು ಹೊಂದಿರಲಿಲ್ಲ	",
+	"	B. ಅದರ ಫಲವು ಕಹಿಯಾಗಿತ್ತು	",
+	"	C. ಆತನು ಅದರ ಫಲವನ್ನು ಇಷ್ಟಪಡಲಿಲ್ಲ	",
+	"	D. ಅದು ದಾರಿಯಲ್ಲಿತ್ತು	"
 ],			
-"correct" :"	a. It had no fruit	",
-"explanation" :	"	And seeing a fig tree by the road, He came to it and found nothing on it but leaves, and said to it, Let no fruit grow on you ever again. Immediately the fig tree withered away. - Matt 21:19	",
+"correct" :	"	A. ಅದು ಫಲವನ್ನು ಹೊಂದಿರಲಿಲ್ಲ	",
+"explanation" :	"	ದಾರಿಯಲ್ಲಿ ಒಂದು ಅಂಜೂರದ ಮರವನ್ನು ಕಂಡು ಅದರ ಹತ್ತಿರಕ್ಕೆ ಹೋಗಿ ಅದರಲ್ಲಿ ಬರೀ ಎಲೆಗಳನ್ನೇ ಹೊರತು ಮತ್ತೇನೂ ಕಾಣದೆ ಅದಕ್ಕೆ ಇನ್ನು ಮೇಲೆ ನಿನ್ನಲ್ಲಿ ಫಲವು ಎಂದೆಂದಿಗೂ ಆಗದೆ ಹೋಗಲಿ ಎಂದು ಹೇಳಿದನು.  ಮತ್ತಾಯ 21:19	",
 },			
 {			
-"question" :	"	6. In the parable, what did the first son do after he told his father he would not work in the vineyard?	",
+"question" :	"	6 ಒಂದು ಸಾಮ್ಯದಲ್ಲಿ, ಮೊದಲನೆಯ ಮಗನು ದ್ರಾಕ್ಷೇತೋಟಕ್ಕೆ ಹೋಗುವುದಿಲ್ಲ ಎಂದು ತಂದೆಗೆ ಹೇಳಿದರೂ ಅವನು ಏನು ಮಾಡಿದ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Got drunk	",
-	"	b. Went to the marketplace	",
-	"	c. Repented and went	",
-	"	d. Took a nap	"
+	"	A. ಅವನು ಕುಡಿದು ಬಂದನು	",
+	"	B. ಮಾರುಕಟ್ಟೆಗೆ ಹೋದನು	",
+	"	C. ಪಶ್ಚಾತ್ತಾಪಪಟ್ಟು ತೋಟಕ್ಕೆ ಹೋದನು	",
+	"	D. ಅಲ್ಪನಿದ್ರೆ ಮಾಡಿದನು	"
 ],			
-"correct" :	"	c. Repented and went	",
-"explanation" :	"	But what do you think? A man had two sons, and he came to the first and said, Son, go, work today in my vineyard. He answered and said, I will not, but afterward he regretted it and went. - Matt 21:28,29	",
+"correct" :	"	C. ಪಶ್ಚಾತ್ತಾಪಪಟ್ಟು ತೋಟಕ್ಕೆ ಹೋದನು	",
+"explanation" :	"	ಒಬ್ಬ ಮನುಷ್ಯನಿಗೆ ಇಬ್ಬರು ಮಕ್ಕಳಿದ್ದರು.  ಅವನು ಮೊದಲನೆಯವನ ಬಳಿಗೆ ಬಂದು ಮಗನೇ, ಹೋಗಿ ಈ ಹೊತ್ತು ದ್ರಾಕ್ಷೇತೋಟದಲ್ಲಿ ಕೆಲಸಮಾಡು ಅಂದಾಗ ಅವನು ನಾನು ಹೋಗುವುವದಿಲ್ಲವೆಂದು ಹೇಳಿದಾಗ್ಯೂ ತರುವಾಯ ಪಶ್ಚಾತ್ತಾಪಪಟ್ಟು ತೋಟಕ್ಕೆ ಹೋದನು.  ಮತ್ತಾಯ 21:28	",
 },			
 {			
-"question" :	"	7. Jesus told the chief priests and rulers, that these, would enter into the kingdom of God before them.	",
+"question" :	"	7 ಮಹಾಯಾಜಕರೂ, ಅಧಿಕಾರಿಗಳಿಗಿಂತ ಮೊದಲು ಇವರು ದೇವರ ರಾಜ್ಯವನ್ನು ಸೇರುವರೆಂದು ಯೇಸು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Saints	",
-	"	b. Sadducees & Pharisees	",
-	"	c. Harlots & publicans	",
-	"	d. Prophets	"
+	"	A. ಸಂತರು	",
+	"	B. ಸದ್ದುಕಾಯರು ಮತ್ತು ಫರಿಸಾಯರು	",
+	"	C. ವ್ಯಭಿಚಾರಿಗಳಉ ಮತ್ತು ಅನ್ಯರು	",
+	"	D. ಪ್ರವಾದಿಗಳು]	"
 ],			
-"correct" :	"	c. Harlots & publicans	",
-"explanation" :	"	Which of the two did the will of his father? They said to Him, The first .Jesus said to them, Assuredly, I say to you that tax collectors and harlots enter the kingdom of God before you. - Matt 21:31	",
+"correct" :	"	C. ವ್ಯಭಿಚಾರಿಗಳಉ ಮತ್ತು ಅನ್ಯರು	",
+"explanation" :	"	ಆಗ ಯೇಸು ಅವರಿಗೆ ಭ್ರಷ್ಟರೂ ಸೂಳೆಯರೂ ನಿಮಗಿಂತ ಮೊದಲು ದೇವರ ರಾಜ್ಯವನ್ನು ಸೇರುವರು ಎಂದು ನಿಮಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ.  ಮತ್ತಾಯ 21:31	",
 },			
 {			
-"question" :	"	8. In the parable, who did the householder send after his servants were beaten and killed?	",
+"question" :	"	8 ಒಂದು ಸಾಮ್ಯದಲ್ಲಿ, ತನ್ನ ಆಳುಗಳು ಹೊಡೆದು ಕೊಲ್ಲಲ್ಪಟ್ಟ ಮೇಲೆ ಮನೆ ಯಜಮಾನನು ಯಾರನ್ನು ಕಳುಹಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. His son	",
-	"	b. A soldier	",
-	"	c. A lawyer	",
-	"	d. The sheriff	"
+	"	A. ಅವನ ಮಗನನ್ನು	",
+	"	B. ಸೈನಿಕನನ್ನು	",
+	"	C. ನ್ಯಾಯವಾದಿ	",
+	"	D. ಷರೀಫನನ್ನು	"
 ],			
-"correct" :	"	a. His son	",
-"explanation" :	"	Then last of all he sent his son to them, saying, They will respect my son. - Matt 21:37	",
+"correct" :	"	A. ಅವನ ಮಗನನ್ನು	",
+"explanation" :	"	ಕಡೆಯಲ್ಲಿ ನನ್ನ ಮಗನಿಗಾದರೂ ಮರ್ಯಾದೆ ತೋರಿಸಾರು ಅಂದುಕೊಂಡು ತನ್ನ ಮಗನನ್ನು ಅವರ ಬಳಿಗೆ ಕಳುಹಿಸಿದನು.  ಮತ್ತಾಯ 21:37	",
 },			
 {			
-"question" :	"	9. What did the husbandmen do when he arrived?	",
+"question" :	"	9 ಮಗನು ಬಂದಾಗ ಒಕ್ಕಲಿಗರು ಏನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Gave back the vineyard	",
-	"	b. Paid for all they had done wrong	",
-	"	c. Slew the son	",
-	"	d. Denied they killed anyone	"
+	"	A. ದ್ರಾಕ್ಷೇತೋಟವನ್ನು ಹಿಂತಿರುಗಿಸಿದರು	",
+	"	B. ಅವರು ಮಾಡಿದ ಎಲ್ಲಾ ತಪ್ಪಿಗೂ ದಂಡ ಕಟ್ಟಿದರು	",
+	"	C. ಮಗನನ್ನು ಕೊಂದುಹಾಕಿದರು	",
+	"	D. ನಾವು ಎಲ್ಲರನ್ನೂ ಕೊಂದಿದ್ದನ್ನು ನಿರಾಕರಿಸಿದರು	"
 ],			
-"correct" :	"	c. Slew the son	",
-"explanation" :	"	But when the vinedressers saw the son, they said among themselves, 'This is the heir. Come, let us kill him and seize his inheritance. So they took him and cast him out of the vineyard and killed him. - Matt 21:38,39	",
+"correct" :	"	C. ಮಗನನ್ನು ಕೊಂದುಹಾಕಿದರು	",
+"explanation" :	"	ಆ ಒಕ್ಕಲಿಗರು ಅವನ ಮಗನನ್ನು ಕಂಡು ಇವನೇ ಬಾಧ್ಯಸ್ಥನು, ಬನ್ನಿ ಇವನನ್ನು ಕೊಂದು ಹಾಕೋಣ, ಇವನ ಸ್ವಾಸ್ತ್ಯವನ್ನು ನಾವೇ ತೆಗೆದುಕೊಳ್ಳೋಣ ಎಂದು ತಮ್ಮ ತಮ್ಮೊಳಗೆ ಮಾತಾಡಿಕೊಂಡು ಅವನನನ್ನು ಹಿಡಿದು ದ್ರಾಕ್ಷೇತೋಟದಿಂದ ಹೊರಕ್ಕೆ ದೊಬ್ಬಿ ಕೊಂದುಹಾಕಿದರು.  ಮತ್ತಾಯ 21:38-39	",
 },			
 {			
-"question" :	"	10. Which stone is become the head of the corner?	",
+"question" :	"	10 ಯಾವ ಕಲ್ಲು ಮುಖ್ಯವಾದ ಮೂಲೆಗಲ್ಲಾಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The strongest one	",
-	"	b. The most beautiful one	",
-	"	c. The most perfect one	",
-	"	d. The one the builders rejected	"
+	"	A. ಬಲವಾದ ಕಲ್ಲು	",
+	"	B. ತುಂಬಾ ಸುಂದರವಾದ ಕಲ್ಲು	",
+	"	C. ಪರಿಪೂರ್ಣವಾದ ಕಲ್ಲು	",
+	"	D. ಕಟ್ಟುವವರು ಬೇಡವೆಂದು ತಳ್ಳಲ್ಪಟ್ಟ ಕಲ್ಲು	"
 ],			
-"correct" :	"	d. The one the builders rejected	",
-"explanation" :	"	Jesus said to them, Have you never read in the Scriptures: The stone which the builders rejected Has become the chief cornerstone. This was the Lord's doing, And it is marvelous in our eyes - Matt 21:42	",
+"correct" :	"	D. ಕಟ್ಟುವವರು ಬೇಡವೆಂದು ತಳ್ಳಲ್ಪಟ್ಟ ಕಲ್ಲು	",
+"explanation" :	"	ಯೇಸು ಅವರಿಗೆ ಮನೆಕಟ್ಟುವವರು ಬೇಡವೆಂದು ಬಿಟ್ಟ ಕಲ್ಲೇ ಮುಖ್ಯವಾದ ಮೂಲೆಗಲ್ಲಾಯಿತು ಇದು ಕರ್ತನಿಂದಲೇ ಆಯಿತು;  ಮತ್ತಾಯ 21:42	",
 },			
 ]			

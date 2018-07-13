@@ -1,4 +1,4 @@
-var quiztitle = "2 Thessalonians chapter 1";			
+var quiztitle = "2 ಥೆಸಲೋನಿಕದವರಿಗೆ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	ಈ ಪತ್ರವನ್ನು ಬರೆದದ್ದು ಯಾರು?	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 John Peter chapter 3";			
+var quiztitle = " 1 ಯೋಹಾನ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಈ ಹೆಸರನ್ನು ನಮಗೆ ಕೊಡುವದರಲ್ಲಿ ತಂದೆಯು ಎಂಥಾ ಪ್ರೀತಿಯನ್ನು ನಮ್ಮ ಮೇಲೆ ಇಟ್ಟಿದ್ದಾನೆ.	",

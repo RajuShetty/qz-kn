@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 19";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. When Hezekiah heard the words of Rabshakeh, he covered himself with	",

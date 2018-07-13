@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 22";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. If someone sees a brother’s ox or sheep go astray, he should	",

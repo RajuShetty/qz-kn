@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 14";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. Their enemies took the goods and people of these cities.	",

@@ -1,4 +1,4 @@
-var quiztitle = "2 Timothy chapter 4";			
+var quiztitle = "2 ತಿಮೊಥೆಯನಿಗೆ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. ಈತನು ಸತ್ತವರಿಗೂ ಜೀವಿಸುವವರಿಗೂ ನ್ಯಾಯತೀರಿಸಲು ಬರುವನು.	",

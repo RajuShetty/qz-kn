@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 22";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. How old was Josiah when he began to reign?	",
@@ -31,7 +31,7 @@ var quiz = [
 	"	a. Shaphan	",
 	"	b. Amon	",
 	"	c. Manasseh	",
-	"	d. Luke	"
+	"	d. ಲೂಕ	"
 ],			
 "correct" :	"	a. Shaphan	",
 "explanation" :	"	And it came to pass in the eighteenth year of king Josiah, that the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the LORD, which the keepers of the door have gathered of the people: 2 Kings 22:3-4	",

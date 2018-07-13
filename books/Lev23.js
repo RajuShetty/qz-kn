@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 23";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
 "question" :	"	1. In this chapter, the Lord speaks concerning	",

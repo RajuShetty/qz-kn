@@ -1,4 +1,4 @@
-var quiztitle = " Hebrews chapter 1";			
+var quiztitle = " ಇಬ್ರಿಯರಿಗೆ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. ಪುರಾತನ ಕಾಲದಲ್ಲಿ ದೇವರು ನಮ್ಮ ಪಿತೃಗಳ ಸಂಗಡ ಹೇಗೆ ಮಾತಾಡಿದರು?	",

@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 19";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. Jehoshaphat was the king of	",

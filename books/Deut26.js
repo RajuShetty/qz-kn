@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 26";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 26";			
 var quiz = [			
 {			
 "question" :	"	1. Thou shalt take of the first fruits of the	",

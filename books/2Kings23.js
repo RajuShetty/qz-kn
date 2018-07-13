@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 23";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
 "question" :	"	1. The king gathered all the people and	",

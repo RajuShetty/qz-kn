@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 28";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 28";			
 var quiz = [			
 {			
 "question" :	"	1. David assembled all his princes, and captains, and stewards, here. 	",

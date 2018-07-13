@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 9";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. ಐದನೆಯ ದೇವದೂತನು ತುತ್ತೂರಿಯನ್ನೂದಿದಾಗ ಆಕಾಶದಿಂದ ಭೂಮಿಗೆ ಏನು ಬಿತ್ತು?	",

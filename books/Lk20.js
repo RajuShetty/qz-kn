@@ -1,124 +1,124 @@
-var quiztitle = "Luke chapter 20";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
-"question" :	"	1. When the chief priests and scribes asked Jesus where He got His authority, He asked them, if this was from heaven or of men.	",
+"question" :	"	1. ಮಹಾಯಾಜಕರು ಮತ್ತು ಶಾಸ್ತ್ರಿಗಳು ಯೇಸುವನ್ನು ಇವುಗಳನ್ನೆಲ್ಲಾ ಮಾಡುವುದಕ್ಕೆ ನಿನಗೆ ಎಲ್ಲಿಂದ ಅಧಿಕಾರ ಬಂತೆಂದು ಯೇಸುವನ್ನು ಕೇಳಿದ್ದಕ್ಕೆ ಆತನು ಈತನಿಗೆ ಈ ಅಧಿಕಾರವು ಪರಲೋಕದಿಂದ ಬಂತೋ ಅಥವಾ ಜನರಿಂದ ಬಂತೋ ಎಂದು ಕೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Offering sacrifices	",
-	"	b. The law of Moses	",
-	"	c. The baptism of John	",
-	"	d. The wind	"
+	"	A. ಕಾಣಿಕೆಗಳನ್ನು ಅರ್ಪಿಸುವುದು	",
+	"	B. ಮೋಶೆಯ ಧರ್ಮಶಾಸ್ತ್ರ	",
+	"	C. ಯೋಹಾನನಿಗೆ ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸುವ ಅಧಿಕಾರ	",
+	"	D. ಗಾಳಿ	"
 ],			
-"correct" :	"	c. The baptism of John	",
-"explanation" :	"	The baptism of John--was it from heaven or from men? - Lk 20:4	",
+"correct" :	"	C. ಯೋಹಾನನಿಗೆ ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸುವ ಅಧಿಕಾರ	",
+"explanation" :	"	ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸುವ ಅಧಿಕಾರವು ಯೋಹಾನನಿಗೆ ಪರಲೋಕದಿಂದ ಬಂತೋ ಮನುಷ್ಯರಿಂದ ಬಂತೋ ಎಂದು ಅವರನ್ನು ಕೇಳಿದನು.  ಲೂಕ 20:4	",
 },			
 {			
-"question" :	"	2. In the parable, what did the husbandmen do to the servants?	",
+"question" :	"	2. ಸಾಮ್ಯದಲ್ಲಿ ಒಕ್ಕಲಿಗರು ಆಳುಗಳಿಗೆ ಏನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fed them	",
-	"	b. Bribed them	",
-	"	c. Killed them	",
-	"	d. Beat them	"
+	"	A. ಅವರಿಗೆ ಉಣಿಸಿದರು	",
+	"	B. ಅವರನ್ನು ದೋಚಿಕೊಂಡರು	",
+	"	C. ಅವರನ್ನು ಕೊಂದುಹಾಕಿದರು	",
+	"	D. ಅವರನ್ನು ಹೊಡೆದರು	"
 ],			
-"correct" :	"	d. Beat them	",
-"explanation" :	"	Now at vintage-time he sent a servant to the vinedressers, that they might give him some of the fruit of the vineyard. But the vinedressers beat him and sent him away empty-handed. Again he sent another servant; and they beat him also, treated him shamefully, and sent him away empty-handed.And again he sent a third; and they wounded him also and cast him out. - Lk 20:10-12	",
+"correct" :	"	D. ಅವರನ್ನು ಹೊಡೆದರು	",
+"explanation" :	"	ಫಲಕಾಲ ಬಂದಾಗ ದ್ರಾಕ್ಷೆಯ ತೋಟದ ಹುಟ್ಟುವಳಿಯ ಪಾಲನ್ನು ತೆಗೆದುಕೊಳ್ಳುವದಕ್ಕಾಗಿ ಒಬ್ಬ ಆಳನ್ನು ಒಕ್ಕಲಿಗರ ಬಳಿಗೆ ಕಳುಹಿಸಿದನು.  ಆದರೆ ಆ ಒಕ್ಕಲಿಗರು ಅವನನ್ನು ಹೊಡೆದು ಬರಿಗೈಲಿ ಕಳುಹಿಸಿಬಿಟ್ಟರು;   ಲೂಕ 20:10	",
 },			
 {			
-"question" :	"	3. What did the husbandmen do to the lord of the vineyard’s son?	",
+"question" :	"	3. ಒಕ್ಕಲಿಗರು ಯಜಮಾನನ ಮಗನಿಗೆ ಏನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Respected him	",
-	"	b. Killed him	",
-	"	c. Lied to him	",
-	"	d. Hid from him	"
+	"	A. ಗೌರವಿಸಿದರು	",
+	"	B. ಅವನನ್ನು ಕೊಂದರು	",
+	"	C. ಸುಳ್ಳುಹೇಳಿದರು	",
+	"	D. ಅವನಿಗೆ ಮರೆಯಾದರು	"
 ],			
-"correct" :	"	b. Killed him	",
-"explanation" :	"	But when the vinedressers saw him, they reasoned among themselves, saying, 'This is the heir. Come, let us kill him, that the inheritance may be ours.'So they cast him out of the vineyard and killed him. Therefore what will the owner of the vineyard do to them? - Lk 20:14-15	",
+"correct" :	"	B. ಅವನನ್ನು ಕೊಂದರು	",
+"explanation" :	"	ಆದರೆ ಕಳುಹಿಸಿದಾಗ  ಆ ಒಕ್ಕಲಿಗರು ಅವನನ್ನು ಕಂಡು - ಇವನೇ ಬಾಧ್ಯಸ್ಥನು; ಇವನನ್ನು ಕೊಂದುಹಾಕೋಣ, ಇವನ ಸ್ವಾಸ್ಥ್ಯ ನಮ್ಮದಾಗಲಿ ಎಂದು ಒಬ್ಬರ ಸಂಗಡಲೊಬ್ಬರು ಮಾತಾಡಿಕೊಂಡು ಅವನನ್ನು ದ್ರಾಕ್ಷೆಯ ತೋಟದಿಂದ ಹೊರಕ್ಕೆ ದೊಬ್ಬಿ ಕೊಂದುಹಾಕಿದರು;   ಲೂಕ 20:14-15	",
 },			
 {			
-"question" :	"	4. What shall the lord of the vineyard do to the husbandmen?	",
+"question" :	"	4. ದ್ರಾಕ್ಷೇತೋಟದ ಯಜಮಾನನು ಆ ಒಕ್ಕಲಿಗರಿಗೆ ಏನು ಮಾಡುವನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Destroyed them	",
-	"	b. Beat them	",
-	"	c. Honored them	",
-	"	d. Forgave them	"
+	"	A. ಅವರನ್ನು ಸಂಹರಿಸುವನು	",
+	"	B. ಅವರನ್ನು ಹೊಡೆಯುವನು	",
+	"	C. ಅವರನ್ನು ಗೌರವಿಸುವನು	",
+	"	D. ಅವರನ್ನು ಕ್ಷಮಿಸುವನು	"
 ],			
-"correct" :	"	a. Destroyed them	",
-"explanation" :	"	He will come and destroy those vinedressers and give the vineyard to others. And when they heard it they said, Certainly not - Lk 20:16	",
+"correct" :	"	A. ಅವರನ್ನು ಸಂಹರಿಸುವನು	",
+"explanation" :	"	ಅವನು ಬಂದು ಆ ಒಕ್ಕಲಿಗರನ್ನು ಸಂಹರಿಸಿ ತನ್ನ ತೋಟವನ್ನು ಬೇರೆ ಜನರಿಗೆ ಮಾಡುವುದಕ್ಕೆ ಕೊಡುವನು ಅಂದನು;   ಲೂಕ 20:16	",
 },			
 {			
-"question" :	"	5. The stone which the builders rejected became	",
+"question" :	"	5. ಮನೆಕಟ್ಟುವವರು ಬೇಡವೆಂದು ಬಿಟ್ಟ ಕಲ್ಲೇ ________	",
 "image" :	"",		
 "choices" : [			
-	"	a. Dust.	",
-	"	b. Sand.	",
-	"	c. Fire & brimstone.	",
-	"	d. The head of the corner.	"
+	"	A. ಧೂಳಾಯಿತು	",
+	"	B. ಮರುಳಾಯಿತು	",
+	"	C. ಅಗ್ನಿ ಮತ್ತು ಗಂಧಕಗಳಾಯಿತು	",
+	"	D. ಮುಖ್ಯವಾದ ಮೂಲೆಗಲ್ಲಾಯಿತು	"
 ],			
-"correct" :	"	d. The head of the corner.	",
-"explanation" :	"	Then He looked at them and said, What then is this that is written: 'The stone which the builders rejected Has become the chief cornerstone'? - Lk 20:17	",
+"correct" :	"	D. ಮುಖ್ಯವಾದ ಮೂಲೆಗಲ್ಲಾಯಿತು	",
+"explanation" :	"	ಇದನ್ನು ಕೇಳಿ ಜನರು ಹಾಗಾಗಬಾರದು ಅಂದರು; ಆದರೆ ಆತನು ಅವರನ್ನು ದೃಷ್ಟಿಸಿ ನೋಡಿ - ಹಾಗಾದರೆ ಮನೇಕಟ್ಟುವವರು ಬೇಡವೆಂದು ಬಿಟ್ಟ ಕಲ್ಲೇ ಮುಖ್ಯವಾದ ಮೂಲೆಗಲ್ಲಾಯಿತು ಎಂದು ಬರೆದಿರುವ ಮಾತೇನು?;   ಲೂಕ 20:17	",
 },			
 {			
-"question" :	"	6. Whose image was on the penny?	",
+"question" :	"	6. ನಾಣ್ಯದ ಮೇಲೆ ಯಾರ ಮುದ್ರೆ ಇತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Caesar	",
-	"	b. Herod	",
-	"	c. Moses	",
-	"	d. David	"
+	"	A. ಕೈಸರ	",
+	"	B. ಹೆರೋದ	",
+	"	C. ಮೋಶೆ 	",
+	"	D.ದಾವೀದ	"
 ],			
-"correct" :	"	a. Caesar	",
-"explanation" :	"	Show Me a denarius. Whose image and inscription does it have? They answered and said, Caesar's. - Lk 20:24	",
+"correct" :	"	A. ಕೈಸರ	",
+"explanation" :	"	ಅವರಿಗೆ - ನನಗೆ ಒಂದು ಹಣವನ್ನು ತೋರಿಸಿರಿ, ಇದರಲ್ಲಿ ಯಾರ ತಲೆಯೂ ಮುದ್ರೆಯೂ ಅದೆ ಎಂದು ಕೇಳಿದ್ದಕ್ಕೆ ಅವರು - ಕೈಸರನದು ಅಂದರು.   ಲೂಕ 20:24	",
 },			
 {			
-"question" :	"	7. Sadducees denied	",
+"question" :	"	7. ಸದ್ದುಕಾಯರು ಇದನ್ನು ನಿರಾಕರಿಸುವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The resurrection.	",
-	"	b. The law.	",
-	"	c. The governor.	",
-	"	d. God.	"
+	"	A. ಪುನರುತ್ಥಾನ	",
+	"	B. ಧರ್ಮಶಾಸ್ತ್ರ	",
+	"	C. ಮಂತ್ರಿ	",
+	"	D. ದೇವರು	"
 ],			
-"correct" :	"	a. The resurrection.	",
-"explanation" :	"	Then some of the Sadducees, who deny that there is a resurrection, came to Him and asked Him, - Lk 20:27	",
+"correct" :	"	A. ಪುನರುತ್ಥಾನ	",
+"explanation" :	"	ತರುವಾಯ ಪುನರುತ್ಥಾನವಿಲ್ಲವೆಂದು ಹೇಳುವವರಾದ ಸದ್ದುಕಾಯರಲ್ಲಿ;   ಲೂಕ 20:27	",
 },			
 {			
-"question" :	"	8. Those who are resurrected will not do this.	",
+"question" :	"	9. ಪುನರುತ್ಥಾನ ಹೊಂದಿದವರು ಇದನ್ನು ಮಾಡುವುದಿಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Remember	",
-	"	b. Eat	",
-	"	c. Know as they are known	",
-	"	d. Marry	"
+	"	A. ನೆನೆಸಿಕೊಳ್ಳುವುದು	",
+	"	B. ತಿನ್ನುವುದು	",
+	"	C. ಅವರಿಗೆ ಗೊತ್ತಿರುವಂತೆ ತಿಳುಕೊಳ್ಳುವುದು	",
+	"	D. ಮದುವೆ	"
 ],			
-"correct" :	"	d. Marry	",
-"explanation" :	"	But those who are counted worthy to attain that age, and the resurrection from the dead, neither marry nor are given in marriage - Lk 20:35	",
+"correct" :	"	D. ಮದುವೆ	",
+"explanation" :	"	ಆದರೆ ಆ ಲೋಕವನ್ನೂ ಸತ್ತವರೊಳಗಿಂದ ಪುನರುತ್ಥಾನವನ್ನೂ ಪಡೆಯುವದಕ್ಕೆ ಯೋಗ್ಯರೆನಿಸಿಕೊಂಡಿರುವವರು ಮದುವೆ ಮಾಡಿಕೊಳ್ಳುವದೂ ಇಲ್ಲ, ಮಾಡಿಕೊಡುವದೂ ಇಲ್ಲ;  ಲೂಕ 20:35	",
 },			
 {			
-"question" :	"	9. God is not a God of	",
+"question" :	"	9. ದೇವರು ಇವರಿಗೆ ದೇವರಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Stone.	",
-	"	b. Compassion.	",
-	"	c. Mercy.	",
-	"	d. The dead.	"
+	"	A. ಕಲ್ಲುಗಳಿಗೆ	",
+	"	B. ಅನುಕಂಪದ	",
+	"	C. ಕೃಪೆಗೆ	",
+	"	D. ಸತ್ತವರಿಗೆ	"
 ],			
-"correct" :	"	d. The dead.	",
-"explanation" :	"	For He is not the God of the dead but of the living, for all live to Him. - Lk 20:38	",
+"correct" :	"	D. ಸತ್ತವರಿಗೆ	",
+"explanation" :	"	ದೇವರು ಜೀವಿತರಿಗೆ ದೇವರಾಗಿದ್ದಾನೆ ಹೊರತು ಜೀವವಿಲ್ಲದವರಿಗೆ ಅಲ್ಲ.   ಲೂಕ 20:37	",
 },			
 {			
-"question" :	"	10. Jesus referred to this Old Testament book.	",
+"question" :	"	10. ಯೇಸು ಹಳೇ ಒಡಂಬಡಿಕೆಯ ಈ ಪುಸ್ತಕವನ್ನು ಪ್ರಸ್ತಾಪಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Job	",
-	"	b. Psalms	",
-	"	c. Proverbs	",
-	"	d. Isaiah	"
+	"	A. ಯೋಬ	",
+	"	B. ಕೀರ್ತನೆ	",
+	"	C. ಜ್ಞಾನೋಕ್ತಿ	",
+	"	D. ಯೆಶಾಯ	"
 ],			
-"correct" :	"	b. Psalms	",
-"explanation" :	"	Now David himself said in the Book of Psalms: 'The Lord said to my Lord, Sit at My right hand,- Lk 20:42	",
+"correct" :	"	B. ಕೀರ್ತನೆ	",
+"explanation" :	"	ನಾನು ನಿನ್ನ ವಿರೋಧಿಗಳನ್ನು ನಿನ್ನ ಪಾದಗಳಿಗೆ ಪೀಠವಾಗ ಮಾಡುವ ತನಕ ನನ್ನ ಬಲಗಡೆಯಲ್ಲಿ ಕೂತುಕೊಂಡಿರು ಎಂದು ಕರ್ತನು ನನ್ನ ಒಡೆಯನಿಗೆ ನುಡಿದನು ಎಂಬದಾಗಿಒ ಕೀರ್ತನಗ್ರಂಥದಲ್ಲಿ ದಾವೀದನೇ ಹೇಳುತ್ತಾನಷ್ಟೆ.   ಲೂಕ 20:42-43	",
 },			
 ]			
-			

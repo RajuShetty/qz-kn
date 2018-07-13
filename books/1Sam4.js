@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 4";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. When the Philistines prevailed over Israel, the Israelites sent for	",
@@ -34,7 +34,7 @@ var quiz = [
 	"	d. Asked for a treaty.	"
 ],			
 "correct" :	"	b. Were afraid.	",
-"explanation" :	"	And when the Philistines heard the noise of the shout, they said, What meaneth the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the LORD was come into the camp. And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore. 1 Sam 4:6-7	",
+"explanation" :	"	And when the Philistines heard the noise of the shout, they said, What meaneth the noise of this great shout in the camp of the ಇಬ್ರಿಯರಿಗೆ? And they understood that the ark of the LORD was come into the camp. And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore. 1 Sam 4:6-7	",
 },		                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   	
 {			
 "question" :	"	4. How many of Israel’s footmen fell after this battle?	",

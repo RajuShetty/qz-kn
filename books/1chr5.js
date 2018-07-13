@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 5";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. He was the firstborn of Israel.	",

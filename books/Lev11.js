@@ -1,7 +1,7 @@
-var quiztitle = " Leviticus  chapter 11";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter gives guidelines of	",
+"question" :	"	1. This ಅಧ್ಯಾಯ gives guidelines of	",
 "image" :	"",		
 "choices" : [			
 	"	a. How to speak.	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 24";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 24";			
 var quiz = [			
 {			
 "question" :	"	1. How many men did Saul take with him against David?	",

@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 6";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. Instruction is given, for he who vows a vow of	",

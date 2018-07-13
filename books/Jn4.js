@@ -1,124 +1,123 @@
-			
-var quiztitle = "John chapter 4";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
-"question" :	"	1. A woman met Jesus by a well in	",
+"question" :	"	1  ಒಬ್ಬ ಸ್ತ್ರೀಯು ಯೇಸುವನ್ನು ಬಾವಿಯ ಬಳಿ ಸಂಧಿಸಿದ್ದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jerusalem.	",
-	"	b. Israel.	",
-	"	c. Egypt.	",
-	"	d. Samaria.	"
+	"	A. ಯೆರೂಷಲೇಮಿನಲ್ಲಿ	",
+	"	B. ಇಸ್ರಾಯೇಲಿನಲ್ಲಿ	",
+	"	C. ಐಗುಪ್ತದಲ್ಲಿ	",
+	"	D. ಸಮಾರ್ಯ ಸೀಮೆಯಲ್ಲಿ	"
 ],			
-"correct" :	"	d. Samaria.	",
-"explanation" :	"	So He came to a city of Samaria which is called Sychar, near the plot of ground that Jacob gave to his son Joseph.Now Jacob's well was there. Jesus therefore, being wearied from His journey, sat thus by the well. It was about the sixth hour. - Jn 4:5-6	",
+"correct" :	"	D. ಸಮಾರ್ಯ ಸೀಮೆಯಲ್ಲಿ	",
+"explanation" :	"	ಹೋಗುವಾಗ ಸಮಾರ್ಯಸೀಮೆಗೆ ಸೇರಿದ ಸುಖರೆಂಬ ಊರಿಗೆ ಬಂದನು. ಅದು ಯಾಕೋಬನು ತನ್ನ ಮಗನಾದ ಯೋಸೇಫನಿಗೆ ಕೊಟ್ಟ ಭೂಮಿಯ ಹತ್ತಿರದಲ್ಲಿತ್ತು;  ಅಲ್ಲಿ ಯಾಕೋಬನು ತೆಗೆಸಿದ ಬಾವಿಯಿತ್ತು. ಯೇಸು ದಾರಿನಡೆದು ದಣಿದು ಆ ಬಾವಿಯ ಬಳಿಯಲ್ಲಿ ಹಾಗೆ ಕೂತುಕೊಂಡನು; ಹೆಚ್ಚು ಕಡಿಮೆ ಮಧ್ಯಾಹ್ನವಾಗಿತ್ತು 4:5-6	",
 },			
 {			
-"question" :	"	2. What was the name of the well?	",
+"question" :	"	2  ಆ ಬಾವಿಯ ಹೆಸರು ಏನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Abraham’s well	",
-	"	b. David’s well	",
-	"	c. Jacob’s well	",
-	"	d. Adam’s well	"
+	"	A. ಅಬ್ರಹಾಮನ ಬಾವಿ	",
+	"	B. ದಾವೀದನ ಬಾವಿ	",
+	"	C. ಯಾಕೋಬನ ಬಾವಿ	",
+	"	D. ಆದಾಮನ ಬಾವಿ	"
 ],			
-"correct" :	"	c. Jacob’s well	",
-"explanation" :	"	Now Jacob's well was there. Jesus therefore, being wearied from His journey, sat thus by the well. It was about the sixth hour. - Jn 4:6	",
+"correct" :	"	C. ಯಾಕೋಬನ ಬಾವಿ	",
+"explanation" :	"	ಅಲ್ಲಿ ಯಾಕೋಬನು ತೆಗೆಸಿದ ಬಾವಿಯಿತ್ತು. ಯೇಸು ದಾರಿನಡೆದು ದಣಿದು ಆ ಬಾವಿಯ ಬಳಿಯಲ್ಲಿ ಹಾಗೆ ಕೂತುಕೊಂಡನು; ಹೆಚ್ಚು ಕಡಿಮೆ ಮಧ್ಯಾಹ್ನವಾಗಿತ್ತು. 4:6	",
 },			
 {			
-"question" :	"	3. Jesus asked the woman	",
+"question" :	"	3 ಯೇಸು ಆ ಸ್ತ್ರೀಯನ್ನು ಕೇಳಿದ್ದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. For directions.	",
-	"	b. For a drink.	",
-	"	c. Where she lived.	",
-	"	d. For bread.	"
+	"	A. ಮಾರ್ಗದರ್ಶನಕ್ಕಾಗಿ	",
+	"	B. ಕುಡಿಯುವುದಕ್ಕೆ	",
+	"	C. ಆಕೆ ಎಲ್ಲಿ ವಾಸಿಸುತ್ತಾಳೋ ತಿಳಿಯಲು	",
+	"	D. ರೊಟ್ಟಿಗಾಗಿ	"
 ],			
-"correct" :	"	b. For a drink.	",
-"explanation" :	"	A woman of Samaria came to draw water. Jesus said to her, Give Me a drink. - Jn 4:7	",
+"correct" :	"	B. ಕುಡಿಯುವುದಕ್ಕೆ	",
+"explanation" :	"	ಆತನ ಶಿಷ್ಯರು ಊಟಕ್ಕೆ ಬೇಕಾದದ್ದನ್ನು ಕೊಂಡುಕೊಳ್ಳುವದಕ್ಕಾಗಿ ಊರೊಳಗೆ ಹೋಗಿರಲು ಸಮಾರ್ಯದವಳಾದ ಒಬ್ಬ ಹೆಂಗಸು ನೀರು ಸೇದುವದಕ್ಕೆ ಬಂದಳು. ಯೇಸು ಆಕೆಯನ್ನು - ಅಮ್ಮಾ, ನೀರು ಕುಡಿಯುವದಕ್ಕೆ ಕೊಡು ಎಂದು ಕೇಳಿದನು 4:7	",
 },			
 {			
-"question" :	"	4. Jesus told the woman if she asked, He would give her this.	",
+"question" :	"	4 ಯೇಸು ಆ ಸ್ತ್ರೀಗೆ, ನೀನು ಇದನ್ನು ಬೇಡಿಕೊಂಡಿದ್ದರೆ ಕೊಡುತ್ತಿದ್ದೆನು ಅಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hope	",
-	"	b. Gold	",
-	"	c. A water pot	",
-	"	d. Living water	"
+	"	A. ನಿರೀಕ್ಷೆ	",
+	"	B. ಚಿನ್ನ	",
+	"	C. ಒಂದು ಕೊಡ ನೀರು	",
+	"	D. ಜೀವಕರವಾದ ನೀರು	"
 ],			
-"correct" :	"	d. Living water	",
-"explanation" :	"	Jesus answered and said to her, If you knew the gift of God, and who it is who says to you, 'Give Me a drink,' you would have asked Him, and He would have given you living water. - Jn 4:10	",
+"correct" :	"	D. ಜೀವಕರವಾದ ನೀರು	",
+"explanation" :	"	ಅದಕ್ಕೆ ಯೇಸು - ದೇವರು ಕೊಡುವ ವರವೇನೆಂಬದೂ ಕುಡಿಯುವದಕ್ಕೆ ನೀರುಕೊಡು ಎಂದು ನಿನಗೆ ಹೇಳಿದವನು ಯಾರೆಂಬದೂ ನಿನಗೆ ತಿಳಿದಿದ್ದರೆ ನೀನು ಅವನನ್ನು ಬೇಡಿಕೊಳ್ಳುತ್ತಿದ್ದಿ, ಅವನು ನಿನಗೆ ಜೀವಕರವಾದ ನೀರನ್ನು ಕೊಡುತ್ತಿದ್ದನು ಅಂದನು 4:10	",
 },			
 {			
-"question" :	"	5. How many husbands had the woman had?	",
+"question" :	"	5 ಆ ಹೆಂಗಸಿಗೆ ಎಷ್ಟು ಮಂದಿ ಗಂಡಂದಿರಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 3	",
-	"	c. 4	",
-	"	d. 5	"
+	"	A. 2	",
+	"	B. 3	",
+	"	C. 4	",
+	"	D. 5	"
 ],			
-"correct" :	"	d. 5	",
-"explanation" :	"	for you have had five husbands, and the one whom you now have is not your husband; in that you spoke truly. - Jn 4:18	",
+"correct" :	"	D. 5	",
+"explanation" :	"	ನಿನಗೆ ಐದುಮಂದಿ ಗಂಡಂದಿರಿದ್ದರು, ಈಗ ಇರುವವನು ನಿನಗೆ ಗಂಡನಲ್ಲ; ನೀನು ಹೇಳಿದ್ದು ನಿಜವಾದ ಸಂಗತಿ ಅಂದನು. 4:18	",
 },			
 {			
-"question" :	"	6. True worshippers shall worship the Father in spirit and in	",
+"question" :	"	6 ಸತ್ಯಭಾವದಿಂದ ದೇವಾರಾಧನೆ ಮಾಡುವವರು ಆತ್ಮೀಯ ರೀತಿಯಲ್ಲಿ  _____________   ತಕ್ಕ ಹಾಗೆ ತಂದೆಯನ್ನು ಆರಾಧಿಸುವ ಕಾಲ ಬರುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Faith.	",
-	"	b. Hope.	",
-	"	c. Truth.	",
-	"	d. Love.	"
+	"	A. ನಂಬಿಕೆಗೆ	",
+	"	B. ನಿರೀಕ್ಷೆಗೆ	",
+	"	C. ಸತ್ಯಕ್ಕೆ	",
+	"	D. ಪ್ರೀತಿಗೆ	"
 ],			
-"correct" :	"	c. Truth.	",
-"explanation" :	"	But the hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for the Father is seeking such to worship Him. - Jn 4:23	",
+"correct" :	"	C. ಸತ್ಯಕ್ಕೆ	",
+"explanation" :	"	ಅದಿರಲಿ; ಸತ್ಯಭಾವದಿಂದ ದೇವಾರಾಧನೆ ಮಾಡುವವರು ಆತ್ಮೀಯ ರೀತಿಯಲ್ಲಿ ಸತ್ಯಕ್ಕೆ ತಕ್ಕ ಹಾಗೆ ತಂದೆಯನ್ನು ಆರಾಧಿಸುವ ಕಾಲ ಬರುತ್ತದೆ; ಅದು ಈಗಲೇ ಬಂದಿದೆ; ತಂದೆಯು ತನ್ನನ್ನು ಆರಾಧಿಸುವವರು ಇಂಥವರೇ ಆಗಿರಬೇಕೆಂದು ಅಪೇಕ್ಷಿಸುತ್ತಾನಲ್ಲವೇ. 4:23	",
 },			
 {			
-"question" :	"	7. When the woman went to the city she left this.	",
+"question" :	"	7  ಸ್ತ್ರೀಯು ಊರಿನೊಳಕ್ಕೆ ಹೋದಾಗ, ಆಕೆ ಬಾವಿಯ ಬಳಿ ಇದನ್ನು ಬಿಟ್ಟು ಹೋದಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Her hope	",
-	"	b. Her sheep	",
-	"	c. Her water pot	",
-	"	d. A shekel of gold	"
+	"	A. ಆಕೆಯ ನಿರೀಕ್ಷೆ	",
+	"	B. ಆಕೆಯ ಕುರಿಗಳು	",
+	"	C. ಆಕೆಯ ಕೊಡ	",
+	"	D. ಚಿನ್ನದ ಶೆಕೆಲ್	"
 ],			
-"correct" :	"	c. Her water pot	",
-"explanation" :	"	The woman then left her waterpot, went her way into the city, and said to the men, - Jn 4:28	",
+"correct" :	"	C. ಆಕೆಯ ಕೊಡ	",
+"explanation" :	"	ಆಗ ಆ ಹೆಂಗಸು ತನ್ನ ಕೊಡವನ್ನು ಅಲ್ಲೇ ಬಿಟ್ಟು ಊರೊಳಕ್ಕೆ ಹೋಗಿ ಜನರಿಗೆ, 4:28	",
 },			
 {			
-"question" :	"	8. Jesus said, a prophet has no honor	",
+"question" :	"	8  ಪ್ರವಾದಿಗೆ _____________ ಮರ್ಯಾದೆಯಿಲ್ಲವೆಂದು ಯೇಸು ತಾನೇ ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. In his own country.	",
-	"	b. Among the Gentiles.	",
-	"	c. Due him.	",
-	"	d. Unless God bestows it.	"
+	"	A. ಸ್ವದೇಶದಲ್ಲಿ	",
+	"	B. ಅನ್ಯ ಜನರಲ್ಲಿ	",
+	"	C. ಅವನಿಂದ	",
+	"	D. ದೇವರು ದಯಪಾಲಿಸುವವರೆಗೂ	"
 ],			
-"correct" :	"	a. In his own country.	",
-"explanation" :	"	For Jesus Himself testified that a prophet has no honor in his own country. - Jn 4:44	",
+"correct" :	"	A. ಸ್ವದೇಶದಲ್ಲಿ	",
+"explanation" :	"	ಯಾಕಂದರೆ ಪ್ರವಾದಿಗೆ ಸ್ವದೇಶದಲ್ಲಿ ಮರ್ಯಾದೆಯಿಲ್ಲವೆಂದು ಯೇಸು ತಾನೇ ಹೇಳಿದನು 4:44	",
 },			
 {			
-"question" :	"	9. A nobleman came and asked Jesus to heal	",
+"question" :	"	9  ಒಬ್ಬ ಪ್ರಧಾನನು ಯೇಸುವಿನ ಬಳಿಗೆ ಬಂದು ಇವನನ್ನು ಸೌಖ್ಯಪಡಿಸು ಎಂದು ಕೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. His son.	",
-	"	b. His servant.	",
-	"	c. His brother.	",
-	"	d. His father.	"
+	"	A. ತನ್ನ ಮಗನನ್ನು	",
+	"	B. ತನ್ನ ಆಳನ್ನು	",
+	"	C. ತನ್ನ ಸಹೋದರನನ್ನು	",
+	"	D. ತನ್ನ ತಂದೆಯನ್ನು	"
 ],			
-"correct" :	"	a. His son.	",
-"explanation" :	"	So Jesus came again to Cana of Galilee where He had made the water wine. And there was a certain nobleman whose son was sick at Capernaum.When he heard that Jesus had come out of Judea into Galilee, he went to Him and implored Him to come down and heal his son, for he was at the point of death. - Jn 4:46-47	",
+"correct" :	"	A. ತನ್ನ ಮಗನನ್ನು	",
+"explanation" :	"	ಹೀಗಿರಲಾಗಿ ಯೇಸು, ತಾನು ನೀರನ್ನು ದ್ರಾಕ್ಷಾರಸವಾಗಿ ಮಾಡಿದ ಗಲಿಲಾಯದ ಕಾನಾ ಊರಿಗೆ ಮತ್ತೊಮ್ಮೆ ಬಂದನು. ಅಲ್ಲಿದ್ದಾಗ ಅರಮನೆಯ ಒಬ್ಬ ಪ್ರಧಾನನ ಮಗನು ಕಪೆರ್ನೌಮಿನಲ್ಲಿ ಅಸ್ವಸ್ಥನಾಗಿದ್ದನು. ಯೇಸು ಯೂದಾಯದಿಂದ ಗಲಿಲಾಯಕ್ಕೆ ಬಂದ ಸುದ್ದಿಯನ್ನು ಆ ಪ್ರಧಾನನು ಕೇಳಿದಾಗ ತನ್ನ ಮಗನು ಸಾಯುವ ಹಾಗಿದ್ದದರಿಂದ ಯೇಸುವಿನ ಬಳಿಗೆ ಹೋಗಿ - ನೀನು ಇಳಿದು ಬಂದು ನನ್ನ ಮಗನನ್ನು ಸ್ವಸ್ಥಮಾಡಬೇಕೆಂದು ಬೇಡಿಕೊಂಡನು;  4:46-47	",
 },			
 {			
-"question" :	"	10. What hour did the fever leave him?	",
+"question" :	"	10 ಎಷ್ಟು ಗಂಟೆಗೆ ಜ್ವರವು ಆತನನ್ನು ಬಿಟ್ಟು ಹೋಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2nd	",
-	"	b. 3rd	",
-	"	c. 5th	",
-	"	d. 7th	"
+	"	A. ಎರಡು ಗಂಟೆಗೆ	",
+	"	B. ಮೂರು ಗಂಟೆಗೆ	",
+	"	C. ಐದು ಗಂಟೆಗೆ	",
+	"	D. ಏಳು ಗಂಟೆಗೆ	"
 ],			
-"correct" :	"	d. 7th	",
-"explanation" :	"	Then he inquired of them the hour when he got better. And they said to him, Yesterday at the seventh hour the fever left him. - Jn 4:52	",
+"correct" :	"	D. ಏಳು ಗಂಟೆಗೆ	",
+"explanation" :	"	ಎಷ್ಟು ಘಂಟೆಗೆ ಅವನಿಗೆ ರೋಗವು ಇಳಿತರವಾಯಿತೆಂದು ಅವನು ಅವರನ್ನು ಕೇಳಿದಾಗ ಅವರು - ನಿನ್ನೆ ಮಧ್ಯಾಹ್ನದ ಏಳು ತಾಸಿಗೆ. ಒಂದು ಗಂಟೆಗೆ ಜ್ವರವು ಅವನನ್ನು ಬಿಟ್ಟಿತು ಅಂದರು. 4:52	",
 },			
 ]			

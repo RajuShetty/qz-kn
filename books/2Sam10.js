@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 10";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. After the king of this place died, his son, Hanun, reigned in his place.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 16";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. The whole congregation began to do this.	",

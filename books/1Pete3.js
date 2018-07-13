@@ -1,4 +1,4 @@
-var quiztitle = " 1 Peter chapter 3";			
+var quiztitle = " 1 ಪೇತ್ರನು ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಸ್ತ್ರೀಯರು ಯಾರಿಗೆ ಅಧೀನರಾಗಿರಬೇಕು?	",

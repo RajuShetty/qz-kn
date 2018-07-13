@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 24";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 24";			
 var quiz = [			
 {			
-"question" :	"	1. Who was the high priest?	",
+"question" :	"	1  ಮಹಾಯಾಜಕರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ananias	",
-	"	b. Hepher	",
-	"	c. Machir	",
-	"	d. Eleazar	"
+	"	A. ಅನನೀಯ	",
+	"	B. ಹೆಫೇರ್	",
+	"	C. ಮಾಕೀರ್	",
+	"	D. ಎಲಿಯಾಜರ್	"
 ],			
-"correct" :	"	a. Ananias	",
-"explanation" :	"	And after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul.Acts24:1	",
+"correct" :	"	A. ಅನನೀಯ	",
+"explanation" :	"	ಐದು ದಿವಸಗಳಾದ ಮೇಲೆ ಮಹಾಯಾಜಕನಾದ ಅನನೀಯನು ಸಭೇಹಿರಿಯರಲ್ಲಿ ಕೆಲವರನ್ನೂ ತೆರ್ತುಲ್ಲನೆಂಬ ಒಬ್ಬ ವಕೀಲನನ್ನೂ ಕರೆದುಕೊಂಡು ಬಂದು ಪೌಲನ ಮೇಲೆ ದೇಶಾಧಿಪತಿಗೆ ಫಿರಿಯಾದಿ ಹೇಳಿದನು.  24:1	",
 },			
 {			
-"question" :	"	2. This orator accused Paul before the governor.	",
+"question" :	"	2  ಈ ವಕೀಲನು ದೇಶಾಧಿಪತಿಯ ಮುಂದ ಪೌಲನ ಮೇಲೆ ತಪ್ಪು ಹೊರಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Tertullus	",
-	"	b. Joshiah	",
-	"	c. Jephunneh	",
-	"	d. Nadab	"
+	"	A. ತೆರ್ತುಲ್ಲನು	",
+	"	B. ಯೋಶೀಯ	",
+	"	C. ಚೆಫನ್ಯ	",
+	"	D. ನಾದಾಬ್	"
 ],			
-"correct" :	"	a. Tertullus	",
-"explanation" :	"	And after five days Ananias the high priest descended with the elders, and with a certain orator named Tertullus, who informed the governor against Paul.Acts24:1	",
+"correct" :	"	A. ತೆರ್ತುಲ್ಲನು	",
+"explanation" :	"	ಐದು ದಿವಸಗಳಾದ ಮೇಲೆ ಮಹಾಯಾಜಕನಾದ ಅನನೀಯನು ಸಭೇಹಿರಿಯರಲ್ಲಿ ಕೆಲವರನ್ನೂ ತೆರ್ತುಲ್ಲನೆಂಬ ಒಬ್ಬ ವಕೀಲನನ್ನೂ ಕರೆದುಕೊಂಡು ಬಂದು ಪೌಲನ ಮೇಲೆ ದೇಶಾಧಿಪತಿಗೆ ಫಿರಿಯಾದಿ ಹೇಳಿದನು.  24:1	",
 },			
 {			
-"question" :	"	3. Paul was accused of profaning	",
+"question" :	"	3  ಪೌಲನು ಈ ಸ್ಥಳವನ್ನು ಹೊಲೆ ಮಾಡಿದನೆಂದು ಆರೋಪಿಸಲ್ಪಟ್ಟನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The temple.	",
-	"	b. The blood of Jesus.	",
-	"	c. The gospel.	",
-	"	d. Caesar.	"
+	"	A. ದೇವಾಲಯ	",
+	"	B. ಯೇಸುವಿನ ರಕ್ತ	",
+	"	C. ಸುವಾರ್ತೆ	",
+	"	D. ಕೈಸರ	"
 ],			
-"correct" :	"	a. The temple.	",
-"explanation" :	"	Who also hath gone about to profane the temple: whom we took, and would have judged according to our law.Acts24:6	",
-},		 	
-{			
-"question" :	"	4. Who was the chief captain?	",
-"image" :	"",		
-"choices" : [			
-	"	a. Caiaphas	",
-	"	b. Lysias	",
-	"	c. Mahlon	",
-	"	d. Paul	"
-],			
-"correct" :	"	b. Lysias	",
-"explanation" :	"	 But the chief captain Lysias came upon us, and with great violence took him away out of our hands,Acts24:7	",
+"correct" :	"	A. ದೇವಾಲಯ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಇವನು ದೇವಾಲಯವನ್ನು ಹೊಲೆಮಾಡುವದಕ್ಕೆ ಪ್ರಯತ್ನಮಾಡಿದನು; 24:6	",
 },			
 {			
-"question" :	"	5. Paul said, in the twelve days since he went up to Jerusalem, he was never in the temple doing this.	",
+"question" :	"	4 ಪ್ರಮುಖ ನಾಯಕ ಯಾರಾಗಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sacrificing	",
-	"	b. Giving alms	",
-	"	c. Disputing with anyone	",
-	"	d. Praying	"
+	"	A. ಕಾಯಫ	",
+	"	B. ಲೈಸೀಸ್	",
+	"	C. ಮಾಹ್ಲೋನ್	",
+	"	D. ಪೌಲ	"
 ],			
-"correct" :	"	c. Disputing with anyone	",
-"explanation" :	"	And they neither found me in the temple disputing with any man, neither raising up the people, neither in the synagogues, nor in the city:Acts24:12	",
+"correct" :	"	B. ಲೈಸೀಸ್	",
+"explanation" :	"	ಆದಕಾರಣ ಇವನನ್ನು ನಾವು ಹಿಡಿದೆವು. 24:7	",
 },			
 {			
-"question" :	"	6. Paul said, after many years, he came to bring	",
+"question" :	"	5  ಪೌಲನು ಹೇಳಿದ್ದು, ತಾನು ದೇವಾಲಯಕ್ಕೆ ಹೋಗಿದ್ದ 12 ದಿನಗಳಲ್ಲಿ _____ ಮಾಡಲಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Alms & offerings.	",
-	"	b. Dissention.	",
-	"	c. Discord.	",
-	"	d. A new doctrine.	"
+	"	A. ಯಜ್ಞ	",
+	"	B. ಕಾಣಿಕೆ ನೀಡುವುದು	",
+	"	C. ಯಾರೊಂದಿಗೂ ವಾದ ಮಾಡಿದ್ದು	",
+	"	D. ಪ್ರಾರ್ಥಿಸುವುದು	"
 ],			
-"correct" :	"	a. Alms & offerings.	",
-"explanation" :	"	Now after many years I came to bring alms to my nation, and offerings.Acts24:17	",
+"correct" :	"	C. ಯಾರೊಂದಿಗೂ ವಾದ ಮಾಡಿದ್ದು	",
+"explanation" :	"	ಅಲ್ಲಿ ದೇವಾಲಯದಲ್ಲಾಗಲಿ ಸಭಾಮಂದಿರಗಳಲ್ಲಾಗಲಿ ಪಟ್ಟಣದಲ್ಲಾಗಲಿ ನಾನು ಯಾರ ಸಂಗಡವಾದರೂ ವಾದಿಸುವದನ್ನು ಇಲ್ಲವೆ ಜನರ ಗುಂಪು ಕೂಡಿಸುವದನ್ನು ಇವರು ಕಾಣಲಿಲ್ಲ. 24:12	",
 },			
 {			
-"question" :	"	7. Felix said, he would know the matter better when this man came down.	",
+"question" :	"	6 ಪೌಲನು ಹೇಳಿದ್ದು, ಅನೇಕ ವರ್ಷಗಳ ನಂತರ ತಾನು ಬಂದಿದ್ದು ………………… ಒಪ್ಪಿಸಲು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pilate	",
-	"	b. Herod	",
-	"	c. The chief captain	",
-	"	d. The centurion who rescued Paul	"
+	"	A. ಧರ್ಮದ್ರವ್ಯಗಳನ್ನು ತರುವುದಕ್ಕೂ ಮತ್ತು ಕಾಣಿಕೆ ಒಪ್ಪಿಸುವುದಕ್ಕೂ	",
+	"	B. ಭಿನ್ನಾಭಿಪ್ರಾಯ	",
+	"	C. ಅಸಮ್ಮತಿ	",
+	"	D. ಹೊಸ ಸೇವೆಯನ್ನು	"
 ],			
-"correct" :	"	c. The chief captain	",
-"explanation" :	"	And when Felix heard these things, having more perfect knowledge of that way, he deferred them, and said, When Lysias the chief captain shall come down, I will know the uttermost of your matter.Acts24:22	",
+"correct" :	"	A. ಧರ್ಮದ್ರವ್ಯಗಳನ್ನು ತರುವುದಕ್ಕೂ ಮತ್ತು ಕಾಣಿಕೆ ಒಪ್ಪಿಸುವುದಕ್ಕೂ	",
+"explanation" :	"	ಕೆಲವು ವರುಷಗಳಾದ ಮೇಲೆ ನಾನು ನನ್ನ ಸ್ವದೇಶದವರಿಗೆ ಧರ್ಮದ್ರವ್ಯಗಳನ್ನು ತರುವದಕ್ಕೂ ಕಾಣಿಕೆಗಳನ್ನು ಒಪ್ಪಿಸುವದಕ್ಕೂ ಬಂದೆನು 24:17	",
 },			
 {			
-"question" :	"	8. The centurion who kept Paul, was ordered to allow 	",
+"question" :	"	7  ಫೆಲಿಕ್ಸ್‍ನು ಹೇಳಿದ್ದು, ……………………… ಬಂದ ಮೇಲೆ ನಿಮ್ಮ ಕಾರ್ಯವನ್ನು ತೀರ್ಮಾನಿಸುತ್ತೇನೆಂದು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. No one to see him.	",
-	"	b. Acquaintances to see him.	",
-	"	c. The Jews to question him.	",
-	"	d. The Jews to judge him.	"
+	"	A. ಪಿಲಾತ	",
+	"	B. ಹೆರೋದ	",
+	"	C. ಸಹಸ್ರಾಧಿಪತಿ	",
+	"	D. ಪೌಲನನ್ನು ರಕ್ಷಿಸಿದ ಶತಾಧಿಪತಿ	"
 ],			
-"correct" :	"	b. Acquaintances to see him.	",
-"explanation" :	"	And he commanded a centurion to keep Paul, and to let him have liberty, and that he should forbid none of his acquaintance to minister or come unto him.Acts24:23	",
+"correct" :	"	C. ಸಹಸ್ರಾಧಿಪತಿ	",
+"explanation" :	"	ಫೇಲಿಕ್ಸನು ಕ್ರಿಸ್ತ ಮಾರ್ಗವನ್ನು ತಕ್ಕ ಮಟ್ಟಿಗೆ ತಿಳಿದವನಾದರೂ ಅವರಿಗೆ - ಸಹಸ್ರಾಧಿಪತಿಯಾದ ಲೂಸ್ಯನು ಬಂದ ಮೇಲೆ ನಿಮ್ಮ ಕಾರ್ಯವನ್ನು ತೀರ್ಮಾನಿಸುತ್ತೇನೆಂದು ಹೇಳಿ ವಿಚಾರಣೆಯನ್ನು ತಡೆಮಾಡಿದನು 24:22	",
 },			
 {			
-"question" :	"	9. Who was Felix's wife?	",
+"question" :	"	8 ಪೌಲನಿಗೆ ಕಾವಲಾಗಿದ್ದ ಶತಾಧಿಪತಿಗೆ ಏನೆಂದು ಅಪ್ಪಣೆ ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jezebel	",
-	"	b. Pricilla	",
-	"	c. Sapphira	",
-	"	d. Drusilla	"
+	"	A. ಅವನನ್ನು ಯಾರು ಕಾಣಬಾರದು	",
+	"	B. ಅವನನ್ನು ಉಪಚರಿಸುವವರಿಗೆ ಅಡ್ಡಿಮಾಡಬೇಡಿರಿ	",
+	"	C. ಯೆಹೂದ್ಯರು ಅವನನ್ನು ಪ್ರಶ್ನಿಸಲಿ.	",
+	"	D. ಯೆಹೂದ್ಯರು ಅವನಿಗೆ ನ್ಯಾಯವಿಚಾರಿಸಲಿ	"
 ],			
-"correct" :	"	d. Drusilla	",
-"explanation" :	"	And after certain days, when Felix came with his wife Drusilla, which was a Jewess, he sent for Paul, and heard him concerning the faith in Christ.Acts24:24	",
+"correct" :	"	B. ಅವನನ್ನು ಉಪಚರಿಸುವವರಿಗೆ ಅಡ್ಡಿಮಾಡಬೇಡಿರಿ	",
+"explanation" :	"	ಆಗ ಅವನು ಶತಾಧಿಪತಿಗೆ - ಪೌಲನು ಕಾವಲಲ್ಲಿರಬೇಕು, ಆದರೆ ಅವನು ಬಿಡುವಾಗಿರಲಿ, ಅವನನ್ನು ಉಪಚರಿಸುವದಕ್ಕೆ ಅವನ ಸ್ವಂತ ಜನರಲ್ಲಿ ಯಾರಿಗೂ ಅಡ್ಡಿಮಾಡಬಾರದೆಂದು ಅಪ್ಪಣೆಮಾಡಿದನು. 24:23	",
 },			
 {			
-"question" :	"	10. Felix hoped to receive this of Paul,that he might release him.	",
+"question" :	"	9  ಫೆಲಿಕ್ಸ್‍ನ ಹೆಂಡತಿ ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Money	",
-	"	b. Prayer	",
-	"	c. Miracles	",
-	"	d. Letters	"
+	"	A. ಈಜಬೇಲ್	",
+	"	B. ಪ್ರಿಸ್ಕಿಲ್ಲ	",
+	"	C. ಸಪ್ಪೈರ	",
+	"	D. ದ್ರೂಸಿಲ್ಲ	"
 ],			
-"correct" :	"	a. Money	",
-"explanation" :	"	He hoped also that money should have been given him of Paul, that he might loose him: wherefore he sent for him the oftener, and communed with him.Acts24:26	",
+"correct" :	"	D. ದ್ರೂಸಿಲ್ಲ	",
+"explanation" :	"	ಕೆಲವು ದಿವಸಗಳಾದ ಮೇಲೆ ಫೇಲಿಕ್ಸನು ಯೆಹೂದ್ಯಳಾದ ದ್ರೂಸಿಲ್ಲಳೆಂಬ ಸ್ವಂತ ಹೆಂಡತಿಯೊಂದಿಗೆ ಬಂದು ಪೌಲನನ್ನು ಕರಿಸಿಕೊಂಡು ಕ್ರಿಸ್ತ ಯೇಸುವಿನಲ್ಲಿಡತಕ್ಕ ನಂಬಿಕೆಯ ವಿಷಯವಾಗಿ ಅವನು ಹೇಳಿದ ಮಾತುಗಳನ್ನು ಕೇಳಿದನು 24:24	",
+},			
+{			
+"question" :	"	10 ಪೌಲನನ್ನು ಬಿಡುಗಡೆ ಮಾಡಲು ತನಗೆ ಆತನಿಂದ ಇದು ಸಿಕ್ಕೀತೆಂದು ಫೆಲಿಕ್ಸ್‍ನು ನೆನಸಿದ್ದನು.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಹಣ	",
+	"	B. ಪ್ರಾರ್ಥನೆ	",
+	"	C. ಅದ್ಭುತಗಳು	",
+	"	D. ಪತ್ರಗಳು	"
+],			
+"correct" :	"	A. ಹಣ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ತನಗೆ ಪೌಲನಿಂದ ಹಣ ಸಿಕ್ಕೀತೆಂಬ ನಿರೀಕ್ಷೆ ಅವನಿಗಿದ್ದ ಕಾರಣ ಅವನನ್ನು ಬಾರಿಬಾರಿಗೂ ಕರಿಸಿ ಅವನ ಸಂಗಡ ಸಲ್ಲಾಪಮಾಡುತ್ತಿದ್ದನು. 24:26	",
 },			
 ]			

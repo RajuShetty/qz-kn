@@ -1,4 +1,4 @@
-var quiztitle = "1 Corinthians chapter 14";			
+var quiztitle = "1 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. ಪ್ರೀತಿಯನ್ನು ಅಭ್ಯಾಸಮಾಡಿಕೊಳ್ಳಿರಿ, ಆದರೂ ಇವುಗಳನ್ನು ಅಪೇಕ್ಷಿಸಿರಿ.	",

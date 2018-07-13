@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 4";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. When Saul’s son heard that Abner was dead	",

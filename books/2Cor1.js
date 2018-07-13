@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 1";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. ಈ ಪತ್ರಿಕೆಯನ್ನು ಈ ಸಭೆಗೆ ಬರೆಯಲಾಯಿತು.	",

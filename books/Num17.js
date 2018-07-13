@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 17";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. What did the men bring?	",

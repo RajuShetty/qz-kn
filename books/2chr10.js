@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 10";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. Rehoboam went here, where all Israel came to make him king.	",

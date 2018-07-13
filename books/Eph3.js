@@ -1,4 +1,4 @@
-var quiztitle = "Ephesians chapter 3";			
+var quiztitle = "ಎಫೆಸದವರಿಗೆ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ತನ್ನನ್ನು ತಾನು ಈತನ ಸೆರೆಯವನು ಎಂದು ಹೇಳಿದನು.	",

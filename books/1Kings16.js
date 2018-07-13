@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 16";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. The word of the Lord came to this man against Baasha.	",

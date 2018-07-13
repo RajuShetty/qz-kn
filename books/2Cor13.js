@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 13";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಕೊರಿಂಥ ಸಭೆಗೆ ಬರುವುದು ಇದು ಎಷ್ಟನೆಯ ಸಾರಿ?	",

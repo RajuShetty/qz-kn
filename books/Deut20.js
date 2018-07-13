@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 20";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1. When you go to battle and the enemy has more men, and horses, and chariots	",

@@ -1,4 +1,4 @@
-var quiztitle = "Galatians chapter 2";			
+var quiztitle = "ಗಲಾತ್ಯದವರಿಗೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಈ ವ್ಯಕ್ತಿಯ ಜೊತೆಯಲ್ಲಿ ಯೆರೂಸಲೇಮಿಗೆ ಹೋದನು.	",

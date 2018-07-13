@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 22";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. Who spoke the words of this song to the Lord?	",

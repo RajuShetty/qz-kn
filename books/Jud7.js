@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 7";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. When Gideon said, the people that were fearful should go back, how many left?	",

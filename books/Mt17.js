@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 17";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
-"question" :	"	1. Which of the following disciples did Jesus take to the mountain?	",
+"question" :	"	1 ಈ ಕೆಳಗಿನ ಯಾವ ಶಿಷ್ಯರನ್ನು ಯೇಸು ಬೆಟ್ಟಕ್ಕೆ ಕರೆದುಕೊಂಡು ಹೋದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter, James & Judas	",
-	"	b. Peter, James & Luke	",
-	"	c. Peter, John & Mark	",
-	"	d. Peter, James & John	"
+	"	A. ಪೇತ್ರ, ಯಾಕೋಬ ಮತ್ತು ಯೂದ	",
+	"	B. ಪೇತ್ರ, ಯಾಕೋಮ ಮತ್ತು ಲೂಕ	",
+	"	C. ಪೇತ್ರ , ಯೋಹಾನ ಮತ್ತು ಮಾರ್ಕ	",
+	"	D. ಪೇತ್ರ, ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	"
 ],			
-"correct" :	"	d. Peter, James & John	",
-"explanation" :	"	Now after six days Jesus took Peter, James, and John his brother, led them up on a high mountain by themselves; - Matt 17:1	",
+"correct" :	"	D. ಪೇತ್ರ, ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+"explanation" :	"	ಆರು ದಿವಸಗಳಾದ ಮೇಲೆ ಯೇಸು ಪೇತ್ರನನ್ನೂ ಯಾಕೋಬನನ್ನೂ ಇವನ ತಮ್ಮನಾದ ಯೋಹಾನನನ್ನೂ ಮಾತ್ರ ವಿಂಗಡವಾಗಿ ಕರಕೊಂಡು ಎತ್ತರವಾದ ಬೆಟ್ಟಕ್ಕೆ ಹೋದನು.  ಮತ್ತಾಯ 17:1	",
 },			
 {			
-"question" :	"	2. Who appeared when Jesus was transfigured before them?	",
+"question" :	"	2 ಯೇಸು ರೂಪಾಂತರಗೊಂಡಾಗ ಆತನ ಮುಂದೆ ಯಾರು ಕಾಣಿಸಿಕೊಂಡರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Elias & Moses	",
-	"	b. Elias & Jonah	",
-	"	c. Moses & Abraham	",
-	"	d. Elias & John the Baptist	"
+	"	A. ಎಲೀಯ ಮತ್ತು ಮೋಶೆ	",
+	"	B. ಎಲೀಯ ಮತ್ತು ಯೋನ	",
+	"	C. ಮೋಶೆ ಮತ್ತು ಅಬ್ರಹಾಮ	",
+	"	D. ಎಲೀಯ ಮತ್ತ ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	"
 ],			
-"correct" :	"	a. Elias & Moses	",
-"explanation" :	"	And behold, Moses and Elijah appeared to them, talking with Him. - Matt 17:3	",
+"correct" :	"	A. ಎಲೀಯ ಮತ್ತು ಮೋಶೆ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಮೋಶೆಯೂ ಎಲೀಯನೂ ಆತನ ಸಂಗಡ ಮಾತಾಡುತ್ತಾ ಅವರಿಗೆ ಕಾಣಿಸಿಕೊಂಡರು.  ಮತ್ತಾಯ 17:3	",
 },			
 {			
-"question" :	"	3. Peter said, It is good we are here, so we can	",
+"question" :	"	3 ಪೇತ್ರನು ನಾವು ಇಲ್ಲೇ ಇರುವುದು ಒಳ್ಳೇದೆಂದನು, ಯಾಕೆಂದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Tell others.	",
-	"	b. Talk to the prophets.	",
-	"	c. Build 3 tabernacles.	",
-	"	d. Be a witness.	"
+	"	A. ಬೇರೆಯವರಿಗೆ ಹೇಳಬಹುದು	",
+	"	B. ಪ್ರವಾದಿಗಳೊಂದಿಗೆ ಮಾತನಾಡಬಹುದು	",
+	"	C. ಮೂರು ಪರ್ಣಶಾಲೆಗಳನ್ನು ಕಟ್ಟುವೆವು	",
+	"	D. ಸಾಕ್ಷಿಗಳಾಗಿರಬಹುದು	"
 ],			
-"correct" :	"	c. Build 3 tabernacles.	",
-"explanation" :	"	Then Peter answered and said to Jesus, Lord, it is good for us to be here; if You wish, let us make here three tabernacles: one for You, one for Moses, and one for Elijah. - Matt 17:4	",
+"correct" :	"	C. ಮೂರು ಪರ್ಣಶಾಲೆಗಳನ್ನು ಕಟ್ಟುವೆವು	",
+"explanation" :	"	ಆಗ ಪೇತ್ರನು ಯೇಸುವಿಗೆ ಸ್ವಾಮಿ, ನಾವು ಇಲ್ಲೇ ಇರುವದು ಒಳ್ಳೇದು, ಅಪ್ಪಣೆಯಾದರೆ ಇಲ್ಲಿ ಮೂರು ಪರ್ಣಶಾಲೆಗಳನ್ನು ಕಟ್ಟುವೆನು, ನಿನಗೊಂದು, ಮೋಶೆಗೊಂದು ಎಲೀಯನಿಗೊಂದು ಎಂದು ಹೇಳಿದನು.  ಮತ್ತಾಯ 17:4	",
 },			
 {			
-"question" :	"	4. Where did the voice come from?	",
+"question" :	"	4 ಎಲ್ಲಿಂದ ಆಕಾಶವಾಣಿ ಆಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The sea	",
-	"	b. A cloud	",
-	"	c. Lightening	",
-	"	d. A dove	"
+	"	A. ಸಮುದ್ರದಿಂದ	",
+	"	B. ಮೋಡದಿಂದ	",
+	"	C. ಮಿಂಚಿನಿಂದ	",
+	"	D. ಪಾರಿವಳದಿಂದ	"
 ],			
-"correct" :	"	b. A cloud	",
-"explanation" :	"	While he was still speaking, behold, a bright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, This is My beloved Son, in whom I am well pleased. Hear Him - Matt 17:5	",
+"correct" :	"	B. ಮೋಡದಿಂದ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಆ ಮೋಡದೊಳಗಿಂದ ಈತನು ಪ್ರಿಯನಾಗಿರುವ ನನ್ನ ಮಗನು, ಈತನನ್ನು ನಾನು ಮೆಚ್ಚಿದ್ದೇನೆ, ಈತನ ಮಾತನ್ನು ಕೇಳಿರಿ ಎಂಬ ಆಕಾಶವಾಣಿ ಆಯಿತು.  ಮತ್ತಾಯ 16:5	",
 },			
 {			
-"question" :	"	5. They heard the voice say, This is my beloved Son in whom I am well pleased	",
+"question" :	"	5 ಅವರಿಗೆ ಆಕಾಶವಾಣಿ ಕೇಳಿಸಿತು: ಈತನು ಪ್ರಿಯನಾಗಿರುವ ನನ್ನ ಮಗನು, ಈತನಲ್ಲಿ  ನಾನು ಮೆಚ್ಚಿದ್ದೇನೆ, .......................	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hear ye Him.	",
-	"	b. Go preach to all the nations.	",
-	"	c. Build thee a tabernacle.	",
-	"	d. Ye shall see Him rise.	"
+	"	A. ಆತನ ಮಾತನ್ನು ಕೇಳಿರಿ	",
+	"	B. ಹೋಗಿ ಎಲ್ಲಾ ಜನಾಂಗಗಳಿಗೂ ಸಾರಿರಿ	",
+	"	C. ಮೂರು ಪರ್ಣಶಾಲೆಗಳನ್ನು ಕಟ್ಟಿರಿ	",
+	"	D. ಆತನು ಮೇಲೇರುವುದನ್ನು ನೀವು ನೋಡುವಿರಿ	"
 ],			
-"correct" :	"	a. Hear ye Him.	",
-"explanation" :	"	While he was still speaking, behold, a bright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, This is My beloved Son, in whom I am well pleased. Hear Him	",
+"correct" :	"	A. ಆತನ ಮಾತನ್ನು ಕೇಳಿರಿ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಆ ಮೋಡದೊಳಗಿಂದ ಈತನು ಪ್ರಿಯನಾಗಿರುವ ನನ್ನ ಮಗನು, ಈತನನ್ನು ನಾನು ಮೆಚ್ಚಿದ್ದೇನೆ, ಈತನ ಮಾತನ್ನು ಕೇಳಿರಿ ಎಂಬ ಆಕಾಶವಾಣಿ ಆಯಿತು.  ಮತ್ತಾಯ 16:5	",
 },			
 {			
-"question" :	"	6. When Jesus said, Elijah is come already, to whom was He referring?	",
+"question" :	"	6  ಎಲೀಯನು ಈಗಾಗಲೇ ಬಂದುಹೋದನು ಎಂದು ಯೇಸು ಹೇಳಿದಾಗ ಆತನು ಯಾರ  ಕುರಿತು ಈ ಮಾತನ್ನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Moses	",
-	"	b. John the Baptist	",
-	"	c. Himself	",
-	"	d. Peter	"
+	"	A. ಮೋಶೆ	",
+	"	B. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+	"	C. ತನ್ನನ್ನು ಕುರಿತು	",
+	"	D. ಪೇತ್ರ	"
 ],			
-"correct" :	"	b. John the Baptist	",
-"explanation" :	"	But I say to you that Elijah has come already, and they did not know him but did to him whatever they wished. Likewise the Son of Man is also about to suffer at their hands.Then the disciples understood that He spoke to them of John the Baptist. - Matt 17:12,13	",
+"correct" :	"	B. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+"explanation" :	"	ಎಲೀಯನು ಬರುವದು ನಿಜ, ಬಂದು ಎಲ್ಲವನ್ನು ತಿರಿಗಿ ಸರಿಮಾಡುವನು ______ ಎಂದು ಉತ್ತರ ಕೊಟ್ವನು, ಆಗ ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನ ವಿಷಯವಾಗಿ ತಮಗೆ ಈ ಮಾತನ್ನು ಹೇಳಿದನೆಂದು ಶಿಷ್ಯರು ತಿಳುಕೊಂಡರು.  ಮತ್ತಾಯ 17:12-13	",
 },			
 {			
-"question" :	"	7. Jesus told the disciples they could not cast the devil out of the man’s son because	",
+"question" :	"	7 ಶಿಷ್ಯರಿಂದ ಆ ಮನುಷ್ಯನ ಮಗನಲ್ಲಿದ್ದ ದೆವ್ವವನ್ನು ಏಕೆ ಬಿಡಿಸಲಾಗಲಿಲ್ಲವೆಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Of their unbelief.	",
-	"	b. Jesus wanted to glorify Himself by doing it.	",
-	"	c. The father did not believe.	",
-	"	d. The boy did not believe.	"
+	"	A. ಅವರ ಅಪನಂಬಿಕೆಯಿಂದ	",
+	"	B. ಯೇಸು ಅದನ್ನು ತಾನೇ ಮಾಡಿ ಮಹಿಮೆ ಹೊಂದಿಕೊಳ್ಳಬೇಕೆಂದಿದ್ದ	",
+	"	C. ತಂದೆಯು ಅದನ್ನು ನಂಬಲಿಲ್ಲ	",
+	"	D. ಆ ಹುಡುಗನು ನಂಬಲಿಲ್ಲ	"
 ],			
-"correct" :	"	a. Of their unbelief.	",
-"explanation" :	"	Then the disciples came to Jesus privately and said, Why could we not cast it out? So Jesus said to them, Because of your unbelief; for assuredly, I say to you, if you have faith as a mustard seed, you will say to this mountain, Move from here to there,' and it will move; and nothing will be impossible for you. - Matt 17:19,20	",
+"correct" :	"	A. ಅವರ ಅಪನಂಬಿಕೆಯಿಂದ	",
+"explanation" :	"	ಆತನು ಅವರಿಗೆ ನಿಮ್ಮ ನಂಬಿಕೆ ಕಡಿಮೆಯಾಗಿರುವದರಿಂದಲೇ ಆಗಲಿಲ್ಲ.. ..   ಮತ್ತಾಯ 17:20	",
 },			
 {			
-"question" :	"	8. If you have faith as a grain of this seed, nothing shall be impossible unto you.	",
+"question" :	"	8 ಈ ಕಾಳಿನಷ್ಟು ನಂಬಿಕೆ ನಿಮಗಿದ್ದರೆ, ನಿಮಗೆ ಅಸಾದ್ಯವಾದುದು ಒಂದೂ ಇಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fig	",
-	"	b. Barley	",
-	"	c. Mustard	",
-	"	d. Apple	"
+	"	A. ಅಂಜೂರ	",
+	"	B. ಜವೆಗೋಧಿ	",
+	"	C. ಸಾಸಿವೆ	",
+	"	D. ಆಪಲ್	"
 ],			
-"correct" :	"	c. Mustard	",
-"explanation" :	"	So Jesus said to them, Because of your unbelief; for assuredly, I say to you, if you have faith as a mustard seed, you will say to this mountain, Move from here to there, and it will move; and nothing will be impossible for you. - Matt 17:20	",
+"correct" :	"	C. ಸಾಸಿವೆ	",
+"explanation" :	"	ನಿಮಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ, ಸಾಸಿವೇಕಳಷ್ಟು ನಂಬಿಕೆ ನಿಮಗೆ ಇರುವದಾದರೆ ನೀವು ಈ ಬೆಟ್ಟಕ್ಕೆ _________  ಮತ್ತಾಯ 17:20	",
 },			
 {			
-"question" :	"	9. What city were they in, when they that collected tribute approached Peter?	",
+"question" :	"	9  ಸುಂಕ ವಸೂಲಿ ಮಾಡುವವರು ಅವರನ್ನು ಸಂಧಿಸಿದಾಗ ಅವರು ಯಾವ ಪಟ್ಟಣದಲ್ಲಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bethlehem	",
-	"	b. Jerusalem	",
-	"	c. Nazareth	",
-	"	d. Capernaum	"
+	"	A. ಬೆತ್ಲೇಹೇಮ್	",
+	"	B. ಯೆರೂಷಲೇಮ್	",
+	"	C. ನಜರೇತ್	",
+	"	D. ಕೆಪರ್ನೌಮ್	"
 ],			
-"correct" :	"	d. Capernaum	",
-"explanation" :	"	When they had come to Capernaum, those who received the temple tax came to Peter and said, Does your Teacher not pay the temple tax? - Matt 17:24	",
+"correct" :	"	D. ಕೆಪರ್ನೌಮ್	",
+"explanation" :	"	ಅವರು ಕಪೆರ್ನೌಮಿಗೆ ಬಂದಾಗ ದೇವಾಲಯಕ್ಕಾಗಿ ತೆರಿಗೆಯನ್ನು ಎತ್ತುವವರು ಪೇತ್ರನ ಬಳಿಗೆ ಬಂದು _______ ಮತ್ತಾಯ 17:24	",
 },			
 {			
-"question" :	"	10. Where did Jesus tell Peter to get money to pay tribute?	",
+"question" :	"	10  ಯೇಸು ಪೇತ್ರನಿಗೆ ಸುಂಕ ಕಟ್ಟಲು ಹಣ ಎಲ್ಲಿ ಸಿಗುವುದು ಎಂದು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sell some fish	",
-	"	b. From the treasury	",
-	"	c. From an offering	",
-	"	d. From the mouth of a fish	"
+	"	A. ಮೀನನ್ನು ಮಾರುವುದರಿಂದ	",
+	"	B. ಭಂಡಾರದಿಂದ	",
+	"	C. ಕಾಣಿಕೆಗಳಿಂದ	",
+	"	D. ಮೀನಿನ ಬಾಯಿಯಿಂದ	"
 ],			
-"correct" :	"	d. From the mouth of a fish	",
-"explanation" :	"	Nevertheless, lest we offend them, go to the sea, cast in a hook, and take the fish that comes up first. And when you have opened its mouth, you will find a piece of money; take that and give it to them for Me and you. - Matt 17:27	",
+"correct" :	"	D. ಮೀನಿನ ಬಾಯಿಯಿಂದ	",
+"explanation" :	"	ನೀನು ಸಮುದ್ರಕ್ಕೆ ಹೋಗಿ ಗಾಳ ಹಾಕಿ ಮೊದಲು ಸಿಕ್ಕುವ ಮೀನನ್ನು ಎತ್ತು, ಅದರ ಬಾಯಿ ತೆರೆದು ನೋಡಿದರೆ ಅದರಲ್ಲಿ ಒಂದು ರೂಪಾಯಿ ಸಿಕ್ಕುವದು, ಅದನ್ನು ತೆಗೆದುಕೊಂಡು ನಮ್ಮಿಬ್ಬರದಂತ ಹೇಳಿ ಅವರಿಗೆ ಕೊಡು ಎಂದು ಹೇಳಿದನು. ಮತ್ತಾಯ 17:27	",
 },			
 ]			

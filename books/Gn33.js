@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 33";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 33";			
 var quiz = [			
 {			
 "question" :	"	1. Who came to Jacob with 400 men?	",

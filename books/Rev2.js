@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 2";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಯೇಸುವು ಎಫೆಸ ಸಭೆಗೆ ಹೇಳಿದ್ದು: ನಾನು ಇದನ್ನು ಬಲ್ಲೆನು	",

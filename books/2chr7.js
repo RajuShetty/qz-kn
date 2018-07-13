@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 7";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. When Solomon finished praying,this came down from heaven.	",
@@ -102,7 +102,7 @@ var quiz = [
 "choices" : [			
 	"	a. A garbage heap	",
 	"	b. A temple for Baal	",
-	"	c. A marketplace	",
+	"	c. A ಮಾರ್ಕetplace	",
 	"	d. A proverb	"
 ],			
 "correct" :	"	d. A proverb	",

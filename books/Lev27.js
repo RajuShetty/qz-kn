@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 27";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 27";			
 var quiz = [			
 {			
 "question" :	"	1. Who is the Lord speaking to?	",

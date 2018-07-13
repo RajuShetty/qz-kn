@@ -1,4 +1,4 @@
-var quiztitle = " Hebrews chapter 4";			
+var quiztitle = " ಇಬ್ರಿಯರಿಗೆ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. ಅವರಿಗೆ ಶುಭವರ್ತಮಾನವು ಸಾರೋಣವಾದರೂ ಈ ಕಾರಣದಿಂದ ಅವರಿಗೆ ಪ್ರಯೋಜನವಾಗಲಿಲ್ಲ.	",

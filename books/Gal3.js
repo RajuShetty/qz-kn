@@ -1,4 +1,4 @@
-var quiztitle = "Galatians chapter 3";			
+var quiztitle = "ಗಲಾತ್ಯದವರಿಗೆ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಯಾರು ನಿಮ್ಮನ್ನು ಮರುಳುಗೊಳಿಸಿದರು ಎಂದು ಪೌಲನು ಗಲಾತ್ಯದವರನ್ನು ಹೀಗೆ ಗದರಿಸಿದನು?	",

@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 18";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. ಮಹಾ ಅಧಿಕಾರವುಳ್ಳ ದೇವದೂತನು ಪರಲೋದಿಂದ ಇಳಿದು ಬಂದಾಗ ಭೂಮಿಗೆ ಏನಾಯಿತು?	",

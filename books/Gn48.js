@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 48";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 48";			
 var quiz = [			
 {			
 "question" :	"	1. Joseph took his two sons with him to see his father, when he heard his father	",
@@ -113,7 +113,7 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. Make him the ruler over Pharaoh.	",
-	"	b. Make him the king of the Hebrews.	",
+	"	b. Make him the king of the ಇಬ್ರಿಯರಿಗೆ.	",
 	"	c. Take him back to the land of his fathers.	",
 	"	d. Make him ruler in strange lands.	"
 ],			

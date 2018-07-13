@@ -1,7 +1,7 @@
-var quiztitle = " Numbers  chapter 33";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 33";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter records	",
+"question" :	"	1. This ಅಧ್ಯಾಯ records	",
 "image" :	"",		
 "choices" : [			
 	"	a. Record of Israel's sins.	",

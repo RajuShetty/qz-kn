@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 2";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. Who was speaking?	",
@@ -42,7 +42,7 @@ var quiz = [
 "choices" : [			
 	"	a. An idol	",
 	"	b. A mountain	",
-	"	c. The marketplace	",
+	"	c. The ಮಾರ್ಕetplace	",
 	"	d. The tabernacle	"
 ],			
 "correct" :	"	d. The tabernacle	",

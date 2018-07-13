@@ -1,4 +1,4 @@
-var quiztitle = "1 Timothy chapter 1 ";			
+var quiztitle = "1 ತಿಮೊಥೆಯನಿಗೆ ಅಧ್ಯಾಯ 1 ";			
 var quiz = [			
 {			
 "question" :	"	1. ಈ ಪತ್ರವನ್ನು ಬರೆದವರು ಯಾರು?	",

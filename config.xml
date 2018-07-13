@@ -3,58 +3,67 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "org.mannaministryquiz.kn"
+        id        = "org.biblequizkannada.app"
         version   = "1"
 		android-versionCode="10000"
 		> 
 
     <!-- Change app id (above), name, description, and author. App ID can be any reverse domain name, such as com.mycompany.app -->
-    <name>Kannada Bible Quiz </name>
+    <name>ಬೈಬಲ್ ಕ್ವಿಜ್  </name>
 
     <description>
-        Bible quiz kannada By Manna Ministry
+        ಬೈಬಲ್ ಕ್ವಿಜ್  from Manna Ministry
     </description> 
 
     <author href="http://mannaministry.in" email="Rajushetty.b@gmail.com">
-        Manna Ministry
+        Manna ministry
     </author>
 
-<content src="index.html"/>
-  
-  <!-- one signal push -->
+  <!-- firebase push-->
+<!--  <platform name="android">
+	<resource-file src="google-services.json" target="google-services.json" />
+        <allow-intent href="market:*" />
+    </platform>  
+	
+    <preference name="phonegap-version" value="cli-7.0.1" />
+    <preference name='pgb-builder-version' value='2' />
+	<plugin name="phonegap-plugin-push" spec="2.0.0" />
+     <preference name="android-build-tool" value="gradle" /> -->
+	<!-- firebase push end-->
+<!-- one signal push -->
 	<gap:plugin name="onesignal-cordova-plugin" spec="^2.1.1" source="npm" />
 <!-- Requires cli-6.4.0 but we recommend using the latest version. -->
 <preference name="phonegap-version" value="cli-8.0.0" />
 
+<preference name="android-minSdkVersion" value="19" />
 	<!-- one signal push End -->
+
+   <preference name="android-build-tool" value="gradle" />
+   <gap:plugin name="cordova-plugin-admobpro" source="npm" /> 
   
-  <preference name="DisallowOverscroll" value="true"/>
-  <preference name="android-minSdkVersion" value="19"/>
-  <preference name="android-build-tool" value="gradle" />
-  <preference name="StatusBarOverlaysWebView" value="false" />
-  <preference name="StatusBarBackgroundColor" value="#000000" />
-  <preference name="StatusBarStyle" value="lightcontent" />
-  <preference name="loadUrlTimeoutValue" value="700000" />
+    <!-- You can comment out features you aren't using -->
+	<gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />
+    <gap:plugin name="cordova-plugin-statusbar" source="npm" spec="2.1.3" /> 
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarBackgroundColor" value="#000000" />
+    <preference name="StatusBarStyle" value="lightcontent" />
+	<preference name="loadUrlTimeoutValue" value="700000" />
+	
   <preference name="orientation" value="default"/>
+  <preference name="android-minSdkVersion" value="19" /><!-- Android 4.4 is minimum supported -->
   <preference name="target-device" value="universal"/>
   <preference name="fullscreen" value="true"/>
   <preference name="webviewbounce" value="true"/>
-  <preference name="prerendered-icon" value="true"/>
+  <preference name="prerendered-icon" value="fasle"/>
   <preference name="stay-in-webview" value="false"/>
+  
   <preference name="detect-data-types" value="true"/>
   <preference name="exit-on-suspend" value="false"/>
   <preference name="show-splash-screen-spinner" value="true"/>
   <preference name="disable-cursor" value="false"/>	
 
    
-   <preference name="permissions" value="none"/>
    
-	 
-	 <!--  <gap:plugin name="cordova-plugin-admobpro" source="npm" />-->
-  
-    <!-- You can comment out features you aren't using -->
-	<gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />
-    <gap:plugin name="cordova-plugin-statusbar" source="npm" spec="2.1.3" /> 															  
     <gap:plugin name="cordova-plugin-whitelist" source="npm" spec="1.2.2" />
     <gap:plugin name="cordova-plugin-device" source="npm" spec="1.1.2" />   
     <gap:plugin name="cordova-plugin-dialogs" source="npm" spec="1.2.1" />
@@ -63,16 +72,14 @@
     <gap:plugin name="cordova-plugin-network-information" source="npm" spec="1.2.1" />
     
 	
- 
-  <icon src="icon.png" />
-	 <platform name="android">
+
+<icon src="icon.png" />
+  <platform name="android">
     <icon src="res/icon/android/icon-36-ldpi.png" density="ldpi"/>
     <icon src="res/icon/android/icon-48-mdpi.png" density="mdpi"/>
     <icon src="res/icon/android/icon-72-hdpi.png" density="hdpi"/>
     <icon src="res/icon/android/icon-96-xhdpi.png" density="xhdpi"/>
   </platform>
-  
-  
   
   <access origin="*"/>
   <allow-intent href="http://*/*"/>
@@ -81,8 +88,8 @@
   <allow-intent href="sms:*"/>
   <allow-intent href="mailto:*"/>
   <allow-intent href="geo:*"/>
-  <platform name="android">
-    <allow-intent href="market:*"/>
-  </platform>
   
+      <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
 </widget>

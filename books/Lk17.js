@@ -1,123 +1,123 @@
-var quiztitle = "Luke chapter 17";			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
-"question" :	"	1. If a brother trespasses against you and repents, this many times a day, forgive him.	",
+"question" :	"	1. ನಿನ್ನ ಸಹೋದರನು ನಿನಗೆ ತಪ್ಪು ಮಾಡಿ ಪಶ್ಚಾತ್ತಾಪ ಪಟ್ಟರೆ ಅವನನ್ನು ಒಂದು ದಿನದಲ್ಲಿ ಎಷ್ಟು ಸಾರಿ ಕ್ಷಮಿಸಬೇಕು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 5	",
-	"	c. 7	",
-	"	d. 1	"
+	"	A. 2	",
+	"	B. 5	",
+	"	C. 7	",
+	"	D. 1	"
 ],			
-"correct" :	"	c. 7	",
-"explanation" :	"	And if he sins against you seven times in a day, and seven times in a day returns to you, saying, 'I repent,' you shall forgive him. - Lk 17:4	",
+"correct" :	"	C. 7	",
+"explanation" :	"	ಅವನು ದಿನಕ್ಕೆ ಏಳು ಸಾರಿ ನಿನಗೆ ತಪ್ಪುಮಾಡಿ ಏಳು ಸಾರಿಯೂ ನಿನ್ನ ಕಡೆಗೆ ತಿರುಗಿಕೊಂಡು - ನನಗೆ ಪಶ್ಚಾತ್ತಾಪವಾಯಿತು ಎಂದು ಹೇಳಿದರೆ ಅವನಿಗೆ ಕ್ಷಮಿಸು ಎಂದು ಹೇಳಿದನು.   ಲೂಕ 17:4	",
 },			
 {			
-"question" :	"	2. The apostles asked Jesus to increase their	",
+"question" :	"	2. ಅಪೋಸ್ತಲರು ಯೇಸುವಿಗೆ ನಮ್ಮ ______ ಹೆಚ್ಚಿಸು ಎಂದು ಕೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wages.	",
-	"	b. Fame.	",
-	"	c. Reward.	",
-	"	d. Faith.	"
+	"	A. ಕೂಲಿ	",
+	"	B. ಹೆಸರು	",
+	"	C. ಬಹುಮಾನ	",
+	"	D. ನಂಬಿಕೆ	"
 ],			
-"correct" :	"	d. Faith.	",
-"explanation" :	"	And the apostles said to the Lord, Increase our faith.- Lk 17:5	",
+"correct" :	"	D. ನಂಬಿಕೆ	",
+"explanation" :	"	ಅಪೋಸ್ತಲರು ಸ್ವಾಮಿಗೆ - ನಮ್ಮ ನಂಬಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸು ಎಂದು ಹೇಳಲು;   ಲೂಕ 17:5	",
 },			
 {			
-"question" :	"	3. If you have faith as this, you could speak to a sycamine tree to be planted in the sea, and it would be so.	",
+"question" :	"	3. _________ ನಂಬಿಕೆ ನಿಮಗಿದ್ದರೆ, ನೀವು ಈ ಅತ್ತೀಮರಕ್ಕೆ ಹೋಗಿ ಸಮುದ್ರದಲ್ಲಿ ನಾಟಿಕೋ ಎಂದು ಹೇಳಿದರೂ ಅದು ನಿಮ್ಮ ಮಾತನ್ನು ಕೇಳುವುದು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A Pharisee	",
-	"	b. A mustard seed	",
-	"	c. A child	",
-	"	d. A Samaritan	"
+	"	A. ಫರಿಸಾಯರ	",
+	"	B. ಸಾಸಿವೆ ಕಾಳಷ್ಟು	",
+	"	C. ಚಿಕ್ಕ ಮಗುವಿನ	",
+	"	D. ಸಮಾರ್ಯದವರ	"
 ],			
-"correct" :	"	b. A mustard seed	",
-"explanation" :	"	So the Lord said, If you have faith as a mustard seed, you can say to this mulberry tree, 'Be pulled up by the roots and be planted in the sea,' and it would obey you. - Lk 17:6	",
+"correct" :	"	B. ಸಾಸಿವೆ ಕಾಳಷ್ಟು	",
+"explanation" :	"	ಸ್ವಾಮಿಯು - ಸಾಸಿವೇ ಕಾಳಷ್ಟು ನಂಬಿಕೆ ನಿಮಗಿದ್ದರೆ ನೀವು ಈ ಅತ್ತೀಮರಕ್ಕೆ - ನೀನು ಬೇರು ಸಹಿತ ಕಿತ್ತುಕೊಂಡು ಹೋಗಿ ಸಮುದ್ರದಲ್ಲಿ ನಾಟಿಕೋ ಎಂದು ಹೇಳಿದರೂ ಅದು ನಿಮ್ಮ ಮಾತನ್ನು ಕೇಳುವದು;   ಲೂಕ 17:6	",
 },			
 {			
-"question" :	"	4. When you have done all that is commanded of you, consider yourself	",
+"question" :	"	4. ನೀವು ನಿಮಗೆ ಅಪ್ಪಣೆಯಾಗಿರುವದನ್ನೆಲ್ಲಾ ಮಾಡಿದ ಮೇಲೆ ನಾವು ______ ಅನ್ನಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Holy.	",
-	"	b. Sanctified.	",
-	"	c. Religious in God’s sight.	",
-	"	d. An unprofitable servant.	"
+	"	A. ಪರಿಶುದ್ಧರು	",
+	"	B. ಮೀಸಲಾದವರು	",
+	"	C. ದೇವರ ದೃಷ್ಟಿಯಲ್ಲಿ ನೀತಿವಂತರು	",
+	"	D. ಪ್ರಯೋಜನವಿಲ್ಲದ ಆಳುಗಳು	"
 ],			
-"correct" :	"	d. An unprofitable servant.	",
-"explanation" :	"	So likewise you, when you have done all those things which you are commanded, say, 'We are unprofitable servants. We have done what was our duty to do. - Lk 17:10	",
+"correct" :	"	D. ಪ್ರಯೋಜನವಿಲ್ಲದ ಆಳುಗಳು	",
+"explanation" :	"	ನೀವು ನಿಮಗೆ ಅಪ್ಪಣೆಯಾಗಿರುವದನ್ನೆಲ್ಲಾ ಮಾಡಿದ ಮೇಲೆ ನಾವು ಆಳುಗಳು, ಪ್ರಯೋಜನವಿಲ್ಲದವರು, ಮಾಡಬೇಕಾದದ್ದನ್ನೇ ಮಾಡಿದ್ದೇವೆ ಅನ್ನಿರಿ ಎಂದು ಹೇಳಿದನು;   ಲೂಕ 17:10	",
 },			
 {			
-"question" :	"	5. How many lepers asked Jesus for mercy?	",
+"question" :	"	5. ಎಷ್ಟು ಜನ ಕುಷ್ಠರೋಗಿಗಳು ಯೇಸುವಿನ ದಯೆಗಾಗಿ ಕೂಗಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 10	",
-	"	c. 12	",
-	"	d. 13	"
+	"	A. 2	",
+	"	B. 10	",
+	"	C. 12	",
+	"	D. 13	"
 ],			
-"correct" :	"	b. 10	",
-"explanation" :	"	Then as He entered a certain village, there met Him ten men who were lepers, who stood afar off.And they lifted up their voices and said,Jesus, Master, have mercy on us - Lk 17:12-13	",
+"correct" :	"	B. 10	",
+"explanation" :	"	ಒಂದು ಹಳ್ಳಿಗೆ ಬಂದಾಗ ಹತ್ತು ಮಂದಿ ಕುಷ್ಠರೋಗಿಗಳು ಆತನ ಎದುರಿಗೆ ಬಂದು ದೂರದಲ್ಲಿ ನಿಂತು;   ಲೂಕ 17:12	",
 },			
 {			
-"question" :	"	6. What did Jesus instruct the lepers to do?	",
+"question" :	"	6. ಕುಷ್ಠರೋಗಿಗಳಿಗೆ ಯೇಸು ಏನೆಂದು ಸೂಚನೆ ನೀಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Go home	",
-	"	b. Show themselves to the priest	",
-	"	c. Wash in the pool of Siloam	",
-	"	d. Dip in Jordan	"
+	"	A. ಮನೆಗೆ ಹೋಗಿ	",
+	"	B. ಹೋಗಿ ಯಾಜಕರಿಗೆ ಮೈ ತೋರಿಸಿಕೊಳ್ಳಿರಿ	",
+	"	C. ಸಿಲೋವ ಕೊಳದಲ್ಲಿ ತೊಳಕೊಳ್ಳಿರಿ	",
+	"	D. ಯೋರ್ದಾನ್ ನಲ್ಲಿ ಮುಳುಗಿರಿ	"
 ],			
-"correct" :	"	b. Show themselves to the priest	",
-"explanation" :	"	So when He saw them, He said to them, Go, show yourselves to the priests. And so it was that as they went, they were cleansed - Lk 17:14	",
+"correct" :	"	B. ಹೋಗಿ ಯಾಜಕರಿಗೆ ಮೈ ತೋರಿಸಿಕೊಳ್ಳಿರಿ	",
+"explanation" :	"	ಆತನು ಅವರನ್ನು ನೋಡಿ - ನೀವು ಹೋಗಿ ಯಾಜಕರಿಗೆ ಮೈ ತೋರಿಸಿಕೊಳ್ಳಿರಿ ಎಂದು ಹೇಳಿದನು.   ಲೂಕ 17:14	",
 },			
 {			
-"question" :	"	7. How many came back and gave thanks?	",
+"question" :	"	7. ಎಷ್ಟು ಜನ ಹಿಂತಿರುಗಿ ಬಂದು ಕೃತಜ್ಞತೆ ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1	",
-	"	b. 2	",
-	"	c. 10	",
-	"	d. 12	"
+	"	A. 1	",
+	"	B. 2	",
+	"	C. 10	",
+	"	D. 12	"
 ],			
-"correct" :	"	a. 1	",
-"explanation" :	"	And one of them, when he saw that he was healed, returned, and with a loud voice glorified God,and fell down on his face at His feet, giving Him thanks. And he was a Samaritan. - Lk 17:15-16	",
+"correct" :	"	A. 1	",
+"explanation" :	"	ಅವರಲ್ಲಿ ಒಬ್ಬನು ತನಗೆ ಗುಣವಾದದ್ದನ್ನು ನೋಡಿ ಮಹಾಶಬ್ಧದಿಂದ ದೇವರನ್ನು ಕೊಂಡಾಡುತ್ತಾ  ಹಿಂತಿರುಗಿ ಬಂದು ಯೇಸುವಿನ ಪಾದಗಳಿಗೆ ಅಡ್ಡ ಬಿದ್ದು ಆತನಿಗೆ ಉಪಕಾರಸ್ತುತಿಮಾಡಿದನು.   ಲೂಕ 17:15-16	",
 },			
 {			
-"question" :	"	8. Jesus told the Pharisees, this is within you.	",
+"question" :	"	8. ಇದು ನಿಮ್ಮಲ್ಲಿಯೇ ಇದೆ ಎಂದು ಯೇಸು ಫರಿಸಾಯರನ್ನು ಕೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Compassion	",
-	"	b. Guile	",
-	"	c. Milk & honey	",
-	"	d. The kingdom of God	"
+	"	A. ಅನುಕಂಪ	",
+	"	B. ದ್ರೋಹ	",
+	"	C. ಹಾಲು ಮತ್ತು ಜೇನು	",
+	"	D. ದೇವರ ರಾಜ್ಯ	"
 ],			
-"correct" :	"	d. The kingdom of God	",
-"explanation" :	"	nor will they say, 'See here!' or 'See there!' For indeed, the kingdom of God is within you - Lk 17:21	",
+"correct" :	"	D. ದೇವರ ರಾಜ್ಯ	",
+"explanation" :	"	ಇಗೋ ಇಲ್ಲಿ ಇದೆ, ಅಗೋ ಅಲ್ಲಿ ಅದೆ ಎಂದು ಹೇಳುವದಕ್ಕಾಗದು; ದೇವರ ರಾಜ್ಯವು ನಿಮ್ಮಲ್ಲಿಯೇ ಅದೆ ಅಂತ ತಿಳುಕೊಳ್ಳಿರಿ ಎಂದು ಉತ್ತರಕೊಟ್ಟನು;   ಲೂಕ 17:21	",
 },			
 {			
-"question" :	"	9. The day Lot left Sodom, this fell from heaven.	",
+"question" :	"	9. ಲೋಟನು ಸೋದೋಮನ್ನು ಬಿಟ್ಟ ದಿವಸ ಇದು ಆಕಾಶದಿಂದ ಬಿತ್ತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fire & brimstone	",
-	"	b. Manna	",
-	"	c. Mercy	",
-	"	d. Satan	"
+	"	A. ಅಗ್ನಿ ಮತ್ತು ಗಂಧಕ	",
+	"	B. ಮನ್ನ	",
+	"	C. ದಯೆ	",
+	"	D. ಸೈತಾನ	"
 ],			
-"correct" :	"	a. Fire & brimstone	",
-"explanation" :	"	but on the day that Lot went out of Sodom it rained fire and brimstone from heaven and destroyed them all. - Lk 17:29	",
+"correct" :	"	A. ಅಗ್ನಿ ಮತ್ತು ಗಂಧಕ	",
+"explanation" :	"	ಆದರೆ ಲೋಟನು ಸೊದೋಮ್ ಊರನ್ನು ಬಿಟ್ಟುಹೋದ ದಿವಸದಲ್ಲಿ ಆಕಾಶದಿಂದ ಬೆಂಕಿ ಗಂಧಕಗಳು ಸುರಿದು ಅವರೆಲ್ಲರನ್ನು ನಾಶಮಾಡಿದವು.   ಲೂಕ 17:29	",
 },			
 {			
-"question" :	"	10. Whoever seeks to save his life will	",
+"question" :	"	10. ತನ್ನ ಪ್ರಾಣವನ್ನು ದೊರಕಿಸಿಕೊಳ್ಳಬೇಕೆಂದಿರುವವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Be great in the kingdom.	",
-	"	b. Lose it.	",
-	"	c. Be wise.	",
-	"	d. Inherit the wind.	"
+	"	A. ದೇವರ ರಾಜ್ಯದಲ್ಲಿ ದೊಡ್ಡವನು	",
+	"	B. ಅದನ್ನು ಕಳಕೊಳ್ಳುವನು	",
+	"	C. ಬುದ್ಧಿವಂತನು	",
+	"	D. ಗಾಳಿಯಲ್ಲಿ ಸ್ವಾಸ್ತ್ಯ ಮಾಡಿಕೊಳ್ಳುವರು	"
 ],			
-"correct" :	"	b. Lose it.	",
-"explanation" :	"	Whoever seeks to save his life will lose it, and whoever loses his life will preserve it - Lk 17:33	",
+"correct" :	"	B. ಅದನ್ನು ಕಳಕೊಳ್ಳುವನು	",
+"explanation" :	"	ತನ್ನ ಪ್ರಾಣವನ್ನು ದೊರಕಿಸಿಕೊಳ್ಳಬೇಕೆಂದಿರುವವನು ಅದನ್ನು ಕಳಕೊಳ್ಳುವನು;   ಲೂಕ 17:33	",
 },			
 ]			

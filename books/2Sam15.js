@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 15";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. Absalom called men to him, saying, if he were judge, he would	",

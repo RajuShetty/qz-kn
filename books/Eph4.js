@@ -1,4 +1,4 @@
-var quiztitle = "Ephesians chapter 4";			
+var quiztitle = "ಎಫೆಸದವರಿಗೆ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. ಆದರೆ ______ ನಮ್ಮಲ್ಲಿ ಒಬ್ಬೊಬ್ಬನಿಗೆ ಅನುಗ್ರಹಿಸಿದ ಪ್ರಕಾರವೇ ಅವನವನಿಗೆ ಕೃಪಾವರವು ದೊರಕಿದೆ	",

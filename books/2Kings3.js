@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 3";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. Jehoram put away this thing that his father made.	",

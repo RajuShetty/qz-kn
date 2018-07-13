@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 23";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
 "question" :	"	1. David made this son king over Israel.	",

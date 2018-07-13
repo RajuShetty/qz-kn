@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 25";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 25";			
 var quiz = [			
 {			
 "question" :	"	1. Amaziah did that which was right in the sight of the Lord	",

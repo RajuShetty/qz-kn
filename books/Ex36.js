@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 36";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 36";			
 var quiz = [			
 {			
 "question" :	"	1. These two men along with other men began to work on the tabernacle.	",

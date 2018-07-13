@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 12";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord gave this instruction to	",

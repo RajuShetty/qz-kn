@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 4";			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
-"question" :	"	1. This man believed God, and it was counted unto him for righteousness.	",
+"question" :	"	1  ಈ ಮನುಷ್ಯನು ದೇವರನ್ನು ನಂಬಿದನು.  ಇದೇ ಅವನ ಲೆಕ್ಕಕ್ಕೆ ನೀತಿ ಎಂದು ಎಣಿಸಲ್ಪಟ್ಟಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Moses	",
-	"	b. Abraham	",
-	"	c. Isaac	",
-	"	d. Aaron	"
+	"	A. ಮೋಶೆ	",
+	"	B. ಅಬ್ರಹಾಮ	",
+	"	C. ಇಸಾಕ	",
+	"	D. ಆರೋನ	"
 ],			
-"correct" :	"	b. Abraham	",
-"explanation" :	"	For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.Rom4:3	",
+"correct" :	"	B. ಅಬ್ರಹಾಮ	",
+"explanation" :	"	ಇದರ ವಿಷಯದಲ್ಲಿ ಶಾಸ್ತ್ರವು ಹೇಳುವದನ್ನು ಆಲೋಚಿಸಿರಿ. ಅಬ್ರಹಾಮನು ದೇವರನ್ನು ನಂಬಿದನು; ಆ ನಂಬಿಕೆ ಅವನ ಲೆಕ್ಕಕ್ಕೆ ನೀತಿ ಎಂದು ಎಣಿಸಲ್ಪಟ್ಟಿತು ಎಂದು ಹೇಳುತ್ತದೆ.  4:3	",
 },			
 {			
-"question" :	"	2. To him that works, the reward is not reckoned of grace, but rather of this.	",
+"question" :	"	2 ಕೆಲಸ ಮಾಡಿದವನಿಗೆ ಬರುವ ಕೂಲಿಯು ದಯೆಯಿಂದ ದೊರಕುವಂಥದೆಂದು ಎಣಿಕೆಯಾಗುವುದಿಲ್ಲ, ಅದು _______	",
 "image" :	"",		
 "choices" : [			
-	"	a. Debt	",
-	"	b. Deceit	",
-	"	c. Hope	",
-	"	d. Faith	"
+	"	A. ಸಲ್ಲತಕ್ಕದ್ದು	",
+	"	B. ಮೋಸ	",
+	"	C. ನಿರೀಕ್ಷೆ	",
+	"	D. ನಂಬಿಕೆ	"
 ],			
-"correct" :	"	a. Debt	",
-"explanation" :	"	Now to him that worketh is the reward not reckoned of grace, but of debt.Rom4:4	",
+"correct" :	"	A. ಸಲ್ಲತಕ್ಕದ್ದು	",
+"explanation" :	"	ಕೆಲಸ ಮಾಡಿದವನಿಗೆ ಬರುವ ಕೂಲಿಯು ದಯದಿಂದ ದೊರಕುವಂಥದೆಂದು ಎಣಿಕೆಯಾಗುವದಿಲ್ಲ; ಅದು ಸಲ್ಲತಕ್ಕದ್ದೇ ಎಂದು ಎಣಿಕೆಯಾಗುವದು.  4:4	",
 },			
 {			
-"question" :	"	3. To him that believes in Him that justifies the ungodly, his faith is counted for this.	",
+"question" :	"	3  ಯಾವನು ಪುಣ್ಯಕ್ರಿಯೆಗಳನ್ನು ಮಾಡಿದವನಾಗಿರದೇ ಪಾಪಾತ್ಮರನ್ನು ನೀತಿವಂತರೆಂದುನಿರ್ಣಯಿಸುವಂತನಲ್ಲಿ ನಂಬಿಕೆಯಿಡುತ್ತಾನೋ ಅವನ ನಂಬಿಕೆಯೇ _____ ಎಂದು ಎಣಿಸಲ್ಪಡುವುದು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Naught	",
-	"	b. Righteousness	",
-	"	c. Works	",
-	"	d. Sin	"
+	"	A. ನಿಷ್ಪ್ರಯೋಜಕ	",
+	"	B. ನೀತಿ	",
+	"	C. ಕಾರ್ಯ	",
+	"	D. ಪಾಪ	"
 ],			
-"correct" :	"	b. Righteousness	",
-"explanation" :	"	But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.Rom4:5	",
+"correct" :	"	B. ನೀತಿ	",
+"explanation" :	"	ಆದರೆ ಯಾವನು ಪುಣ್ಯಕ್ರಿಯೆಗಳನ್ನು ಮಾಡಿದವನಾಗಿರದೆ ಪಾಪಾತ್ಮರನ್ನು ನೀತಿವಂತರೆಂದು ನಿರ್ಣಯಿಸುವಾತನಲ್ಲಿ ನಂಬಿಕೆಯಿಡುತ್ತಾನೋ ಅವನ ನಂಬಿಕೆಯೇ ನೀತಿ ಎಂದು ಎಣಿಸಲ್ಪಡುವದು. 4:5	",
 },			
 {			
-"question" :	"	4. Who described the blessedness of a man, to whom God imputed righteousness, without works?	",
+"question" :	"	4  ದೇವರು ಯಾವನನ್ನು ಪುಣ್ಯಕ್ರಿಯೆಗಳಿಲ್ಲದೆ ನೀತಿವಂತನೆಂದು ಎಣಿಸುತ್ತಾನೋ ಅವನು ಧನ್ಯನೆಂದು ಯಾರು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. David	",
-	"	b. Solomon	",
-	"	c. Isaiah	",
-	"	d. Amos	"
+	"	A. ದಾವೀದು	",
+	"	B. ಸೊಲೋಮೋನ	",
+	"	C. ಯೆಶಾಯ	",
+	"	D. ಆಮೋಸ	"
 ],			
-"correct" :	"	a. David	",
-"explanation" :	"	Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,Rom4:6	",
+"correct" :	"	A. ದಾವೀದು	",
+"explanation" :	"	ದೇವರು ಯಾವನನ್ನು ಪುಣ್ಯಕ್ರಿಯೆಗಳಿಲ್ಲದೆ ನೀತಿವಂತನೆಂದು ಎಣಿಸುತ್ತಾನೋ ಅವನು ಧನ್ಯನೆಂದು ದಾವೀದನು ಸಹ ಹೇಳುತ್ತಾನೆ. ಹೇಗಂದರೆ  4:6	",
 },			
 {			
-"question" :	"	5. He said, blessed are they whose 	",
+"question" :	"	5  ಯಾರು ಧನ್ಯರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Name is honored.	",
-	"	b. Iniquities are forgiven.	",
-	"	c. Life has meaning.	",
-	"	d. Light shines.	"
+	"	A. ತಮ್ಮ ನಾಮವು ಮಹಿಮೆ ಹೊಂದಿದವರು	",
+	"	B. ಯಾರ ಪಾಪಗಳು ಕ್ಷಮಿಸಲ್ಪಟ್ಟಿವೆಯೋ	",
+	"	C. ಯಾರ ಜೀವಿತದಲ್ಲಿ ಅರ್ಥವಿದೆಯೋ	",
+	"	D. ಯಾರ ಬೆಳಕು ಹೊಳೆಯುವುದೋ	"
 ],			
-"correct" :	"	b. Iniquities are forgiven.	",
-"explanation" :	"	Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered.Rom4:7	",
+"correct" :	"	B. ಯಾರ ಪಾಪಗಳು ಕ್ಷಮಿಸಲ್ಪಟ್ಟಿವೆಯೋ	",
+"explanation" :	"	ಯಾರ ಅಪರಾಧಗಳು ಪರಿಹಾರವಾಗಿವೆಯೋ, ಯಾರ ಪಾಪಗಳು ಕ್ಷಮಿಸಲ್ಪಟ್ಟಿವೆಯೋ ಅವರೇ ಧನ್ಯರು. 4:7	",
 },			
 {			
-"question" :	"	6. Faith was reckoned unto Abraham for righteousness when he was in	",
+"question" :	"	6  ಅಬ್ರಹಾಮನ ಲೆಕ್ಕಕ್ಕೆ ನಂಬಿಕೆಯು ಯಾವಾಗ ನೀತಿ ಎಂದು ಎಣಿಸಲ್ಪಟ್ಟಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Canaan.	",
-	"	b. Heaven.	",
-	"	c. Circumcision.	",
-	"	d. Uncircumcision.	"
+	"	A. ಕಾನಾನ್	",
+	"	B. ಪರಲೋಕದಲ್ಲಿ	",
+	"	C. ಸುನ್ನತಿಯಾದಾಗ	",
+	"	D. ಸುನ್ನತಿ ಇಲ್ಲದಿರುವಾಗ	"
 ],			
-"correct" :	"	d. Uncircumcision.	",
-"explanation" :	"	Cometh this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.How was it then reckoned? when he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.Rom4:9,10	",
+"correct" :	"	D. ಸುನ್ನತಿ ಇಲ್ಲದಿರುವಾಗ	",
+"explanation" :	"	ಈ ಶುಭವಚನವು ಸುನ್ನತಿಯಿದ್ದವರಿಗೆ ಮಾತ್ರವೋ? ಸುನ್ನತಿಯಿಲ್ಲದವರಿಗೆ ಸಹ ಆಗುತ್ತದೋ? ನೋಡೋಣ. ಅಬ್ರಹಾಮನ ಲೆಕ್ಕಕ್ಕೆ ಅವನ ನಂಬಿಕೆಯೇ ನೀತಿಯೆಂದು ಎಣಿಸಲ್ಪಟ್ಟಿತೆಂಬದಾಗಿ ಹೇಳುತ್ತೇವಲ್ಲಾ. ಅದು ಯಾವಾಗ ಎಣಿಸಲ್ಪಟ್ಟಿತು? ಅವನಿಗೆ ಸುನ್ನತಿಯಾದ ಮೇಲೆಯೋ? ಸುನ್ನತಿಯಾಗುವದಕ್ಕೆ ಮೊದಲೋ? ಸುನ್ನತಿಯಾದ ಮೇಲೆ ಅಲ್ಲ, ಸುನ್ನತಿಯಾಗುವದಕ್ಕೆ ಮೊದಲೇ ಎಣಿಸಲ್ಪಟ್ಟಿತು 4:9,10	",
 },			
 {			
-"question" :	"	7. Abraham received this sign, as a seal of righteousness of the faith he had.	",
+"question" :	"	7  ಅಬ್ರಹಾಮನು ತನ್ನ ನಂಬಿಕೆಯಿಂದಾದ ನೀತಿಗೆ ಮುದ್ರೆಯಾಗಿ ಯಾವುದನ್ನು ಗುರುತಾಗಿ ಹೊಂದಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Circumcision	",
-	"	b. A mark on his forehead	",
-	"	c. A crown	",
-	"	d. A golden scepter	"
+	"	A. ಸುನ್ನತಿ	",
+	"	B. ಹಣೆಯ ಮೇಲೆ ಗುರುತು	",
+	"	C. ಕಿರೀಟ	",
+	"	D. ರಾಜದಂಡ	"
 ],			
-"correct" :	"	a. Circumcision	",
-"explanation" :	"	And he received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised: that he might be the father of all them that believe, though they be not circumcised; that righteousness might be imputed unto them also:Rom4:11	",
+"correct" :	"	A. ಸುನ್ನತಿ	",
+"explanation" :	"	ಆಮೇಲೆ ಸುನ್ನತಿಯೆಂಬ ಸಂಸ್ಕಾರವನ್ನು ಗುರುತಾಗಿ ಹೊಂದಿದನು. ಇದು ಸುನ್ನತಿಯಾಗುವದಕ್ಕೆ ಮೊದಲೇ ಅವನಿಗಿದ್ದ ನಂಬಿಕೆಯಿಂದಾದ ನೀತಿಗೆ ಮುದ್ರೆಯಾಗಿತ್ತು. ಹೀಗಿರುವದರಿಂದ ಅವನು ನಂಬುವವರೆಲ್ಲರಿಗೂ, ಅವರು ಸುನ್ನತಿಯಿಲ್ಲದವರಾದಾಗ್ಯೂ ಮೂಲತಂದೆಯಾದನು; ಅವರೂ ನೀತಿವಂತರೆಂದು ಎಣಿಸಲ್ಪಡುವರು 4:11	",
 },			
 {			
-"question" :	"	8. Where there is no law, there is no	",
+"question" :	"	8  ಧರ್ಮಶಾಸ್ತ್ರವಿಲ್ಲದಿರುವಲ್ಲಿ __________ ಇಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peace.	",
-	"	b. Mercy.	",
-	"	c. Transgression.	",
-	"	d. Truth.	"
+	"	A. ಸಮಾಧಾನ	",
+	"	B. ದಯೆ	",
+	"	C. ಮೀರೋಣವೆಂಬುದೂ	",
+	"	D. ಸತ್ಯವೂ	"
 ],			
-"correct" :	"	c. Transgression.	",
-"explanation" :	"	Because the law worketh wrath: for where no law is, there is no transgression.Rom4:15	",
+"correct" :	"	C. ಮೀರೋಣವೆಂಬುದೂ	",
+"explanation" :	"	ಯಾಕಂದರೆ ಧರ್ಮಶಾಸ್ತ್ರವು ಜನರನ್ನು ದೇವರ ಕೋಪಕ್ಕೆ ಗುರಿಮಾಡುವಂಥದು. ಧರ್ಮಶಾಸ್ತ್ರವಿಲ್ಲದ ಪಕ್ಷದಲ್ಲಿ ಮೀರೋಣವೆಂಬದೂ ಇಲ್ಲ.  4:15	",
 },			
 {			
-"question" :	"	9. Abraham, whose faith was not weak,did not consider his own body when he was about this old.	",
+"question" :	"	9  ಅಬ್ರಹಾಮನು ಇಷ್ಟು ವಯಸ್ಸಾದರೂ ತನ್ನ ಶರೀರವನ್ನು ಲೆಕ್ಕಿಸದೇ ತನ್ನ ನಂಬಿಕೆಯಲ್ಲಿ ಕುಂದಲಿಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 50 years	",
-	"	b. 60 years	",
-	"	c. 75 years	",
-	"	d. 100 years	"
+	"	A. 50 ವರ್ಷ	",
+	"	B. 60 ವರ್ಷ	",
+	"	C. 75 ವರ್ಷ	",
+	"	D. 100 ವರ್ಷ	"
 ],			
-"correct" :	"	d. 100 years	",
-"explanation" :	"	And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sarah's womb:Rom4:19	",
+"correct" :	"	D. 100 ವರ್ಷ	",
+"explanation" :	"	ಅವನು ಹೆಚ್ಚುಕಡಿಮೆ ನೂರು ವರುಷದವನಾಗಿದ್ದು ತನ್ನ ದೇಹವು ಆಗಲೇ ಮೃತಪ್ರಾಯವಾಯಿತೆಂದೂ ಸಾರಳಿಗೆ ಗರ್ಭಕಾಲ ಕಳೆದುಹೋಯಿತೆಂದೂ ಯೋಚಿಸಿದಾಗ್ಯೂ ಅವನ ನಂಬಿಕೆಯು ಕುಂದಲಿಲ್ಲ 4:19	",
 },			
 {			
-"question" :	"	10. He was delivered for our offences,and raised again for our justification.	",
+"question" :	"	10 ದೇವರು ಆತನನ್ನು ನಮ್ಮ ಅಪರಾಧಗಳ ನಿಮಿತ್ತ ಮರಣಕ್ಕೆ ಒಪ್ಪಿಸಿ ಕೊಟ್ಟು ನಮಗೆ ನೀತಿವಂತರೆಂಬ ನಿರ್ಣಯವು ಉಂಟಾಗಬೇಕೆಂದು ಎಬ್ಬಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Abraham	",
-	"	b. David	",
-	"	c. Jesus	",
-	"	d. Satan	"
+	"	A. ಅಬ್ರಹಾಮ್	",
+	"	B. ದಾವೀದ	",
+	"	C. ಯೇಸು	",
+	"	D. ಸೈತಾನ	"
 ],			
-"correct" :	"	c. Jesus	",
-"explanation" :	"	But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;Who was delivered for our offences, and was raised again for our justification.Rom4:24,25	",
+"correct" :	"	C. ಯೇಸು	",
+"explanation" :	"	ನಮ್ಮ ಕರ್ತನಾದ ಯೇಸುವನ್ನು ಸತ್ತವರೊಳಗಿಂದ ಎಬ್ಬಿಸಿದ ದೇವರನ್ನು ನಂಬುವ ನಮಗೂ ನಂಬಿಕೆಯು ನೀತಿಯೆಂದು ಎಣಿಸಲ್ಪಡುವದು. ದೇವರು ಆತನನ್ನು ನಮ್ಮ ಅಪರಾಧಗಳ ನಿಮಿತ್ತ ಮರಣಕ್ಕೆ ಒಪ್ಪಿಸಿಕೊಟ್ಟು ನಮಗೆ ನೀತಿವಂತರೆಂಬ ನಿರ್ಣಯವು ಉಂಟಾಗುವ ನಿಮಿತ್ತ ಜೀವದಿಂದ ಎಬ್ಬಿಸಿದನು 4:24,25	",
 },			
 ]			

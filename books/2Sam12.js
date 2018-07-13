@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 12";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord sent this prophet to David.	",

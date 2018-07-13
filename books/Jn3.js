@@ -1,125 +1,124 @@
-			
-var quiztitle = "John chapter 3";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
-"question" :	"	1. Who was the man who came to Jesus?	",
+"question" :	"	1  ಯೇಸುವಿನ ಬಳಿಗೆ ಬಂದ ಮನುಷ್ಯ ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Nicodemus	",
-	"	b. Bartholomew	",
-	"	c. Caiaphas	",
-	"	d. Matthew	"
+	"	A. ನಿಕೋದೇಮನು	",
+	"	B. ಬಾರ್ತಲೋಮಾಯ	",
+	"	C. ಕಾಯಫ	",
+	"	D. ಮತ್ತಾಯ	"
 ],			
-"correct" :	"	a. Nicodemus	",
-"explanation" :	"	There was a man of the Pharisees named Nicodemus, a ruler of the Jews. - Jn 3;1	",
+"correct" :	"	A. ನಿಕೋದೇಮನು	",
+"explanation" :	"	ಫರಿಸಾಯರಲ್ಲಿ ಯೆಹೂದ್ಯರ ಹಿರೀಸಭೆಯವನಾದ ನಿಕೊದೇಮನೆಂಬ ಒಬ್ಬ ಮನುಷ್ಯನಿದ್ದನು. 3;1	",
 },			
 {			
-"question" :	"	2. When did he come to Jesus?	",
+"question" :	"	2  ಆತನು ಯೇಸುವಿನ ಬಳಿಗೆ ಯಾವಾಗ ಬಂದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. In the morning	",
-	"	b. At night	",
-	"	c. In the afternoon	",
-	"	d. When he was sick	"
+	"	A. ಬೆಳಗಿನ ಜಾವ	",
+	"	B. ರಾತ್ರಿ ವೇಳೆಯಲ್ಲಿ	",
+	"	C. ಮಧ್ಯಾಹ್ನದಲ್ಲಿ	",
+	"	D. ಆತನು ರೋಗಿಯಾಗಿದ್ದಾಗ	"
 ],			
-"correct" :	"	b. At night	",
-"explanation" :	"	This man came to Jesus by night and said to Him, Rabbi, we know that You are a teacher come from God; for no one can do these signs that You do unless God is with him - Jn 3:2	",
+"correct" :	"	B. ರಾತ್ರಿ ವೇಳೆಯಲ್ಲಿ	",
+"explanation" :	"	ಅವನು ರಾತ್ರಿಯಲ್ಲಿ ಯೇಸುವಿನ ಬಳಿಗೆ ಬಂದು ಆತನಿಗೆ - ಗುರುವೇ, ನೀನು ದೇವರ ಕಡೆಯಿಂದ ಬಂದ ಬೋಧಕನೆಂದು ಬಲ್ಲೆವು. ನೀನು ಮಾಡುವಂಥ ಈ ಸೂಚಕಕಾರ್ಯಗಳನ್ನು ದೇವರ ಸಹಾಯವಿಲ್ಲದೆ ಮಾಡುವದು ಯಾರಿಂದಲೂ ಆಗದು ಎಂದು ಹೇಳಿದನು.  3:2	",
 },			
 {			
-"question" :	"	3. This man was	",
+"question" :	"	3  ಈ ಮನುಷ್ಯನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sick of the palsy.	",
-	"	b. A ruler of the Jews.	",
-	"	c. A Publican.	",
-	"	d. Blind.	"
+	"	A. ಪಾಶ್ರ್ವವಾಯು ರೋಗಿ	",
+	"	B. ಯೆಹೂದ್ಯರ ಅಧಿಕಾರಿ	",
+	"	C. ಸುಂಕದವನು	",
+	"	D. ಕುರುಡನು	"
 ],			
-"correct" :	"	b. A ruler of the Jews.	",
-"explanation" :	"	There was a man of the Pharisees named Nicodemus, a ruler of the Jews. - Jn 3;1	",
+"correct" :	"	B. ಯೆಹೂದ್ಯರ ಅಧಿಕಾರಿ	",
+"explanation" :	"	ಫರಿಸಾಯರಲ್ಲಿ ಯೆಹೂದ್ಯರ ಹಿರೀಸಭೆಯವನಾದ ನಿಕೊದೇಮನೆಂಬ ಒಬ್ಬ ಮನುಷ್ಯನಿದ್ದನು.3;1	",
 },			
 {			
-"question" :	"	4. Jesus said, a man cannot see the kingdom of God	",
+"question" :	"	4  ಯೇಸು ಹೇಳಿದ್ದು, ‘ ಒಬ್ಬನು ______________ ದೇವರ ರಾಜ್ಯವನ್ನು ಕಾಣಲಾರನು’	",
 "image" :	"",		
 "choices" : [			
-	"	a. If he ever broke a commandment.	",
-	"	b. Unless he is born again.	",
-	"	c. Until the 2nd death.	",
-	"	d. Without a price.	"
+	"	A. ಆಜ್ಞೆಗಳನ್ನು ಮುರಿದರೆ	",
+	"	B. ಹೊಸದಾಗಿ ಹುಟ್ಟದಿದ್ದರೆ	",
+	"	C. ಎರಡನೆಯ ಮರಣದವರೆಗೂ	",
+	"	D. ಬೆಲೆ ಇಲ್ಲದೇ	"
 ],			
-"correct" :	"	b. Unless he is born again.	",
-"explanation" :	"	Jesus answered and said to him, Most assuredly, I say to you, unless one is born again, he cannot see the kingdom of God. - Jn 3:3	",
+"correct" :	"	B. ಹೊಸದಾಗಿ ಹುಟ್ಟದಿದ್ದರೆ	",
+"explanation" :	"	ಅದಕ್ಕೆ ಯೇಸು - ನಾನು ನಿನಗೆ ನಿಜನಿಜವಾಗಿ ಹೇಳುತ್ತೇನೆ, ಒಬ್ಬನು ಹೊಸದಾಗಿ ಅಥವಾ, ಮೇಲಿನಿಂದ. ಹುಟ್ಟದಿದ್ದರೆ ಅವನು ದೇವರ ರಾಜ್ಯವನ್ನು ಕಾಣಲಾರನು ಅಂದನು. 3:3	",
 },			
 {			
-"question" :	"	5. Jesus said, that which is born of the flesh is flesh, and that which is born of the Spirit	",
+"question" :	"	5  ಯೇಸು ಹೇಳಿದ್ದು, ‘ದೇಹದಿಂದ ಹುಟ್ಟಿದ್ದು ದೇಹವೇ, ಆತ್ಮದಿಂದ ಹುಟ್ಟಿದ್ದು________’	",
 "image" :	"",		
 "choices" : [			
-	"	a. Shall stand.	",
-	"	b. Is holy.	",
-	"	c. Is spirit.	",
-	"	d. Shall not fail.	"
+	"	A. ನಿಲ್ಲುವುದು	",
+	"	B. ಪರಿಶುದ್ದವಾದುದು	",
+	"	C. ಆತ್ಮವೆ	",
+	"	D. ಎಂದಿಗೂ ವ್ಯರ್ಥವಾಗುವುದಿಲ್ಲ	"
 ],			
-"correct" :	"	c. Is spirit.	",
-"explanation" :	"	That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. - Jn 3:6	",
+"correct" :	"	C. ಆತ್ಮವೆ	",
+"explanation" :	"	ದೇಹದಿಂದ ಹುಟ್ಟಿದ್ದು ದೇಹವೇ; ಆತ್ಮನಿಂದ ಹುಟ್ಟಿದ್ದು ಆತ್ಮವೇ. 3:6	",
 },			
 {			
-"question" :	"	6. Jesus said, the Son of man must be lifted up, just as this was lifted up in the wilderness.	",
+"question" :	"	6  ಅಡವಿಯಲ್ಲಿ ಇದು ಎತ್ತರದಲ್ಲಿಡಲ್ಪಟ್ಟ ಹಾಗೆ ಮನುಷ್ಯಕುಮಾರನು ಸಹ   ಎತ್ತರದಲ್ಲಿಡಲ್ಪಡುವನು ಎಂದು ಯೇಸು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The serpent	",
-	"	b. The standard	",
-	"	c. The timbrels	",
-	"	d. The ark	"
+	"	A. ಸರ್ಪ	",
+	"	B. ಪ್ರಮಾಣಿತ	",
+	"	C. ದಮ್ಮಡಿ	",
+	"	D. ನಾವೆ	"
 ],			
-"correct" :	"	a. The serpent	",
-"explanation" :	"	And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, - Jn 3:14	",
+"correct" :	"	A. ಸರ್ಪ	",
+"explanation" :	"	ಇದಲ್ಲದೆ [ಜನರು ನೋಡಿ ಜೀವದಿಂದುಳಿಯಬೇಕೆಂದು] ಮೋಶೆಯು ಅಡವಿಯಲ್ಲಿ ಆ ಸರ್ಪವನ್ನು ಎತ್ತರದಲ್ಲಿಟ್ಟ ಹಾಗೆಯೇ 3:14	",
 },			
 {			
-"question" :	"	7. Who lifted it up in the wilderness?	",
+"question" :	"	7  ಅಡವಿಯಲ್ಲಿ ಅದನ್ನು ಯಾರು ಎತ್ತರದಲ್ಲಿಟ್ಟರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jacob	",
-	"	b. Joshua	",
-	"	c. Moses	",
-	"	d. Noah	"
+	"	A. ಯಾಕೋಬ	",
+	"	B. ಯೆಹೋಶುವ	",
+	"	C. ಮೋಶೆ	",
+	"	D. ನೋವ	"
 ],			
-"correct" :	"	c. Moses	",
-"explanation" :	"	And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, - Jn 3:14	",
+"correct" :	"	C. ಮೋಶೆ	",
+"explanation" :	"	ಇದಲ್ಲದೆ [ಜನರು ನೋಡಿ ಜೀವದಿಂದುಳಿಯಬೇಕೆಂದು] ಮೋಶೆಯು ಅಡವಿಯಲ್ಲಿ ಆ ಸರ್ಪವನ್ನು ಎತ್ತರದಲ್ಲಿಟ್ಟ ಹಾಗೆಯೇ 3:14	",
 },			
 {			
-"question" :	"	8. For God so loved the world, that He gave His only begotten Son, that whosoever believes in Him should	",
+"question" :	"	8  ದೇವರು ಲೋಕದ ಮೇಲೆ ಎಷ್ಟೋ ಪ್ರೀತಿಯನ್ನಿಟ್ಟು, ತನ್ನ ಒಬ್ಬನೇ ಮಗನನ್ನು ಕೊಟ್ಟನು:   ಆತನನ್ನು  ನಂಬುವ ಒಬ್ಬನಾದರೂ _________________ ಎಲ್ಲರು ನಿತ್ಯಜೀವವನ್ನು    ಪಡೆಯಬೇಕೆಂದು ಆತನನ್ನು ಕೊಟ್ಟನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ascend to the holy place.	",
-	"	b. Not sin.	",
-	"	c. Not perish.	",
-	"	d. Not be denied.	"
+	"	A. ಪರಲೋಕಕ್ಕೆ ಏರಿ ಹೋಗಬೇಕೆಂದು	",
+	"	B. ಪಾಪ ಮಾಡಬಾರದೆಂದು	",
+	"	C. ನಾಶವಾಗಬಾರದೆಂದು	",
+	"	D. ನಿರಾಕರಿಸಲ್ಪಡಬಾರದೆಂದು	"
 ],			
-"correct" :	"	c. Not perish.	",
-"explanation" :	"	For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life. - Jn 3:16	",
+"correct" :	"	C. ನಾಶವಾಗಬಾರದೆಂದು	",
+"explanation" :	"	ದೇವರು ಲೋಕದ ಮೇಲೆ ಎಷ್ಟೋ ಪ್ರೀತಿಯನ್ನಿಟ್ಟು ತನ್ನ ಒಬ್ಬನೇ ಮಗನನ್ನು ಕೊಟ್ಟನು; ಆತನನ್ನು ನಂಬುವ ಒಬ್ಬನಾದರೂ ನಾಶವಾಗದೆ ಎಲ್ಲರೂ ನಿತ್ಯಜೀವವನ್ನು ಪಡೆಯಬೇಕೆಂದು ಆತನನ್ನು ಕೊಟ್ಟನು. 3:16	",
 },			
 {			
-"question" :	"	9. John compared himself to	",
+"question" :	"	9 ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು ತನ್ನನ್ನು ಇದಕ್ಕೆ ಹೋಲಿಸಿಕೊಂಡಿದ್ದಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Friend of the bridegroom.	",
-	"	b. Prince among princes.	",
-	"	c. A vagrant.	",
-	"	d. Unrefined gold.	"
+	"	A. ಮದಲಿಂಗನ ಸ್ನೇಹಿತ	",
+	"	B. ರಾಜಕುಮಾರ	",
+	"	C. ಅಲೆಮಾರಿ	",
+	"	D. ಶುದ್ಧೀಕರಿಸದ ಚಿನ್ನ	"
 ],			
-"correct" :	"	a. Friend of the bridegroom.	",
-"explanation" :	"	You yourselves bear me witness, that I said, 'I am not the Christ,' but, 'I have been sent before Him.He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom's voice. Therefore this joy of mine is fulfilled. - Jn 3:28-29	",
+"correct" :	"	A. ಮದಲಿಂಗನ ಸ್ನೇಹಿತ	",
+"explanation" :	"	ನಾನು ಕ್ರಿಸ್ತನಲ್ಲ. ಆತನ ಮುಂದೆ ಕಳುಹಿಸಲ್ಪಟ್ಟವನಾಗಿದ್ದೇನೆ ಎಂದು ನಾನು ಹೇಳಿದ್ದಕ್ಕೆ ನೀವೇ ಸಾಕ್ಷಿ. ಮದಲಗಿತ್ತಿಯುಳ್ಳವನೇ ಮದಲಿಂಗನು; ಆದರೂ ಮದಲಿಂಗನ ಗೆಳೆಯನು ಅವನ ಹತ್ತರ ನಿಂತುಕೊಂಡು ಅವನ ಮಾತುಗಳನ್ನು ಕೇಳಿ ಮದಲಿಂಗನ ಧ್ವನಿಗೆ ಬಹು ಸಂತೋಷಪಡುತ್ತಾನಲ್ಲವೇ. ಇದರಂತೆ ನನಗಿರುವ ಸಂತೋಷ; ಅದು ನೆರವೇರಿತು. 3:28-29	",
 },			
 {			
-"question" :	"	10. John said of Jesus, He must increase	",
+"question" :	"	10  ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು ಯೇಸುವಿನ ಕುರಿತು ಹೇಳಿದನು, ಆತನು ಹೆಚ್ಚಿಸಲ್ಪಡಬೇಕು, ______	",
 "image" :	"",		
 "choices" : [			
-	"	a. To be known.	",
-	"	b. Throughout Judea.	",
-	"	c. Throughout the uttermost parts of the earth.	",
-	"	d. But I must decrease.	"
+	"	A. ಗೊತ್ತಾಗುವವರೆಗೂ	",
+	"	B. ಯೂದಾ ಸೀಮೆಯಲ್ಲೆಲ್ಲಾ	",
+	"	C. ಲೋಕದ ಕಟ್ಟಕಡೆಯ ಭಾಗದವರೆಗೂ	",
+	"	D. ನಾನು ತಗ್ಗಿಸಲ್ಪಡಬೇಕು.	"
 ],			
-"correct" :	"	d. But I must decrease.	",
-"explanation" :	"	He must increase, but I must decrease. - Jn 3:30	",
+"correct" :	"	D. ನಾನು ತಗ್ಗಿಸಲ್ಪಡಬೇಕು.	",
+"explanation" :	"	ಆತನು ವೃದ್ಧಿಯಾಗಬೇಕು; ನಾನು ಕಡಿಮೆಯಾಗಬೇಕು ಅಂದನು. 3:30	",
 },			
 ]			
 			

@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 9";			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 9";			
 var quiz = [ 			
 {			
-"question" :	"	1. Paul said, he has this in his heart.	",
+"question" :	"	1  ನನ್ನ ಹೃದಯದಲ್ಲಿ ಇದು ಇದೆ ಎಂದು ಪೌಲನು ಹೇಳುತ್ತಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Goodness	",
-	"	b. Mercy	",
-	"	c. Hatred	",
-	"	d. Sorrow	"
+	"	A. ಒಳ್ಳೇದು	",
+	"	B. ದಯೆ	",
+	"	C. ದ್ವೇಷ	",
+	"	D. ವೇದನೆ	"
 ],			
-"correct" :	"	d. Sorrow	",
-"explanation" :	"	That I have great heaviness and continual sorrow in my heart.Rom9:2	",
+"correct" :	"	D. ವೇದನೆ	",
+"explanation" :	"	ಈ ಮಾತನ್ನು ಸುಳ್ಳಾಡದೆ ಕ್ರಿಸ್ತನ ಮುಂದೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ; ಪವಿತ್ರಾತ್ಮಾಧೀನವಾಗಿರುವ ನನ್ನ ಮನಸ್ಸೇ ಸಾಕ್ಷಿ 9:2	",
 },			
 {			
-"question" :	"	2. Paul has a concern for these people.	",
+"question" :	"	2 ಪೌಲನಿಗೆ ಈ ಜನಗಳ ಮೇಲೆ ಕಾಳಜಿ ಇತ್ತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Israelites	",
-	"	b. The Greeks	",
-	"	c. The Philistines	",
-	"	d. The Egyptians	"
+	"	A. ಇಸ್ರಾಯೇಲ್ಯರು	",
+	"	B. ಗ್ರೀಕರು	",
+	"	C. ಪಿಲಿಷ್ಟಿಯರು	",
+	"	D. ಐಗುಪ್ತರು	"
 ],			
-"correct" :	"	a. The Israelites	",
-"explanation" :	"	 For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;Rom9:3,4	",
+"correct" :	"	A. ಇಸ್ರಾಯೇಲ್ಯರು	",
+"explanation" :	"	ಶರೀರಸಂಬಂಧವಾಗಿ ಸ್ವಜನರಾಗಿರುವ ನನ್ನ ಸಹೋದರರಿಗೋಸ್ಕರ ನಾನೇ ಸಾಧ್ಯವಾದರೆ ಕ್ರಿಸ್ತನನ್ನು ಅಗಲಿ ಶಾಪಗ್ರಸ್ತನಾಗುವದಕ್ಕೆ ಒಪ್ಪಿಕೊಂಡೇನು. ಅವರು ಇಸ್ರಾಯೇಲನ ವಂಶದವರೂ ದೇವರು ಪುತ್ರರಾಗಿ ಸ್ವೀಕರಿಸಿದವರೂ ಆಗಿದ್ದಾರೆ. ಅವರಲ್ಲಿ ದೇವರ ತೇಜಸ್ಸಾನ್ನಿಧ್ಯವು ಇದೆ; ಅವರ ಸಂಗಡ ದೇವರು ಒಡಂಬಡಿಕೆಗಳನ್ನು ಮಾಡಿಕೊಂಡನು; ಅವರಿಗೆ ಧರ್ಮಶಾಸ್ತ್ರವೂ ದೇವಾಲಯದಲ್ಲಿ ನಡೆಯುವ ಆರಾಧನೆಯೂ ವಾಗ್ದಾನಗಳೂ ಕೊಡೋಣವಾದವು 9:3,4	",
 },			
 {			
-"question" :	"	3. They which are the children of the flesh are not	",
+"question" :	"	3 ಶರೀರ ಸಂಬಂಧವಾಗಿ ಹುಟ್ಟಿದ ಮಕ್ಕಳೆಲ್ಲರೂ ____ಅಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. With sin.	",
-	"	b. Condemned.	",
-	"	c. Children of God.	",
-	"	d. Children of malice.	"
+	"	A. ಪಾಪಿಗಳು	",
+	"	B. ದೂಷಿಸಲ್ಪಟ್ಟವರು	",
+	"	C. ದೇವರ ಮಕ್ಕಳು	",
+	"	D. ಕೆಡುಕನ ಮಕ್ಕಳು	"
 ],			
-"correct" :	"	c. Children of God.	",
-"explanation" :	"	That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.Rom9:8	",
+"correct" :	"	C. ದೇವರ ಮಕ್ಕಳು	",
+"explanation" :	"	ಆ ಮಾತಿನ ಅರ್ಥವೇನಂದರೆ ಶರೀರಸಂಬಂಧವಾಗಿ ಹುಟ್ಟಿದವರೆಲ್ಲರೂ ದೇವರ ಮಕ್ಕಳಲ್ಲ, ವಾಗ್ದಾನಸಂಬಂಧವಾಗಿ ಹುಟ್ಟಿದವರೇ ಅಬ್ರಹಾಮನ ಸಂತತಿಯವರೆಂದು ಎಣಿಸಲ್ಪಡುವರು ಎಂಬದು. 9:8	",
 },			
 {			
-"question" :	"	4. The promise was that this woman would have a son.	",
+"question" :	"	4 ಈ ಸ್ತ್ರೀಗೆ ಮಗುವಾಗುವುದೆಂದು ವಾಗ್ಧಾನವಿತ್ತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Eve	",
-	"	b. Sarah	",
-	"	c. Elizabeth	",
-	"	d. Diana	"
+	"	A. ಹವ್ವ	",
+	"	B. ಸಾರಾ	",
+	"	C. ಎಲಿಜಬತ್	",
+	"	D. ಡಯಾನ	"
 ],			
-"correct" :	"	b. Sarah	",
-"explanation" :	"	 For this is the word of promise, At this time will I come, and Sarah shall have a son.Rom9:9	",
+"correct" :	"	B. ಸಾರಾ	",
+"explanation" :	"	ಮುಂದಿನ ವರುಷದ ಇದೇ ಕಾಲದಲ್ಲಿ ನಾನು ಬರುವೆನು, ಆಗ ಸಾರಳಿಗೆ ಮಗನು ಇರುವನು ಎಂಬ ಮಾತು ವಾಗ್ದಾನವಾಗಿದೆಯಷ್ಟೆ.  9:9	",
 },			
 {			
-"question" :	"	5. This woman conceived a son by Isaac.	",
+"question" :	"	5 ಈ ಸ್ತ್ರೀಯು ಇಸಾಕನಿಂದ ಮಕ್ಕಳನ್ನು ಪಡೆದಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Tamara	",
-	"	b. Rebecca	",
-	"	c. Rachel	",
-	"	d. Mary	"
+	"	A. ತಾಮಾರ	",
+	"	D. ರೆಬೆಕ್ಕ	",
+	"	C. ರಾಚೆಲ್	",
+	"	D. ಮರಿಯಳು	"
 ],			
-"correct" :	"	b. Rebecca	",
-"explanation" :	"	And not only this; but when Rebecca also had conceived by one, even by our father Isaac;Rom9:10	",
+"correct" :	"	D. ರೆಬೆಕ್ಕ	",
+"explanation" :	"	ಇದು ಮಾತ್ರವಲ್ಲದೆ ರೆಬೆಕ್ಕಳು ಸಹ ನಮ್ಮ ಪಿತೃವಾದ ಇಸಾಕನಿಂದ ಅವಳಿ ಜವಳಿ ಮಕ್ಕಳಿಗೆ ಬಸುರಾದಾಗ ಅದರಂತೆಯೇ ಆಯಿತು. 9:10	",
 },			
 {			
-"question" :	"	6. It is written, Jacob have I loved, but this man I have hated.	",
+"question" :	"	6 ಯಾಕೋಬನನ್ನು ಪ್ರೀತಿಸಿದೆ, ಈತನನ್ನಾದರೋ ದ್ವೇಷಿಸಿದೆ ಎಂದು ಬರೆಯಲ್ಪಟ್ಟಿದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pharaoh	",
-	"	b. Esau	",
-	"	c. Joseph	",
-	"	d. Isaac	"
+	"	A. ಫರೋಹ	",
+	"	B. ಏಸಾವ	",
+	"	C. ಯೋಸೇಫ	",
+	"	D. ಇಸಾಕ	"
 ],			
-"correct" :	"	b. Esau	",
-"explanation" :	"	As it is written, Jacob have I loved, but Esau have I hated.Rom9:13	",
+"correct" :	"	B. ಏಸಾವ	",
+"explanation" :	"	ಇದಕ್ಕನುಸಾರವಾಗಿ - ಯಾಕೋಬನನ್ನು ಪ್ರೀತಿಸಿದನು, ಏಸಾವನನ್ನು ದ್ವೇಷಿಸಿದೆನು ಎಂದು ಬರೆದದೆ. 9:13	",
 },			
 {			
-"question" :	"	7. God spoke to this man, saying, I will have mercy upon whom I have mercy.	",
+"question" :	"	7 ದೇವರು ಈ ಮನುಷ್ಯನೊಂದಿಗೆ ಮಾತನಾಡುತ್ತಾ, ನಾನು ಯಾರ ಮೇಲೆ ದಯವಿಡುವೆನೋ ಅವರ ಮೇಲೆ ದಯವಿಡುವೆನು ಎಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Moses	",
-	"	b. David	",
-	"	c. Saul	",
-	"	d. Solomon	"
+	"	A. ಮೋಶೆ	",
+	"	B. ದಾವೀದ	",
+	"	C. ಸೌಲ	",
+	"	D. ಸೊಲೋಮೋನ	"
 ],			
-"correct" :	"	a. Moses	",
-"explanation" :	"	For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.Rom9:15	",
+"correct" :	"	A. ಮೋಶೆ	",
+"explanation" :	"	ಯಾವನ ಮೇಲೆ ನನ್ನ ಕರುಣೆ ಉಂಟೋ ಅವನನ್ನು ಕರುಣಿಸುವೆನು, ಯಾವನ ಮೇಲೆ ನನ್ನ ಕನಿಕರವದೆಯೋ ಅವನಿಗೆ ಕನಿಕರ ತೋರಿಸುವೆನು ಎಂದು ದೇವರು ಮೋಶೆಗೆ ಹೇಳಿರುತ್ತಾನಷ್ಟೆ 9:15	",
 },			
 {			
-"question" :	"	8. God raised this man up, so that His name would be proclaimed throughout the earth.	",
+"question" :	"	8 ದೇವರು ತನ್ನ ನಾಮವು ಮಹಿಮೆಗೆ ಬರಬೇಕೆಂದು ಈ ಮನುಷ್ಯನನ್ನು ಉನ್ನತಿಗೆ ತಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Saul	",
-	"	b. Pharaoh	",
-	"	c. John	",
-	"	d. Peter	"
+	"	A. ಸೌಲ	",
+	"	B. ಫರೋಹ	",
+	"	C. ಯೋಹಾನ	",
+	"	D. ಪೇತ್ರ	"
 ],			
-"correct" :	"	b. Pharaoh	",
-"explanation" :	"	For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.Rom9:17	",
+"correct" :	"	B. ಫರೋಹ	",
+"explanation" :	"	ದೇವರು ಫರೋಹನನ್ನು ಕುರಿತು - ನಾನು ನಿನ್ನಲ್ಲಿ ನನ್ನ ಶಕ್ತಿಯನ್ನು ತೋರಿಸಿ ನನ್ನ ಹೆಸರನ್ನು ಲೋಕದಲ್ಲೆಲ್ಲಾ ಪ್ರಖ್ಯಾತಪಡಿಸಬೇಕೆಂಬ ಉದ್ದೇಶದಿಂದಲೇ ನಿನ್ನನ್ನು ಉನ್ನತಸ್ಥಾನಕ್ಕೆ ತಂದಿದ್ದೇನೆಂದು ಹೇಳಿದನೆಂಬದಾಗಿ ಶಾಸ್ತ್ರೋಕ್ತಿ ಉಂಟು 9:17	",
 },			
 {			
-"question" :	"	9. The question is asked, does not the potter have power over this?	",
+"question" :	"	9 ಕುಂಬಾರನಿಗೆ ಇವುಗಳ ಮೇಲೆ ಅಧಿಕಾರವಿಲ್ಲವೇ ಎಂದು ಪ್ರಶ್ನಿಸಲಾಯಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The day	",
-	"	b. The clay	",
-	"	c. Sin	",
-	"	d. His own mind	"
+	"	A. ದಿನ	",
+	"	B. ಜೇಡಿಮಣ್ಣು	",
+	"	C. ಪಾಪ	",
+	"	D. ಸ್ವಂತ ಬುದ್ಧಿ	"
 ],			
-"correct" :	"	b. The clay	",
-"explanation" :	"	 Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?Rom9:21	",
+"correct" :	"	B. ಜೇಡಿಮಣ್ಣು	",
+"explanation" :	"	ಉತ್ತಮವಾದ ಬಳಕೆಗೆ ಒಂದು ಪಾತ್ರೆಯನ್ನೂ ಹೀನವಾದ ಬಳಕೆಗೆ ಮತ್ತೊಂದು ಪಾತ್ರೆಯನ್ನೂ ಒಂದೇ ಮುದ್ದೆಯಿಂದ ಮಾಡುವದಕ್ಕೆ ಕುಂಬಾರನಿಗೆ ಮಣ್ಣಿನ ಮೇಲೆ ಅಧಿಕಾರವಿಲ್ಲವೋ? 9:21	",
 },			
 {			
-"question" :	"	10. It is written, I lay this in Zion, and whosoever believeth on Him will not be ashamed.	",
+"question" :	"	10 ನಾನು ಚಿಯೋನಿನಲ್ಲಿ ಇದನ್ನು ಎಡುತ್ತೇನೆಂತಲೂ, ಅದನ್ನು ನಂಬುವವರೆಲ್ಲರೂ ಆಶಾಭಂಗಪಡುವುದಿಲ್ಲವೆಂತಲೂ ಬರೆಯಲ್ಪಟ್ಟಿದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A sure foundation	",
-	"	b. A stumblingstone	",
-	"	c. A fountain of life	",
-	"	d. A transgressor	"
+	"	A. ಮೂಲೆಗಲ್ಲು	",
+	"	B. ಎಡವುವ ಕಲ್ಲು	",
+	"	C. ಜೀವದ ಬುಗ್ಗೆ	",
+	"	D. ಆಜ್ಞೆ ಉಲ್ಲಂಘಕಾರಕ	"
 ],			
-"correct" :	"	b. A stumblingstone	",
-"explanation" :	"	As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.Rom9:33	",
+"correct" :	"	B. ಎಡವುವ ಕಲ್ಲು	",
+"explanation" :	"	ಇಗೋ, ಚೀಯೋನಿನಲ್ಲಿ ಎಡವುವ ಕಲ್ಲನ್ನೂ ಮುಗ್ಗರಿಸುವ ಬಂಡೆಯನ್ನೂ ಇಡುತ್ತೇನೆಂತಲೂ ಅದರ ಮೇಲೆ ನಂಬಿಕೆಯಿಡುವವನು ಆಶಾಭಂಗಪಡುವದಿಲ್ಲವೆಂತಲೂ ಶಾಸ್ತ್ರದಲ್ಲಿ ಬರೆದದೆಯಲ್ಲಾ. ಆ ಎಡವುವ ಕಲ್ಲಿಗೆ ಅವರು ಎಡವಿಬಿದ್ದರು. 9:33	",
 },			
 ]			

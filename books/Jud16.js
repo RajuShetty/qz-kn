@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 16";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. When Samson was in the house of a harlot at Gaza, he left at midnight, carrying this on his shoulders.	",

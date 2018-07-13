@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 23";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
-"question" :	"	1. Who was the high priest?	",
+"question" :	"	1  ಮಹಾ ಯಾಜಕನು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Eli	",
-	"	b. Nathan	",
-	"	c. Ananias	",
-	"	d. Gehazi	"
+	"	A. ಏಲಿ	",
+	"	B. ನಾತಾನ್	",
+	"	C. ಅನನೀಯ	",
+	"	D. ಗೆಹಜಿ	"
 ],			
-"correct" :	"	c. Ananias	",
-"explanation" :	"	And the high priest Ananias commanded them that stood by him to smite him on the mouth.Acts23:2	",
+"correct" :	"	C. ಅನನೀಯ	",
+"explanation" :	"	ಅದಕ್ಕೆ ಮಹಾಯಾಜಕನಾದ ಅನನೀಯನು - ಅವನ ಬಾಯ ಮೇಲೆ ಹೊಡೆಯಿರಿ ಎಂದು ಹತ್ತಿರದಲ್ಲಿ ನಿಂತಿದ್ದವರಿಗೆ ಅಪ್ಪಣೆಕೊಡಲು 23:2	",
 },			
 {			
-"question" :	"	2. Paul told the people, he was	",
+"question" :	"	2  ಪೌಲನು ಜನರಿಗೆ ಹೇಳಿದ್ದು, ತಾನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. A Pharisee.	",
-	"	b. A Sadducee.	",
-	"	c. A prophet.	",
-	"	d. An apostle.	"
+	"	A. ಒಬ್ಬ ಫರಿಸಾಯನು	",
+	"	B. ಒಬ್ಬ ಸದ್ದುಕಾಯನು	",
+	"	C. ಒಬ್ಬ ಪ್ರವಾದಿ	",
+	"	D. ಒಬ್ಬ ಅಪೋಸ್ತಲನು	"
 ],			
-"correct" :	"	a. A Pharisee.	",
-"explanation" :	"	 But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.Acts23:6	",
+"correct" :	"	A. ಒಬ್ಬ ಫರಿಸಾಯನು	",
+"explanation" :	"	ಸಭೆಯವರಲ್ಲಿ ಒಂದು ಪಾಲು ಸದ್ದುಕಾಯರೂ ಒಂದು ಪಾಲು ಫರಿಸಾಯರೂ ಇರುವದನ್ನು ಪೌಲನು ತಿಳಿದು - ಸಹೋದರರೇ, ನಾನು ಫರಿಸಾಯನು, ಫರಿಸಾಯರ ಮಗನು; ಸತ್ತವರೆದ್ದು ಬರುವರು ಎಂಬ ನಿರೀಕ್ಷೆಯ ವಿಷಯವಾಗಿ ನನ್ನನ್ನು ವಿಚಾರಣೆಮಾಡುತ್ತಾರೆ ಎಂದು ಹಿರೀಸಭೆಯಲ್ಲಿ ಕೂಗಿದನು. 23:6	",
 },			
 {			
-"question" :	"	3. They say there is no resurrection.	",
+"question" :	"	3 ಪುನರುತ್ಥಾನವಿಲ್ಲವೆಂದು ಇವರು ಹೇಳುತ್ತಿದ್ದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sadducees	",
-	"	b. Pharisees	",
-	"	c. Scribes	",
-	"	d. High priests	"
+	"	A. ಸದ್ದುಕಾಯರು	",
+	"	B. ಫರಿಸಾಯರು	",
+	"	C. ಶಾಸ್ತ್ರಿಗಳು	",
+	"	D. ಮಹಾಯಾಜಕರು	"
 ],			
-"correct" :	"	a. Sadducees	",
-"explanation" :	"	 For the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both.Acts23:8	",
-},		 	
-{			
-"question" :	"	4. Who began to take Paul's part?	",
-"image" :	"",		
-"choices" : [			
-	"	a. The Greeks	",
-	"	b. The Pharisees	",
-	"	c. The Sadducees	",
-	"	d. Pilate	"
-],			
-"correct" :	"	b. The Pharisees	",
-"explanation" :	"	And there arose a great cry: and the scribes that were of the Pharisees' part arose, and strove, saying, We find no evil in this man: but if a spirit or an angel hath spoken to him, let us not fight against God.Acts23:9	",
+"correct" :	"	A. ಸದ್ದುಕಾಯರು	",
+"explanation" :	"	ಯಾಕಂದರೆ - ಸತ್ತವರು ಎದ್ದುಬರುವದಿಲ್ಲವೆಂತಲೂ ದೇವದೂತನಾಗಲಿ ದೇಹವಿಲ್ಲದ ಆತ್ಮವಾಗಲಿ ಇಲ್ಲವೆಂತಲೂ ಸದ್ದುಕಾಯರು ಹೇಳುವರು; ಆ ಎರಡೂ ಉಂಟೆಂದು ಫರಿಸಾಯರು ಒಪ್ಪಿಕೊಳ್ಳುವರು 23:8	",
 },			
 {			
-"question" :	"	5. Some men made a vow, saying they would not eat or drink until Paul was	",
+"question" :	"	4  ಪೌಲನ ಕಡೆಗೆ ಯಾರು ತಿರುಗಿಕೊಳ್ಳತೊಡಗಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Released.	",
-	"	b. Permitted to speak.	",
-	"	c. Dead.	",
-	"	d. Imprisoned.	"
+	"	A. ಗ್ರೀಕರು	",
+	"	B. ಫರಿಸಾಯರು	",
+	"	C. ಸದ್ದುಕಾಯರು	",
+	"	D. ಪಿಲಾತ	"
 ],			
-"correct" :	"	c. Dead.	",
-"explanation" :	"	And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.Acts23:12	",
+"correct" :	"	B. ಫರಿಸಾಯರು	",
+"explanation" :	"	ಆಗ ದೊಡ್ಡ ಕೂಗಾಟವಾಯಿತು. ಫರಿಸಾಯರ ಪಕ್ಷದವರಾದ ಶಾಸ್ತ್ರಿಗಳಲ್ಲಿ ಕೆಲವರು ಎದ್ದು - ಈ ಮನುಷ್ಯನಲ್ಲಿ ನಮಗೆ ಕೆಟ್ಟದ್ದೇನೂ ಕಾಣಬರುವದಿಲ್ಲ; ಆತ್ಮವಾಗಲಿ ದೇವದೂತನಾಗಲಿ ಅವನ ಸಂಗಡ ಮಾತಾಡಿದ್ದರೂ ಮಾತಾಡಿರಬಹುದು ಎಂದು ವಾಗ್ವಾದಮಾಡಿದರು. 23:9	",
 },			
 {			
-"question" :	"	6. More than this many men made that conspiracy.	",
+"question" :	"	5  ಪೌಲನನ್ನು _________ ಮಾಡುವವರೆಗೂ ತಾವು ತಿನ್ನುವುದು ಇಲ್ಲ ಕುಡಿಯುವುದೂ ಇಲ್ಲವೆಂದು ಕೆಲವರು ಪ್ರಮಾಣ ಮಾಡಿದ್ದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 10	",
-	"	b. 20	",
-	"	c. 30	",
-	"	d. 40	"
+	"	A. ಬಿಡುಗಡೆ	",
+	"	B. ಮಾತನಾಡಲು ಬಿಡುವವರೆಗೂ	",
+	"	C. ಸಾಯುವವರೆಗೂ	",
+	"	D. ಖೈದು ಮಾಡುವವರೆಗೂ	"
 ],			
-"correct" :	"	d. 40	",
-"explanation" :	"	And they were more than forty which had made this conspiracy.Acts23:13	",
+"correct" :	"	C. ಸಾಯುವವರೆಗೂ	",
+"explanation" :	"	ಬೆಳಗಾದ ಮೇಲೆ ಯೆಹೂದ್ಯರು ಒಳಸಂಚು ಮಾಡಿ - ನಾವು ಪೌಲನನ್ನು ಕೊಲ್ಲುವ ತನಕ ಅನ್ನಪಾನವೇನೂ ಮುಟ್ಟುವದಿಲ್ಲವೆಂದು ಶಪಥಮಾಡಿಕೊಂಡರು 23:12	",
 },			
 {			
-"question" :	"	7. Who told Paul about their vow? 	",
+"question" :	"	6  ಆ ಪ್ರಮಾಣವನ್ನು ಮಾಡಿದವರು ಸುಮಾರು ______ಕ್ಕಿಂತ ಹೆಚ್ಚು ಮಂದಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. His brother	",
-	"	b. His mother	",
-	"	c. His nephew	",
-	"	d. His daughter	"
+	"	A. 10	",
+	"	B. 20	",
+	"	C. 30	",
+	"	D. 40	"
 ],			
-"correct" :	"	c. His nephew	",
-"explanation" :	"	And when Paul's sister's son heard of their lying in wait, he went and entered into the castle, and told Paul.Acts23:16	",
+"correct" :	"	D. 40	",
+"explanation" :	"	ಹೀಗೆ ಮಾಡಿದವರು ನಾಲ್ವತ್ತು ಮಂದಿಗಿಂತ ಹೆಚ್ಚಾಗಿದ್ದರು.  23:13	",
 },			
 {			
-"question" :	"	8. Seventy horsemen, two hundred spearmen, and this many soldiers escorted Paul to the governor.	",
+"question" :	"	7  ಪೌಲನಿಗೆ ಅವರ ಪ್ರಮಾಣದ ಕುರಿತು ಯಾರು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 50	",
-	"	c. 100	",
-	"	d. 200	"
+	"	A. ಅವನ ಸಹೋದರರು	",
+	"	B. ಅವನ ತಾಯಿ	",
+	"	C. ಅವನ ಸೋದರಳಿಯ	",
+	"	D. ಅವನ ಮಗಳು	"
 ],			
-"correct" :	"	d. 200	",
-"explanation" :	"	And he called unto him two centurions, saying, Make ready two hundred soldiers to go to Caesarea, and horsemen threescore and ten, and spearmen two hundred, at the third hour of the night;Acts23:23	",
+"correct" :	"	C. ಅವನ ಸೋದರಳಿಯ	",
+"explanation" :	"	ಅವರು ಹೊಂಚಿಕೊಂಡಿರುವದನ್ನು ಪೌಲನ ಸೋದರಳಿಯನು ಕೇಳಿ ಕೋಟೆಯೊಳಗೆ ಬಂದು ಪೌಲನಿಗೆ ತಿಳಿಸಿದನು 23:16	",
 },			
 {			
-"question" :	"	9. Who was the governor?	",
+"question" :	"	8  70 ಕುದುರೆ ಸವಾರರು, 200 ಆಯುಧದಾರಿಗಳು, ___ ಸೈನಿಕರು ಪೌಲನಿಗೆ ಕಾವಲಾಗಿದ್ದು, ದೇಶಾಧಿಕಾರಿಯ ಬಳಿಗೆ ಕರತಂದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Felix	",
-	"	b. Homer	",
-	"	c. Apollos	",
-	"	d. Eutychus	"
+	"	A. 2	",
+	"	B. 50	",
+	"	C. 100	",
+	"	D. 200	"
 ],			
-"correct" :	"	a. Felix	",
-"explanation" :	"	And provide them beasts, that they may set Paul on, and bring him safe unto Felix the governor.Acts23:24	",
+"correct" :	"	D. 200	",
+"explanation" :	"	ಆಮೇಲೆ ಅವನು ಶತಾಧಿಪತಿಗಳಲ್ಲಿ ಇಬ್ಬರನ್ನು ಕರೆಯಿಸಿ - ರಾತ್ರಿ ಒಂಭತ್ತು ಘಂಟೆಗೆ ಕೈಸರೈಯದ ತನಕ ಹೋಗುವಂತೆ ಇನ್ನೂರು ಮಂದಿ ಸಿಪಾಯಿಗಳನ್ನೂ ಎಪ್ಪತ್ತು ಮಂದಿ ಸವಾರರನ್ನೂ ಇನ್ನೂರು ಮಂದಿ ಭಲ್ಲೆಯವರನ್ನೂ ಸಿದ್ಧಮಾಡಿರಿ; 23:23	",
 },			
 {			
-"question" :	"	10. The chief captain sent a letter stating he rescued Paul because he was	",
+"question" :	"	9  ದೇಶಾಧಿಕಾರಿಯು ಯಾರಾಗಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Innocent.	",
-	"	b. Roman.	",
-	"	c. An apostle.	",
-	"	d. God's anointed.	"
+	"	A. ಫೆಲಿಕ್ಸ್	",
+	"	B. ಹೋಮೆರ್	",
+	"	C. ಅಪೊಲ್ಲೋಸ್	",
+	"	D. ಯೂತಿಕಸ್	"
 ],			
-"correct" :	"	b. Roman.	",
-"explanation" :	"	And he wrote a letter after this manner: Claudius Lysias unto the most excellent governor Felix sendeth greeting.This man was taken of the Jews, and should have been killed of them: then came I with an army, and rescued him, having understood that he was a Roman.Acts23:25-27	",
+"correct" :	"	A. ಫೆಲಿಕ್ಸ್	",
+"explanation" :	"	ಕುದುರೆಗಳನ್ನು ಸಿದ್ಧಮಾಡಿ ಪೌಲನನ್ನು ಹತ್ತಿಸಿ ದೇಶಾಧಿಪತಿಯಾದ ಫೇಲಿಕ್ಸನ ಬಳಿಗೆ ಸುರಕ್ಷಿತವಾಗಿ ಕರೆದುಕೊಂಡು ಹೋಗಬೇಕೆಂದು ಹೇಳಿದನು.  23:24	",
+},			
+{			
+"question" :	"	10 ಸಹಸ್ರಾಧಿಪತಿಯು ಪತ್ರವನ್ನು ಬರೆಯುತ್ತಾ, ತಾನು ಪೌಲನನ್ನು ರಕ್ಷಿಸಿದ್ದು _____ ಎಂದು ತಿಳಿದು ಎಂದನು.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಅವನು ಮುಗ್ಧನು	",
+	"	B. ರೋಮಾಪುರದ ಹಕ್ಕುದಾರನು	",
+	"	C. ಅಪೋಸ್ತಲ	",
+	"	D. ದೇವರ ಅಭಿಷಕ್ತನು	"
+],			
+"correct" :	"	B. ರೋಮಾಪುರದ ಹಕ್ಕುದಾರನು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಈ ಕೆಳಗಣ ಅಭಿಪ್ರಾಯದ ಒಂದು ಕಾಗದವನ್ನು ಬರೆದನು, ಏನಂದರೆ - ಮಹಾರಾಜರಾಜಶ್ರೀ ದೇಶಾಧಿಪತಿಯಾದ ಫೇಲಿಕ್ಸನಿಗೆ ಕ್ಲೌದ್ಯ ಲೂಸ್ಯನು ಮಾಡುವ ವಂದನೆ. ಯೆಹೂದ್ಯರು ಈ ಮನುಷ್ಯನನ್ನು ಹಿಡಿದು ಕೊಲ್ಲಬೇಕೆಂದಿದ್ದಾಗ ನಾನು ಸಿಪಾಯಿಗಳೊಂದಿಗೆ ಹೋಗಿ ಅವನನ್ನು ರೋಮಾಪುರದ ಹಕ್ಕುದಾರನೆಂದು ತಿಳಿದು ಅವನನ್ನು ತಪ್ಪಿಸಿದೆನು. 23:25-27	",
 },			
 ]			

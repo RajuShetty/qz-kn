@@ -1,4 +1,4 @@
-var quiztitle = "Ephesians chapter 2";			
+var quiztitle = "ಎಫೆಸದವರಿಗೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಇವುಗಳ ನಿಮಿತ್ತ ನಾವು ಸತ್ತವರಾಗಿದ್ದೆವು.	",

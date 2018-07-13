@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 11";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. When this woman saw her son was dead she slew all the royal seed.	",

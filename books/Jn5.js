@@ -1,124 +1,123 @@
-			
-var quiztitle = "John chapter 5";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus healed a man by this pool.	",
+"question" :	"	1  ಯೇಸು ಈ ಕೊಳದ ಬಳಿ ಒಬ್ಬನನ್ನು ಸ್ವಸ್ಥ ಪಡಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Siloam	",
-	"	b. Jacob’s Pool	",
-	"	c. Bethesda	",
-	"	d. Pool of Miracles	"
+	"	A. ಸಿಲೋವ	",
+	"	B. ಯಾಕೋಬನ ಕೊಳ	",
+	"	C. ಬೇತ್ಸಥಾ	",
+	"	D. ಅದ್ಭುತಗಳ ಕೊಳ	"
 ],			
-"correct" :	"	c. Bethesda	",
-"explanation" :	"	Now there is in Jerusalem by the Sheep Gate a pool, which is called in Hebrew, Bethesda, having five porches. - Jn 5:2	",
+"correct" :	"	C. ಬೇತ್ಸಥಾ	",
+"explanation" :	"	ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ಕುರೀ ಅಗಸೇಬಾಗಲಿನ ಹತ್ತಿರದಲ್ಲಿ ಒಂದು ಕೊಳವಿದೆ; ಇದಕ್ಕೆ ಇಬ್ರಿಯ ಮಾತಿನಲ್ಲಿ ಬೇತ್ಸಥಾ  ಎಂದು ಹೆಸರು5:2	",
 },			
 {			
-"question" :	"	2. How many porches did the pool have?	",
+"question" :	"	2  ಆ ಕೊಳದಲ್ಲಿ ಎಷ್ಟು ಮಂಟಪಗಳಿವೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1	",
-	"	b. 3	",
-	"	c. 5	",
-	"	d. 12	"
+	"	A. 1	",
+	"	B. 3	",
+	"	C. 5	",
+	"	D. 12	"
 ],			
-"correct" :	"	c. 5	",
-"explanation" :	"	Now there is in Jerusalem by the Sheep Gate a pool, which is called in Hebrew, Bethesda, having five porches. - Jn 5:2	",
+"correct" :	"	C. 5	",
+"explanation" :	"	ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ಕುರೀ ಅಗಸೇಬಾಗಲಿನ ಹತ್ತಿರದಲ್ಲಿ ಒಂದು ಕೊಳವಿದೆ; ಇದಕ್ಕೆ ಇಬ್ರಿಯ ಮಾತಿನಲ್ಲಿ ಬೇತ್ಸಥಾ . ಎಂದು ಹೆಸರು 5:2	",
 },			
 {			
-"question" :	"	3. What was the pool near?	",
+"question" :	"	3  ಯಾವುದರ ಹತ್ತಿರ ಆ ಕೊಳವಿತ್ತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The temple	",
-	"	b. The sheep market	",
-	"	c. The Beautiful gate	",
-	"	d. The gate of the city	"
+	"	A. ದೇವಾಲಯದ ಬಳಿ	",
+	"	B. ಕುರೀ ಅಗಸೇ ಬಾಗಿಲ ಬಳಿ	",
+	"	C. ಸುಂದರ ದ್ವಾರದ ಬಳಿ	",
+	"	D. ಪಟ್ಟಣದ ದ್ವಾರದ ಬಳಿ	"
 ],			
-"correct" :	"	b. The sheep market	",
-"explanation" :	"	Now there is in Jerusalem by the Sheep Gate a pool, which is called in Hebrew, Bethesda, having five porches. - Jn 5:2	",
+"correct" :	"	B. ಕುರೀ ಅಗಸೇ ಬಾಗಿಲ ಬಳಿ	",
+"explanation" :	"	ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ಕುರೀ ಅಗಸೇಬಾಗಲಿನ ಹತ್ತಿರದಲ್ಲಿ ಒಂದು ಕೊಳವಿದೆ; ಇದಕ್ಕೆ ಇಬ್ರಿಯ ಮಾತಿನಲ್ಲಿ ಬೇತ್ಸಥಾ  ಎಂದು ಹೆಸರು 5:2	",
 },			
 {			
-"question" :	"	4. What troubled the water in the pool?	",
+"question" :	"	4  ಕೊಳದಲ್ಲಿನ ನೀರನ್ನು ಉಕ್ಕಿಸುವವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The sick people	",
-	"	b. The wind	",
-	"	c. Rain	",
-	"	d. An angel	"
+	"	A. ರೋಗಿಗಳು	",
+	"	B. ಗಾಳಿ	",
+	"	C. ಮಳೆ	",
+	"	D. ದೇವದೂತನು	"
 ],			
-"correct" :	"	d. An angel	",
-"explanation" :	"	For an angel went down at a certain time into the pool and stirred up the water; then whoever stepped in first, after the stirring of the water, was made well of whatever disease he had - Jn 5:4	",
+"correct" :	"	D. ದೇವದೂತನು	",
+"explanation" :	"	ಇವುಗಳಲ್ಲಿ ಬಹುಮಂದಿ ರೋಗಿಗಳೂ ಕುರುಡರೂ ಕುಂಟರೂ ಮೈಒಣಗಿದವರೂ ಬಿದ್ದುಕೊಂಡಿರುವರು 5:4	",
 },			
 {			
-"question" :	"	5. What happened to the first person in the water after it was stirred?	",
+"question" :	"	5  ನೀರನ್ನು ಉಕ್ಕಿಸಿದ ಮೇಲೆ ಮೊದಲು ಒಳಗೆ ಹೋದವನಿಗೆ ಏನಾಗುವುದು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. They drowned.	",
-	"	b. They received a gold ring.	",
-	"	c. They were carried to the temple.	",
-	"	d. They were healed.	"
+	"	A. ಅವರು ಮುಳುಗಿಹೋಗುವರು	",
+	"	B. ಅವರಿಗೆ ಚಿನ್ನದ ಉಂಗುರ ದೊರೆಯುವುದು	",
+	"	C. ಅವರು ದೇವಾಲಯಕ್ಕೆ ಒಯ್ಯಲ್ಪಡುವರು	",
+	"	D. ಅವರು ಸ್ವಸ್ಥರಾಗುವರು	"
 ],			
-"correct" :	"	d. They were healed.	",
-"explanation" :	"	For an angel went down at a certain time into the pool and stirred up the water; then whoever stepped in first, after the stirring of the water, was made well of whatever disease he had - Jn 5:4	",
+"correct" :	"	D. ಅವರು ಸ್ವಸ್ಥರಾಗುವರು	",
+"explanation" :	"	ಇವುಗಳಲ್ಲಿ ಬಹುಮಂದಿ ರೋಗಿಗಳೂ ಕುರುಡರೂ ಕುಂಟರೂ ಮೈಒಣಗಿದವರೂ ಬಿದ್ದುಕೊಂಡಿರುವರು 5:4	",
 },			
 {			
-"question" :	"	6. How long had the man had his infirmity?	",
+"question" :	"	6  ಎಷ್ಟು ವರ್ಷದಿಂದ ರೋಗಿಯಾಗಿದ್ದ ಒಬ್ಬ ಮನುಷ್ಯನು ಅಲ್ಲಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1 year	",
-	"	b. 12 years	",
-	"	c. 24 years	",
-	"	d. 38 years	",
+	"	A. 1 ವರ್ಷ	",
+	"	B. 12 ವರ್ಷ	",
+	"	C. 24 ವರ್ಷ	",
+	"	D. 38 ವರ್ಷ	"
 ],			
-"correct" :	"	d. 38 years	",
-"explanation" :	"	Now a certain man was there who had an infirmity thirty-eight years. - Jn 5:5	",
+"correct" :	"	D. 38 ವರ್ಷ	",
+"explanation" :	"	ಅಲ್ಲಿ ಮೂವತ್ತೆಂಟು ವರುಷದಿಂದ ರೋಗಿಯಾಗಿದ್ದ ಒಬ್ಬ ಮನುಷ್ಯನಿದ್ದನು 5:5	",
 },			
 {			
-"question" :	"	7. The Jews sought to slay Jesus, because he healed a man	",
+"question" :	"	7  ಯೆಹೂದ್ಯರು ಯೇಸುವನ್ನು ಕೊಲ್ಲುವದಕ್ಕೆ ಯೋಚಿಸಿದರು, ಯಾಕೆಂದರೆ ಆತನು    __________  ಒಬ್ಬ ಮನುಷ್ಯನನ್ನು ಸೌಖ್ಯಪಡಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. That was not Jewish.	",
-	"	b. That was a sinner.	",
-	"	c. On the Sabbath.	",
-	"	d. In the temple.	"
+	"	A. ಯೆಹೂದ್ಯನಲ್ಲದ	",
+	"	B. ಪಾಪಿಯಾದ	",
+	"	C. ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ	",
+	"	D. ದೇವಾಲಯದಲ್ಲಿ	"
 ],			
-"correct" :	"	c. On the Sabbath.	",
-"explanation" :	"	For this reason the Jews persecuted Jesus, and sought to kill Him, because He had done these things on the Sabbath. - Jn 5:16	",
+"correct" :	"	C. ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ	",
+"explanation" :	"	ಆದಕಾರಣ ಯೆಹೂದ್ಯರು - ಯೇಸು ಸಬ್ಬತ್‍ದಿನದಲ್ಲಿ ಇಂಥ ಕೆಲಸಗಳನ್ನು ಮಾಡುತ್ತಾನಲ್ಲಾ ಎಂದು ಆತನನ್ನು ಹಿಂಸಿಸುವವರಾದರು.  5:16	",
 },			
 {			
-"question" :	"	8. Where did Jesus later find the healed man?	",
+"question" :	"	8  ನಂತರದಲ್ಲಿ ಯೇಸು ಸ್ವಸ್ಥಗೊಂಡ ಮನುಷ್ಯನನ್ನು ಎಲ್ಲಿ ಕಂಡನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hiding in a cave	",
-	"	b. At the temple	",
-	"	c. At the marketplace	",
-	"	d. At the pool	"
+	"	A. ಗುಹೆಯಲ್ಲಿ ಬಚ್ಚಿಟ್ಟುಕೊಂಡಿದ್ದನು	",
+	"	B. ದೇವಾಲಯದಲ್ಲಿ	",
+	"	C. ಸಂತೇಪೇಟೆಗಳಲ್ಲಿ	",
+	"	D. ಕೊಳದ ಬಳಿ	"
 ],			
-"correct" :	"	b. At the temple	",
-"explanation" :	"	Afterward Jesus found him in the temple, and said to him, See, you have been made well. Sin no more, lest a worse thing come upon you. - Jn 5:14	",
+"correct" :	"	B. ದೇವಾಲಯದಲ್ಲಿ	",
+"explanation" :	"	ಇದಾದ ಮೇಲೆ ಯೇಸು ಅವನನ್ನು ದೇವಾಲಯದಲ್ಲಿ ಕಂಡುಕೊಂಡು - ನಿನಗೆ ಸ್ವಸ್ಥವಾಯಿತಲ್ಲಾ; ಇನ್ನು ಮೇಲೆ ಪಾಪಮಾಡಬೇಡ; ನಿನಗೆ ಹೆಚ್ಚಿನ ಕೇಡು ಬಂದೀತು ಅಂದನು 5:14	",
 },			
 {			
-"question" :	"	9. What did Jesus instruct the man?	",
+"question" :	"	9 ಯೇಸು ಆ ಮನುಷ್ಯನಿಗೆ ಏನು ಸೂಚನೆ ಕೊಟ್ಟನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Don’t tell the Pharisees who I am.	",
-	"	b. Go and tell no man.	",
-	"	c. Thy faith has made thee whole.	",
-	"	d. Sin no more lest a worse thing come unto thee.	"
+	"	A. ನಾನು ಯಾರೆಂದು ಫರಿಸಾಯರಿಗೆ ಹೇಳಬೇಡ	",
+	"	B. ಯಾರಿಗೂ ಹೇಳಬೇಡ ನೋಡು	",
+	"	C. ನಿನ್ನ ನಂಬಿಕೆಯೇ ನಿನ್ನನ್ನು ಸ್ವಸ್ಥ ಮಾಡಿದೆ	",
+	"	D. ಇನ್ನು ಮೇಲೆ ಪಾಪ ಮಾಡಬೇಡ, ನಿನಗೆ ಇನ್ನೂ ಹೆಚ್ಚಿನ ಕೇಡು ಬಂದೀತು	"
 ],			
-"correct" :	"	d. Sin no more lest a worse thing come unto thee.	",
-"explanation" :	"	Afterward Jesus found him in the temple, and said to him, See, you have been made well. Sin no more, lest a worse thing come upon you. - Jn 5:14	",
+"correct" :	"	D. ಇನ್ನು ಮೇಲೆ ಪಾಪ ಮಾಡಬೇಡ, ನಿನಗೆ ಇನ್ನೂ ಹೆಚ್ಚಿನ ಕೇಡು ಬಂದೀತು	",
+"explanation" :	"	ಇದಾದ ಮೇಲೆ ಯೇಸು ಅವನನ್ನು ದೇವಾಲಯದಲ್ಲಿ ಕಂಡುಕೊಂಡು - ನಿನಗೆ ಸ್ವಸ್ಥವಾಯಿತಲ್ಲಾ; ಇನ್ನು ಮೇಲೆ ಪಾಪಮಾಡಬೇಡ; ನಿನಗೆ ಹೆಚ್ಚಿನ ಕೇಡು ಬಂದೀತು ಅಂದನು 5:14	",
 },			
 {			
-"question" :	"	10. Jesus said this man was a burning and shining light.	",
+"question" :	"	10 ಯೇಸು ಹೇಳಿದ್ದು, ___________ ಉರಿಯುವ ದೀಪದೋಪಾದಿಯಲ್ಲಿ ಪ್ರಕಾಶಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. John the Baptist	",
-	"	b. Abraham	",
-	"	c. David	",
-	"	d. Peter	"
+	"	A. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು	",
+	"	B. ಅಬ್ರಹಾಮನು	",
+	"	C. ದಾವೀದನು	",
+	"	D. ಪೇತ್ರನು	"
 ],			
-"correct" :	"	a. John the Baptist	",
-"explanation" :	"	You have sent to John, and he has borne witness to the truth.Yet I do not receive testimony from man, but I say these things that you may be saved.He was the burning and shining lamp, and you were willing for a time to rejoice in his light. - Jn 5:33-35	",
+"correct" :	"	A. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು	",
+"explanation" :	"	ನೀವು ಯೋಹಾನನ ಬಳಿಯಲ್ಲಿ ಕೇಳಿಕೊಂಡು ಬರುವದಕ್ಕೆ ಕಳುಹಿಸಿದಿರಿ; ಅವನು ಸತ್ಯಕ್ಕೆ ಸಾಕ್ಷಿ ಹೇಳಿದನು. ನಾನಂತೂ ನನಗೆ ಬೇಕಾದ ಸಾಕ್ಷಿಯನ್ನು ಮನುಷ್ಯರಿಂದ ತಕ್ಕೊಳ್ಳುವದಿಲ್ಲ; ಆದರೂ ನಿಮಗೆ ರಕ್ಷಣೆ ಆಗಬೇಕೆಂದು ಇದನ್ನು ಹೇಳಿದ್ದೇನೆ. ಯೋಹಾನನು ಉರಿಯುವ ದೀಪದೋಪಾದಿಯಲ್ಲಿ ಪ್ರಕಾಶಿಸಿದನು. ಅವನು ಕೊಡುವ ಬೆಳಕಿನಲ್ಲಿ ಸ್ವಲ್ಪಕಾಲ ವಿನೋದಗೊಳ್ಳುವದಕ್ಕೆ ಮನಸ್ಸುಮಾಡಿದಿರಿ.  5:33-35	",
 },			
 ]			

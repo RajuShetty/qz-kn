@@ -1,4 +1,4 @@
-var quiztitle = " Hebrews chapter 2";			
+var quiztitle = " ಇಬ್ರಿಯರಿಗೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಈ ಅತ್ಯಂತ ವಿಶೇಷವಾದುದನ್ನು ಅಲಕ್ಷ್ಯ ಮಾಡಿದರೆ ತಪ್ಪಿಸಿಕೊಳ್ಳುವುದು ಹೇಗೆ?	",

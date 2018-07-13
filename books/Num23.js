@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 23";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
 "question" :	"	1. Balaam told Balak to prepare this many altars.	",

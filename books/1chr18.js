@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 18";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. David took Gath and her towns out of the hands of	",

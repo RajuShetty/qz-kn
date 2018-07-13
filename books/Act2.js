@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 2";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
-"question" :	"	1. When this day arrived, the disciples were all in one place.	",
+"question" :	"	1 ಈ ದಿನವು ಬಂದಾಗ ಶಿಷ್ಯರೆಲ್ಲರೂ ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ಕೂಡಿಬಂದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Feast of Trumpets	",
-	"	b. Passover	",
-	"	c. Pentecost	",
-	"	d. Yom Kipper	"
+	"	A. ತುತ್ತೂರಿಯ ಹಬ್ಬ	",
+	"	B. ಫಸ್ಕ ಹಬ್ಬ	",
+	"	C. ಪಂಚಾಶತ್ತಮ	",
+	"	D. ಯೋಮ್ ಕಿಪ್ಪರ್	"
 ],			
-"correct" :	"	c. Pentecost	",
-"explanation" :	"	When the day of Pentecost came, they were all together in one place.Acts2:1	",
+"correct" :	"	C. ಪಂಚಾಶತ್ತಮ	",
+"explanation" :	"	ಪಂಚಾಶತ್ತಮ ದಿನದ ಹಬ್ಬವು ಬಂದಿರಲಾಗಿ ಅವರೆಲ್ಲರು ಏಕಮನಸ್ಸಿನಿಂದ ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ ಕೂಡಿದ್ದರು 2:1	",
 },			
 {			
-"question" :	"	2. There came a sound from heaven, such as this.	",
+"question" :	"	2 ಆಕಾಶದಿಂದ ಧ್ವನಿಯು ಈ ರೀತಿಯಾಗಿ ಬಂದಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A tinkling cymbal	",
-	"	b. A rushing, mighty wind	",
-	"	c. A clap of thunder	",
-	"	d. A trumpet blaring	"
+	"	A. ವಾದ್ಯಗೋಷ್ಠಿಗಳ ಧ್ವನಿ	",
+	"	B. ಬಿರುಗಾಳಿಯ ಮಂದಶಬ್ಧ	",
+	"	C. ಗುಡುಗಿನ ಶಬ್ಧ	",
+	"	D. ತುತ್ತೂರಿಯ ಶಬ್ಧ	"
 ],			
-"correct" :	"	b. A rushing, mighty wind	",
-"explanation" :	"	Suddenly a sound like the blowing of a violent wind came from heaven and filled the whole house where they were sitting.Acts2:2	",
+"correct" :	"	B. ಬಿರುಗಾಳಿಯ ಮಂದಶಬ್ಧ	",
+"explanation" :	"	ಆಗ ಬಿರುಗಾಳಿ ಬೀಸುತ್ತದೋ ಎಂಬಂತೆ ಫಕ್ಕನೆ ಆಕಾಶದೊಳಗಿಂದ ಒಂದು ಶಬ್ದವುಂಟಾಗಿ ಅವರು ಕೂತಿದ್ದ ಮನೆಯನ್ನೆಲ್ಲಾ ತುಂಬಿಕೊಂಡಿತು 2:2	",
 },			
 {			
-"question" :	"	3. Cloven tongues like as of this, sat upon each of them.	",
+"question" :	"	3 _________ನಾಲಿಗೆಯ ರೂಪದಲ್ಲಿ ಅವರ ಮೇಲೆ ಕುಳಿತುಕೊಂಡಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Smoke	",
-	"	b. Fire	",
-	"	c. Ice	",
-	"	d. Blood 	"
+	"	A. ಹೊಗೆಯು	",
+	"	B. ಬೆಂಕಿಯು	",
+	"	C. ಮಂಜುಗಡ್ಡೆಯು	",
+	"	D. ರಕ್ತವು	"
 ],			
-"correct" :	"	b. Fire	",
-"explanation" :	"	They saw what seemed to be tongues of fire that separated and came to rest on each of them.Acts2:3	",
+"correct" :	"	B. ಬೆಂಕಿಯು	",
+"explanation" :	"	ಅದಲ್ಲದೆ ಉರಿಯಂತಿದ್ದ ನಾಲಿಗೆಗಳು ವಿಂಗಡಿಸಿಕೊಳ್ಳುವ ಹಾಗೆ ಅವರಿಗೆ ಕಾಣಿಸಿ ಅವರಲ್ಲಿ ಒಬ್ಬೊಬ್ಬರ ಮೇಲೆ ಒಂದೊಂದಾಗಿ ಕೂತುಕೊಂಡವು.  2:3	",
 },			
 {			
-"question" :	"	4. When they were filled with the Holy Ghost, they began to do this.	",
+"question" :	"	4 ಅವರು ಪರಿಶುದ್ಧಾತ್ಮನಿಂದ ತುಂಬಿದಾಗ, ಹೀಗೆ ಮಾಡಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Speak with other tongues	",
-	"	b. Speak blasphemies	",
-	"	c. Weep for joy	",
-	"	d. Pray for forgiveness	"
+	"	A. ನಾನಾ ಭಾಷೆಗಳಲ್ಲಿ ಮಾತನಾಡಿದರು	",
+	"	B. ದೇವರ ವಿರುದ್ಧವಾಗಿ ಮಾತನಾಡಿದರು	",
+	"	C. ಸಂತೋಷದಿಂದ ಅತ್ತರು	",
+	"	D. ಕ್ಷಮಾಪಣೆಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿದರು	"
 ],			
-"correct" :	"	a. Speak with other tongues	",
-"explanation" :	"	All of them were filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.Acts2:4	",
+"correct" :	"	A. ನಾನಾ ಭಾಷೆಗಳಲ್ಲಿ ಮಾತನಾಡಿದರು	",
+"explanation" :	"	ಆಗ ಅವರೆಲ್ಲರು ಪವಿತ್ರಾತ್ಮಭರಿತರಾಗಿ ಆ ಆತ್ಮ ತಮತಮಗೆ ನುಡಿಯುವ ಶಕ್ತಿಯನ್ನು ಕೊಡುವ ಪ್ರಕಾರ ಬೇರೆಬೇರೆ ಭಾಷೆಗಳಿಂದ ಮಾತಾಡುವದಕ್ಕೆ ಪ್ರಾರಂಭಿಸಿದರು. 2:4	",
 },			
 {			
-"question" :	"	5. Some men mocked the disciples,saying they were	",
+"question" :	"	5 ಕೆಲವು ಜನರು ಹೀಗೆಂದು ಶಿಷ್ಯರನ್ನು ಹೀಯಾಳಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mad.	",
-	"	b. Drunk.	",
-	"	c. Frauds.	",
-	"	d. Charlatans. 	"
+	"	A. ಹುಚ್ಚರು	",
+	"	B. ಪಾನಮತ್ತರಾಗಿದ್ದಾರೆ	",
+	"	C. ವಂಚಕರು	",
+	"	D. ಕಪಟ ವೇಷಧಾರಿಗಳು	"
 ],			
-"correct" :	"	b. Drunk.	",
-"explanation" :	"	Some, however, made fun of them and said, They have had too much wine.Then Peter stood up with the Eleven, raised his voice and addressed the crowd: Fellow Jews and all of you who live in Jerusalem, let me explain this to you; listen carefully to what I say.These people are not drunk, as you suppose. It’s only nine in the morning!.Acts2:13-15	",
+"correct" :	"	B. ಪಾನಮತ್ತರಾಗಿದ್ದಾರೆ	",
+"explanation" :	"	ಕೆಲವರು - ಇವರು ಮದ್ಯಪಾನ ಮಾಡಿ ಮತ್ತರಾಗಿದ್ದಾರೆಂದು ಹಾಸ್ಯಮಾಡಿದರು. ಆಗ ಪೇತ್ರನು ಹನ್ನೊಂದು ಮಂದಿ ಅಪೊಸ್ತಲರ ಸಹಿತ ಎದ್ದು ನಿಂತು ಗಟ್ಟಿಯಾದ ಧ್ವನಿಯಿಂದ ಅವರಿಗೆ ಹೀಗೆ ಪ್ರಸಂಗ ಮಾಡಿದನು - ಯೆಹೂದ್ಯರೇ, ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ವಾಸವಾಗಿರುವ ಎಲ್ಲಾ ಜನರೇ, ಈ ಸಂಗತಿಯು ಏನೆಂದು ನಿಮಗೆ ಗೊತ್ತಾಗುವ ಹಾಗೆ ನನ್ನ ಮಾತಿಗೆ ಕಿವಿಗೊಡಿರಿ; ನೀವು ಭಾವಿಸಿದಂತೆ ಇವರು ಅಮಲೇರಿದವರಲ್ಲ; ಈಗ ಬೆಳಿಗ್ಗೆ ಒಂಭತ್ತು ಘಂಟೆಯಾಗಿದೆಯಷ್ಟೆ. 2:13-15	",
 },			
 {			
-"question" :	"	6. Which disciple answered the crowd?	",
+"question" :	"	6 ಆ ಗುಂಪಿಗೆ ಉತ್ತರಿಸಿದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. Paul	",
-	"	c. James	",
-	"	d. John	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಪೌಲ	",
+	"	C. ಯಾಕೋಬ	",
+	"	D. ಯೋಹಾನ	"
 ],			
-"correct" :	"	a. Peter	",
-"explanation" :	"	Then Peter stood up with the Eleven, raised his voice and addressed the crowd: Fellow Jews and all of you who live in Jerusalem, let me explain this to you; listen carefully to what I say.Acts2:14	",
+"correct" :	"	A. ಪೇತ್ರ	",
+"explanation" :	"	ಆಗ ಪೇತ್ರನು ಹನ್ನೊಂದು ಮಂದಿ ಅಪೊಸ್ತಲರ ಸಹಿತ ಎದ್ದು ನಿಂತು ಗಟ್ಟಿಯಾದ ಧ್ವನಿಯಿಂದ ಅವರಿಗೆ ಹೀಗೆ ಪ್ರಸಂಗ ಮಾಡಿದನು - ಯೆಹೂದ್ಯರೇ, ಯೆರೂಸಲೇಮಿನಲ್ಲಿ ವಾಸವಾಗಿರುವ ಎಲ್ಲಾ ಜನರೇ, ಈ ಸಂಗತಿಯು ಏನೆಂದು ನಿಮಗೆ ಗೊತ್ತಾಗುವ ಹಾಗೆ ನನ್ನ ಮಾತಿಗೆ ಕಿವಿಗೊಡಿರಿ 2:14	",
 },			
 {			
-"question" :	"	7. What prophet did that disciple quote?	",
+"question" :	"	7 ಯಾವ ಪ್ರವಾದಿಯನ್ನು ಅವರು ಉಲ್ಲೇಖಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Joel	",
-	"	b. Amos	",
-	"	c. Isaiah	",
-	"	d. Jeremiah	"
+	"	A. ಯೋವೇಲ	",
+	"	B. ಆಮೋಸ	",
+	"	C. ಯೇಶಾಯ	",
+	"	D. ಯೆರೇಮಿಯ	"
 ],			
-"correct" :	"	a. Joel	",
-"explanation" :	"	But this is what was spoken by the prophet Joel.Acts2:16	",
+"correct" :	"	A. ಯೋವೇಲ	",
+"explanation" :	"	ಆದರೆ ಇದು ಪ್ರವಾದಿಯಾದ ಯೋವೇಲನ ಮೂಲಕವಾಗಿ ಹೇಳಿಸಿದ ಸಂಗತಿ. ಅದೇನಂದರೆ - 2:16	",
 },			
 {			
-"question" :	"	8. Before that great and notable day of the Lord, what will the moon be turned to?	",
+"question" :	"	8 ಕರ್ತನ ಆ ಮಹಾ ದಿನಕ್ಕಿಂತ ಮೊದಲು, ಚಂದ್ರನು ಹೇಗೆ ಬದಲಾಗುತ್ತಾನೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Cheese	",
-	"	b. Water	",
-	"	c. Smoke	",
-	"	d. Blood	"
+	"	A. ಬೆಣ್ಣೆ	",
+	"	B. ನೀರು	",
+	"	C. ಹೊಗೆ	",
+	"	D. ರಕ್ತ	"
 ],			
-"correct" :	"	d. Blood	",
-"explanation" :	"	The sun shall be turned into darkness,And the moon into blood,Before the coming of the great and awesome day of the Lord.Acts2:20	",
+"correct" :	"	D. ರಕ್ತ	",
+"explanation" :	"	ಕರ್ತನ ಆಗಮನದ ಗಂಭೀರವಾದ ಮಹಾದಿನವು ಬರುವದಕ್ಕೆ ಮುಂಚೆ ಮೇಲೆ ಆಕಾಶದಲ್ಲಿ ಅದ್ಭುತಕಾರ್ಯಗಳನ್ನೂ ಕೆಳಗೆ ಭೂಮಿಯಲ್ಲಿ ಸೂಚಕಕಾರ್ಯಗಳನ್ನೂ ಉಂಟುಮಾಡುವೆನು. ರಕ್ತ, ಬೆಂಕಿ, ಹಬೆಯಂತೆ ಏರುವ ಹೊಗೆ, ಇವು ಉಂಟಾಗುವವು. ಸೂರ್ಯನು ಕತ್ತಲಾಗುವನು, ಚಂದ್ರನು ರಕ್ತವಾಗುವನು 2:20	",
 },			
 {			
-"question" :	"	9. Whosoever shall call upon the name of the Lord	",
+"question" :	"	9 ಯಾರ್ಯಾರು ಆತನ ನಾಮದಲ್ಲಿ ಕರೆಯಲ್ಪಟ್ಟರೋ, ಅವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Is wise.	",
-	"	b. Shall not be answered.	",
-	"	c. Shall be killed.	",
-	"	d. Shall be saved.	"
+	"	A. ಬುದ್ದಿವಂತರು	",
+	"	B. ಉತ್ತರಿಸಬೇಕಾಗಿಲ್ಲ	",
+	"	C. ಕೊಲ್ಲಲ್ಪಡುವರು	",
+	"	D. ರಕ್ಷಿಸಲ್ಪಡುವರು	"
 ],			
-"correct" :	"	d. Shall be saved.	",
-"explanation" :	"	And it shall come to pass That whoever calls on the name of the Lord Shall be saved.Acts2:21	",
+"correct" :	"	D. ರಕ್ಷಿಸಲ್ಪಡುವರು	",
+"explanation" :	"	ಆದರೂ ಕರ್ತನ ನಾಮವನ್ನು ಹೇಳಿಕೊಳ್ಳುವವರೆಲ್ಲರಿಗೆ ರಕ್ಷಣೆಯಾಗುವದೆಂದು ದೇವರು ಹೇಳುತ್ತಾನೆ ಎಂಬದೇ. 2:21	",
 },			
 {			
-"question" :	"	10. How many believers were added that day?	",
+"question" :	"	10 ಆ ದಿನದಲ್ಲಿ ಎಷ್ಟು ಜನ ವಿಶ್ವಾಸಿಗಳು ಅವರಲ್ಲಿ ಸೇರಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 450	",
-	"	b. 1,200	",
-	"	c. 2,800	",
-	"	d. 3,000	"
+	"	A. 450	",
+	"	B. 1200	",
+	"	C. 2800	",
+	"	D. 3000	"
 ],			
-"correct" :	"	d. 3,000	",
-"explanation" :	"	Then those who gladly received his word were baptized; and that day about three thousand souls were added to them.Acts2:41	",
+"correct" :	"	D. 3000	",
+"explanation" :	"	ಅವನ ಮಾತಿಗೆ ಒಪ್ಪಿಕೊಂಡವರು ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿಕೊಂಡರು. ಆ ದಿವಸ ಸುಮಾರು ಮೂರುಸಾವಿರ ಜನರು ಅವರಲ್ಲಿ ಸೇರಿದರು 2:41	",
 },			
 ]			

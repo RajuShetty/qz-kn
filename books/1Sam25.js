@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 25";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 25";			
 var quiz = [			
 {			
 "question" :	"	1. He died, and all the Israelites came to lament him.	",

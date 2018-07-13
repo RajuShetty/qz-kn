@@ -1,4 +1,4 @@
-var quiztitle = " Hebrews chapter 11";			
+var quiztitle = " ಇಬ್ರಿಯರಿಗೆ ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. ನಂಬಿಕೆಯಿಂದಲೇ ಈ ಮನುಷ್ಯನು ಕಾಯಿನನಿಗಿಂತ ಶ್ರೇಷ್ಠಯಜ್ಞವನ್ನು ಸಮರ್ಪಿಸಿದನು.	",

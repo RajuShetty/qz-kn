@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 13";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. Absalom had a sister named	",
@@ -94,7 +94,7 @@ var quiz = [
 	"	d. Abner	"
 ],			
 "correct" :	"	a. Absalom	",
-"explanation" :	"	Now Absalom had commanded his servants, saying, Mark ye now when Amnon's heart is merry with wine, and when I say unto you, Smite Amnon; then kill him, fear not: have not I commanded you? be courageous, and be valiant. 2 Sam 13:28	",
+"explanation" :	"	Now Absalom had commanded his servants, saying, ಮಾರ್ಕ ye now when Amnon's heart is merry with wine, and when I say unto you, Smite Amnon; then kill him, fear not: have not I commanded you? be courageous, and be valiant. 2 Sam 13:28	",
 },			
 {			
 "question" :	"	9. David laid himself on the ground when he received this untrue message.	",

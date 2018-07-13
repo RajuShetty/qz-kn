@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 26";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 26";			
 var quiz = [			
 {			
-"question" :	"	1. A woman poured ointment on Jesus’ head, but the disciples thought	",
+"question" :	"	1 ಒಬ್ಬ ಸ್ತ್ರೀಯು ಸುಗಂಧದ್ರವ್ಯವನ್ನು ತಂದು ಯೇಸುವಿನ ಮೇಲೆ ಹೊಯಿದಳು, ಆಗ ಶಿಷ್ಯರು ಏನು ಯೋಚಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. It should have been poured on His feet.	",
-	"	b. It should have been poured on their heads.	",
-	"	c. She should have kept it.	",
-	"	d. It should have been sold & given to the poor.	"
+	"	A. ಅದು ಆತನ ತಲೆಯ ಮೇಲೆ ಹೊಯ್ಯಬೇಕಾಗಿತ್ತು	",
+	"	B. ಅದು ಅವರ ತಲೆಗಳ ಮೇಲೆ ಹೊಯ್ಯಬೇಕಾಗಿತ್ತು	",
+	"	C. ಆಕೆ ಅದನ್ನು ಹಾಗೆಯೇ ಇರಿಸಿಕೊಳ್ಳಬೇಕಾಗಿತ್ತು	",
+	"	D. ಆಕೆ ಈ ತೈಲವನ್ನು ಬಹು ಹಣಕ್ಕೆ ಮಾರಿ ಬಡವರಿಗೆ ಕೊಡಬಹುದಾಗಿತ್ತು	"
 ],			
-"correct" :	"	d. It should have been sold & given to the poor.	",
-"explanation" :	"	a woman came to Him having an alabaster flask of very costly fragrant oil, and she poured it on His head as He sat at the table.But when His disciples saw it, they were indignant, saying, Why this waste?For this fragrant oil might have been sold for much and given to the poor - Matt 26:7-9	",
+"correct" :	"	D. ಆಕೆ ಈ ತೈಲವನ್ನು ಬಹು ಹಣಕ್ಕೆ ಮಾರಿ ಬಡವರಿಗೆ ಕೊಡಬಹುದಾಗಿತ್ತು	",
+"explanation" :	"	ಒಬ್ಬ ಸ್ತ್ರೀಯು ಬಹು ಬೆಲೆಯುಳ್ಳ ಸುಗಂಧ ತೈಲದ ಭರಣಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಆತನ ಬಳಿಗೆ ಬಂದು ಆತನು ಊಟಕ್ಕೆ ಕೂತಿರುವಾಗ ಆ ತೈಲವನ್ನು ಆತನ ತಲೆಯ ಮೇಲೆ ಹೊಯಿದಳು.  ಶಿಷ್ಯರು ಇದನ್ನು ಕಂಡು ಕೋಪಗೊಂಡು ಈ ನಷ್ಟ ಯಾತಕ್ಕೆ ಈ ತೈಲವನ್ನು ಬಹಳ ಹಣಕ್ಕೆ ಮಾರಿ ಬಡವರಿಗೆ ಕೊಡಬಹುದಾಗಿತ್ತಲ್ಲಾ ಅಂದರು.  ಮತ್ತಾಯ 26:7-9	",
 },			
 {			
-"question" :	"	2. Which of the twelve betrayed Jesus?	",
+"question" :	"	2 ಹನ್ನೆರಡು ಮಂದಿ ಶಿಷ್ಯರಲ್ಲಿ ಯೇಸುವನ್ನು ಹಿಡಿದುಕೊಟ್ಟವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Simon Peter	",
-	"	b. James	",
-	"	c. Judas Iscariot	",
-	"	d. Philip	"
+	"	A. ಸೀಮೋನ್ ಪೇತ್ರ	",
+	"	B. ಯಾಕೋಬ	",
+	"	C. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+	"	D. ಫಿಲಿಪ್ಪಿ	"
 ],			
-"correct" :	"	c. Judas Iscariot	",
-"explanation" :	"	Then one of the twelve, called Judas Iscariot, went to the chief priests and said, What are you willing to give me if I deliver Him to you? And they counted out to him thirty pieces of silver. - Matt 26:14-16	",
+"correct" :	"	C. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+"explanation" :	"	ಆಮೇಲೆ ಹನ್ನರಡು ಮಂದಿ ಶಿಷ್ಯರಲ್ಲಿ ಒಬ್ಬನಾದ ಇಸ್ಕರಿಯೋತ ಯೂದನೆಂಬುವನು ಮಹಾಯಾಜಕರ ಬಳಿಗೆ ಹೋಗಿ ನಾನು ಅವನನ್ನು ನಿಮಗೆ ಹಿಡುಕೊಟ್ಟರೆ ನನಗೆ ಏನು ಕೊಡುತ್ತೀರಿ ಅಂದನು.  ಅವರು ಅವನಿಗೆ ಮೂವತ್ತು ರೂಪಾಯಿ ತೂಗಿಕೊಟ್ಟರು.  ಅಂದಿನಿಂದ ಅವನು ಆತನನ್ನು ಹಿಡುಕೊಡುವದಕ್ಕೆ ಅನುಕೂಲವಾದ ಸಮಯವನ್ನು ನೋಡುತ್ತಿದ್ದನು.      ಮತ್ತಾಯ 26:14-16	",
 },			
 {			
-"question" :	"	3. What did he receive for betraying Jesus?	",
+"question" :	"	3. ಯೇಸುವನ್ನು ಹಿಡಿದುಕೊಡುವುದಕ್ಕಾಗಿ ಆತನು ಏನನ್ನು ಪಡೆದುಕೊಂಡನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 30 pieces of silver	",
-	"	b. 30 pieces of gold	",
-	"	c. 100 pieces of silver	",
-	"	d. 100 pieces of gold	"
+	"	A. 10 ಬೆಳ್ಳಿಯ ನಾಣ್ಯಗಳು	",
+	"	B. 30  ನಾಣ್ಯಗಳು	",
+	"	C. 100 ಬೆಳ್ಳಿಯ ನಾಣ್ಯಗಳು	",
+	"	D. 100 ಚಿನ್ನದ ನಾಣ್ಯಗಳು	"
 ],			
-"correct" :	"	a. 30 pieces of silver	",
-"explanation" :	"	What are you willing to give me if I deliver Him to you? And they counted out to him thirty pieces of silver. - Matt 26:15	",
+"correct" :	"	B. 30 ನಾಣ್ಯಗಳು	",
+"explanation" :	"	ನಾನು ಅವನನ್ನು ನಿಮಗೆ ಹಿಡುಕೊಟ್ಟರೆ ನನಗೆ ಏನು ಕೊಡುತ್ತೀರಿ ಅಂದನು, ಅವರು ಅವನಿಗೆ ಮೂವತ್ತು ರೂಪಾಯಿ ತೂಗಿಕೊಟ್ಟರು.       ಮತ್ತಾಯ 26:15	",
 },			
 {			
-"question" :	"	4. Jesus said, the bread represented this.	",
+"question" :	"	4 ಯೇಸು ಹೇಳಿದ್ದು, ರೊಟ್ಟಿಯು _______________ ಸೂಚಿಸುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Israel	",
-	"	b. The church	",
-	"	c. The world	",
-	"	d. His body	"
+	"	A. ಇಸ್ರಾಯೇಲನ್ನು	",
+	"	B. ಸಭೆಯನ್ನು	",
+	"	C. ಲೋಕವನ್ನು	",
+	"	D. ನನ್ನ ದೇಹವನ್ನು	"
 ],			
-"correct" :	"	d. His body	",
-"explanation" :	"	And as they were eating, Jesus took bread, blessed and broke it, and gave it to the disciples and said, Take, eat; this is My body. - Matt 26:26	",
+"correct" :	"	D. ನನ್ನ ದೇಹವನ್ನು	",
+"explanation" :	"	ಅವರು ಊಟ ಮಾಡುತ್ತಿರುವಾಗ ಯೇಸು ರೊಟ್ಟಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ದೇವರ ಸ್ತೋತ್ರ ಮಾಡಿ ಮುರಿದು ಶಿಷ್ಯರಿಗೆ ಕೊಟ್ಟು ತಕ್ಕೊಳ್ಳಿರಿ, ತಿನ್ನಿರಿ, ಇದು ನನ್ನ ದೇಹ ಅಂದನು.     ಮತ್ತಾಯ 26:26	",
 },			
 {			
-"question" :	"	5. Jesus said, the fruit of the vine represented His blood, which is shed	",
+"question" :	"	5 ಯೇಸು ಹೇಳಿದ್ದು, ದ್ರಾಕ್ಷಾರಸವು ಆತನ ರಕ್ತವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅದು _________________ ಸುರಿಸಲ್ಪಡುವ ರಕ್ತ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Unjustly.	",
-	"	b. Because evil has prevailed.	",
-	"	c. For many for the remission of sins.	",
-	"	d. Against all the will of all that is good and godly.	"
+	"	A. ಅನ್ಯಾಯವಾಗಿ	",
+	"	B. ಅನ್ಯಾಯವು ಜಯಸಿದ್ದಕ್ಕಾಗಿ	",
+	"	C. ಪಾಪಗಳ ಕ್ಷಮೆಗಾಗಿ ಬಹುಜನರಿಗಾಗಿ	",
+	"	D. ಒಳ್ಳೆಯದು ಮತ್ತು ದೇವರ ಚಿತ್ತಕ್ಕೆ ವಿರುದ್ದವಾದುದ್ದಕ್ಕಾಗಿ	"
 ],			
-"correct" :	"	c. For many for the remission of sins.	",
-"explanation" :	"	Then He took the cup, and gave thanks, and gave it to them, saying, Drink from it, all of you.For this is My blood of the new covenant, which is shed for many for the remission of sins.But I say to you, I will not drink of this fruit of the vine from now on until that day when I drink it new with you in My Father's kingdom. - Matt 26:27-29	",
+"correct" :	"	C. ಪಾಪಗಳ ಕ್ಷಮೆಗಾಗಿ ಬಹುಜನರಿಗಾಗಿ	",
+"explanation" :	"	ಆಮೇಲೆ ಪಾತ್ರೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಸ್ತೋತ್ರಮಾಡಿ ಅವರಿಗೆ ಕೊಟ್ಟು ಇದರಲ್ಲಿರುವದನ್ನು ಎಲ್ಲರೂ ಕುಡಿಯಿರಿ, ಇದು ನನ್ನ ರಕ್ತ, ಇದು ಒಡಂಬಡಿಕೆಯ ರಕ್ತ, ಇದು ಪಾಪಗಳ ಕ್ಷಮೆಗಾಗಿ ಬಹು ಜನರಿಗೋಸ್ಕರ ಸುರಿಸಲ್ಪಡುವ ರಕ್ತ.  ಮತ್ತಾಯ 26:27-29	",
 },			
 {			
-"question" :	"	6. After they ate, what did Jesus and His disciples do before going to the Mt. of Olives?	",
+"question" :	"	6 ಊಟವಾದ ನಂತರ, ಯೇಸು ಮತ್ತು ಆತನ ಶಿಷ್ಯರು ಎಣ್ಣೆಯ ಮರದ ಗುಡ್ಡಗಳಿಗೆ ಹೋಗುವ ಮೊದಲು ಏನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Prayed	",
-	"	b. Discussed the kingdom	",
-	"	c. Made a sacrifice	",
-	"	d. Sang a hymn	"
+	"	A. ಪ್ರಾರ್ಥಿಸಿದರು	",
+	"	B. ದೇವರ ರಾಜ್ಯದ ಕುರಿತು ಚರ್ಚಿಸಿದರು	",
+	"	C. ಯಜ್ಞ ಅರ್ಪಿಸಿದರು	",
+	"	D. ಕೀರ್ತನೆ ಹಾಡಿದರು	"
 ],			
-"correct" :	"	d. Sang a hymn	",
-"explanation" :	"	And when they had sung a hymn, they went out to the Mount of Olives. - Matt 26:30	",
+"correct" :	"	D. ಕೀರ್ತನೆ ಹಾಡಿದರು	",
+"explanation" :	"	ಕೀರ್ತನೆ ಹಾಡಿದರು ಬಳಿಕ ಅವರು ಕೀರ್ತನೆಯನ್ನು ಹಾಡಿ ಎಣ್ಣೆಯ ಮರಗಳ ಗುಡ್ಡಕ್ಕೆ ಹೊರಟುಹೋದರು.  ಮತ್ತಾಯ 26:30	",
 },			
 {			
-"question" :	"	7. How many times did Jesus say Peter would deny Him before the cock crowed?	",
+"question" :	"	7 ಕೋಳಿ ಕೂಗುವುದಕ್ಕಿಂತ ಮುಂಚೆ ಎಷ್ಟು ಸಾರಿ ಪೇತ್ರನು ತನ್ನನ್ನು ನಿರಾಕರಿಸುವನು ಎಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1	",
-	"	b. 2	",
-	"	c. 3	",
-	"	d. 4	"
+	"	A. 1	",
+	"	B. 2	",
+	"	C. 3.	",
+	"	D. 4	"
 ],			
-"correct" :	"	c. 3	",
-"explanation" :	"	Peter answered and said to Him, Even if all are made to stumble because of You, I will never be made to stumble.Jesus said to him, Assuredly, I say to you that this night, before the rooster crows, you will deny Me three times. - Matt 26:33,34	",
+"correct" :	"	C. 3.	",
+"explanation" :	"	ಪೇತ್ರನು ಆತನಿಗೆ ಎಲ್ಲರೂ ನಿನ್ನ ವಿಷಯದಲ್ಲಿ ದಿಗಿಲುಪಟ್ಟು ಹಿಂಜರಿದರೂ ನಾನು ಎಂದಿಗೂ ಹಿಂಜರಿಯುವದಿಲ್ಲ ಎಂದು ಉತ್ತರಕೊಡಲು ಯೇಸು ನಿನಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ, ಇದೇ ರಾತ್ರಿಯಲ್ಲಿ ಕೋಳಿ ಕೂಗುವದಕ್ಕಿಂತ ಮುಂಚೆ ನೀನು ನನ್ನ ವಿಷಯದಲ್ಲಿ ಅವನನ್ನು ಅರಿಯೆನೆಂಬದಾಗಿ ಮೂರು ಸಾರಿ ಹೇಳುವಿ ಅಂದನು.  ಮತ್ತಾಯ 26:33-34	",
 },			
 {			
-"question" :	"	8. Jesus went ahead to pray and came back and found his disciples	",
+"question" :	"	8 ಯೇಸು ಪ್ರಾರ್ಥನೆ ಮಾಡುವುದಕ್ಕೆ ಹೋಗಿ ಹಿಂತುರುಗಿ ಬಂದಾಗ ತನ್ನ ಶಿಷ್ಯರು ಏನು ಮಾಡುತ್ತಿದ್ದನ್ನು ಕಂಡರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Gone.	",
-	"	b. Eating.	",
-	"	c. Sleeping.	",
-	"	d. Chatting.	"
+	"	A. ಹೊರಟುಹೋಗಿದ್ದರು	",
+	"	B. ತಿನ್ನುತ್ತಿದ್ದರು	",
+	"	C. ನಿದ್ದೆಮಾಡುತ್ತಿದ್ದರು	",
+	"	D. ಮಾತನಾಡಿಕೊಳ್ಳುತ್ತಿದ್ದರು	"
 ],			
-"correct" :	"	c. Sleeping.	",
-"explanation" :	"	Then He came to the disciples and found them asleep, and said to Peter, What? Could you not watch with Me one hour? - Matt 26:40	",
+"correct" :	"	C. ನಿದ್ದೆಮಾಡುತ್ತಿದ್ದರು	",
+"explanation" :	"	ಆಮೇಲೆ ಆ ಶಿಷ್ಯರ ಬಳಿಗೆ ಬಂದು ಅವರು ನಿದ್ದೆ ಮಾಡುವದನ್ನು ಕಂಡು ಪೇತ್ರನಿಗೆ ಹೀಗೋ, ಒಂದು ಗಳಿಗೆಯಾದರೂ ನನ್ನ ಸಂಗಡ ಎಚ್ಚರವಾಗಿರಲಾರಿರಾ?    ಮತ್ತಾಯ 26:40	",
 },			
 {			
-"question" :	"	9. How did Judas identify Jesus?	",
+"question" :	"	9 ಯೂದನು ಯೇಸುವನ್ನು ಹೇಗೆ ಗುರುತಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. By His clothes	",
-	"	b. He kissed Him.	",
-	"	c. He pointed to Him.	",
-	"	d. He struck Him.	"
+	"	A. ಆತನ ವಸ್ತ್ರಗಳಿಂದ	",
+	"	B. ಆತನು ಅವನಿಗೆ ಮುದ್ದಿಟ್ಟನು	",
+	"	C. ಆತನು ಅವನನ್ನು ತೋರಿಸಿದನು	",
+	"	D. ಆತನು ಅವನನ್ನು ಹೊಡೆದನು	"
 ],			
-"correct" :	"	b. He kissed Him.	",
-"explanation" :	"	Now His betrayer had given them a sign, saying, Whomever I kiss, He is the One; seize Him. - Matt 26:48	",
+"correct" :	"	B. ಆತನು ಅವನಿಗೆ ಮುದ್ದಿಟ್ಟನು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಆತನನ್ನು ಹಿಡುಕೊಡುವವನು ಅವರಿಗೆ ನಾನು ಯಾರಿಗೆ ಮುದ್ದಿಡುತ್ತೇನೋ ಅವನೇ ಆತನು, ಅವನನ್ನು ಹಿಡಿಯಿರಿ ಎಂದು ಗುರುತು ಹೇಳಿಕೊಟ್ಟನು.  ಮತ್ತಾಯ 26:48	",
 },			
 {			
-"question" :	"	10. What did Jesus call Judas?	",
+"question" :	"	10 ಯೇಸು ಯೂದನನ್ನು ಏನೆಂದು ಕರೆದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Evil servant	",
-	"	b. Fool	",
-	"	c. Friend	",
-	"	d. Worker of iniquity	"
+	"	A. ಕೆಟ್ಟ ಆಳು	",
+	"	B. ಮೂರ್ಖ	",
+	"	C. ಸ್ನೇಹಿತ	",
+	"	D. ಅನ್ಯಾಯದ ಕೆಲಸಗಾರು	"
 ],			
-"correct" :	"	c. Friend	",
-"explanation" :	"	But Jesus said to him, Friend, why have you come?Then they came and laid hands on Jesus and took Him. - Matt 26:50	",
+"correct" :	"	C. ಸ್ನೇಹಿತ	",
+"explanation" :	"	ಯೇಸು ಅವನಿಗೆ ಗೆಳೆಯನೇ ನೀನು ಬಂದ ಕೆಲಸ ಇದೆಯೋ ಎಂದು ಹೇಳಲು ಅವರು ಹತ್ತಿರಕ್ಕೆ ಬಂದು ಯೇಸುವಿನ ಮೇಲೆ ಕೈ ಹಾಕಿ ಆತನನ್ನು ಹಿಡಿದರು.   ಮತ್ತಾಯ 26:50	",
 },			
 ]			

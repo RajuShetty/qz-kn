@@ -1,4 +1,4 @@
-var quiztitle = "1 Corinthians chapter 8";			
+var quiztitle = "1 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಚರ್ಚಿಸಿದ ನೈವೇದ್ಯವು	",

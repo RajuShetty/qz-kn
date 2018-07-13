@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 5";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. ಸಿಂಹಾಸನದಲ್ಲಿ ಕೂತಿದ್ದಾತನ ಬಲಗೈಯಲ್ಲಿ ಏನಿತ್ತು?	",

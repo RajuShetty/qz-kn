@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 13";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. He smote the garrison of Philistines in Geba.	",
@@ -10,7 +10,7 @@ var quiz = [
 	"	d. Gilead	"
 ],			
 "correct" :	"	c. Jonathan	",
-"explanation" :	"	And Jonathan smote the garrison of the Philistines that was in Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear. 1 Sam 13:3	",
+"explanation" :	"	And Jonathan smote the garrison of the Philistines that was in Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the ಇಬ್ರಿಯರಿಗೆ hear. 1 Sam 13:3	",
 },		 	
 {			
 "question" :	"	2. The number of the Philistine chariots was	",

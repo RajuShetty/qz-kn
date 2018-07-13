@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 12";			
-var quiz = [  			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 12";			
+var quiz = [ 			
 {			
-"question" :	"	1. It is your reasonable service to present this, as a living sacrifice.	",
+"question" :	"	1 ನೀವು ನಿಮ್ಮ ___ ದೇವರಿಗೆ ಮೀಸಲಾಗಿಯೂ, ಮೆಚ್ಚಿಗೆಯಾಗಿಯೂ ಇರುವ ಸಜೀವ ಯಜ್ಞವಾಗಿ ಅರ್ಪಿಸಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sheep	",
-	"	b. Your body	",
-	"	c. Malice	",
-	"	d. Grace	"
+	"	A. ಕುರಿಗಳನ್ನು	",
+	"	B. ದೇಹಗಳನ್ನು	",
+	"	C. ಕೆಡುಕನ್ನು	",
+	"	D. ಕೃಪೆಯನ್ನು	"
 ],			
-"correct" :	"	b. Your body	",
-"explanation" :	"	I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.Rom12:1	",
+"correct" :	"	B. ದೇಹಗಳನ್ನು	",
+"explanation" :	"	ಆದದರಿಂದ ಸಹೋದರರೇ, ದೇವರ ಕನಿಕರವನ್ನು ನಿಮ್ಮ ನೆನಪಿಗೆ ತಂದು ನಿಮ್ಮನ್ನು ಬೇಡಿಕೊಳ್ಳುವದೇನಂದರೆ - ನೀವು ನಿಮ್ಮ ನಿಮ್ಮ ದೇಹಗಳನ್ನು ದೇವರಿಗೆ ಮೀಸಲಾಗಿಯೂ ಮೆಚ್ಚಿಗೆಯಾಗಿಯೂ ಇರುವ ಸಜೀವಯಜ್ಞವಾಗಿ ಅರ್ಪಿಸಿರಿ; ಇದೇ ನಿಮ್ಮ ವಿವೇಕಪೂರ್ವಕವಾದ ಆರಾಧನೆಯು 12:1	",
 },			
 {			
-"question" :	"	2. Do not be conformed to this.	",
+"question" :	"	2 ಇದನ್ನು ಅನುಸರಿಸಬೇಡಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mercy	",
-	"	b. The will of God	",
-	"	c. Good works	",
-	"	d. This world	"
+	"	A. ದಯೆ	",
+	"	B. ದೇವರ ಚಿತ್ತ	",
+	"	C. ಒಳ್ಳೆಯ ಕಾರ್ಯಗಳನ್ನು	",
+	"	D. ಇಹಲೋಕದ ನಡವಳಿಕೆ	"
 ],			
-"correct" :	"	d. This world	",
-"explanation" :	"	And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.Rom12:2	",
+"correct" :	"	D. ಇಹಲೋಕದ ನಡವಳಿಕೆ	",
+"explanation" :	"	ಇಹಲೋಕದ ನಡವಳಿಕೆಯನ್ನು ಅನುಸರಿಸದೆ ನೂತನಮನಸ್ಸನ್ನು ಹೊಂದಿಕೊಂಡು ಪರಲೋಕಭಾವದವರಾಗಿರಿ. ಹೀಗಾದರೆ ದೇವರ ಚಿತ್ತಕ್ಕನುಸಾರವಾದದ್ದು ಅಂದರೆ ಉತ್ತಮವಾದದ್ದೂ ಮೆಚ್ಚಿಕೆಯಾದದ್ದೂ ದೋಷವಿಲ್ಲದ್ದೂ ಯಾವ ಯಾವದೆಂದು ವಿವೇಚಿಸಿ ತಿಳುಕೊಳ್ಳುವಿರಿ. 12:2	",
 },			
 {			
-"question" :	"	3. God has dealt the measure of this, to every man.	",
+"question" :	"	3 ದೇವರು ಒಬ್ಬೊಬ್ಬರಿಗೂ ಎಂಥೆಂಥ ____ ಕೊಟ್ಟನೋ ಅದರ ಪ್ರಕಾರ ಭಾವಿಸಿಕೊಳ್ಳಬೇಕು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sorrow	",
-	"	b. Anguish	",
-	"	c. Hope	",
-	"	d. Faith	"
+	"	A. ದು:ಖಗಳನ್ನು	",
+	"	B. ಕೋಪಗಳನ್ನು	",
+	"	C. ನಿರೀಕ್ಷೆ	",
+	"	D.  ವಿಶ್ವಾಸ ಬಲ	"
 ],			
-"correct" :	"	d. Faith	",
-"explanation" :	"	For I say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.Rom12:3	",
+"correct" :	"	D.  ವಿಶ್ವಾಸ ಬಲ	",
+"explanation" :	"	ದೇವರು ನನಗೆ ಕೃಪೆಮಾಡಿದ ಸೇವೆಯನ್ನು ನಡಿಸಿ ನಿಮ್ಮಲ್ಲಿ ಒಬ್ಬೊಬ್ಬನಿಗೂ ಹೇಳುವದೇನಂದರೆ ಯಾರೂ ತನ್ನ ಯೋಗ್ಯತೆಗೆ ಮೀರಿ ತನ್ನನ್ನು ಭಾವಿಸಿಕೊಳ್ಳದೆ ದೇವರು ಒಬ್ಬೊಬ್ಬನಿಗೆ ಎಂಥೆಂಥ ವಿಶ್ವಾಸ ಬಲವನ್ನು ಕೊಟ್ಟನೋ ಅದಕ್ಕೆ ತಕ್ಕ ಹಾಗೆ ನ್ಯಾಯವಾದ ಅಭಿಪ್ರಾಯದಿಂದ ತನ್ನನ್ನು ಭಾವಿಸಿಕೊಳ್ಳಬೇಕು. 12:3	",
 },			
 {			
-"question" :	"	4. There are many members in one of these.	",
+"question" :	"	4 ಇದು ಒಂದರಲ್ಲೇ ಬಹಳ ಅಂಗಗಳಿವೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Family	",
-	"	b. Body	",
-	"	c. Club	",
-	"	d. Gang	"
+	"	A. ಕುಟುಂಬ	",
+	"	B. ದೇಹ	",
+	"	C. ಸಂಘ	",
+	"	D. ಗುಂಪು	"
 ],			
-"correct" :	"	b. Body	",
-"explanation" :	"	For as we have many members in one body, and all members have not the same office:Rom12:4	",
+"correct" :	"	B. ದೇಹ	",
+"explanation" :	"	ಯಾಕಂದರೆ ನಮಗೆ ಒಂದೇ ದೇಹದಲ್ಲಿ ಬಹಳ ಅಂಗಗಳಿರಲಾಗಿ ಆ ಎಲ್ಲಾ ಅಂಗಗಳಿಗೆ ಹೇಗೆ ಒಂದೇ ಕೆಲಸ ಇರುವದಿಲ್ಲವೋ  12:4	",
 },			
 {			
-"question" :	"	5. Abhor that which is evil, and cleave to that which is	",
+"question" :	"	5 ಕೆಟ್ಟತನಕ್ಕೆ ಹೇಸಿಕೊಂಡು ____ ಬಿಗಿಯಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fearful.	",
-	"	b. Sorrowful.	",
-	"	c. Good.	",
-	"	d. Strong.	"
+	"	A. ಭಯವನ್ನು	",
+	"	B. ದು:ಖವನ್ನು	",
+	"	C. ಒಳ್ಳೇದನ್ನು	",
+	"	D. ಬಲವನ್ನು	"
 ],			
-"correct" :	"	c. Good.	",
-"explanation" :	"	Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.Rom12:9	",
+"correct" :	"	C. ಒಳ್ಳೇದನ್ನು	",
+"explanation" :	"	ನಿಮ್ಮ ಪ್ರೀತಿಯು ನಿಷ್ಕಪಟವಾಗಿರಲಿ. ಕೆಟ್ಟತನಕ್ಕೆ ಹೇಸಿಕೊಂಡು ಒಳ್ಳೇದನ್ನು ಬಿಗಿಯಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಿರಿ 12:9	",
 },			
 {			
-"question" :	"	6. In tribulation be 	",
+"question" :	"	6 ಉಪದ್ರವದಲ್ಲಿ _____ ಉಳ್ಳವರಾಗಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Weary.	",
-	"	b. Careful.	",
-	"	c. Hopeful.	",
-	"	d. Patient.	"
+	"	A. ಅಸಹನೆ	",
+	"	B. ಎಚ್ಚರಿಕೆ	",
+	"	C. ನಿರೀಕ್ಷೆ	",
+	"	D. ಸೈರಣೆ	"
 ],			
-"correct" :	"	d. Patient.	",
-"explanation" :	"	Rejoicing in hope; patient in tribulation; continuing instant in prayer;Rom12:12	",
+"correct" :	"	D. ಸೈರಣೆ	",
+"explanation" :	"	ಕ್ರೈಸ್ತರು ನಿರೀಕ್ಷಿಸುವ ಮಹಾಪದವಿಯನ್ನು ನೆನಸಿ ಉಲ್ಲಾಸವಾಗಿರ್ರಿ. ಉಪದ್ರವದಲ್ಲಿ ಸೈರಣೆಯುಳ್ಳವರಾಗಿರ್ರಿ. ಬೇಸರಗೊಳ್ಳದೆ ಪ್ರಾರ್ಥನೆಮಾಡಿರಿ 12:12	",
 },			
 {			
-"question" :	"	7. Do this, as much as it is possible for you.	",
+"question" :	"	7 ಸಾಧ್ಯವಾದರೆ ನಿಮ್ಮಿಂದಾಗುವ ಮಟ್ಟಿಗೆ ________	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fast & pray	",
-	"	b. Give to widows and orphans	",
-	"	c. Give tithes	",
-	"	d. Live peaceably with all men	"
+	"	A. ಉಪವಾಸವಿರಿ ಮತ್ತು ಪ್ರಾರ್ಥಿಸಿರಿ	",
+	"	B. ವಿಧವೆಯರಿಗೆ ಮತ್ತು ಅನಾಥರಿಗೆ ನೀಡಿ	",
+	"	C. ದಶಮಾಂಶ ನೀಡಿರಿ	",
+	"	D. ಎಲ್ಲರ ಸಂಗಡ ಸಮಾಧಾನದಿಂದಿರಿ.	"
 ],			
-"correct" :	"	d. Live peaceably with all men	",
-"explanation" :	"	 If it be possible, as much as lieth in you, live peaceably with all men.Rom12:18	",
+"correct" :	"	D. ಎಲ್ಲರ ಸಂಗಡ ಸಮಾಧಾನದಿಂದಿರಿ.	",
+"explanation" :	"	ಸಾಧ್ಯವಾದರೆ ನಿಮ್ಮಿಂದಾಗುವ ಮಟ್ಟಿಗೆ ಎಲ್ಲರ ಸಂಗಡ ಸಮಾಧಾನದಿಂದಿರಿ 12:18	",
 },			
 {			
-"question" :	"	8. The Lord said, this is His.	",
+"question" :	"	8 ಇದು ನನ್ನ ಕೆಲಸ ಎಂಬುದಾಗಿ ಕರ್ತನು ಹೇಳುತ್ತಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Honor & respect	",
-	"	b. Vengeance	",
-	"	c. Subtlety	",
-	"	d. Vision for His people	"
+	"	A. ಗೌರವಿಸುವುದು ಮತ್ತು ಸನ್ಮಾನಿಸುವುದು	",
+	"	B. ಮುಯ್ಯಿಗೆ ಮುಯ್ಯಿ ತೀರಿಸುವುದು	",
+	"	C. ಸೂಕ್ಷ್ಮವಾಗಿ ವಿಚಾರಿಸುವುದು	",
+	"	D. ತನ್ನ ಜನರಿಗಾಗಿ ದರ್ಶನ	"
 ],			
-"correct" :	"	b. Vengeance	",
-"explanation" :	"	Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.Rom12:19	",
+"correct" :	"	B. ಮುಯ್ಯಿಗೆ ಮುಯ್ಯಿ ತೀರಿಸುವುದು	",
+"explanation" :	"	ಪ್ರಿಯರೇ, ನೀವೇ ಮುಯ್ಯಿಗೆ ಮುಯ್ಯಿ ತೀರಿಸದೆ ಶಿಕ್ಷಿಸುವದನ್ನು ದೇವರಿಗೆ ಬಿಡಿರಿ. ಯಾಕಂದರೆ ಮುಯ್ಯಿಗೆ ಮುಯ್ಯಿ ತೀರಿಸುವದು ನನ್ನ ಕೆಲಸ, ನಾನೇ ಪ್ರತಿಫಲವನ್ನು ಕೊಡುವೆನು ಎಂದು ಕರ್ತನು ಹೇಳುತ್ತಾನೆಂಬದಾಗಿ ಬರೆದದೆ. 12:19	",
 },			
 {			
-"question" :	"	9. Do this, if your enemy is hungry.	",
+"question" :	"	9 ನಿನ್ನ ಶತೃ ಹಸಿದಿದ್ದರೆ ಇದನ್ನು ಮಾಡಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pray for him	",
-	"	b. Feed him	",
-	"	c. Smite him	",
-	"	d. Mock him	"
+	"	A. ಆತನಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿರಿ	",
+	"	B. ಊಟಕ್ಕೆ ಕೊಡಿ	",
+	"	C. ನಾಶ ಮಾಡಿರಿ	",
+	"	D. ಅಣಕಿಸಿರಿ	"
 ],			
-"correct" :	"	b. Feed him	",
-"explanation" :	"	Therefore if thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.Rom19:20	",
+"correct" :	"	B. ಊಟಕ್ಕೆ ಕೊಡಿ	",
+"explanation" :	"	ಹಾಗಾದರೆ ನಿನ್ನ ವೈರಿ ಹಸಿದಿದ್ದರೆ ಅವನಿಗೆ ಊಟಕ್ಕೆ ಬಡಿಸು; ಬಾಯಾರಿದ್ದರೆ ಕುಡಿಯುವದಕ್ಕೆ ಕೊಡು. ಹೀಗೆ ಮಾಡುವದರಿಂದ ಅವನ ತಲೆಯ ಮೇಲೆ ಕೆಂಡಗಳನ್ನು ಕೂಡಿಸಿಟ್ಟಂತಾಗುವದು 19:20	",
 },			
 {			
-"question" :	"	10. Be not overcome of evil, but overcome evil with this.	",
+"question" :	"	10 ಕೆಟ್ಟತನಕ್ಕೆ ಸೋತುಹೋಗದೆ, _______	",
 "image" :	"",		
 "choices" : [			
-	"	a. Joy	",
-	"	b. Faith	",
-	"	c. Good	",
-	"	d. Lies	"
+	"	A. ಸಂತೋಷದಿಂದ	",
+	"	B. ನಂಬಿಕೆಯಿಂದ	",
+	"	C. ಒಳ್ಳೇತನದಿಂದ	",
+	"	D. ಸುಳ್ಳಿನಿಂದ	"
 ],			
-"correct" :	"	c. Good	",
-"explanation" :	"	Be not overcome of evil, but overcome evil with good.Rom12:21	",
+"correct" :	"	C. ಒಳ್ಳೇತನದಿಂದ	",
+"explanation" :	"	ಕೆಟ್ಟತನಕ್ಕೆ ಸೋತು ಹೋಗದೆ ಒಳ್ಳೇತನದಿಂದ ಕೆಟ್ಟತನವನ್ನು ಸೋಲಿಸು. 12:21	",
 },			
 ]			

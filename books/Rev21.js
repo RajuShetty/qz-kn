@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 21";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1. ಇದು ಇಲ್ಲದೆ ಹೋಯಿತು.	",

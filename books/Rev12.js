@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 12";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. ಸ್ತ್ರೀಯು ಏನನ್ನು ಧರಿಸಿಕೊಂಡಿದ್ದಳು?	",

@@ -1,124 +1,124 @@
-var quiztitle = "Mark chapter 2";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
-"question" :	"	1. What was wrong with the man brought to Jesus?	",
+"question" :	"	1  ಯೇಸುವಿನ ಬಳಿಗೆ ಕರೆತಂದ ಮನುಷ್ಯನಿಗೆ ಏನು ತೊಂದರೆ ಇತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He was blind.	",
-	"	b. He had palsy.	",
-	"	c. He was a leper.	",
-	"	d. He was lame.	"
+	"	A. ಅವನು ಕುರುಡನಾಗಿದ್ದನು	",
+	"	B. ಅವನಿಗೆ ಪಾಶ್ರ್ವವಾಯು ರೋಗವಿತ್ತು	",
+	"	C. ಅವನು ಕುಷ್ಠರೋಗಿಯಾಗಿದ್ದನು	",
+	"	D. ಅವನು ಕುಂಟನಾಗಿದ್ದನು	"
 ],			
-"correct" :	"	b. He had palsy.	",
-"explanation" :	"	hen they came to Him, bringing a paralytic who was carried by four men. - Mr 2:3	",
+"correct" :	"	B. ಅವನಿಗೆ ಪಾಶ್ರ್ವವಾಯು ರೋಗವಿತ್ತು	",
+"explanation" :	"	ಅಷ್ಟರಲ್ಲಿ ಕೆಲವರು ಒಬ್ಬ ಪಾಶ್ರ್ವವಾಯು ರೋಗಿಯನ್ನು ನಾಲ್ಕು ಮಂದಿಯಿಂದ ಹೊರಿಸಿಕೊಂಡು ಆತನ ಬಳಿಗೆ ತಂದರು.     ಮಾರ್ಕ 2:3	",
 },			
 {			
-"question" :	"	2. How many carried him?	",
+"question" :	"	2  ಅವನನ್ನು ಎಷ್ಟು ಜನ ಹೊತ್ತುಕೊಂಡು ಬಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1	",
-	"	b. 2	",
-	"	c. 3	",
-	"	d. 4	"
+	"	A. 1	",
+	"	B. 2	",
+	"	C. 3	",
+	"	D. 4	"
 ],			
-"correct" :	"	d. 4	",
-"explanation" :	"	hen they came to Him, bringing a paralytic who was carried by four men. - Mr 2:3	",
+"correct" :	"	D. 4	",
+"explanation" :	"	ಅಷ್ಟರಲ್ಲಿ ಕೆಲವರು ಒಬ್ಬ ಪಾಶ್ರ್ವವಾಯು ರೋಗಿಯನ್ನು ನಾಲ್ಕು ಮಂದಿಯಿಂದ ಹೊರಿಸಿಕೊಂಡು ಆತನ ಬಳಿಗೆ ತಂದರು.     ಮಾರ್ಕ 2:3	",
 },			
 {			
-"question" :	"	3. Why didn't they go in through the door?	",
+"question" :	"	3  ಅವರಿಗೆ ಬಾಗಿಲಿನ ಮೂಲಕ ಏಕೆ ಹೋಗಲಾಗಲಿಲ್ಲ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. They were Gentiles & not allowed.	",
-	"	b. There was no room.	",
-	"	c. There were guards at the door.	",
-	"	d. The sick man was contagious.	"
+	"	A. ಅವರು ಅನ್ಯರಾಗಿದ್ದುದರಿಂದ ಅವರನ್ನು ಬಿಡಲಿಲ್ಲ	",
+	"	B. ಬಾಗಿಲಿನ ಬಳಿ ಸ್ಥಳವಿರಲಿಲ್ಲ	",
+	"	C. ಬಾಗಿಲ ಬಳಿ ಕಾವಲುಗಾರರಿದ್ದರು	",
+	"	D. ಆ ರೋಗಿಗೆ ಅಂಟುರೋಗವಿತ್ತು	"
 ],			
-"correct" :	"	b. There was no room.	",
-"explanation" :	"	Immediately many gathered together, so that there was no longer room to receive them, not even near the door. And He preached the word to them. - Mr 2:2	",
+"correct" :	"	B. ಬಾಗಿಲಿನ ಬಳಿ ಸ್ಥಳವಿರಲಿಲ್ಲ	",
+"explanation" :	"	ಬಹು ಜನರು ಕೂಡಿ ಬಂದದ್ದರಿಂದ ಬಾಗಲಿನ ಬಳಿಯಾದರೂ ಸ್ಥಳವಿರಲಿಲ್ಲ.  ಮಾರ್ಕ2:2	",
 },			
 {			
-"question" :	"	4. How did they get the man to see Jesus?	",
+"question" :	"	4  ಅವರು ಆ ಮನುಷ್ಯನನ್ನು ಯೇಸುವಿನ ಬಳಿಗೆ ಹೇಗೆ ಕರೆತಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Through the roof	",
-	"	b. Through a window	",
-	"	c. Through deception	",
-	"	d. Jesus came out to them.	"
+	"	A. ಮೇಲ್ಛಾವಣಿಯಿಂದ ಇಳಿಸಿದರು	",
+	"	B. ಕಿಟಕಿಯಿಂದ ಇಳಿಸಿದರು	",
+	"	C. ಮೋಸದಿಂದ	",
+	"	D. ಯೇಸುವೆ ಅವರ ಬಳಿ ಬಂದರು	"
 ],			
-"correct" :	"	a. Through the roof	",
-"explanation" :	"	And when they could not come near Him because of the crowd, they uncovered the roof where He was. So when they had broken through, they let down the bed on which the paralytic was lying. - Mr 2:4	",
+"correct" :	"	A. ಮೇಲ್ಛಾವಣಿಯಿಂದ ಇಳಿಸಿದರು	",
+"explanation" :	"	ಜನರು ಗುಂಪಾಗಿದ್ದದರಿಂದ ಅವರು ಆತನ ಹತ್ತಿರಕ್ಕೆ ಸೇರಲಾರದೆ ಆತನಿದ್ದ ಮನೆಯ ಮೇಲ್ಚಾವಣಿಯನ್ನು ಬಿಚ್ಚಿ ದ್ವಾರಮಾಡಿ ಪಾಶ್ರ್ವವಾಯು ರೋಗಿಯು ಮಲಗಿದ್ದ ಹಾಸಿಗೆಯನ್ನು ಇಳಿಸಿದರು.  ಮಾರ್ಕ 2:4	",
 },			
 {			
-"question" :	"	5. Jesus spoke to the man, when He saw	",
+"question" :	"	5   ……………………. ನೋಡಿ ಯೇಸು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. His faith.	",
-	"	b. Their faith.	",
-	"	c. The Pharisee's faith.	",
-	"	d. The Spirit descend as a dove.	"
+	"	A. ಅವನ ನಂಬಿಕೆ	",
+	"	B. ಅವರ ನಂಬಿಕೆ	",
+	"	C. ಫರಿಸಾಯರ ನಂಬಿಕೆ	",
+	"	D. ಪವಿತ್ರಾತ್ಮನು ಪಾರಿವಾಳದ ಹಾಗಿ ಇಳಿಯುವುದನ್ನು ನೋಡಿ	"
 ],			
-"correct" :	"	b. Their faith.	",
-"explanation" :	"	When Jesus saw their faith, He said to the paralytic, Son, your sins are forgiven you. - Mr 2:5	",
+"correct" :	"	B. ಅವರ ನಂಬಿಕೆ	",
+"explanation" :	"	ಯೇಸು ಅವರ ನಂಬಿಕೆಯನ್ನು ನೋಡಿ ಆ ಪಾಶ್ರ್ವವಾಯು ರೋಗಿಗೆ..  ಮಾರ್ಕ2:5	",
 },			
 {			
-"question" :	"	6. What did Jesus say to the man?	",
+"question" :	"	6  ಯೇಸು ಆ ಮನುಷ್ಯನಿಗೆ ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Thou art whole.	",
-	"	b. Thy sins be forgiven.	",
-	"	c. Repent ye.	",
-	"	d. Awaken & live.	"
+	"	A. ನೀನು ಶುದ್ದನಾಗಿದ್ದೀಯ	",
+	"	B. ನಿನ್ನ ಪಾಪಗಳು ಕ್ಷಮಿಸಲ್ಪಟ್ಟಿವೆ	",
+	"	C. ನೀನು ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೋ	",
+	"	D. ಎದ್ದೇಳು ಮತ್ತು ಜೀವಿಸು	"
 ],			
-"correct" :	"	b. Thy sins be forgiven.	",
-"explanation" :	"	When Jesus saw their faith, He said to the paralytic, Son, your sins are forgiven you. - Mr 2:5	",
+"correct" :	"	B. ನಿನ್ನ ಪಾಪಗಳು ಕ್ಷಮಿಸಲ್ಪಟ್ಟಿವೆ	",
+"explanation" :	"	ಯೇಸು ಅವರ ನಂಬಿಕೆಯನ್ನು ನೋಡಿ ಆ ಪಾಶ್ರ್ವವಾಯು ರೋಗಿಗೆ ಮಗನೇ ನಿನ್ನ ಪಾಪಗಳು ಕ್ಷಮಿಸಲ್ಪಟ್ಟಿವೆ ಎಂದು ಹೇಳಿದನು.	",
 },			
 {			
-"question" :	"	7. Jesus called this tax collector sitting at the receipt of custom.	",
+"question" :	"	7  ಸುಂಕಕ್ಕೆ ಕೂತ್ತಿದ್ದ ಈತನನ್ನು ಯೇಸು ಕರೆದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Levi	",
-	"	b. Mark	",
-	"	c. John	",
-	"	d. Luke	"
+	"	A. ಲೇವಿ	",
+	"	B. ಮಾರ್ಕ	",
+	"	C. ಯೋಹಾನ	",
+	"	D. ಲೂಕ	"
 ],			
-"correct" :	"	a. Levi	",
-"explanation" :	"	As He passed by, He saw Levi the son of Alphaeus sitting at the tax office. And He said to him, Follow Me. - Mr 2:14	",
+"correct" :	"	A. ಲೇವಿ	",
+"explanation" :	"	ಆತನು ಅಲ್ಲಿಂದ ಹೋಗುತ್ತಿರುವಾಗ ಸುಂಕಕ್ಕೆ ಕೂತಿದ್ದ ಅಲ್ಫಾಯನ ಮಗನಾದ ಲೇವಿಯನ್ನು ನೋಡಿ ನನ್ನನ್ನು ಹಿಂಬಾಲಿಸು ಎಂದು ಅವನನ್ನು ಕರೆಯಲು      ಮಾರ್ಕ2:14	",
 },			
 {			
-"question" :	"	8. Jesus said, He did not come to call the righteous	",
+"question" :	"	8  ಯೇಸು ಹೇಳಿದ್ದು: ನಾನು ನೀತಿವಂತರನ್ನು ಕರೆಯುವುದಕ್ಕೆ ಬಂದವನಲ್ಲ………………………………	",
 "image" :	"",		
 "choices" : [			
-	"	a. Holy men.	",
-	"	b. But sinners to repentance.	",
-	"	c. For they have the kingdom.	",
-	"	d. But the righteous, have called Him.	"
+	"	A. ಪರಿಶುದ್ದರನ್ನು	",
+	"	B. ಆದರೆ ಪಾಪಿಗಳನ್ನು ಕರೆಯುವುದಕ್ಕೆ ಬಂದವನು	",
+	"	C. ಯಾಕೆಂದರೆ ರಾಜ್ಯವು ಅವರದಾಗಿದೆ	",
+	"	D. ಆದರೆ ನೀತಿವಂತರು ನನ್ನನ್ನು ಕರೆದಿದ್ದಾರೆ.	"
 ],			
-"correct" :	"	b. But sinners to repentance.	",
-"explanation" :	"	When Jesus heard it, He said to them, Those who are well have no need of a physician, but those who are sick. I did not come to call the righteous, but sinners, to repentance. - Mr 2:17	",
+"correct" :	"	B. ಆದರೆ ಪಾಪಿಗಳನ್ನು ಕರೆಯುವುದಕ್ಕೆ ಬಂದವನು	",
+"explanation" :	"	ಯೇಸು ಅದನ್ನು ಕೇಳಿ ಕ್ಷೇಮದಿಂದಿರುವವರಿಗೆ ವೈದ್ಯನು ಬೇಕಾಗಿಲ್ಲ, ಕ್ಷೇಮವಿಲ್ಲದವರಿಗೆ ಬೇಕು.  ನಾನು ನೀತಿವಂತರನ್ನು ಕರೆಯುವದಕ್ಕೆ ಬಂದವನಲ್ಲ, ಪಾಪಿಗಳನ್ನು ಕರೆಯುವದಕ್ಕೆ ಬಂದವನು ಅಂದನು.   ಮಾರ್ಕ 2:17	",
 },			
 {			
-"question" :	"	9. What did the disciples do on the Sabbath day, that the Pharisees said was unlawful?	",
+"question" :	"	9  ಇದು ಧರ್ಮಶಾಸ್ತ್ರಕ್ಕೆ ವಿರುದ್ಧವಾದುದು ಎಂದು ಹೇಳುವ ಹಾಗೆ  ಯೇಸುವಿನ ಶಿಷ್ಯರು  ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಏನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Eat the showbread	",
-	"	b. Pluck corn	",
-	"	c. Pluck olives	",
-	"	d. Pluck figs	"
+	"	A. ಯಜ್ಞದ ರೊಟ್ಟಿಯನ್ನು ತಿಂದರು	",
+	"	B. ತೆನೆಗಳನ್ನು ಕಿತ್ತರು	",
+	"	C. ಆಲೀವ್‍ಗಳನ್ನು ಕಿತ್ತರು	",
+	"	D. ಅಂಜುರಗಳನ್ನು ಕಿತ್ತರು	"
 ],			
-"correct" :	"	b. Pluck corn	",
-"explanation" :	"	Now it happened that He went through the grainfields on the Sabbath; and as they went His disciples began to pluck the heads of grain.And the Pharisees said to Him, Look, why do they do what is not lawful on the Sabbath? - Mr 2:23,24	",
+"correct" :	"	B. ತೆನೆಗಳನ್ನು ಕಿತ್ತರು	",
+"explanation" :	"	ಯೇಸು ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಪೈರಿನ ಹೊಲಗಳನ್ನು ಹಾದುಹೋಗುತ್ತಿರುವಾಗ ಆತನ ಶಿಷ್ಯರು ನಡೆಯುತ್ತಾ ತೆನೆಗಳನ್ನು ಮುರುಕೊಂಡರು.  ಫರಿಸಾಯರು ಆತನನ್ನು-ನೋಡು, ಇವರು ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಮಾಡಬಾರದ ಕೆಲಸವನ್ನು ಯಾಕೆ ಮಾಡುತ್ತಾರೆ ಎಂದು ಕೇಳಿದರು.  ಮಾರ್ಕ 2:23-24	",
 },			
 {			
-"question" :	"	10. Jesus reminded them of the time David and his men	",
+"question" :	"	10 ದಾವೀದನು ಮತ್ತು ಆತನ ಸಂಗಡಿಗರು ಏನು ಮಾಡಿದ್ದನ್ನು ಯೇಸು ನೆನಪಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ate the showbread.	",
-	"	b. Plucked corn.	",
-	"	c. Plucked olives.	",
-	"	d. Plucked figs.	"
+	"	A. ನೈವೇದ್ಯದ ರೊಟ್ಟಿಯನ್ನು ತಿಂದದ್ದು	",
+	"	B. ತೆನೆಗಳನ್ನು ಕಿತ್ತದ್ದು	",
+	"	C. ಆಲೀವ್‍ಗಳನ್ನು ಕಿತ್ತದ್ದು	",
+	"	D. ಅಂಜೂರಗಳನ್ನು ಕಿತ್ತದ್ದು	"
 ],			
-"correct" :	"	a. Ate the showbread.	",
-"explanation" :	"	But He said to them, Have you never read what David did when he was in need and hungry, he and those with him:how he went into the house of God in the days of Abiathar the high priest, and ate the showbread, which is not lawful to eat, except for the priests, and also gave some to those who were with him? - Mr 2:25,26	",
+"correct" :	"	A. ನೈವೇದ್ಯದ ರೊಟ್ಟಿಯನ್ನು ತಿಂದದ್ದು	",
+"explanation" :	"	ಆತನು ಅವರಿಗೆ ದಾವೀದನು ತಾನೂ ತನ್ನ ಸಂಗಡ ಇದ್ದವರೂ ಕೊರತೆಯುಳ್ಳವರಾಗಿ ಹಸಿದಾಗ ಏನು ಮಾಡಿದನೆಂಬದನ್ನು ನೀವು ಎಂದಾದರೂ ಓದಲಿಲ್ಲವೋ? ಅವನು ಮಹಾಯಾಜಕನಾದ ಅಬಿಯಾತರನ ಕಾಲದಲ್ಲಿ ದೇವರಮಂದಿರದೊಳಕ್ಕೆ ಹೋಗಿ ಯಾಜಕರು ಹೊರತು ಮತ್ತಾರೂ ತಿನ್ನಬಾರದ ನೈವೇದ್ಯದ ರೊಟ್ಟಿಗಳನ್ನು ತಾನು ತಿಂದು ತನ್ನ ಸಂಗಡ ಇದ್ದವರಿಗೂ ಕೊಟ್ಟನಲ್ಲಾ ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 2:25-26	",
 },			
 ]			
 			

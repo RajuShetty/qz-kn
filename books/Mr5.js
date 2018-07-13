@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 5";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus got out of the ship in the country of the	",
+"question" :	"	1 ಯೇಸು ಈ ಸೀಮೆಯಲ್ಲಿ ದೋಣಿಯಿಂದ ಕೆಳಕ್ಕೆ ಇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Gadarenes.	",
-	"	b. Philistines.	",
-	"	c. Corinthians.	",
-	"	d. Ethiopians.	"
+	"	A. ಗೆರಸೇನ	",
+	"	B. ಪಿಲಿಷ್ಟಿಯ	",
+	"	C. ಕೊರಿಂಥ	",
+	"	D. ಇಥಿಯೋಫಿಯ	"
 ],			
-"correct" :	"	a. Gadarenes.	",
-"explanation" :	"	Then they came to the other side of the sea, to the country of the Gadarenes. - Mr 5:1	",
+"correct" :	"	A. ಗೆರಸೇನ	",
+"explanation" :	"	ಆಮೇಲೆ ಅವರು ಸಮುದ್ರದ ಆಚೇದಡಕ್ಕೆ ಗೆರಸೇನರ ಸೀಮೆಗೆ ಮುಟ್ಟಿದರು.  ಮಾರ್ಕ 5:1	",
 },			
 {			
-"question" :	"	2. What was the name of the unclean spirit?	",
+"question" :	"	2 ಆ ದೆವ್ವದ ಹೆಸರೇನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Legion	",
-	"	b. Ezra	",
-	"	c. Beelzebub	",
-	"	d. Baal	"
+	"	A. ದಂಡು	",
+	"	B. ಎಜ್ರ	",
+	"	C. ಬೆಲ್ಜೆಬೂಲ	",
+	"	D. ಬಾಳ	"
 ],			
-"correct" :	"	a. Legion	",
-"explanation" :	"	Then He asked him, What is your name? And he answered, saying, My name is Legion; for we are many. - Mr 5:9	",
+"correct" :	"	A. ದಂಡು	",
+"explanation" :	"	ನಿನ್ನ ಹೆಸರೇನೆಂದು ಅವನನ್ನು ಕೇಳಿದ್ದಕ್ಕೆ ಅವನು ನನ್ನ ಹೆಸರು ದಂಡು, ಯಾಕಂದರೆ ನಾವು ಬಹು ಮಂದಿ ಇದ್ದೇವೆ ಎಂದು ಹೇಳಿ ..    ಮಾರ್ಕ 5:9	",
 },			
 {			
-"question" :	"	3. Where did Jesus allow the unclean spirit to go?	",
+"question" :	"	3 ಯೇಸು ಆ ದೆವ್ವಕ್ಕೆ ಎಲ್ಲಿಗೆ ಹೋಗಲು ಅಪ್ಪಣೆ ಕೊಟ್ಟನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Into a herd of swine	",
-	"	b. Into a flock of sheep	",
-	"	c. Into the caves	",
-	"	d. Into the city	"
+	"	A. ಹಂದಿಗಳ ಗುಂಪಿನೊಳಕ್ಕೆ	",
+	"	B. ಕುರಿಗಳ ಮಂದೆಯೊಳಕ್ಕೆ	",
+	"	C. ಗುಹೆಯೊಳಕ್ಕೆ	",
+	"	D. ಪಟ್ಟಣದೊಳಕ್ಕೆ	"
 ],			
-"correct" :	"	a. Into a herd of swine	",
-"explanation" :	"	And at once Jesus gave them permission. Then the unclean spirits went out and entered the swine (there were about two thousand); and the herd ran violently down the steep place into the sea, and drowned in the sea. - Mr 5:13	",
+"correct" :	"	A. ಹಂದಿಗಳ ಗುಂಪಿನೊಳಕ್ಕೆ	",
+"explanation" :	"	ಆತನು ಆಗಲಿ ಎಂದು ಅವುಗಳಿಗೆ ಅಪ್ಪಣೆ ಕೊಡಲು ಆ ದೆವ್ವಗಳು ಹೊರಗೆ ಬಂದು ಹಂದಿಗಳೊಳಗೆ ಹೊಕ್ಕವು.  ಮಾರ್ಕ 5:13	",
 },			
 {			
-"question" :	"	4. When the people came out from the city what did they ask Jesus to do?	",
+"question" :	"	4 ಪಟ್ಟಣದಿಂದ ಬಂದ ಜನರು ಏನು ಮಾಡಬೇಕೆಂದು ಯೇಸುವನ್ನು ಕೇಳಿಕೊಂಡರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Preach	",
-	"	b. Heal the sick	",
-	"	c. Come to their city	",
-	"	d. Leave	"
+	"	A. ಭೋದನೆ	",
+	"	B. ರೋಗಿಗಳನ್ನು ಸೌಖ್ಯಪಡಿಸಬೇಕೆಂದು	",
+	"	C. ತಮ್ಮ ಪಟ್ಟಣಗಳಿಗೆ ಬರಬೇಕೆಂದು	",
+	"	D. ತಮ್ಮ ಪಟ್ಟಣವನ್ನು ಬಿಟ್ಟುಹೋಗಬೇಕೆಂದು	"
 ],			
-"correct" :	"	d. Leave	",
-"explanation" :	"	So those who fed the swine fled, and they told it in the city and in the country. And they went out to see what it was that had happened.Then they came to Jesus, and saw the one who had been demon-possessed and had the legion, sitting and clothed and in his right mind. And they were afraid.And those who saw it told them how it happened to him who had been demon-possessed, and about the swine.Then they began to plead with Him to depart from their region. - Mr 5:14-17	",
+"correct" :	"	D. ತಮ್ಮ ಪಟ್ಟಣವನ್ನು ಬಿಟ್ಟುಹೋಗಬೇಕೆಂದು	",
+"explanation" :	"	ನಡೆದ ಸಂಗತಿಯನ್ನು ನೋಡಿದ್ದವರು ಆ ದೆವ್ವ ಹಿಡಿದಿದ್ದವನಿಗೆ ಹೀಗೆ ಹೀಗಾಯಿತೆಂಬದನ್ನೂ ಹಂದಿಗಳ ವಿಷಯವನ್ನೂ ಅವರಿಗೆ ವಿವರಿಸಲು ಅವರು ತಮ್ಮ ಸೀಮೆಯನ್ನು ಬಿಟ್ಟು ಹೋಗಬೇಕೆಂದು ಯೇಸುವನ್ನು ಬೇಡಿಕೊಂಡರು.  ಮಾರ್ಕ 5:16-17.	",
 },			
 {			
-"question" :	"	5. What was the name of the Ruler of the Synagogue who came to Jesus asking Him to heal his daughter?	",
+"question" :	"	5 ತನ್ನ ಮಗಳನ್ನು ಸೌಖ್ಯಪಡಿಸು ಎಂದು ಯೇಸುವಿನ ಬಳಿ ಬಂದು ಕೇಳಿಕೊಂಡ ಸಭಾಮಂದಿರದ ಅಧಿಕಾರಿಯ ಹೆಸರೇನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Nicodemus	",
-	"	b. Joseph	",
-	"	c. Jairus	",
-	"	d. Caiaphas	"
+	"	A.ನಿಕೋದೇಮನು	",
+	"	B. ಯೊಸೇಫ	",
+	"	C. ಯಾಯಿರನು	",
+	"	D. ಕಾಯಫನು	"
 ],			
-"correct" :	"	c. Jairus	",
-"explanation" :	"	And behold, one of the rulers of the synagogue came, Jairus by name. And when he saw Him, he fell at His feet and begged Him earnestly, saying, My little daughter lies at the point of death. Come and lay Your hands on her, that she may be healed, and she will live. - Mr 5:22-23	",
+"correct" :	"	C. ಯಾಯಿರನು	",
+"explanation" :	"	ಆಗ ಸಭಾಮಂದಿರದ ಅಧಿಕಾರಿಗಳಲ್ಲಿ ಒಬ್ಬನಾದ ಯಾಯೀರನೆಂಬವನು ಬಂದು ಯೇಸುವನ್ನು ಕಂಡು ಆತನ ಪಾದಗಳಿಗೆ ಬಿದ್ದು ನನ್ನ ಚಿಕ್ಕ ಮಗಳು ಈಗ ಸಾಯುತ್ತಾಳೆ; ಆಕೆಯು ವಾಸಿಯಾಗಿ ಬದುಕಿಕೊಳ್ಳುವಂತೆ ನೀನು ಬಂದು ಆಕೆಯ ಮೇಲೆ ಕೈಯಿಡಬೇಕು ಎಂದು ಆತನನ್ನು ಬಹಳವಾಗಿ ಬೇಡಿಕೊಂಡನು.  ಮಾರ್ಕ 5:22-23	",
 },			
 {			
-"question" :	"	6. How long had the woman had the issue of blood?	",
+"question" :	"	6 ಆ ಸ್ತ್ರೀಗೆ ಎಷ್ಟು ದಿನಗಳಿಂದ ರಕ್ತಕುಸುಮ ರೋಗವಿತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1 year	",
-	"	b. 2 years	",
-	"	c. 10 years	",
-	"	d. 12 years	"
+	"	A. 1 ವರ್ಷ	",
+	"	B. 2 ವರ್ಷ	",
+	"	C. 10 ವರ್ಷ	",
+	"	D. 12 ವರ್ಷ	"
 ],			
-"correct" :	"	d. 12 years	",
-"explanation" :	"	Now a certain woman had a flow of blood for twelve years, - Mr 5:25	",
+"correct" :	"	D. 12 ವರ್ಷ	",
+"explanation" :	"	ಆಗ ಹನ್ನೆರಡು ವರುಷದಿಂದ ರಕ್ತ ಕುಸುಮರೋಗವಿದ್ದ ಒಬ್ಬ ಹೆಂಗಸು ಬಂದಳು.  ಮಾರ್ಕ 5:25	",
 },			
 {			
-"question" :	"	7. The woman suffered many things from many physicians, and spent all of her money	",
+"question" :	"	7 ಆಕೆಯು ಅನೇಕ ವೈದ್ಯರಿಂದ ಬಹು ಕಷ್ಟವನ್ನು ಅನುಭವಿಸಿ ಕೈಯಲ್ಲಿದ್ದದ್ದನ್ನೆಲ್ಲಾ ಕಳಕೊಂಡರೂ…………	",
 "image" :	"",		
 "choices" : [			
-	"	a. And was only little better.	",
-	"	b. But grew worse.	",
-	"	c. And was now well.	",
-	"	d. And was in remission.	"
+	"	A. ಸ್ವಲ್ಪ ಮಾತ್ರ ವಾಸಿಯಾಯಿತು	",
+	"	B. ರೋಗವು ಹೆಚ್ಚುತ್ತಾ ಹೋಯಿರು	",
+	"	C. ಈಗ ಆಕೆ ಸ್ವಸ್ಥಳಾಗಿದ್ದಾಳೆ	",
+	"	D. ಈಗ ಆಕೆ ಸ್ವಸ್ಥಳಾಗುತ್ತಿದ್ದಾಳೆ	"
 ],			
-"correct" :	"	b. But grew worse.	",
-"explanation" :	"	and had suffered many things from many physicians. She had spent all that she had and was no better, but rather grew worse. Mr 5:26	",
+"correct" :	"	B. ರೋಗವು ಹೆಚ್ಚುತ್ತಾ ಹೋಯಿರು	",
+"explanation" :	"	ಆಕೆಯು ಅನೇಕ ವೈದ್ಯರಿಂದ ಬಹು ಕಷ್ಟವನ್ನು ಅನುಭವಿಸಿ ಕೈಯಲ್ಲಿದ್ದದ್ದನ್ನೆಲ್ಲಾ ಕಳಕೊಂಡರೂ ರೋಗವು ಹೆಚ್ಚುತ್ತಾ ಬಂದದ್ದೇ ಹೊರತು ಮತ್ತೇನು ಪ್ರಯೋಜನವನ್ನು ಹೊಂದಿರಲಿಲ್ಲ.  ಮಾರ್ಕ 5:26	",
 },			
 {			
-"question" :	"	8. Jesus told the woman	",
+"question" :	"	8 ಯೇಸು ಆ ಸ್ತ್ರೀಗೆ ಹೇಳಿದ್ದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. This is the glory of God.	",
-	"	b. Thou art unclean.	",
-	"	c. Do not touch the master.	",
-	"	d. Thy faith hath made thee whole.	"
+	"	A. ಇದು ದೇವರ ಮಹಿಮೆ	",
+	"	B. ನೀನು ಶುದ್ಧಳಾಗಿದ್ದೀಯ	",
+	"	C. ಗುರುವನ್ನು ಮುಟ್ಟಬೇಡ	",
+	"	D. ನಿನ್ನ ನಂಬಿಕೆಯೇ ನಿನ್ನನ್ನು ಸ್ವಸ್ಥಮಾಡಿತು	"
 ],			
-"correct" :	"	d. Thy faith hath made thee whole.	",
-"explanation" :	"	And He said to her, Daughter, your faith has made you well. Go in peace, and be healed of your affliction. - Mr 5:34	",
+"correct" :	"	D. ನಿನ್ನ ನಂಬಿಕೆಯೇ ನಿನ್ನನ್ನು ಸ್ವಸ್ಥಮಾಡಿತು	",
+"explanation" :	"	ಆತನು ಆಕೆಗೆ -ಮಗಳೇ ನಿನ್ನ ನಂಬಿಕೆಯೇ ನಿನ್ನನ್ನು ಸ್ವಸ್ಥಮಾಡಿತು; ಸಮಾಧಾನದಿಂದ ಹೋಗು; ನಿನ್ನನ್ನು ಕಾಡಿದ ರೋಗವು ಹೋಗಿ ನಿನಗೆ ಗುಣವಾಗಲು ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 5:34	",
 },			
 {			
-"question" :	"	9. When one came from the Ruler of the Synagogue's home, and said his daughter was dead, Jesus said	",
+"question" :	"	9 ಸಭಾಮಂದಿರದ ಅಧಿಕಾರಿಯ ಕಡೆಯವರು ಬಂದು ಆತನಿಗೆ ನಿನ್ನ ಮಗಳು ಸತ್ತು ಹೋದಳೆಂದು ಹೇಳಿದಾಗ ಯೇಸು ಏನು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. She shall live again.	",
-	"	b. I am the resurrection.	",
-	"	c. Be not afraid, only believe.	",
-	"	d. She yet lives.	"
+	"	A. ಆಕೆ ಮತ್ತೆ ಬದಕುವಳು	",
+	"	B. ನಾನೇ ಪುನರುತ್ಥಾನವು	",
+	"	C. ಅಂಜಬೇಡ, ನಂಬಿಕೆ ಮಾತ್ರ ಇರಲಿ	",
+	"	D. ಆಕೆ ಇನ್ನೂ ಬದುಕಿದ್ದಾಳೆ	"
 ],			
-"correct" :	"	c. Be not afraid, only believe.	",
-"explanation" :	"	While He was still speaking, some came from the ruler of the synagogue's house who said, Your daughter is dead. Why trouble the Teacher any further?As soon as Jesus heard the word that was spoken, He said to the ruler of the synagogue, Do not be afraid; only believe. - Mr 5:35-36	",
+"correct" :	"	C. ಅಂಜಬೇಡ, ನಂಬಿಕೆ ಮಾತ್ರ ಇರಲಿ	",
+"explanation" :	"	ಆತನು ಇನ್ನೂ ಮಾತಾಡುತ್ತಿರುವಲ್ಲಿ ಸಭಾಮಂದಿರದ ಅಧಿಕಾರಿಯ ಕಡೆಯವರು ಬಂದು ನಿನ್ನ ಮಗಳು ತೀರಿಹೋದಳು, ಇನ್ನೇಕೆ ಗುರುವಿಗೆ ತೊಂದರೆ ಕೊಡುವುದು? ಅಂದರು.  ಅವರು ಆಡಿದ ಮಾತನ್ನು ಯೇಸು ಲಕ್ಷ್ಯ ಮಾಡದೆ ಸಭಾಮಂದಿರದ ಅಧಿಕಾರಿಗೆ - ಅಂಜಬೇಡ, ನಂಬಿಕೆ ಮಾತ್ರ ಇರಲಿ ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 5:35-36	",
 },			
 {			
-"question" :	"	10. What did the people do when Jesus said, the damsel is not dead but sleeping?	",
+"question" :	"	10 ಹುಡುಗಿ ಸತ್ತಿಲ್ಲ, ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದಾಳೆ ಎಂದು ಯೇಸು ಹೇಳಿದಾಗ ಜನರು ಏನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Praised God	",
-	"	b. Went home	",
-	"	c. Woke her up	",
-	"	d. Laughed	"
+	"	A. ದೇವರನ್ನು ಸ್ತುತಿಸಿದರು	",
+	"	B. ಮನೆಗೆ ಹೋದರು	",
+	"	C. ಆಕೆಯನ್ನು ಎಬ್ಬಿಸಿದರು	",
+	"	D. ಹಾಸ್ಯ ಮಾಡಿದರು	"
 ],			
-"correct" :	"	d. Laughed	",
-"explanation" :	"	When He came in, He said to them, Why make this commotion and weep? The child is not dead, but sleeping.And they ridiculed Him. But when He had put them all outside, He took the father and the mother of the child, and those who were with Him, and entered where the child was lying. - Mr 5:39-40	",
+"correct" :	"	D. ಹಾಸ್ಯ ಮಾಡಿದರು	",
+"explanation" :	"	ಆತನು ಒಳಕ್ಕೆ ಹೋಗಿ ನೀವು ಗದ್ದಲ ಮಾಡುವದೂ ಅಳುವದೂ ಯಾಕೆ? ಹುಡುಗಿ ಸತ್ತಿಲ್ಲ; ನಿದ್ದೆ ಮಾಡುತ್ತಾಳೆ ಅನ್ನಲು ಅವರು ಆತನನ್ನು ಹಾಸ್ಯಮಾಡಿದರು.  ಮಾರ್ಕ 5:39-40.	",
 },			
 ]			

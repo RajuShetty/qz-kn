@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 35";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 35";			
 var quiz = [			
 {			
 "question" :	"	1. Josiah kept this feast.	",

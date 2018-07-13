@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 27";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 27";			
 var quiz = [			
 {			
-"question" :	"	1. It was determined that Paul would sail here.	",
+"question" :	"	1  ಪೌಲನು ಸಮುದ್ರ ಮಾರ್ಗವಾಗಿ ಎಲ್ಲಿಗೆ ಹೋಗಬೇಕೆಂದು ತೀರ್ಮಾನವಾಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Italy	",
-	"	b. Galilee	",
-	"	c. Samaria	",
-	"	d. Capernaum	"
+	"	A. ಇತಾಲ್ಯ	",
+	"	B. ಗಲಿಲಾಯ	",
+	"	C. ಸಮಾರ್ಯ	",
+	"	D. ಕಪರ್ನೌಮ್	"
 ],			
-"correct" :	"	a. Italy	",
-"explanation" :	"	And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus' band.Acts27:1	",
+"correct" :	"	A. ಇತಾಲ್ಯ	",
+"explanation" :	"	ನಾವು ಸಮುದ್ರಮಾರ್ಗವಾಗಿ ಇತಾಲ್ಯದೇಶಕ್ಕೆ ಹೋಗಬೇಕೆಂದು ತೀರ್ಮಾನವಾದ ಮೇಲೆ ಪೌಲನನ್ನೂ ಬೇರೆ ಕೆಲವು ಸೆರೆಯವರನ್ನೂ ಚಕ್ರವರ್ತಿಯ ಪಟಾಲಮಿಗೆ ಸೇರಿದ ಯೂಲ್ಯನೆಂಬ ಒಬ್ಬ ಶತಾಧಿಪತಿಗೆ ಒಪ್ಪಿಸಿದರು. 27:1	",
 },			
 {			
-"question" :	"	2. Who was the centurion Paul was delivered to?	",
+"question" :	"	2 ಪೌಲನನ್ನು ಯಾವ ಶತಾಧಿಪತಿಗೆ ಒಪ್ಪಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Julius	",
-	"	b. Marion	",
-	"	c. Francis	",
-	"	d. Ahiezer	"
+	"	A. ಯೂಲ್ಯ	",
+	"	B. ಮರಿಯೋನ್	",
+	"	C. ಫ್ರಾನ್ಸಿಸ್	",
+	"	D. ಅಹಿಯೇಜರ್	"
 ],			
-"correct" :	"	a. Julius	",
-"explanation" :	"	And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus' band.Acts27:1	",
+"correct" :	"	A. ಯೂಲ್ಯ	",
+"explanation" :	"	ನಾವು ಸಮುದ್ರಮಾರ್ಗವಾಗಿ ಇತಾಲ್ಯದೇಶಕ್ಕೆ ಹೋಗಬೇಕೆಂದು ತೀರ್ಮಾನವಾದ ಮೇಲೆ ಪೌಲನನ್ನೂ ಬೇರೆ ಕೆಲವು ಸೆರೆಯವರನ್ನೂ ಚಕ್ರವರ್ತಿಯ ಪಟಾಲಮಿಗೆ ಸೇರಿದ ಯೂಲ್ಯನೆಂಬ ಒಬ್ಬ ಶತಾಧಿಪತಿಗೆ ಒಪ್ಪಿಸಿದರು. 27:1	",
 },			
 {			
-"question" :	"	3. Who warned everyone of the pending danger if they should go?	",
+"question" :	"	3 ತಾವು ಹೋಗುವುದರಿಂದ ಎಲ್ಲರಿಗೂ ಅಪಾಯವೆಂದು ಹೇಳಿ ಎಚ್ಚರಿಸಿದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Luke	",
-	"	b. Mark	",
-	"	c. Caesar	",
-	"	d. Paul	"
+	"	A. ಲೂಕ	",
+	"	B. ಮಾರ್ಕ	",
+	"	C. ಕೈಸರ	",
+	"	D. ಪೌಲ	"
 ],			
-"correct" :	"	d. Paul	",
-"explanation" :	"	 Now when much time was spent, and when sailing was now dangerous, because the fast was now already past, Paul admonished them,And said unto them, Sirs, I perceive that this voyage will be with hurt and much damage, not only of the lading and ship, but also of our lives.Acts27:9,10	",
-},		 	
-{			
-"question" :	"	4. Who did the centurion believe?	",
-"image" :	"",		
-"choices" : [			
-	"	a. Paul	",
-	"	b. The ship's owner	",
-	"	c. Felix	",
-	"	d. Festus	"
-],			
-"correct" :	"	b. The ship's owner	",
-"explanation" :	"	Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul.Acts27:11	",
+"correct" :	"	D. ಪೌಲ	",
+"explanation" :	"	ಹೀಗೆ ಬಹುಕಾಲ ಕಳೆದುಹೋಯಿತು; ಮಹಾ ಉಪವಾಸದ ದಿವಸವು ಆಗಿಹೋಗಿತ್ತು. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಸಮುದ್ರಪ್ರಯಾಣ ಮಾಡುವದು ಅಪಾಯಕರವಾಗಿದ್ದದರಿಂದ ಪೌಲನು - ಜನರೇ, ಈ ಪ್ರಯಾಣದಿಂದ ಸರಕಿಗೂ ಹಡಗಿಗೂ ಮಾತ್ರವಲ್ಲದೆ ನಮ್ಮ ಪ್ರಾಣಗಳಿಗೂ ಕಷ್ಟವೂ ಬಹು ನಷ್ಟವೂ ಸಂಭವಿಸುವದೆಂದು ನನಗೆ ತೋರುತ್ತದೆ ಎಂದು ಅವರನ್ನು ಎಚ್ಚರಿಸಿದನು. 27:9,10	",
 },			
 {			
-"question" :	"	5. All hope of their being saved was lost, when they did not see these, for many days.	",
+"question" :	"	4 ಶತಾಧಿಪತಿಯು ಯಾರನ್ನು ನಂಬಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Angels	",
-	"	b. Boats	",
-	"	c. Sun or stars	",
-	"	d. Miracles	"
+	"	A. ಪೌಲ	",
+	"	B. ಹಡಗಿನ ಯಜಮಾನ	",
+	"	C. ಫೆಲಿಕ್ಸ್	",
+	"	D. ಫೆಸ್ತ	"
 ],			
-"correct" :	"	c. Sun or stars	",
-"explanation" :	"	And when neither sun nor stars in many days appeared, and no small tempest lay on us, all hope that we should be saved was then taken away.Acts27:20	",
+"correct" :	"	B. ಹಡಗಿನ ಯಜಮಾನ	",
+"explanation" :	"	ಆದರೆ ಪೌಲನು ಹೇಳಿದ ಮಾತುಗಳಿಗಿಂತ ನಾವಿಕನೂ ಹಡಗಿನ ಯಜಮಾನನೂ ಹೇಳಿದ ಮಾತಿಗೆ ಶತಾಧಿಪತಿಯು ಹೆಚ್ಚಾಗಿ ಲಕ್ಷ್ಯಕೊಟ್ಟನು. 27:11	",
 },			
 {			
-"question" :	"	6. Who did Paul tell them had stood by him that night?	",
+"question" :	"	5  ಅನೇಕ ದಿನಗಳವರೆಗೆ ಅವರಿಗೆ ಇವು ಕಾಣದೇ ಹೋದದರಿಂದ ಅವರು ತಮ್ಮ ಎಲ್ಲಾ ನಿರೀಕ್ಷೆಗಳನ್ನು ಕಳಕೊಂಡರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. God	",
-	"	b. An angel	",
-	"	c. Satan	",
-	"	d. The ship's owner	"
+	"	A. ದೂತರು	",
+	"	B. ಹಡಗುಗಳು	",
+	"	C. ಸೂರ್ಯ ಅಥವಾ ನಕ್ಷತ್ರಗಳು	",
+	"	D. ಅದ್ಭುತಗಳು	"
 ],			
-"correct" :	"	b. An angel	",
-"explanation" :	"	 For there stood by me this night the angel of God, whose I am, and whom I serve,Acts27:23	",
+"correct" :	"	C. ಸೂರ್ಯ ಅಥವಾ ನಕ್ಷತ್ರಗಳು	",
+"explanation" :	"	ಅನೇಕ ದಿವಸಗಳ ತನಕ ಸೂರ್ಯನಾಗಲಿ ನಕ್ಷತ್ರಗಳಾಗಲಿ ನಮಗೆ ಕಾಣಿಸದೆ ದೊಡ್ಡ ಬಿರುಗಾಳಿ ನಮ್ಮ ಮೇಲೆ ಹೊಡೆದದ್ದರಿಂದ ತಪ್ಪಿಸಿಕೊಂಡೇವೆಂಬ ಎಲ್ಲಾ ನಿರೀಕ್ಷೆಯು ಅಂದಿನಿಂದ ಕಳೆದುಹೋಯಿತು. 27:20	",
 },			
 {			
-"question" :	"	7. Paul was told not to fear, and that he must be brought here.	",
+"question" :	"	6  ಆ ರಾತ್ರಿ ತನ್ನ ಸಂಗಡ ಯಾರು ನಿಂತಿದ್ದರೆಂದು ಪೌಲನು ಹೇಳಿದ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jerusalem	",
-	"	b. Before Caesar	",
-	"	c. Antioch	",
-	"	d. Asia	"
+	"	A. ದೇವರು	",
+	"	B. ಒಬ್ಬ ದೂತ	",
+	"	C. ಸೈತಾನ್	",
+	"	C. ಹಡಗಿನ ಯಜಮಾನ	"
 ],			
-"correct" :	"	b. Before Caesar	",
-"explanation" :	"	Saying, Fear not, Paul; thou must be brought before Caesar: and, lo, God hath given thee all them that sail with thee.Acts27:24	",
+"correct" :	"	B. ಒಬ್ಬ ದೂತ	",
+"explanation" :	"	ನಾನು ಯಾರವನಾಗಿದ್ದೇನೋ ಯಾರನ್ನು ಸೇವಿಸುತ್ತೇನೋ ಆ ದೇವರಿಂದ ಬಂದ ಒಬ್ಬ ದೂತನು ಕಳೆದ ರಾತ್ರಿಯಲ್ಲಿ ನನ್ನ ಹತ್ತಿರ ನಿಂತು 27:23	",
 },			
 {			
-"question" :	"	8. Paul said, only those who did this, would be saved.	",
+"question" :	"	7  ಪೌಲನಿಗೆ ಹೇಳಿದ್ದು, ನೀನು ಭಯ ಪಡಬೇಡ, ನೀನು ಈ ಸ್ಥಳಕ್ಕೆ ಕರತರುತ್ತೀ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Knew how to swim	",
-	"	b. Got in lifeboats	",
-	"	c. Stayed in the ship	",
-	"	d. Gave him money	"
+	"	A. ಯೆರೂಷಲೇಮ್	",
+	"	B. ಕೈಸರನ ಮುಂದೆ	",
+	"	C. ಅಂತಿಯೋಕ್ಯ	",
+	"	D. ಆಸ್ಯ	"
 ],			
-"correct" :	"	c. Stayed in the ship	",
-"explanation" :	"	Paul said to the centurion and to the soldiers, Except these abide in the ship, ye cannot be saved.Acts27:31	",
+"correct" :	"	B. ಕೈಸರನ ಮುಂದೆ	",
+"explanation" :	"	ಪೌಲನೇ, ಭಯಪಡಬೇಡ, ನೀನು ಚಕ್ರವರ್ತಿಯ ಮುಂದೆ ನಿಲ್ಲಬೇಕು; ಇದಲ್ಲದೆ ನಿನ್ನ ಸಂಗಡ ಈ ಹಡಗಿನಲ್ಲಿ ಪ್ರಯಾಣಮಾಡುವವರೆಲ್ಲರ ಪ್ರಾಣ ದೇವರು ನಿನ್ನ ಮೇಲಣ ದಯೆಯಿಂದ ಉಳಿಸಿಕೊಟ್ಟಿದ್ದಾನೆಂದು ನನ್ನ ಸಂಗಡ ಹೇಳಿದನು. 27:24	",
 },			
 {			
-"question" :	"	9. The soldiers were going to do this, to the prisoners.	",
+"question" :	"	8 ಪೌಲನು ಹೇಳಿದ್ದು, ಹೀಗೆ ಮಾಡಿದವರು ಮಾತ್ರ ರಕ್ಷಿಸಲ್ಪಡುತ್ತಾರೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Abandon them	",
-	"	b. Tie them up	",
-	"	c. Kill them	",
-	"	d. Let them escape	"
+	"	A. ಈಜಲು ಕಲಿತವರು	",
+	"	B. ಜೀವರಕ್ಷಕ ವಸ್ತ್ರಗಳನ್ನು ಧರಿಸಿದವರು	",
+	"	C. ದೋಣಿಯಲ್ಲೇ ಉಳಿಯುವರು	",
+	"	D. ಅವನಿಗೆ ಹಣವನ್ನು ನೀಡುವವರು	"
 ],			
-"correct" :	"	c. Kill them	",
-"explanation" :	"	And the soldiers' counsel was to kill the prisoners, lest any of them should swim out, and escape.Acts27:42	",
+"correct" :	"	C. ದೋಣಿಯಲ್ಲೇ ಉಳಿಯುವರು	",
+"explanation" :	"	ಪೌಲನು ಶತಾಧಿಪತಿಗೂ ಸಿಪಾಯಿಗಳಿಗೂ - ಇವರು ಹಡಗಿನಲ್ಲಿ ನಿಲ್ಲದೆ ಹೋದರೆ ನೀವೂ ಉಳುಕೊಳ್ಳುವದಕ್ಕಾಗುವದಿಲ್ಲವೆಂದು ಹೇಳಿದನು 27:31	",
 },			
 {			
-"question" :	"	10. How many of those on board escaped to land?	",
+"question" :	"	9  ಸೈನಿಕರು ಕೈದಿಗಳನ್ನು ಹೀಗೆ ಮಾಡುವವರಿದ್ದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Only Paul	",
-	"	b. 150	",
-	"	c. 210	",
-	"	d. All of them	"
+	"	A. ಬಿಟ್ಟುಬಿಡುವವರಿದ್ದರು	",
+	"	B. ಕಟ್ಟಿಹಾಕುವವರಿದ್ದರು	",
+	"	C. ಕೊಲ್ಲುವವರಿದ್ದರು	",
+	"	D. ತಪ್ಪಿಸಿಕೊಳ್ಳಲು ಬಿಡುತ್ತಿದ್ದರು	"
 ],			
-"correct" :	"	d. All of them	",
-"explanation" :	"	 And the rest, some on boards, and some on broken pieces of the ship. And so it came to pass, that they escaped all safe to land.Acts27:44	",
+"correct" :	"	C. ಕೊಲ್ಲುವವರಿದ್ದರು	",
+"explanation" :	"	ಸೆರೆಯವರಲ್ಲಿ ಕೆಲವರು ಈಜಿ ತಪ್ಪಿಸಿಕೊಂಡಾರೆಂದು ಸಿಪಾಯಿಗಳು ಅವರನ್ನು ಕೊಲ್ಲಬೇಕೆಂಬದಾಗಿ ಆಲೋಚನೆ ಹೇಳಿದರು. 27:42	",
+},			
+{			
+"question" :	"	10 ಹಲಗೆಗಳ ಸಹಾಯದಿಂದ ಎಷ್ಟು ಜನ ತಪ್ಪಿಸಿಕೊಂಡು ತೀರಕ್ಕೆ ಬಂದರು?	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಪೌಲನು ಮಾತ್ರ	",
+	"	B. 150	",
+	"	C. 210	",
+	"	D. ಎಲ್ಲರೂ	"
+],			
+"correct" :	"	D. ಎಲ್ಲರೂ	",
+"explanation" :	"	ಮಿಕ್ಕಾದವರಲ್ಲಿ ಕೆಲವರು ಹಲಿಗೆಗಳ ಮೇಲೆ ಕೆಲವರು ಹಡಗಿನ ತುಂಡುಗಳ ಮೇಲೆ ಹೋಗಬೇಕೆಂತಲೂ ಅಪ್ಪಣೆಕೊಟ್ಟನು. ಈ ರೀತಿಯಿಂದ ಎಲ್ಲರೂ ಸುರಕ್ಷಿತವಾಗಿ ತೀರಕ್ಕೆ ಸೇರಿದರು. 27:44	",
 },			
 ]			

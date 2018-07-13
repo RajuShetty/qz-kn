@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 34";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 34";			
 var quiz = [			
 {			
 "question" :	"	1. How old was Josiah when he began to reign?	",
@@ -89,7 +89,7 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. Shaphan	",
-	"	b. Luke	",
+	"	b. ಲೂಕ	",
 	"	c. Jonas	",
 	"	d. Elisha	"
 ],			

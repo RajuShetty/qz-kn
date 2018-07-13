@@ -1,4 +1,4 @@
-var quiztitle = "1 Corinthians chapter 11";			
+var quiztitle = "1 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. ಪ್ರತಿಯೊಬ್ಬ ಮನುಷ್ಯನ ತಲೆಯು	",

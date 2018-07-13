@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 3";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
-"question" :	"	1. They were the chief priests.	",
+"question" :	"	1. ಇವರು ಮಹಾಯಾಜಕರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Paul & Silas	",
-	"	b. Peter & Andrew	",
-	"	c. James & John	",
-	"	d. Annas & Caiaphas	"
+	"	A. ಪೌಲ ಮತ್ತು ಸೀಲ	",
+	"	B. ಪೇತ್ರ ಮತ್ತು ಆಂದ್ರೇಯ	",
+	"	C. ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+	"	D. ಅನನೀಯ ಮತ್ತು ಕಾಯಫ	"
 ],			
-"correct" :	"	d. Annas & Caiaphas	",
-"explanation" :	"	while Annas and Caiaphas were high priests, the word of God came to John the son of Zacharias in the wilderness.- Lk 3:2	",
+"correct" :	"	D. ಅನನೀಯ ಮತ್ತು ಕಾಯಫ	",
+"explanation" :	"	ಅನ್ನನೂ ಕಾಯಫನೂ ಮಹಾಯಾಜಕರಾಗಿದ್ದ ಕಾಲದಲ್ಲಿ ಜಕರೀಯನ ಮಗನಾದ ಯೋಹಾನನಿಗೆ ಅಡವಿಯಲ್ಲಿ ದೇವರ ವಾಕ್ಯವುಂಟಾಯಿತು.	",
 },			
 {			
-"question" :	"	2. John was the son of	",
+"question" :	"	2. ಯೋಹಾನನ ಯಾರ ಮಗ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Zacharias.	",
-	"	b. Matthias.	",
-	"	c. Rheas.	",
-	"	d. Nathan.	"
+	"	A. ಜಕ್ಕರೀಯ	",
+	"	B. ಮತ್ತೀಯ	",
+	"	C. ರಿಯಾಸ್	",
+	"	D. ನಾತಾನ್	"
 ],			
-"correct" :	"	a. Zacharias.	",
-"explanation" :	"	while Annas and Caiaphas were high priests, the word of God came to John the son of Zacharias in the wilderness.- Lk 3:2	",
+"correct" :	"	A. ಜಕ್ಕರೀಯ	",
+"explanation" :	"	ಅನ್ನನೂ ಕಾಯಫನೂ ಮಹಾಯಾಜಕರಾಗಿದ್ದ ಕಾಲದಲ್ಲಿ ಜಕರೀಯನ ಮಗನಾದ ಯೋಹಾನನಿಗೆ ಅಡವಿಯಲ್ಲಿ ದೇವರ ವಾಕ್ಯವುಂಟಾಯಿತು.	",
 },			
 {			
-"question" :	"	3. John preached the baptism of	",
+"question" :	"	3. ಯೋಹಾನನು ______ ದೀಕ್ಷಾಸ್ನಾನದ ಕುರಿತು ಸಾರುವವನಾದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Freedom.	",
-	"	b. Repentance.	",
-	"	c. Honor.	",
-	"	d. Tradition.	"
+	"	A. ಬಿಡುಗಡೆ	",
+	"	B. ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳುವ	",
+	"	C. ಗೌರವದ	",
+	"	D. ಸಂಪ್ರದಾಯದ	"
 ],			
-"correct" :	"	b. Repentance.	",
-"explanation" :	"	And he went into all the region around the Jordan, preaching a baptism of repentance for the remission of sins - Lk 3:3	",
+"correct" :	"	ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳುವ	",
+"explanation" :	"	ಅವನು ಯೊರ್ದನ್ ಹೊಳೆಯ ಸುತ್ತಲಿರುವ ಪ್ರಾಂತ್ಯದಲ್ಲೆಲ್ಲಾ ಸಂಚರಿಸಿ ಜನರಿಗೆ - ನೀವು ಪಾಪ ಪರಿಹಾರಕ್ಕಾಗಿ ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಂಡು ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿಕೊಳ್ಳಬೇಕೆಂದು ಸಾರಿ ಹೇಳುವವನಾದನು.  ಲೂಕ 3:3	",
 },			
 {			
-"question" :	"	4. John said God is able to raise up children unto Abraham of these.	",
+"question" :	"	4. ದೇವರು ಅಬ್ರಹಾಮನಿಗೆ ಇವುಗಳಿಂದಲೂ ಮಕ್ಕಳನ್ನು ಹುಟ್ಟಿಸಬಲ್ಲನೆಂದು ಯೋಹಾನನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Samaritans	",
-	"	b. Soldiers	",
-	"	c. Women	",
-	"	d. Stones	"
+	"	A. ಸಮಾರ್ಯರು	",
+	"	B. ಸೈನಿಕರು	",
+	"	C. ಮಹಿಳೆಯರು	",
+	"	D. ಕಲ್ಲುಗಳು	"
 ],			
-"correct" :	"	d. Stones	",
-"explanation" :	"	Therefore bear fruits worthy of repentance, and do not begin to say to yourselves, 'We have Abraham as our father.' For I say to you that God is able to raise up children to Abraham from these stones.- Lk 3:8	",
+"correct" :	"	D. ಕಲ್ಲುಗಳು	",
+"explanation" :	"	ಹಾಗಾದರೆ ನಿಮ್ಮ ಮನಸ್ಸು ದೇವರ ಕಡೆಗೆ ತಿರುಗಿತೆಂಬದನ್ನು ತಕ್ಕ ಫಲಗಳಿಂದ ತೋರಿಸಿರಿ.  ಅಬ್ರಹಾಮನು ನಮಗೆ ಮೂಲಪುರುಷನಲ್ಲವೇ ಎಂದು ನಿಮ್ಮೊಳಗೆ ಅಂದುಕೊಳ್ಳುವವರಾಗಬೇಡಿರಿ.  ದೇವರು ಅಬ್ರಹಾಮನಿಗೆ  ಈ ಕಲ್ಲುಗಳಿಂದಲೂ ಮಕ್ಕಳನ್ನು ಹುಟ್ಟಿಸಬಲ್ಲನೆಂದು ನಿಮಗೆ ಹೇಳುತ್ತೇನೆ.  ಲೂಕ 3:8	",
 },			
 {			
-"question" :	"	5. Who did John tell to exact no more than was appointed to them?	",
+"question" :	"	5. ನೇಮಿಸಿದ್ದಕ್ಕಿಂತ ಹೆಚ್ಚಿನದಾಗಿ ಏನನ್ನೂ ಎಳಕೊಳ್ಳಬೇಡಿರಿ ಎಂದು ಯೋಹಾನನು ಯಾರಿಗೆ ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Publicans	",
-	"	b. Merchants	",
-	"	c. Servants	",
-	"	d. Kings	"
+	"	A. ಸುಂಕದವರು	",
+	"	B. ವ್ಯಾಪಾರಿಗಳು	",
+	"	C. ಸೇವಕರು	",
+	"	D. ಅರಸರು	"
 ],			
-"correct" :	"	a. Publicans	",
-"explanation" :	"	Then tax collectors also came to be baptized, and said to him, Teacher, what shall we do?And he said to them, Collect no more than what is appointed for you. - Lk 3:12-13	",
+"correct" :	"	A. ಸುಂಕದವರು	",
+"explanation" :	"	ಸುಂಕದವರು ಸಹ ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿಕೊಳ್ಳಬೇಕೆಂದು ಬಂದು - ಗುರುವೇ, ನಾವೇನು ಮಾಡಬೇಕು ಎಂದು ಅವನನ್ನು ಕೇಳಲು ಅವನು ನೇಮಿಸಿದ ಅಸಲಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಏನೂ ಎಳಕೊಳ್ಳಬೇಡಿರಿ ಎಂದು ಅವರಿಗೆ ಹೇಳಿದನು.  ಲೂಕ 3:12-13	",
 },			
 {			
-"question" :	"	6. John told the soldiers not to do violence to any man, do not accuse any man falsely, and to	",
+"question" :	"	6. ಯೋಹಾನನು ಹೇಳಿದ್ದು, ಯಾರನ್ನೂ ಬೆದರಿಸಬೇಡಿರಿ, ಯಾರ ಮೇಲೂ ಸುಳ್ಳು ಸಾಕ್ಷಿ ತಂದು ದುಡ್ಡು ಕಸಕೊಳ್ಳಬೇಡಿರಿ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pity the orphans & widows.	",
-	"	b. Be content with their wages.	",
-	"	c. Honor the priests.	",
-	"	d. Obey the law.	"
+	"	A. ಅನಾಥರು ಮತ್ತು ವಿಧವೆಯರಿಗೆ ಕರುಣೆ ತೋರಿಸಿರಿ	",
+	"	B. ನಿಮ್ಮ ಸಂಬಳದಲ್ಲಿ ತೃಪ್ತರಾಗಿರಿ	",
+	"	C. ಯಾಜಕರನ್ನು ಗೌರವಿಸಿ	",
+	"	D. ಧರ್ಮಶಾಸ್ತ್ರವನ್ನು ಪಾಲಿಸಿ	"
 ],			
-"correct" :	"	b. Be content with their wages.	",
-"explanation" :	"	Likewise the soldiers asked him, saying, And what shall we do? So he said to them, Do not intimidate anyone or accuse falsely, and be content with your wages. - Lk 3:14	",
+"correct" :	"	B. ನಿಮ್ಮ ಸಂಬಳದಲ್ಲಿ ತೃಪ್ತರಾಗಿರಿ	",
+"explanation" :	"	ಸಿಪಾಯಿಗಳು ಸಹ ಬಂದು - ನಾವು ಏನು ಮಾಡಬೇಕು ಎಂದು ಅವನನ್ನು ಕೇಳಿದಾಗ ಻ವನು ಅವರಿಗೆ ಯಾರನ್ನಾದರೂ ಬೆದರಿಸಬೇಡಿರಿ; ಯಾರ ಮೇಲಾದರೂ ಸುಳ್ಳುದೂರು ತಂದು ದುಡ್ಡು ಕಸಕೊಳ್ಳಬೇಡಿರಿ; ನಿಮ್ಮ ಸಂಬಳದಲ್ಲಿ ತೃಪ್ತರಾಗಿರಿ ಎಂದು ಹೇಳಿದನು.  ಲೂಕ 3:14	",
 },			
 {			
-"question" :	"	7. John said, there is one coming after him who would baptize with this.	",
+"question" :	"	7. ನನ್ನ ಹಿಂದೆ ಬರುವವನು ನಿಮಗೆ ಇದರಿಂದ ದೀಕ್ಷಾಸ್ನಾನ ಕೊಡಿಸುವನು ಎಂದು ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Water	",
-	"	b. Mercy & grace	",
-	"	c. Fire & brimstone	",
-	"	d. Holy Ghost & fire	"
+	"	A. ನೀರು	",
+	"	B. ದಯೆ ಮತ್ತು ಕೃಪೆ	",
+	"	C. ಬೆಂಕಿ ಮತ್ತು ಗಂಧಕ	",
+	"	D. ಬೆಂಕಿ ಮತ್ತು ಪವಿತ್ರಾತ್ಮ	"
 ],			
-"correct" :	"	d. Holy Ghost & fire	",
-"explanation" :	"	John answered, saying to all, I indeed baptize you with water; but One mightier than I is coming, whose sandal strap I am not worthy to loose. He will baptize you with the Holy Spirit and fire. - Lk 3:16	",
+"correct" :	"	D. ಬೆಂಕಿ ಮತ್ತು ಪವಿತ್ರಾತ್ಮ	",
+"explanation" :	"	ಯೋಹಾನನು ಅವರೆಲ್ಲರಿಗೆ ನಾನಂತೂ ನಿಮಗೆ ನೀರಿನ ಸ್ನಾನ ಮಾಡಿಸುವವನು; ಆದರೆ ನನಗಿಂತ ಶಕ್ತನು ಬರುತ್ತಾನೆ.  ಆತನ ಕೆರಗಳ ಬಾರನ್ನು ಬಿಚ್ಚುವದಕ್ಕೂ ನಾನು ಯೋಗ್ಯನಲ್ಲ.  ಆತನು ಪವಿತ್ರಾತ್ಮದಲ್ಲಿಯೂ ಬೆಂಕಿಯಲ್ಲಿಯೂ ನಿಮಗೆ ಸ್ನಾನಮಾಡಿಸುವನು.  ಲೂಕ 3:16	",
 },			
 {			
-"question" :	"	8. John reproved him, and he put John in prison.	",
+"question" :	"	8. ಯೋಹಾನನು ಇವನನ್ನು ಗದರಿಸಿದ್ದರಿಂದ ಈತನು ಯೋಹಾನನನ್ನು ಸೆರೆಮನೆಗೆ ಹಾಕಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. Pilate	",
-	"	c. Herod	",
-	"	d. Caiaphas	"
+	"	A. ಯೇಸು	",
+	"	B. ಪಿಲಾತ	",
+	"	C. ಹೆರೋದ	",
+	"	D. ಕಾಯಫ	"
 ],			
-"correct" :	"	c. Herod	",
-"explanation" :	"	But Herod the tetrarch, being rebuked by him concerning Herodias, his brother Philip's wife, and for all the evils which Herod had done,also added this, above all, that he shut John up in prison. - Lk 3:19-20	",
+"correct" :	"	C. ಹೆರೋದ	",
+"explanation" :	"	ಆದರೆ ಉಪರಾಜನಾದ ಹೆರೋದನು ತನ್ನ ಅಣ್ಣನ ಹೆಂಡತಿಯಾದ ಹೆರೋದ್ಯಳ ನಿಮಿತ್ತವಾಗಿಯೂ ತಾನು ಮಾಡಿದ್ದ ಎಲ್ಲಾ ದುಷ್ಕೃತ್ಯಗಳ ನಿಮಿತ್ತವಾಗಿಯೂ ಯೋಹಾನನಿಂದ ಗದರಿಸಲ್ಪಟ್ಟವನಾಗ ಅವನನ್ನು ಸೆರೆಮನೆಯಲ್ಲಿ ಹಾಕಿಸಿ ತನ್ನ ದುಷ್ಕೃತ್ಯಗಳ ಲೆಕ್ಕವನ್ನು ಇನ್ನೂ ಹೆಚ್ಚಿಸಿದನು.  ಲೂಕ 3:19-20	",
 },			
 {			
-"question" :	"	9. When Jesus was baptized, the Holy Ghost descended in a bodily shape like a	",
+"question" :	"	9. ಯೇಸು ದೀಕ್ಷಾಸ್ನಾನವನ್ನು ತೆಗೆದುಕೊಂಡಾಗ ಪರಿಶುದ್ದಾತ್ಮನು ಯಾವ ಆಕಾರದಲ್ಲಿ ಆತನ ಮೇಲೆ ಇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Swan.	",
-	"	b. Dove.	",
-	"	c. Tongue of fire.	",
-	"	d. Cloud.	"
+	"	A. ಹಂಸ	",
+	"	B. ಪಾರಿವಾಳ	",
+	"	C. ಬೆಂಕಿಯ ನಾಲಿಗೆ	",
+	"	D. ಮೇಘ	"
 ],			
-"correct" :	"	b. Dove.	",
-"explanation" :	"	When all the people were baptized, it came to pass that Jesus also was baptized; and while He prayed, the heaven was opened.And the Holy Spirit descended in bodily form like a dove upon Him, and a voice came from heaven which said, You are My beloved Son; in You I am well pleased. - Lk 3:21-22	",
+"correct" :	"	B. ಪಾರಿವಾಳ	",
+"explanation" :	"	ಜನರೆಲ್ಲಾ ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿಕೊಂಡಾಗ ಯೇಸು ಸಹ ಸ್ನಾನ ಮಾಡಿಸಿಕೊಂಡು ಪ್ರಾರ್ಥನೆ ಮಾಡುತ್ತಿರುವಲ್ಲಿ ಆಕಾಶವು ತೆರೆಯಿತು; ಮತ್ತು ಪವಿತ್ರಾತ್ಮನು ದೇಹಾಕಾರವಾಗಿ ಪಾರಿವಾಳದ ಹಾಗೆ ಆತನ ಮೇಲೆ ಇಳಿದನು.  ಲೂಕ 3:21-22	",
 },			
 {			
-"question" :	"	10. A voice from heaven said, Thou art My beloved son; in thee I am	",
+"question" :	"	10.  ನೀನು ಪ್ರಿಯನಾಗಿರುವ ನನ್ನ ಮಗನು, ನಿನ್ನನ್ನು ನಾನು ____ ಎಂದು ಆಕಾಶವಾಣಿ ಆಯಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Well pleased.	",
-	"	b. Manifest.	",
-	"	c. Proclaimed in all the earth.	",
-	"	d. Forsaken.	"
+	"	A. ಮೆಚ್ಚಿದ್ದೇನೆ	",
+	"	B. ಪ್ರಕಟಿಸಿದ್ದೇನೆ	",
+	"	C. ಲೋಕದಲ್ಲೆಲ್ಲಾ ಪ್ರಕಟಿಸಿದ್ದೇನೆ	",
+	"	D. ಕೈ ಬಿಟ್ಟಿದ್ದೇನೆ	"
 ],			
-"correct" :	"	a. Well pleased.	",
-"explanation" :	"	And the Holy Spirit descended in bodily form like a dove upon Him, and a voice came from heaven which said, You are My beloved Son; in You I am well pleased. - Lk 3:22	",
+"correct" :	"	A. ಮೆಚ್ಚಿದ್ದೇನೆ	",
+"explanation" :	"	ಪವಿತ್ರಾತ್ಮನು ದೇಹಾಕಾರವಾಗಿ ಪಾರಿವಾಳದ ಹಾಗೆ ಆತನ ಮೇಲೆ ಇಳಿ+C591ದನು.  ಆಗ - ನೀನು ಪ್ರಿಯನಾಗಿರುವ ನನ್ನ ಮಗನು, ನಿನ್ನನ್ನು ನಾನು ಮೆಚ್ಚಿದ್ದೇನೆ ಎಂದು ಆಕಾಶವಾಣಿ ಆಯಿತು.  ಲೂಕ 3:22	",
 },			
 ]			

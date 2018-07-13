@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 7";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. How long did Solomon build his own house?	",

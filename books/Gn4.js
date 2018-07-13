@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 4";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. Abel was	",
@@ -109,7 +109,7 @@ var quiz = [
 "explanation" :	"	When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth. Gen 4:12	",
 },			
 {			
-"question" :	"	10. When Cain said, his punishment was more than he could bare, God put a mark on him, saying	",
+"question" :	"	10. When Cain said, his punishment was more than he could bare, God put a ಮಾರ್ಕ on him, saying	",
 "image" :	"",		
 "choices" : [			
 	"	a. 666.	",
@@ -118,6 +118,6 @@ var quiz = [
 	"	d. You will not be held guiltless.	"
 ],			
 "correct" :	"	b. Whoever slays Cain, vengeance will be on him.	",
-"explanation" :	"	And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him. Gen 4:15	",
+"explanation" :	"	And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a ಮಾರ್ಕ upon Cain, lest any finding him should kill him. Gen 4:15	",
 },			                                                                                                                                                                                                                                  
 ]			

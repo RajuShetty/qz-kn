@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 1";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
-"question" :	"	1: Whose genealogy does this book begin with?	",
+"question" :	"	1  ಯಾರ ವಂಶಾವಳಿಯ ಕ್ರಮದಿಂದ ಈ ಪುಸ್ತಕವು  ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Abraham	",
-	"	b. Jesus	",
-	"	c. Peter	",
-	"	d. Paul	"
+	"	A. ಅಬ್ರಹಾಮ	",
+	"	B. ಯೇಸು	",
+	"	C. ಪೇತ್ರ	",
+	"	D. ಪೌಲ	"
 ],			
-"correct" :	"	b. Jesus	",
-"explanation" :	"	The book of the genealogy of Jesus Christ, the Son of David, the Son of Abraham: -Matthew 1:1	",
+"correct" :	"	B. ಯೇಸು	",
+"explanation" :	"	ಯೇಸು ಕ್ರಿಸ್ತನ ವಂಶಾವಳಿಯು, ಆತನು ದಾವೀದನ ವಂಶದವನು, ದಾವೀದನು ಅಬ್ರಹಾಮನ ವಂಶದವನು.  ಮತ್ತಾಯ 1:1	",
 },			
 {			
-"question" :	"	2. Which king was in the linage of Jesus?	",
+"question" :	"	2.  ಯೇಸುಕ್ರಿಸ್ತನ ವಂಶದಿಂದ ಬಂದ ಅರಸನು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. David	",
-	"	b. Herod	",
-	"	c. Saul	",
-	"	d. Darius	"
+	"	A. ದಾವೀದ	",
+	"	B. ಹೆರೋದ	",
+	"	C. ಸೌಲ	",
+	"	D. ದಾರ್ಯಾವೇಷನು	"
 ],			
-"correct" :	"	a. David	",
-"explanation" :	"	and Jesse begot David the king.David the king begot Solomon by her who had been the wife of Uriah. - Matt 1:6	",
+"correct" :	"	A. ದಾವೀದ	",
+"explanation" :	"	ಇಷಯನು ಅರಸನಾದ ದಾವೀದನನ್ನು ಪಡೆದನು ಮತ್ತಾಯ 1:6	",
 },			
 {			
-"question" :	"	3. What was the name of the man Mary was espoused to?	",
+"question" :	"	3.  ಮರಿಯಳೊಂದಿಗೆ ನಿಶ್ಚಯವಾಗಿದ್ದ ಪುರುಷನು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. David	",
-	"	b. Obed	",
-	"	c. Abraham	",
-	"	d. Joseph	"
+	"	A. ದಾವೀದ	",
+	"	B. ಒಬೇಧ್ಯ	",
+	"	C. ಅಬ್ರಹಾಮ	",
+	"	D. ಯೋಸೇಫ	"
 ],			
-"correct" :	"	d. Joseph	",
-"explanation" :	"	Now the birth of Jesus Christ was as follows: After His mother Mary was betrothed to Joseph, before they came together, she was found with child of the Holy Spirit. -Matt 1:18	",
+"correct" :	"	D. ಯೋಸೇಫ	",
+"explanation" :	"	ಯೇಸು ಕ್ರಿಸ್ತನ ಜನನವು ಹೇಗಾಯಿತಂದರೆ - ಆತನ ತಾಯಿಯಾದ ಮರಿಯಳನ್ನು ಯೋಸೇಫನಿಗೆ ನಿಶ್ಚಯ ಮಾಡಿರಲಾಗಿ - ಮತ್ತಾಯ 1:18	",
 },			
 {			
-"question" :	"	4. Before they were come together, Mary was found to be	",
+"question" :	"	4.  ಅವರು ಕೂಡುವುದಕ್ಕೂ ಮುನ್ನ, ಮರಿಯಳು ______ ಕಂಡುಬಂದಿತು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Missing.	",
-	"	b. With child.	",
-	"	c. Too young to marry.	",
-	"	d. With leprosy.	"
+	"	A. ಕಾಣೆಯಾಗಿದ್ದಾಗಿ	",
+	"	B. ಬಸುರಾಗಿದ್ದಿದು	",
+	"	C. ಮದುವೆಯಾಗಲು ಇನ್ನೂ ಚಿಕ್ಕಪ್ರಾಯದವಳಾಗಿ	",
+	"	D. ಕುಷ್ಠರೋಗಿಯಾಗಿ	"
 ],			
-"correct" :	"	b. With child.	",
-"explanation" :	"	Now the birth of Jesus Christ was as follows: After His mother Mary was betrothed to Joseph, before they came together, she was found with child of the Holy Spirit. -Matt 1:18	",
+"correct" :	"	B. ಬಸುರಾಗಿದ್ದಿದು	",
+"explanation" :	"	ಅವರು ಕೂಡುವುದಕ್ಕಿಂತ ಮುಂಚೆ ಆಕೆಯು ಪವಿತ್ರಾತ್ಮನಿಂದ ಬಸುರಾಗಿದ್ದದ್ದು ತಿಳಿದು ಬಂತು. - ಮತ್ತಾಯ 1:18	",
 },			
 {			
-"question" :	"	5. What kind of man was Joseph?	",
+"question" :	"	5  ಯೋಸೇಫನು ಎಂತಹ ಮನುಷ್ಯನಾಗಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A tall man	",
-	"	b. A professional man	",
-	"	c. A lazy man	",
-	"	d. A just man	"
+	"	A. ಉದ್ದನೆಯ ಮನುಷ್ಯ	",
+	"	B. ಒಬ್ಬ ವೃತ್ತಿಪರ ಮನುಷ್ಯ	",
+	"	C. ಒಬ್ಬ ಸೋಮಾರಿ ಮನುಷ್ಯ	",
+	"	D. ಒಬ್ಬ ಸಜ್ಜನ ಮನುಷ್ಯ	"
 ],			
-"correct" :	"	d. A just man	",
-"explanation" :	"	Then Joseph her husband, being a just man, and not wanting to make her a public example, was minded to put her away secretly.- Matt 1:19	",
+"correct" :	"	D. ಒಬ್ಬ ಸಜ್ಜನ ಮನುಷ್ಯ	",
+"explanation" :	"	ಆಕೆಯ ಗಂಡನಾದ ಯೋಸೇಫನು ಸಜ್ಜನನಾಗಿದ್ದು. . . . .  - ಮತ್ತಾಯ 1:19	",
 },			
 {			
-"question" :	"	6. An angel appeared to Joseph	",
+"question" :	"	6  ಯೋಸೇಫನಿಗೆ ದೇವದೂತನು ಕಾಣಿಸಿದ್ದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. In the temple.	",
-	"	b. In the morning.	",
-	"	c. In a dream.	",
-	"	d. In the desert.	"
+	"	A. ದೇವಾಲಯದಲ್ಲಿ	",
+	"	B. ಬೆಳಗಿನ ಜಾವದಲ್ಲಿ	",
+	"	C. ಕನಸಿನಲ್ಲಿ	",
+	"	D. ಮರುಭೂಮಿಯಲ್ಲಿ	"
 ],			
-"correct" :	"	c. In a dream.	",
-"explanation" :	"	But while he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, Joseph, son of David, do not be afraid to take to you Mary your wife, for that which is conceived in her is of the Holy Spirit.- Matt 1:20	",
+"correct" :	"	C. ಕನಸಿನಲ್ಲಿ	",
+"explanation" :	"	ಅವನು ಇದನ್ನು ಆಲೋಚಿಸುತ್ತಿರುವಾಗ ಕರ್ತನ ದೂತನು ಅವನಿಗೆ ಕನಸಿನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡು - ಮತ್ತಾಯ 1:20	",
 },			
 {			
-"question" :	"	7. The angel told Joseph he should take Mary for his wife, because that which was conceived in her	",
+"question" :	"	7  ದೇವದೂತನು ಯೋಸೇಪನಿಗೆ ಮರಿಯಳನ್ನು ಹೆಂಡತಿಯಾಗಿ ಮಾಡಿಕೊಳ್ಳಲು ಹೇಳಿದನು, ಏಕೆಂದರೆ ಅವಳು _______________ಗರ್ಭಿಣಿಯಾಗಿದ್ದಳು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Was of the Holy Ghost.	",
-	"	b. Would be a king.	",
-	"	c. Would be popular.	",
-	"	d. Would become a priest.	"
+	"	A. ಪವಿತ್ರಾತ್ಮನಿಂದ	",
+	"	B. ಅರಸನಾಗುವನು	",
+	"	C. ಪ್ರಖ್ಯಾತಿ ಹೊಂದುವನು	",
+	"	D. ಯಾಜಕನಾಗುವನು	"
 ],			
-"correct" :	"	a. Was of the Holy Ghost.	",
-"explanation" :	"	But while he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, Joseph, son of David, do not be afraid to take to you Mary your wife, for that which is conceived in her is of the Holy Spirit.- Matt 1:20	",
+"correct" :	"	A. ಪವಿತ್ರಾತ್ಮನಿಂದ	",
+"explanation" :	"	ಎಲೈ ಯೋಸೇಫನೇ, ದಾವೀದನ ವಂಶದವನೇ, ನಿನ್ನ ಹೆಂಡತಿಯಾದ ಮರಿಯಳನ್ನು ಸೇರಿಸಿಕೊಳ್ಳುವದಕ್ಕೆ ಅಂಜಬೇಡ.  ಆಕೆಯ ಗರ್ಭವು ಪವಿತ್ರಾತ್ಮದಿಂದಲೇ ಆದದ್ದು. - ಮತ್ತಾಯ 1:20	",
 },			
 {			
-"question" :	"	8. The angel instructed that the child should be called Jesus because	",
+"question" :	"	8 ದೇವದೂತನು ಮಗುವಿಗೆ ಯೇಸು ಎಂದು ಹೆಸರಿಡಬೇಕೆಂದು ಸೂಚಿಸಿದನು, ಏಕೆಂದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. It was a good Jewish name.	",
-	"	b. He would save His people from their sins.	",
-	"	c. He would be recognized by many people.	",
-	"	d. It was the name of a prophet.	"
+	"	A. ಅದು ಒಳ್ಳೆಯ ಯೆಹೂದ್ಯರ ಹೆಸರಾಗಿತ್ತು	",
+	"	B. ಆತನು ತನ್ನ ಜನರನ್ನು ಪಾಪಗಳಿಂದ ರಕ್ಷಿಸುವನು	",
+	"	C. ಆತನು ಅನೇಕ ಜನರಿಂದ ಗುರುತಿಸಲ್ಪಡುತ್ತಾನೆ	",
+	"	D. ಅದು ಒಂದು ಪ್ರವಾದಿಯ ಹೆಸರಾಗಿತ್ತು	"
 ],			
-"correct" :	"	b. He would save His people from their sins.	",
-"explanation" :	"	And she will bring forth a Son, and you shall call His name Jesus, for He will save His people from their sins.- Matt 1:21	",
+"correct" :	"	B. ಆತನು ತನ್ನ ಜನರನ್ನು ಪಾಪಗಳಿಂದ ರಕ್ಷಿಸುವನು	",
+"explanation" :	"	ನೀನು ಆತನಿಗೆ ಯೇಸು ಎಂದು ಹೆಸರಿಡಬೇಕು, ಯಾಕಂದರೆ ಆತನೇ ತನ್ನ ಜನರನ್ನು ಅವರ ಪಾಪಗಳಿಂದ ಬಿಡಿಸಿ ಕಾಯುವನು ಅಂದನು. - ಮತ್ತಾಯ 1:21	",
 },			
 {			
-"question" :	"	9. What does the name Emmanuel mean?	",
+"question" :	"	9  ಇಮ್ಮಾನುವೇಲ ಎಂಬ ಹೆಸರಿನ ಅರ್ಥವೇನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. God with us	",
-	"	b. God’s blessing	",
-	"	c. Special child	",
-	"	d. Gift of God	"
+	"	A. ದೇವರು ನಮ್ಮೊಂದಿಗಿದ್ದಾನೆ	",
+	"	B. ದೇವರ ಆರ್ಶೀವಾದ	",
+	"	C. ವಿಶೇಷವಾದ ಮಗು	",
+	"	D. ದೇವರ ಉಡುಗೊರೆ	"
 ],			
-"correct" :	"	a. God with us	",
-"explanation" :	"	Behold, the virgin shall be with child, and bear a Son, and they shall call His name Immanuel, which is translated, God with us.- Matt 1:23	",
+"correct" :	"	A. ದೇವರು ನಮ್ಮೊಂದಿಗಿದ್ದಾನೆ	",
+"explanation" :	"	ಆತನಿಗೆ ಇಮ್ಮಾನುವೇಲ ಎಂದು ಹೆಸರಿಡುವರು ಎಂಬದು. ದೇವರು ನಮ್ಮ ಕೂಡ ಇದ್ದಾನೆಂದು ಈ ಹೆಸರಿನ ಅರ್ಥ. - ಮತ್ತಾಯ 1:23	",
 },			
 {			
-"question" :	"	10. What did Joseph call the baby?	",
+"question" :	"	10 ಯೊಸೇಫನು ಮಗುವನ್ನು ಏನೆಂದು ಕರೆದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. David	",
-	"	b. Abraham	",
-	"	c. Joseph	",
-	"	d. Jesus	"
+	"	A. ದಾವೀದ	",
+	"	B. ಅಬ್ರಹಾಮ	",
+	"	C. ಯೊಸೇಫ	",
+	"	D. ಯೇಸು	"
 ],			
-"correct" :	"	d. Jesus	",
-"explanation" :	"	and did not know her till she had brought forth her firstborn Son. And he called His name Jesus.- Matt 1:25	",
+"correct" :	"	D. ಯೇಸು	",
+"explanation" :	"	ಮಗುವಿಗೆ ಯೇಸುವೆಂದು ಹೆಸರಿಟ್ಟನು. ಮತ್ತಾಯ 1:25	",
 },			
 ]			

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 9";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. All of this people were reckoned by geologies.	",

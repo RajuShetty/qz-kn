@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 11";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. All of Israel gathered here, and said to David, we are thy bone and thy flesh.	",
@@ -106,7 +106,7 @@ var quiz = [
 	"	d. Benaiah	"
 ],			
 "correct" :	"	d. Benaiah	",
-"explanation" :	"	Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day. 1 Chron 11:22	",
+"explanation" :	"	Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day. 1 Chron 11:22	",
 },			
 {			
 "question" :	"	10. He also slew a giant man of this nationality.	",

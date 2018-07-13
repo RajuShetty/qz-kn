@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 10";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. How many kings of the Amorites made war against Gibeon?	",

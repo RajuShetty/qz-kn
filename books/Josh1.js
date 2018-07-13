@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 1";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. Joshua was his son.	",

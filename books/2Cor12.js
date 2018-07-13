@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 12";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಅತಿಶಯವಾಗಿ ಹೆಚ್ಚಿಸಿಕೊಳ್ಳಬಾರದೆಂದು ಇದು ಅವನಿಗೆ ಕೊಡಲ್ಪಟ್ಟಿದೆ.	",

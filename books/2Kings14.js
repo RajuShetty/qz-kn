@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 14";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. What was the name of Amaziah’s mother?	",
@@ -82,7 +82,7 @@ var quiz = [
 	"	d. Reuben	"
 ],			
 "correct" :	"	a. Amaziah	",
-"explanation" :	"	And the rest of the acts of Amaziah, are they not written in the book of the chronicles of the kings of Judah?Now they made a conspiracy against him in Jerusalem: and he fled to Lachish; but they sent after him to Lachish, and slew him there. 2 Kings 14:18-19	",
+"explanation" :	"	And the rest of the ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು of Amaziah, are they not written in the book of the chronicles of the kings of Judah?Now they made a conspiracy against him in Jerusalem: and he fled to Lachish; but they sent after him to Lachish, and slew him there. 2 Kings 14:18-19	",
 },		 	
 {			
 "question" :	"	8. God spoke by this servant that the coast of Israel would be restored.	",

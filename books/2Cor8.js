@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 8";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1.  ಪೌಲನು ಕೊರಿಂಥದವರಿಗೆ ಈ ಸಭೆಗಳಲ್ಲಿ ದೇವರ ಕೃಪೆಯು ತೋರಿದ ಬಗೆಯನ್ನು ತಿಳಿಸಲು ಬಯಸಿದನು.	",

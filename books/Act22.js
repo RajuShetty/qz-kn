@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 22";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
-"question" :	"	1. Paul spoke to the people in this tongue.	",
+"question" :	"	1 ಪೌಲನು ಜನರೊಂದಿಗೆ ಈ ಭಾಷೆಯಲ್ಲಿ ಮಾತನಾಡಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hebrew	",
-	"	b. Greek	",
-	"	c. Italian	",
-	"	d. Egyptian	"
+	"	A. ಇಬ್ರಿಯ	",
+	"	B. ಗ್ರೀಕ್	",
+	"	C. ಇಟಲಿ	",
+	"	D. ಐಗುಪ್ತ್ಯ	"
 ],			
-"correct" :	"	a. Hebrew	",
-"explanation" :	"	(And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,)Acts22:2	",
+"correct" :	"	A. ಇಬ್ರಿಯ	",
+"explanation" :	"	ಅವನು ತಮ್ಮ ಸಂಗಡ ಇಬ್ರಿಯ ಭಾಷೆಯಲ್ಲಿ ಮಾತಾಡುವದನ್ನು ಕೇಳಿ ಅವರು ಮತ್ತೂ ನಿಶ್ಶಬ್ದವಾದರು. ಆಗ ಅವನು ಹೇಳಿದ್ದೇನಂದರೆ -22:2	",
 },			
 {			
-"question" :	"	2. Paul said, he was 	",
+"question" :	"	2 ಪೌಲನು ಹೇಳಿದ್ದು, ತಾನು ಒಬ್ಬ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Greek.	",
-	"	b. Egyptian.	",
-	"	c. A Jew.	",
-	"	d. An Amorite.	"
+	"	A. ಗ್ರೀಕ್	",
+	"	B. ಐಗುಪ್ತ್ಯ	",
+	"	C. ಯೆಹೂದ್ಯ	",
+	"	D. ಅಮ್ಮೋರಿಯನು	"
 ],			
-"correct" :	"	c. A Jew.	",
-"explanation" :	"	I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day.Acts22:3	",
+"correct" :	"	C. ಯೆಹೂದ್ಯ	",
+"explanation" :	"	ನಾನು ಯೆಹೂದ್ಯನು, ಕಿಲಿಕ್ಯದ ತಾರ್ಸದಲ್ಲಿ ಹುಟ್ಟಿದವನು, ಆದರೆ ಈ ಪಟ್ಟಣದಲ್ಲೇ ಬೆಳೆದವನು. ಗಮಲಿಯೇಲನ ಪಾದಸನ್ನಿಧಿಯಲ್ಲಿ ನಮ್ಮ ಪಿತೃಗಳ ಧರ್ಮಶಾಸ್ತ್ರದಲ್ಲಿ ಪೂರ್ಣ ಶಿಕ್ಷಿತನಾದೆನು; ನೀವೆಲ್ಲರೂ ಈಹೊತ್ತು ದೇವರ ವಿಷಯದಲ್ಲಿ ಅಭಿಮಾನಿಗಳಾಗಿರುವಂತೆಯೇ ನಾನು ಅಭಿಮಾನಿಯಾಗಿದ್ದೆನು 22:3	",
 },			
 {			
-"question" :	"	3. Paul was on his way here, when the great light shone around him.	",
+"question" :	"	3 ಪೌಲನ ಸುತ್ತೂ ದೊಡ್ಡ ಬೆಳಕು ಕಾಣಿಸಿಕೊಂಡಾಗ ಅವನು ಈ ಮಾರ್ಗದಲ್ಲಿದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jericho	",
-	"	b. Samaria	",
-	"	c. Judea	",
-	"	d. Damascus	"
+	"	A. ಯೆರಿಕೋ	",
+	"	B. ಸಮಾರ್ಯ	",
+	"	C. ಯೂದಾಯ	",
+	"	D. ದಮಸ್ಕಸ್	"
 ],			
-"correct" :	"	d. Damascus	",
-"explanation" :	"	And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me.Acts22:6	",
-},		 	
-{			
-"question" :	"	4. The voice asked Saul, why do you do this to me?	",
-"image" :	"",		
-"choices" : [			
-	"	a. Worry	",
-	"	b. Worship	",
-	"	c. Persecute	",
-	"	d. Question	"
-],			
-"correct" :	"	c. Persecute	",
-"explanation" :	"	And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?Acts22:7	",
+"correct" :	"	D. ದಮಸ್ಕಸ್	",
+"explanation" :	"	ನಾನು ಪ್ರಯಾಣಮಾಡುತ್ತಾ ದಮಸ್ಕದ ಹತ್ತರಕ್ಕೆ ಬಂದಾಗ ಸುಮಾರು ಮಧ್ಯಾಹ್ನದಲ್ಲಿ ಫಕ್ಕನೆ ಆಕಾಶದೊಳಗಿಂದ ಒಂದು ದೊಡ್ಡ ಬೆಳಕು ನನ್ನ ಸುತ್ತಲು ಹೊಳೆಯಿತು, ನಾನು ನೆಲಕ್ಕೆ ಬಿದ್ದೆನು 22:6	",
 },			
 {			
-"question" :	"	5. Who did the voice identify himself as? 	",
+"question" :	"	4 ಆ ಸ್ವರವು ಪೌಲನಿಗೆ ಕೇಳಿತು: ನೀನೇಕೆ ನನ್ನನ್ನು ___?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Satan	",
-	"	b. Paul	",
-	"	c. Jesus	",
-	"	d. Moses	"
+	"	A. ಚಿಂತಿಸುತ್ತೀಯ	",
+	"	B. ಆರಾಧಿಸುತ್ತೀಯ	",
+	"	C. ಹಿಂಸೆ ಪಡಿಸುತ್ತೀಯ	",
+	"	D. ಪ್ರಶ್ನಿಸುತ್ತೀಯ	"
 ],			
-"correct" :	"	c. Jesus	",
-"explanation" :	"	And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest.Acts22:8	",
+"correct" :	"	C. ಹಿಂಸೆ ಪಡಿಸುತ್ತೀಯ	",
+"explanation" :	"	ಆಗ - ಸೌಲನೇ, ಸೌಲನೇ, ನನ್ನನ್ನು ಯಾಕೆ ಹಿಂಸೆಪಡಿಸುತ್ತೀ? ಎಂದು ನನಗೆ ಹೇಳಿದ ಒಂದು ಶಬ್ದವನ್ನು ಕೇಳಿದೆನು 22:7	",
 },			
 {			
-"question" :	"	6. They that were with Paul, saw the light, but	",
+"question" :	"	5 ಆ ಶಬ್ಧವು ತನ್ನುನ್ನು ಯಾರೆಂದು ಹೇಳಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Were not surprised.	",
-	"	b. Didn't hear the voice.	",
-	"	c. Weren't afraid.	",
-	"	d. Wouldn't admit it.	"
+	"	A. ಸೈತಾನ	",
+	"	B. ಪೌಲ	",
+	"	C. ಯೇಸು	",
+	"	D. ಮೋಶೆ	"
 ],			
-"correct" :	"	b. Didn't hear the voice.	",
-"explanation" :	"	And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me.Acts22:9	",
+"correct" :	"	C. ಯೇಸು	",
+"explanation" :	"	ಅದಕ್ಕೆ ನಾನು - ಕರ್ತನೇ, ನೀನಾರು? ಎಂದು ಕೇಳಲು ಆತನು - ನೀನು ಹಿಂಸೆಪಡಿಸುವ ನಜರೇತಿನ ಯೇಸುವೇ ನಾನು ಎಂದು ನನಗೆ ಹೇಳಿದನು 22:8	",
 },			
 {			
-"question" :	"	7. After Paul saw that light, he could not do this.	",
+"question" :	"	6 ಪೌಲನ ಜೊತೆಯಿದ್ದವರು, ಬೆಳಕನ್ನು ಕಂಡರೇ ಹೊರತು,	",
 "image" :	"",		
 "choices" : [			
-	"	a. Speak	",
-	"	b. See	",
-	"	c. Hear	",
-	"	d. Walk	"
+	"	A. ಆಶ್ಚರ್ಯಗೊಳ್ಳಲಿಲ್ಲ	",
+	"	B. ಶಬ್ಧವನ್ನು ಕೇಳಲಿಲ್ಲ	",
+	"	C. ಭಯಪಡಲಿಲ್ಲ	",
+	"	D. ಅದನ್ನು ಲಕ್ಷಿಸಲಿಲ್ಲ	"
 ],			
-"correct" :	"	b. See	",
-"explanation" :	"	And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus.Acts22:11	",
+"correct" :	"	B. ಶಬ್ಧವನ್ನು ಕೇಳಲಿಲ್ಲ	",
+"explanation" :	"	ನನ್ನ ಜೊತೆಯಲ್ಲಿದ್ದವರು ಬೆಳಕನ್ನು ಕಂಡರೇ ಹೊರತು ನನ್ನ ಸಂಗಡ ಮಾತಾಡಿದವನ ಶಬ್ದವನ್ನು ಕೇಳಲಿಲ್ಲ 22:9	",
 },			
 {			
-"question" :	"	8. This man came to Paul, and he was healed.	",
+"question" :	"	7 ಪೌಲನು ಬೆಳಕನ್ನು ಕಂಡ ನಂತರ ಅವನಿಗೆ ಇದನ್ನು ಮಾಡಲಾಗಲಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ananias	",
-	"	b. Gamaliel	",
-	"	c. Gaius	",
-	"	d. Aridatha	"
+	"	A. ಮಾತನಾಡಲು	",
+	"	B. ನೋಡಲು	",
+	"	C. ಕೇಳಲು	",
+	"	D. ನಡೆಯಲು	"
 ],			
-"correct" :	"	a. Ananias	",
-"explanation" :	"	And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt there,Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him.Acts22:12,13	",
+"correct" :	"	B. ನೋಡಲು	",
+"explanation" :	"	ಆ ಬೆಳಕಿನ ಪ್ರಭಾವದಿಂದ ನನಗೆ ಕಣ್ಣುಕಾಣದೆ ಇದ್ದದರಿಂದ ನನ್ನ ಜೊತೆಯಲ್ಲಿದ್ದವರು ನನ್ನನ್ನು ಕೈಹಿಡಿದು ದಮಸ್ಕದೊಳಕ್ಕೆ ಕರೆದುಕೊಂಡು ಹೋದರು 22:11	",
 },			
 {			
-"question" :	"	9. When the blood of this martyr was shed, Paul was consenting.	",
+"question" :	"	8 ಈ ಮನುಷ್ಯನು ಪೌಲನ ಬಳಿಗೆ ಬಂದನು ಮತ್ತು ಅವನು ಸೌಖ್ಯವಾದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. James	",
-	"	b. Peter	",
-	"	c. John the Baptist	",
-	"	d. Stephen	"
+	"	A. ಅನನೀಯ	",
+	"	B. ಗಮಲಿಯೇಲ	",
+	"	C. ಗಾಯ	",
+	"	D. ಅರಿದಾತ	"
 ],			
-"correct" :	"	d. Stephen	",
-"explanation" :	"	And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him.Acts22:20	",
+"correct" :	"	A. ಅನನೀಯ	",
+"explanation" :	"	ಅಲ್ಲಿ ಧರ್ಮಶಾಸ್ತ್ರಕ್ಕೆ ಸರಿಯಾಗಿ ನಡೆಯುವ ಸದ್ಭಕ್ತನೂ ಆ ಸ್ಥಳದ ಯೆಹೂದ್ಯರೆಲ್ಲರಿಂದ ಒಳ್ಳೆಯವನೆಂದು ಹೆಸರು ಹೊಂದಿದವನೂ ಆಗಿದ್ದ ಅನನೀಯನೆಂಬವನು ನನ್ನ ಬಳಿಗೆ ಬಂದು ನಿಂತು - ಸಹೋದರನಾದ ಸೌಲನೇ, ನಿನಗೆ ಕಣ್ಣುಕಾಣಿಸಲಿ ಎಂದು ಹೇಳಿದನು. ಹೇಳಿದಾಕ್ಷಣವೇ ನನಗೆ ಕಣ್ಣು ಕಾಣಿಸಿತು, ನಾನು ಅವನನ್ನು ನೋಡಿದೆನು. 22:12,13	",
 },			
 {			
-"question" :	"	10. The centurion and the chief captain were afraid, after they knew that Paul was	",
+"question" :	"	9 ಈ ವಿಶ್ವಾಸಿಯ ರಕ್ತವು ಚೆಲ್ಲಲ್ಪಟ್ಟಾಗ, ಪೌಲನು ಅವನ ಮರಣಕ್ಕೆ ಸಮ್ಮತಿಸುವವನಾಗಿದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A Jew.	",
-	"	b. A Roman.	",
-	"	c. A prophet.	",
-	"	d. An apostle.	"
+	"	A. ಯಾಕೋಬ	",
+	"	B. ಪೇಯಗತ	",
+	"	C. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+	"	D. ಸ್ತೆಫನ್ಯ	"
 ],			
-"correct" :	"	b. A Roman.	",
-"explanation" :	"	 Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him.Acts22:29	",
+"correct" :	"	D. ಸ್ತೆಫನ್ಯ	",
+"explanation" :	"	ಮತ್ತು ನಿನ್ನ ಸಾಕ್ಷಿಯಾದ ಸ್ತೆಫನನ ರಕ್ತವು ಚೆಲ್ಲಿಸಲ್ಪಟ್ಟಾಗ ನಾನೂ ಹತ್ತರ ನಿಂತು ಒಪ್ಪಿಕೊಂಡು ಅವನನ್ನು ಕೊಂದವರ ವಸ್ತ್ರಗಳನ್ನು ಕಾಯುತ್ತಿದ್ದೆನಲ್ಲಾ ಅಂದೆನು.  22:20	",
+},			
+{			
+"question" :	"	10  ಶತಾಧಿಪತಿಯು ಮತ್ತು ಸೇನಾಧಿಕಾರಿಯು ಪೌಲನು _____ ಹಕ್ಕುದಾರನೆಂದು ತಿಳಿದು ಭಯಪಟ್ಟರು.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಯೆಹೂದ್ಯದ	",
+	"	B. ರೋಮಾಪುರದ	",
+	"	C. ಪ್ರವಾದಿ	",
+	"	D. ಅಪೋಸ್ತಲನೆಂದು	"
+],			
+"correct" :	"	B. ರೋಮಾಪುರದ	",
+"explanation" :	"	ಅವನನ್ನು ಹೊಡೆದು ವಿಚಾರಿಸುವದಕ್ಕೆ ಬಂದವರು ಕೂಡಲೆ ಅವನನ್ನು ಬಿಟ್ಟರು. ಅದಲ್ಲದೆ ಅವನನ್ನು ರೋಮಾಪುರದ ಹಕ್ಕುದಾರನೆಂದು ಸಹಸ್ರಾಧಿಪತಿಗೆ ತಿಳಿದುಬಂದಾಗ ತಾನು ಅವನನ್ನು ಕಟ್ಟಿಸಿದ್ದರಿಂದ ಅವನಿಗೂ ಭಯಹಿಡಿಯಿತು. 22:29	",
 },			
 ]			

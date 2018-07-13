@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 30";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 30";			
 var quiz = [			
 {			
 "question" :	"	1. When you return to the words of God, He will	",

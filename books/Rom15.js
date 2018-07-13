@@ -1,124 +1,124 @@
-var quiztitle = "Romans chapter 15";			
-var quiz = [ 			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 15";			
+var quiz = [			
 {			
-"question" :	"	1. Those that are strong ought to bear the infirmities of the	",
+"question" :	"	1 ನಂಬಿಕೆಯಲ್ಲಿ ದೃಢವಾಗಿರುವವರು _____ ಅನುಮಾನಗಳನ್ನು ಸಹಿಸಿಕೊಳ್ಳಬೇಕು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Young.	",
-	"	b. Weak.	",
-	"	c. World.	",
-	"	d. Heart.	"
+	"	A. ಯೌವ್ವನಸ್ಥರ	",
+	"	B. ನಂಬಿಕೆಯಲ್ಲಿ ಬಲಹೀನರ	",
+	"	C. ಪ್ರಾಪಂಚಿಕರ	",
+	"	D. ಹೃದಯದ	"
 ],			
-"correct" :	"	b. Weak.	",
-"explanation" :	"	We then that are strong ought to bear the infirmities of the weak, and not to please ourselves.Rom15:1	",
+"correct" :	"	B. ನಂಬಿಕೆಯಲ್ಲಿ ಬಲಹೀನರ	",
+"explanation" :	"	ದೃಢವಾದ ನಂಬಿಕೆಯುಳ್ಳ ನಾವು ನಮ್ಮ ಸುಖವನ್ನು ನೋಡಿಕೊಳ್ಳದೆ ದೃಢವಿಲ್ಲದವರ ಅನುಮಾನಗಳನ್ನು ಸಹಿಸಿಕೊಳ್ಳಬೇಕು. 15:1	",
 },			
 {			
-"question" :	"	2. This was written for our hearing, that we might have hope through patience and comfort of it.	",
+"question" :	"	2 ನಾವು ಓದಿ ಸ್ಥಿರ ಚಿತ್ತವನ್ನು, ಆದರಣೆಯನ್ನು ಹೊಂದಿ ರಕ್ಷಣೆಯ ನಿರೀಕ್ಷೆಯುಳ್ಳವರಾಗಿರುವಂತೆ ____ ಬರೆಯಲ್ಪಟ್ಟಿದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The law	",
-	"	b. The statutes	",
-	"	c. The 10 commandments	",
-	"	d. The scriptures	"
+	"	A. ಧರ್ಮಶಾಸ್ತ್ರದಲ್ಲಿ	",
+	"	B. ಶಾಸನದಲ್ಲಿ	",
+	"	C. ದಶಾಜ್ಞೆಯಲ್ಲಿ	",
+	"	D. ಗ್ರಂಥಗಳಲ್ಲಿ	"
 ],			
-"correct" :	"	d. The scriptures	",
-"explanation" :	"	For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope.Rom15:4	",
+"correct" :	"	D. ಗ್ರಂಥಗಳಲ್ಲಿ	",
+"explanation" :	"	ಪೂರ್ವದಲ್ಲಿ ಬರೆದದ್ದೆಲ್ಲಾ ನಮ್ಮನ್ನು ಉಪದೇಶಿಸುವದಕ್ಕಾಗಿ ಬರೆಯಲ್ಪಟ್ಟಿತು. ನಾವು ಓದಿ ಸ್ಥಿರಚಿತ್ತವನ್ನೂ ಆದರಣೆಯನ್ನೂ ಹೊಂದಿ ರಕ್ಷಣೆಯ ನಿರೀಕ್ಷೆಯುಳ್ಳವರಾಗಿರುವಂತೆ ಆ ಗ್ರಂಥಗಳು ಬರೆಯಲ್ಪಟ್ಟವು 15:4	",
 },			
 {			
-"question" :	"	3. The scripture says, there shall be a root of Jesse, that shall rise to reign over these people, and they shall trust him.	",
+"question" :	"	3 ಗ್ರಂಥಗಳಲ್ಲಿ ಬರೆಯಲ್ಪಟ್ಟಿದೆ, ಇಷಯನ ಅಂಕುರದವನು ಅಂದರೆ ____ ಆಳತಕ್ಕವನು ಬರುತ್ತಾನೆ, ಅವರು ಆತನನ್ನು ನಿರೀಕ್ಷಿಸುತ್ತಿರುವರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Jews	",
-	"	b. The Gentiles	",
-	"	c. The Egyptians	",
-	"	d. The Romans	"
+	"	A. ಯೆಹೂದ್ಯರು	",
+	"	B. ಜನಾಂಗಗಳು	",
+	"	C. ಐಗುಪ್ತ್ಯರು	",
+	"	D. ರೋಮಾಪುರದವರು	"
 ],			
-"correct" :	"	b. The Gentiles	",
-"explanation" :	"	 And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.Rom15:12	",
+"correct" :	"	B. ಜನಾಂಗಗಳು	",
+"explanation" :	"	ಮತ್ತೊಂದು ಸ್ಥಳದಲ್ಲಿ ಯೆಶಾಯನು ಹೇಳುವದೇನಂದರೆ - ಇಷಯನ ಅಂಕುರದವನು ಅಂದರೆ ಜನಾಂಗಗಳನ್ನು ಆಳತಕ್ಕವನು ಬರುತ್ತಾನೆ; ಜನಾಂಗಗಳು ಆತನನ್ನು ನಿರೀಕ್ಷಿಸುತ್ತಿರುವರು 15:12	",
 },			
 {			
-"question" :	"	4. Now God fill you with joy and peace in believing, that you may abound in hope through	",
+"question" :	"	4 ದೇವರು ನಿಮಗೆ ನಂಬಿಕೆಯಿಂದುಂಟಾಗುವ ಸಂತೋಷವನ್ನು ಮನ:ಶಾಂತಿಯನ್ನೂ ದಯಪಾಲಿಸಿ __________ ರಲ್ಲಿ ಬಲಗೂಡಿದವರಾಗಿರೋಣ	",
 "image" :	"",		
 "choices" : [			
-	"	a. This wicked world.	",
-	"	b. This evil generation.	",
-	"	c. All your lives.	",
-	"	d. The power of the Holy Ghost.	"
+	"	A. ಕೆಟ್ಟ ಲೋಕದಲ್ಲಿ	",
+	"	B. ಈ ಕೆಟ್ಟ ಸಂತತಿಯು	",
+	"	C. ನಿಮ್ಮ ಜೀವಮಾನದಲ್ಲಿ	",
+	"	D. ಪವಿತ್ರಾತ್ಮನ ಬಲದಲ್ಲಿ	"
 ],			
-"correct" :	"	d. The power of the Holy Ghost.	",
-"explanation" :	"	Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost.Row15:13	",
+"correct" :	"	D. ಪವಿತ್ರಾತ್ಮನ ಬಲದಲ್ಲಿ	",
+"explanation" :	"	ನಿರೀಕ್ಷೆಯ ಮೂಲನಾದ ದೇವರು ನಂಬಿಕೆಯಿಂದುಂಟಾಗುವ ಸಂತೋಷವನ್ನೂ ಮನಶ್ಶಾಂತಿಯನ್ನೂ ನಿಮಗೆ ಪರಿಪೂರ್ಣವಾಗಿ ದಯಪಾಲಿಸಿ ನೀವು ಪವಿತ್ರಾತ್ಮನ ಬಲಗೂಡಿದವರಾಗಿ ನಿರೀಕ್ಷೆಯಲ್ಲಿ ಅಭಿವೃದ್ಧಿಯನ್ನು ಹೊಂದುವಂತೆ ಅನುಗ್ರಹಿಸಲಿ. 15:13	",
 },			
 {			
-"question" :	"	5. Paul said, he is the minister of Jesus Christ to	",
+"question" :	"	5 ನಾನು _____ ಯೇಸುಕ್ರಿಸ್ತನ ಸೇವಕ ಎಂದು ಪೌಲನು ಹೇಳುತ್ತಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Jews.	",
-	"	b. Earn his way to heaven.	",
-	"	c. The Gentiles.	",
-	"	d. Cast a light on evil.	"
+	"	A. ಯೆಹೂದ್ಯರು	",
+	"	B. ಪರಲೋಕಕ್ಕೆ ತನ್ನ ಮಾರ್ಗವನ್ನು ಹುಡುಕುವ	",
+	"	C. ಅನ್ಯ ಜನಗಳಿಗೆ	",
+	"	D. ಕೆಡುಕನ ಮೇಲೆ ಬೆಳಕು ಚೆಲ್ಲಲು	"
 ],			
-"correct" :	"	c. The Gentiles.	",
-"explanation" :	"	That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost.Rom15:16	",
+"correct" :	"	C. ಅನ್ಯ ಜನಗಳಿಗೆ	",
+"explanation" :	"	ಆದರೂ ನಿಮಗೆ ಜ್ಞಾಪಕಕೊಡಬೇಕೆಂದು ಅಲ್ಲಲ್ಲಿ ಹೆಚ್ಚಾದ ಧೈರ್ಯದಿಂದ ಬರೆದಿದ್ದೇನೆ. ಯಾಕಂದರೆ ನಾನು ಅನ್ಯಜನರಿಗೋಸ್ಕರ ಯೇಸು ಕ್ರಿಸ್ತನ ಸೇವಕನಾಗುವದಕ್ಕೆ ನನಗೆ ದೇವರ ಅನುಗ್ರಹವಾಯಿತು. ನಾನು ದೇವರ ಸುವಾರ್ತೆಯ ಸೇವೆಯನ್ನು ಯಾಜಕಸೇವೆ ಎಂಬಂತೆ ನಡಿಸಿ ಅನ್ಯದೇಶಸ್ಥರೆಂಬ ಕಾಣಿಕೆಯು ಪವಿತ್ರಾತ್ಮನ ಮೂಲಕವಾಗಿ ಪವಿತ್ರವಾಗಿದ್ದು ದೇವರಿಗೆ ಸಮರ್ಪಕವಾಗುವಂತೆ ಯತ್ನೈಸುವವನಾಗಿದ್ದೇನೆ. 15:16	",
 },			
 {			
-"question" :	"	6. Paul strived to preach where the name Christ was not known, so that he did not build on another man's	",
+"question" :	"	6 ಮತ್ತೊಬ್ಬರು ಹಾಕಿದ ____ ಮೇಲೆ ಕಟ್ಟಬಾರದೆಂದು ನೆನಸಿ ಪೌಲನು ಯೇಸುಕ್ರಿಸ್ತನ ನಾಮವನ್ನು ಅರಿಯದ ಕಡೆ ಸುವಾರ್ತೆ ಸಾರುತ್ತೇನೆಂದು ನಿಷ್ಕರ್ಷೆ ಮಾಡಿಕೊಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ego.	",
-	"	b. Property.	",
-	"	c. Foundation.	",
-	"	d. Doctrine.	"
+	"	A. ಅಹಂ	",
+	"	B. ಸ್ವತ್ತು	",
+	"	C. ಅಸ್ತಿವಾರ	",
+	"	D. ಸೇವೆ	"
 ],			
-"correct" :	"	c. Foundation.	",
-"explanation" :	"	Yea, so have I strived to preach the gospel, not where Christ was named, lest I should build upon another man's foundation:Rom15:20	",
+"correct" :	"	C. ಅಸ್ತಿವಾರ	",
+"explanation" :	"	ಮತ್ತೊಬ್ಬರು ಹಾಕಿದ ಅಸ್ತಿವಾರದ ಮೇಲೆ ಕಟ್ಟಬಾರದೆಂದು ಮನಸ್ಸಿನಲ್ಲಿ ನೆನಸಿ ಇತರರು ಕ್ರಿಸ್ತನ ಹೆಸರನ್ನು ತಿಳಿಸಿದ ಕಡೆಯಲ್ಲಿ ಸುವಾರ್ತೆಯನ್ನು ಪ್ರಕಟಿಸುವದಿಲ್ಲವೆಂಬದಾಗಿ ನಿಷ್ಕರ್ಷೆಮಾಡಿಕೊಂಡೆನು. 15:20	",
 },			
 {			
-"question" :	"	7. Paul told the people, he would come see them on his journey here.	",
+"question" :	"	7 ಪೌಲನು ಜನರಿಗೆ ಹೇಳಿದ್ದು, ನಾನು ಈ ದೇಶಕ್ಕೆ ಹೋಗುವಾಗ ನಿಮ್ಮ ಬಳಿಗೆ ಬರುವೆನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Spain	",
-	"	b. Canaan	",
-	"	c. Egypt	",
-	"	d. Italy	"
+	"	A. ಸ್ಪೇನ್	",
+	"	B. ಕಾನಾನ್	",
+	"	C. ಐಗುಪ್ತ	",
+	"	D. ಇಟಲಿ	"
 ],			
-"correct" :	"	a. Spain	",
-"explanation" :	"	Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your company.Rom15:24	",
+"correct" :	"	A. ಸ್ಪೇನ್	",
+"explanation" :	"	ನಾನು ಸ್ಪೇನ್ ದೇಶಕ್ಕೆ ಹೋಗುವಾಗ ನನ್ನ ಮಾರ್ಗದಲ್ಲಿ ನಿಮ್ಮ ದರ್ಶನವನ್ನು ಮಾಡಬೇಕೆಂಬ ಅಭಿಪ್ರಾಯ ಉಂಟು. ತರುವಾಯ ನಿಮ್ಮ ಸಹವಾಸದಲ್ಲಿ ನನಗೆ ಸ್ವಲ್ಪಮಟ್ಟಿಗೆ ಸಂತೃಪ್ತಿಯಾದ ಮೇಲೆ ನೀವು ಆ ದೇಶಕ್ಕೆ ನನ್ನ ಪ್ರಯಾಣವನ್ನು ಸಾಗಿಸುವಿರೆಂದು ನಂಬುತ್ತೇನೆ.  15:24	",
 },			
 {			
-"question" :	"	8. First, Paul said, he would go here to minister to the saints.	",
+"question" :	"	8 ಪೌಲನು ಹೇಳುತ್ತಾನೆ, ತಾನು ದೇವಜನರಿಗೆ ಒಂದು ಧರ್ಮಕಾರ್ಯವನ್ನು ಮಾಡುವವನಾಗಿ ___ ಹೋಗುತ್ತೇನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bethlehem	",
-	"	b. Nazareth	",
-	"	c. Jerusalem	",
-	"	d. Cana	"
+	"	A. ಬೆತ್ಲೆಹೇಮ್	",
+	"	B. ನಜರೇತು	",
+	"	C. ಯೆರೂಸಲೇಮು	",
+	"	D. ಕಾನಾ	"
 ],			
-"correct" :	"	c. Jerusalem	",
-"explanation" :	"	But now I go unto Jerusalem to minister unto the saints.Rom15:25	",
+"correct" :	"	C. ಯೆರೂಸಲೇಮು	",
+"explanation" :	"	ಆದರೆ ಈಗ ನಾನು ದೇವಜನರಿಗೆ ಒಂದು ಧರ್ಮಕಾರ್ಯವನ್ನು ಮಾಡುವವನಾಗಿ ಯೆರೂಸಲೇಮಿಗೆ ಹೋಗುತ್ತೇನೆ. 15:25	",
 },			
 {			
-"question" :	"	9. It pleased the people of Macedonia and Achaia to make contributions for this, at Jerusalem.	",
+"question" :	"	9 ಮೆಕದೋನ್ಯ ಮತ್ತು ಅಖಾಯ ಸೀಮೆಯವರು ಯೆರೂಷಲೇಮಿನಲ್ಲಿರುವ ಯಾರಿಗೆ ಹಣ ಸಹಾಯ ಮಾಡಲು ಇಷ್ಟಪಟ್ಟಿದ್ದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The temple	",
-	"	b. The governor	",
-	"	c. The poor saints	",
-	"	d. The apostles	"
+	"	A. ದೇವಾಲಯಕ್ಕೆ	",
+	"	B. ರಾಜ್ಯಪಾಲರಿಗೆ	",
+	"	C. ಬಡದೇವ ಮಕ್ಕಳಿಗೆ	",
+	"	D. ಅಪೋಸ್ತಲರಿಗೆ	"
 ],			
-"correct" :	"	c. The poor saints	",
-"explanation" :	"	For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem.Rom15:26	",
+"correct" :	"	C. ಬಡದೇವ ಮಕ್ಕಳಿಗೆ	",
+"explanation" :	"	ಯಾಕಂದರೆ ಯೆರೂಸಲೇಮಿನಲ್ಲಿರುವ ದೇವಜನರೊಳಗೆ ಬಡವರಿಗೋಸ್ಕರ ಸ್ವಲ್ಪ ಹಣದ ಸಹಾಯವನ್ನು ಮಾಡಬೇಕೆಂಬದಾಗಿ ಮಕೆದೋನ್ಯ ಅಖಾಯ ಸೀಮೆಗಳವರು ಇಷ್ಟಪಟ್ಟಿದ್ದಾರೆ 15:26	",
 },			
 {			
-"question" :	"	10. Paul requested the people do this, for him.	",
+"question" :	"	10 ಪೌಲನು ಜನರು ತನಗಾಗಿ ಏನು ಮಾಡಬೇಕೆಂದು ಬೇಡಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Take up a contribution	",
-	"	b. Look	",
-	"	c. Lie	",
-	"	d. Pray	"
+	"	A. ಕಾಣಿಕೆ ನೀಡಬೇಕೆಂದು	",
+	"	B. ನೋಡಿಕೊಳ್ಳಬೇಕೆಂದು	",
+	"	C. ಸುಳ್ಳು ಹೇಳಬೇಕೆಂದು	",
+	"	D. ಪ್ರಾರ್ಥನೆ	"
 ],			
-"correct" :	"	d. Pray	",
-"explanation" :	"	Now I beseech you, brethren, for the Lord Jesus Christ's sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me;Rom15:30	",
+"correct" :	"	D. ಪ್ರಾರ್ಥನೆ	",
+"explanation" :	"	ಸಹೋದರರೇ, ನೀವು ನನಗೋಸ್ಕರ ದೇವರ ಮುಂದೆ ಮಾಡುವ ಪ್ರಾರ್ಥನೆಗಳಲ್ಲಿ ನನ್ನೊಂದಿಗೆ ಬಲೀಯವಾಗಿ ವಿಜ್ಞಾಪಿಸಿಕೊಳ್ಳಬೇಕೆಂದು ನಮ್ಮ ಕರ್ತನಾದ ಯೇಸು ಕ್ರಿಸ್ತನ ನಿಮಿತ್ತವಾಗಿಯೂ ಪವಿತ್ರಾತ್ಮನಿಂದಾಗುವ ಪ್ರೀತಿಯ ನಿಮಿತ್ತವಾಗಿಯೂ ನಿಮ್ಮನ್ನು ಬೇಡಿಕೊಳ್ಳುತ್ತೇನೆ. 15:30	",
 },			
 ]			
 			

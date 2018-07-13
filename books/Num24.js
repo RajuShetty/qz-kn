@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 24";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 24";			
 var quiz = [			
 {			
 "question" :	"	1. Balaam saw that it pleased the Lord to do this.	",

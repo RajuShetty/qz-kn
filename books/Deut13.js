@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 13";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. The people are told of prophets or dreamers of dreams, that may give	",

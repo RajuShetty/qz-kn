@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 17";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. Who was the Lord speaking to?	",
@@ -29,7 +29,7 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. The tabernacle	",
-	"	b. The marketplace	",
+	"	b. The ಮಾರ್ಕetplace	",
 	"	c. The gate of the city	",
 	"	d. The pool of Bethesda	"
 ],			

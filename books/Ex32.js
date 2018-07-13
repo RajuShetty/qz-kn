@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 32";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 32";			
 var quiz = [			
 {			
 "question" :	"	1. The people asked Aaron to	",

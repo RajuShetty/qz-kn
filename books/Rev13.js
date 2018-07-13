@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 13";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. ಮೃಗವು ಎಲ್ಲಿಂದ ಬರುವುದನ್ನು ಯೋಹಾನನು ಕಂಡನು?	",

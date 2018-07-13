@@ -1,4 +1,4 @@
-var quiztitle = "1 Corinthians chapter 4";			
+var quiztitle = "1 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. ಮನೆವಾರ್ತೆಯವನು ಹೇಗೆ ಕಂಡುಬರಬೇಕು?	",

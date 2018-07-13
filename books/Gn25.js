@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 25";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 25";			
 var quiz = [			
 {			
 "question" :	"	1. What was the name of the wife Abraham took after Sarah died?	",

@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 20";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
-"question" :	"	1. In the parable, where did the man hire laborers?	",
+"question" :	"	1 ಸಾಮ್ಯದಲ್ಲಿ, ಒಡೆಯನು ಕೂಲಿ ಆಳುಗಳನ್ನು ಎಲ್ಲಿ ಕರೆದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The temple	",
-	"	b. The marketplace	",
-	"	c. Jerusalem	",
-	"	d. The prison	"
+	"	A. ದೇವಾಲಯದಲ್ಲಿ	",
+	"	B. ಪೇಟೆಯಲ್ಲಿ	",
+	"	C. ಯೆರೂಸಲೇಮಿನಲ್ಲಿ	",
+	"	D. ಸೆರೆಮನೆಯಲ್ಲಿ	"
 ],			
-"correct" :	"	b. The marketplace	",
-"explanation" :	"	And he went out about the third hour and saw others standing idle in the marketplace, - Matt 20:3	",
+"correct" :	"	B. ಪೇಟೆಯಲ್ಲಿ	",
+"explanation" :	"	ತರುವಾಯ ಹೆಚ್ಚಿಕಡಿಮೆ ಒಂಭತ್ತು ಗಂಟೆಗೆ ಹೋಗಿ ಪೇಟೆಯಲ್ಲಿ ಸುಮ್ಮನೆ ನಿಂತಿದ್ದ ಇನ್ನು ಕೆಲವರನ್ನು ಕಂಡು ___  ಮತ್ತಾಯ 21:3	",
 },			
 {			
-"question" :	"	2. What did the man hire them to do?	",
+"question" :	"	2 ಏನು ಕೆಲಸ ಮಾಡಲು ಕೂಲಿಯವರನ್ನು ಕರೆತಂದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Work in his wheat field	",
-	"	b. Work in his vineyard	",
-	"	c. Care for his flock	",
-	"	d. Build him a barn	"
+	"	A. ಗೋಧಿಯ ಹೊಲದಲ್ಲಿ ಕೆಲಸಮಾಡಲು	",
+	"	B. ದ್ರಾಕ್ಷೇತೋಟದಲ್ಲಿ ಕೆಲಸಮಾಡಲು	",
+	"	C. ತನ್ನ ಮಂದೆಯನ್ನು ಕಾಯಲು	",
+	"	D. ಹುಲ್ಲಿನ ಬಣವೆಯನ್ನು ಸಿದ್ದಮಾಡಲು	"
 ],			
-"correct" :	"	b. Work in his vineyard	",
-"explanation" :	"	and said to them, You also go into the vineyard, and whatever is right I will give you. So they went. - Matt 20:4	",
+"correct" :	"	B. ದ್ರಾಕ್ಷೇತೋಟದಲ್ಲಿ ಕೆಲಸಮಾಡಲು	",
+"explanation" :	"	ನೀವು ಸಹ ನನ್ನ ದ್ರಾಕ್ಷೇತೋಟಕ್ಕೆ ಹೋಗಿರಿ, ನಿಮಗೆ ಸರಿಯಾದ ಕೂಲಿಯನ್ನು ಕೊಡುತ್ತೇನೆ ಅನ್ನಲು ಅವರು ತೋಟಕ್ಕೆ ಹೋದರು.  ಮತ್ತಾಯ 20:4	",
 },			
 {			
-"question" :	"	3. How much did he pay the laborers?	",
+"question" :	"	3 ಅವನು ಕೂಲಿಯಾಳುಗಳಿಗೆ ಎಷ್ಟು ಕೂಲಿ ಕೊಟ್ಟನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1 penny each	",
-	"	b. 2 talents each	",
-	"	c. Some 1 penny, some 2, some 3	",
-	"	d. He didn’t pay them.	"
+	"	A. ಎಲ್ಲರಿಗೂ ಒಂದೊಂದು ಪಾವಲಿ	",
+	"	B. ಎಲ್ಲರಿಗೂ 2 ತಲಾಂತು	",
+	"	C. ಕೆಲವರಿಗೆ 1 ಪಾವಲಿ, ಕೆಲವರಿಗೆ 2 ಪಾವಲಿ ಮತ್ತು ಕೆಲವರಿಗೆ 3 ಪಾವಲಿ	",
+	"	D. ಅವನು ಅವಿಗೆ ಕೂಲಿ ನೀಡಲಿಲ್ಲ	"
 ],			
-"correct" :	"	a. 1 penny each	",
-"explanation" :	"	And when those came who were hired about the eleventh hour, they each received a denarius.But when the first came, they supposed that they would receive more; and they likewise received each a denarius. - Matt 20:9,10	",
+"correct" :	"	A. ಎಲ್ಲರಿಗೂ ಒಂದೊಂದು ಪಾವಲಿ	",
+"explanation" :	"	ಆಗ ಸಾಯಂಕಾಲ ಐದು ಗಂಟೆಗೆ ಬಂದವರಿಗೆ ಒಂದೊಂದು ಪಾವಲಿ ಸಿಕ್ಕಿತು.  ತರುವಾಯ ಮೊದಲಿನವರು ಬಂದು ತಮಗೆ ಹೆಚ್ಚು ದೊರೆಯುವದೆಂದು ನೆನಸಿದರು; ಆದರೆ ಇವರಿಗೆ ಸಹ ಒಂದೊಂದು ಪಾವಲಿಯೇ ಸಿಕ್ಕಿತು.  ಮತ್ತಾಯ 20:9-10	",
 },			
 {			
-"question" :	"	4. Why were the men who came to work early in the morning murmuring?	",
+"question" :	"	4 ಬೆಳಗಿನವ ಅವಧಿಯಲ್ಲಿ ಕೆಲಸಕ್ಕೆ ಬಂದ ಕೂಲಿಗಾರರು ಏಕೆ ಗೊಣಗುಟ್ಟಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. They were not fed.	",
-	"	b. He refused to pay them.	",
-	"	c. They expected to receive more than those who worked less.	",
-	"	d. He wanted them to come back the next day.	"
+	"	A. ಅವರಿಗೆ ಉಣಬಡಿಸಲಿಲ್ಲ	",
+	"	B. ಅವರಿಗೆ ಹಣ ನೀಡಲು ಆತನು ನಿರಾಕರಿಸಿದನು	",
+	"	C. ಕಡಿಮೆ ಕೆಲಸ ಮಾಡಿದವರಿಗಿಂತ ಹೆಚ್ಚು ಹಣ ಸಿಕ್ಕುವುದೆಂದು ನಿರೀಕ್ಷಿಸಿದ್ದರು	",
+	"	D. ಆತನು ಅವರನ್ನು ಮಾರನೆಯ ದಿನವೂ ಬರಲು ತಿಳಿಸಿದ್ದನು	"
 ],			
-"correct" :	"	c. They expected to receive more than those who worked less.	",
-"explanation" :	"	But when the first came, they supposed that they would receive more; and they likewise received each a denarius.And when they had received it, they complained against the landowner,saying, 'These last men have worked only one hour, and you made them equal to us who have borne the burden and the heat of the day. - Matt 20:10-12	",
+"correct" :	"	C. ಕಡಿಮೆ ಕೆಲಸ ಮಾಡಿದವರಿಗಿಂತ ಹೆಚ್ಚು ಹಣ ಸಿಕ್ಕುವುದೆಂದು ನಿರೀಕ್ಷಿಸಿದ್ದರು	",
+"explanation" :	"	ತರುವಾಯ ಮೊದಲಿನವರು ಬಂದು ತಮಗೆ ಹೆಚ್ಚು ದೊರೆಯುವದೆಂದು ನೆನಸಿದರು, ಆದರೆ ಇವರಿಗೆ ಸಹ ಒಂದೊಂದು ಪಾವಲಿಯೇ ಸಿಕ್ಕಿತು.  ಅದನ್ನು ತೆಗೆದುಕೊಂಡು ಮನೆಯ ಯಜಮಾನನ ಮೇಲೆ ಗುಣುಗುಟ್ಟಿ ____ ಮತ್ತಾಯ 20:10-11	",
 },			
 {			
-"question" :	"	5. Jesus said, many will be called	",
+"question" :	"	5 ಯೇಸು ಹೇಳಿದ್ದು, ಕರೆಯಲ್ಪಟ್ಟವರು ಅನೇಕರು, ಆದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. But some will not answer.	",
-	"	b. But few chosen.	",
-	"	c. And they shall follow Me.	",
-	"	d. But some will murmur.	"
+	"	A. ಕೆಲವರು ಉತ್ತರಿಸುವುದಿಲ್ಲ	",
+	"	B. ಆಯಲ್ಪಟ್ಟವರು ಸ್ವಲ್ಪ ಮಾತ್ರ	",
+	"	C. ಅವರು ನನ್ನನ್ನು ಹಿಂಬಾಲಿಸುವರು	",
+	"	D. ಸ್ವಲ್ಪ ಜನ ಗೊಣಗಾಡುವರು	"
 ],			
-"correct" :	"	b. But few chosen.	",
-"explanation" :	"	So the last will be first, and the first last. For many are called, but few chosen. - Matt 20:16	",
+"correct" :	"	B. ಆಯಲ್ಪಟ್ಟವರು ಸ್ವಲ್ಪ ಮಾತ್ರ	",
+"explanation" :	"	ಈ ಪ್ರಕಾರ ಕಡೆಯವರು ಮೊದಲಿನವರಾಗುವರು, ಮೊದಲಿನವರು ಕಡೆಯವರಾಗುವರು ಎಂದು ಹೇಳಿದನು.  ಮತ್ತಾಯ 20:16	",
 },			
 {			
-"question" :	"	6. On the way to Jerusalem, Jesus told His disciples He would be crucified, and do this, on the third day.	",
+"question" :	"	6 ಯೆರೂಷಲೇಮಿಗೆ ಹೋಗುವ ದಾರಿಯಲ್ಲಿ ಯೇಸು ತನ್ನ ಶಿಷ್ಯರಿಗೆ ಹೇಳಿದನು, ನನ್ನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕುವರು, ಆದರೆ ಮೂರನೆಯ ದಿನದಲ್ಲಿ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rise	",
-	"	b. Be buried	",
-	"	c. Die	",
-	"	d. Be cremated	"
+	"	A. ಎಬ್ಬಿಸಲ್ಪಡುವನು	",
+	"	B. ಸಮಾಧಿಮಾಡುವರು	",
+	"	C. ಮರಣಿಸುವನು	",
+	"	D. ದಹನ ಮಾಡುವರು	"
 ],			
-"correct" :	"	a. Rise	",
-"explanation" :	"	Behold, we are going up to Jerusalem, and the Son of Man will be betrayed to the chief priests and to the scribes; and they will condemn Him to death, and deliver Him to the Gentiles to mock and to scourge and to crucify. And the third day He will rise again. - Matt 20:18,19	",
+"correct" :	"	A. ಎಬ್ಬಿಸಲ್ಪಡುವನು	",
+"explanation" :	"	ನೋಡಿರಿ ನಾವು ಯೆರೂಸಲೇಮಿಗೆ ಹೋಗುತ್ತಾ ಇದ್ದೇವೆ, ಮತ್ತು ಮನುಷ್ಯಕುಮಾರನನ್ನು ಮಹಾಯಾಜಕರ ಮತ್ತು ಶಾಸ್ತ್ರಿಗಳ ಕೈಗೆ ಹಿಡುಕೊಡುವರು.  ಅವರು ಅವನಿಗೆ ಮರಣದಂಡನೆಯನ್ನು ವಿಧಿಸಿ ಅವನನ್ನು ಅಪಹಾಸ್ಯ ಮಾಡುವದಕ್ಕೂ ಕೊರಡೆಗಳಿಂದ ಹೊಡೆಯುವದಕ್ಕೂ ಶಿಲುಬೆಗೆ ಹಾಕುವದಕ್ಕೂ ಅನ್ಯ ಕೈಗೆ ಒಪ್ಪಿಸುವರು, ಅವನು ಸತ್ತ ಮೂರನೆಯ ದಿನದಲ್ಲಿ ಜೀವಿತನಾಗಿ ಎಬ್ಬಿಸಲ್ಪಡುವನು ಎಂದು ಹೇಳಿದನು.  ಮತ್ತಾಯ 20:19	",
 },			
 {			
-"question" :	"	7. What did the mother of Zebedee’s children ask of Jesus?	",
+"question" :	"	7 ಜೆಬೆದಾಯನ ಮಕ್ಕಳ ತಾಯಿಯು ಯೇಸುವಿನಲ್ಲಿ ಏನನ್ನು ಬೇಡಿಕೊಂಡಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. That her sons be healed	",
-	"	b. Her son’s sit beside Jesus in His kingdom	",
-	"	c. Allow her sons to come home to her	",
-	"	d. That He baptize her sons	"
+	"	A. ಅವಳ ಮಕ್ಕಳು ಸೌಖ್ಯರಾಗಬೇಕೆಂದು	",
+	"	B. ಆತನ  ರಾಜ್ಯದಲ್ಲಿ ಯೇಸುವಿನ ಎಡಬಲಗಳಲ್ಲಿ ತನ್ನ ಮಕ್ಕಳು ಕುಳಿತುಕೊಳ್ಳಬೇಕು	",
+	"	C. ಆಕೆಯ ಮಕ್ಕಳು ಆಕೆಯೊಂದಿಗೆ ಮನೆಗೆ ಹೋಗಲು	",
+	"	D. ಆಕೆಯ ಮಕ್ಕಳಿಗೆ ಆತನು ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಲು	"
 ],			
-"correct" :	"	b. Her son’s sit beside Jesus in His kingdom	",
-"explanation" :	"	Then the mother of Zebedee's sons came to Him with her sons, kneeling down and asking something from Him.And He said to her, What do you wish? She said to Him, Grant that these two sons of mine may sit, one on Your right hand and the other on the left, in Your kingdom. - Matt 20:20,21	",
+"correct" :	"	B. ಆತನ  ರಾಜ್ಯದಲ್ಲಿ ಯೇಸುವಿನ ಎಡಬಲಗಳಲ್ಲಿ ತನ್ನ ಮಕ್ಕಳು ಕುಳಿತುಕೊಳ್ಳಬೇಕು	",
+"explanation" :	"	ಆತನು ಆಕೆಯನ್ನು ನಿನಗೇನು ಬೇಕಮ್ಮಾ ಎಂದು ಕೇಳಲು ಆಕೆ ನಿನ್ನ ರಾಜ್ಯದಲ್ಲಿ ನನ್ನ ಈ ಇಬ್ಬರು ಮಕ್ಕಳಲ್ಲಿ ಒಬ್ಬನು ನಿನ್ನ ಬಲಗಡೆಯಲ್ಲೂ ಮತ್ತೊಬ್ಬನು ಎಡಗಡೆಯಲ್ಲೂ ಕುಳಿತುಕೊಳ್ಳುವದಕ್ಕೆ ಅಪ್ಪಣೆಯಾಗಬೇಕು ಅಂದಳು.  ಮತ್ತಾಯ 20:21	",
 },			
 {			
-"question" :	"	8. Jesus said, whosoever will be chief among you	",
+"question" :	"	8  ಯೇಸು ಹೇಳಿದ್ದು: ನಿಮ್ಮಲ್ಲಿ ಯಾರು ಮೊದಲಿನವನಾಗಿರಬೇಕೆಂದಿರುವನೋ ಅವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Give honor to.	",
-	"	b. Let him wear a crown.	",
-	"	c. Let him be your servant.	",
-	"	d. Shall be chief in My kingdom.	"
+	"	A. ಗೌರವ ಕೊಡಬೇಕು	",
+	"	B. ಅವನು ಕಿರೀಟವನ್ನು ಧರಿಸಲಿ	",
+	"	C. ಆವನು ನಿಮ್ಮ ಆಳಾಗಿರಬೇಕು	",
+	"	D. ನನ್ನ ರಾಜ್ಯದಲ್ಲಿ ದೊಡ್ಡವನಾಗಿರುವನು	"
 ],			
-"correct" :	"	c. Let him be your servant.	",
-"explanation" :	"	And whoever desires to be first among you, let him be your slave - Matt 20:27	",
+"correct" :	"	C. ಆವನು ನಿಮ್ಮ ಆಳಾಗಿರಬೇಕು	",
+"explanation" :	"	ನಿಮ್ಮಲ್ಲಿ ಮೊದಲನೆಯವನಾಗಬೇಕೆಂದಿರುವವನು ನಿಮ್ಮ ಆಳಾಗಿರಬೇಕು.  ಮತ್ತಾಯ 20:27	",
 },			
 {			
-"question" :	"	9. What did the two blind men cry out to Jesus?	",
+"question" :	"	9 ಇಬ್ಬರು ಕುರುಡರು ಯೇಸುವಿಗೆ ಏನೆಂದು ಕೂಗಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Why are we blind?	",
-	"	b. Make us whole.	",
-	"	c. Touch our eyes.	",
-	"	d. Have mercy on us.	"
+	"	A. ನಾವು ಏಕೆ ಕುರುಡರಾಗಿದ್ದೇವೆ	",
+	"	B. ನಮ್ಮನ್ನು ಶುದ್ದಮಾಡು	",
+	"	C. ನಮ್ಮ ಕಣ್ಣುಗಳನ್ನು ಮುಟ್ಟು	",
+	"	D. ನಮ್ಮನ್ನು ಕರುಣಿಸು	"
 ],			
-"correct" :	"	d. Have mercy on us.	",
-"explanation" :	"	And behold, two blind men sitting by the road, when they heard that Jesus was passing by, cried out, saying, Have mercy on us, O Lord, Son of David - Matt 20:30	",
+"correct" :	"	D. ನಮ್ಮನ್ನು ಕರುಣಿಸು	",
+"explanation" :	"	ಆಗ ದಾರಿಯ ಮಗ್ಗುಲಲ್ಲಿ ಕೂತಿದ್ದ ಇಬ್ಬರು ಕುರುಡರು, ಯೇಸು ಈ ಮಾರ್ಗವಾಗಿ ಹೋಗುತ್ತಿದ್ದಾನೆಂದು ಕೇಳಿ ಸ್ವಾಮಿ, ದಾವೀದನ ಕುಮಾರನೇ ನಮ್ಮನ್ನು ಕರುಣಿಸು ಎಂದು ಕೂಗಿಕೊಂಡರು.  ಮತ್ತಾಯ 20:30	",
 },			
 {			
-"question" :	"	10. When the multitude told them to be quiet, what did they do?	",
+"question" :	"	10  ಆ ಗುಂಪಿನವರು ಅವರನ್ನು ಸುಮ್ಮನಿರಿ ಎಂದು ಗದರಿಸದರೆ, ಅವರು ಏನು ಮಾಡಿದರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Became quiet	",
-	"	b. Cried the more	",
-	"	c. Went home	",
-	"	d. Whispered to Jesus	"
+	"	A. ಅವರು ಸುಮ್ಮನಾದರು	",
+	"	B. ಇನ್ನೂ ಹೆಚ್ಚಾಗಿ ಕೂಗಿದರು	",
+	"	C. ಮನೆಗೆ ಹೋದರು	",
+	"	D. ಯೇಸುವಿಗೆ ಪಿಸುಮಾತಿನಲ್ಲಿ ಹೇಳಿದರು	"
 ],			
-"correct" :	"	b. Cried the more	",
-"explanation" :	"	Then the multitude warned them that they should be quiet; but they cried out all the more, saying, Have mercy on us, O Lord, Son of David! - Matt 20:31	",
+"correct" :	"	B. ಇನ್ನೂ ಹೆಚ್ಚಾಗಿ ಕೂಗಿದರು	",
+"explanation" :	"	ಆ ಗುಂಪಿನವರು ಸುಮ್ಮನಿರಿ ಎಂದು ಅವರನ್ನು ಗದರಿಸಲು ಅವರು ಸ್ವಾಮಿ ದಾವೀದನ ಕುಮಾರನೇ ನಮ್ಮನ್ನು ಕರುಣಿಸು ಎಂದು ಹೆಚ್ಚಾಗಿ ಕೂಗಿಕೊಂಡರು.  ಮತ್ತಾಯ 20:31	",
 },			
 ]			

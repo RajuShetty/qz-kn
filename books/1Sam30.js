@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 30";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 30";			
 var quiz = [			
 {			
 "question" :	"	1. They burned Ziklag.	",

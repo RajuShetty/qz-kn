@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 27";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 27";			
 var quiz = [			
 {			
 "question" :	"	1. This man's daughters came before Moses and the priest.	",

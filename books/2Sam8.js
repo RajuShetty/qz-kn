@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 8";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. These people that remained alive became David’s servants and brought him gifts.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Ruth chapter 1";			
+var quiztitle = " Ruth ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. Elimelech was from here.	",

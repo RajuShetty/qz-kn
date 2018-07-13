@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 15";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus said, I am the true vine and my Father is	",
+"question" :	"	1  ಯೇಸು ಹೇಳಿದ್ದು, ನಾನೇ ನಿಜವಾದ ದ್ರಾಕ್ಷೇಬಳ್ಳಿ, ನನ್ನ ತಂದೆಯು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The tree of life.	",
-	"	b. The Ivy of Grace.	",
-	"	c. The symbol of Holiness.	",
-	"	d. The husbandman.	"
+	"	A. ಜೀವದಾಯಕ ವೃಕ್ಷ	",
+	"	B. ಕೃಪೆಯ ಬಳ್ಳಿ	",
+	"	C. ಪರಿಶುದ್ಧತೆಯ ಸಂಕೇತ	",
+	"	D. ತೋಟಗಾರನು	"
 ],			
-"correct" :	"	d. The husbandman.	",
-"explanation" :	"	I am the true vine, and My Father is the vinedresser.Jn15:1	",
+"correct" :	"	D. ತೋಟಗಾರನು	",
+"explanation" :	"	ನಾನೇ ನಿಜವಾದ ದ್ರಾಕ್ಷೇಬಳ್ಳಿ. ನನ್ನ ತಂದೆ ತೋಟಗಾರನು.  15:1	",
 },			
 {			
-"question" :	"	2. Every branch that bears no fruit,the husbandman	",
+"question" :	"	2  ಫಲಕೊಡದಿರುವ ಪ್ರತಿಯೊಂದು ಕೊಂಬೆಯನ್ನು ತೋಟಗಾರನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Nourishes.	",
-	"	b. Takes away.	",
-	"	c. Burns.	",
-	"	d. Sells.	"
+	"	A. ಪೋಷಿಸುವನು	",
+	"	B. ತೆಗೆದುಹಾಕುವನು	",
+	"	C. ಸುಟ್ಟು ಹಾಕುವನು	",
+	"	D. ಮಾರಿಬಿಡುವನು	"
 ],			
-"correct" :	"	b. Takes away.	",
-"explanation" :	"	Every branch in Me that does not bear fruit He takes away and every branch that bears fruit He prunes, that it may bear more fruit. Jn15:2	",
+"correct" :	"	B. ತೆಗೆದುಹಾಕುವನು	",
+"explanation" :	"	ನನ್ನಲ್ಲಿದ್ದು ಫಲಕೊಡದಿರುವ ಪ್ರತಿಯೊಂದು ಕೊಂಬೆಯನ್ನು ಆತನು ತೆಗೆದುಹಾಕುತ್ತಾನೆ; ಫಲಕೊಡುವ ಪ್ರತಿಯೊಂದು ಕೊಂಬೆಯು ಹೆಚ್ಚು ಫಲಕೊಡುವ ಹಾಗೆ ಅದನ್ನು ಶುದ್ಧಿಮಾಡುತ್ತಾನೆ.  15:2	",
 },			
 {			
-"question" :	"	3. Jesus said, you are clean through	",
+"question" :	"	3  ನೀವು ಈಗ ಯಾವುದರಿಂದ ಶುದ್ಧರಾಗಿದ್ದೀರೆಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The word I have spoken unto you.	",
-	"	b. Fasting.	",
-	"	c. Alms.	",
-	"	d. Good works.	"
+	"	A. ಆತನು ಹೇಳಿದ ವಾಕ್ಯದ ದೆಸೆಯಿಂದ	",
+	"	B. ಉಪವಾಸದಿಂದ	",
+	"	C. ಕಾಣಿಕೆಗಳಿಂದ	",
+	"	D. ಒಳ್ಳೇ ಕೆಲಸಗಳಿಂದ	"
 ],			
-"correct" :	"	a. The word I have spoken unto you.	",
-"explanation" :	"	You are already clean because of the word which I have spoken to you.Jn15:3	",
+"correct" :	"	A. ಆತನು ಹೇಳಿದ ವಾಕ್ಯದ ದೆಸೆಯಿಂದ	",
+"explanation" :	"	ನಾನು ನಿಮಗೆ ಹೇಳಿದ ವಾಕ್ಯದ ದೆಸೆಯಿಂದ ಈಗ ಶುದ್ಧರಾಗಿದ್ದೀರಿ 15:3	",
 },			
 {			
-"question" :	"	4. Jesus said, I am the vine and you are	",
+"question" :	"	4  ಯೇಸು ಹೇಳಿದ್ದು, ನಾನೇ ದ್ರಾಕ್ಷೆಬಳ್ಳಿ, ನೀವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The fruit.	",
-	"	b. The branches.	",
-	"	c. The flowers.	",
-	"	d. The leaves.	"
+	"	A. ಫಲಗಳು	",
+	"	B. ಕೊಂಬೆಗಳು	",
+	"	C. ಹೂವುಗಳು	",
+	"	D. ಎಲೆಗಳು	"
 ],			
-"correct" :	"	b. The branches.	",
-"explanation" :	"	I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing Jn15:5	",
+"correct" :	"	B. ಕೊಂಬೆಗಳು	",
+"explanation" :	"	ನಾನು ದ್ರಾಕ್ಷೇ ಬಳ್ಳಿ, ನೀವು ಕೊಂಬೆಗಳು; ಒಬ್ಬನು ನನ್ನಲ್ಲಿಯೂ ನಾನು ಅವನಲ್ಲಿಯೂ ನೆಲೆಗೊಂಡಿದ್ದರೆ ಅವನೇ ಬಹಳ ಫಲಕೊಡುವನು; ನೀವು ನನ್ನನ್ನು ಬಿಟ್ಟು ಏನೂ ಮಾಡಲಾರಿರಿ 15:5	",
 },			
 {			
-"question" :	"	5. Jesus said, If you abide in me,and my words abide in you, you shall ask what you will	",
+"question" :	"	5  ಯೇಸು ಹೇಳಿದ್ದು, ನೀವು ನನ್ನಲ್ಲಿಯೂ ನನ್ನ ವಾಕ್ಯಗಳು ನಿಮ್ಮಲ್ಲಿಯೂ ನೆಲೆಗೊಂಡಿದ್ದರೆ  ಏನು ಬೇಕಾದರೂ ಬೇಡಿಕೊಳ್ಳಿರಿ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. And it shall be done unto you.	",
-	"	b. Of the world.	",
-	"	c. And you may see the light.	",
-	"	d. And angels shall serve you.	"
+	"	A. ಅದು ನಿಮಗೆ ದೊರೆಯುವುದು	",
+	"	B. ಈ ಲೋಕದ್ದು	",
+	"	C. ನೀವು ಬೆಳಕನ್ನು ಕಾಣುವಿರಿ	",
+	"	D. ದೂತರು ನಿಮಗೆ ಸೇವೆ ಮಾಡುವರು	"
 ],			
-"correct" :	"	a. And it shall be done unto you.	",
-"explanation" :	"	If you abide in Me, and My words abide in you, you will ask what you desire, and it shall be done for you. Jn15:7	",
+"correct" :	"	A. ಅದು ನಿಮಗೆ ದೊರೆಯುವುದು	",
+"explanation" :	"	ನೀವು ನನ್ನಲ್ಲಿಯೂ ನನ್ನ ವಾಕ್ಯಗಳು ನಿಮ್ಮಲ್ಲಿಯೂ ನೆಲೆಗೊಂಡಿದ್ದರೆ ಏನು ಬೇಕಾದರೂ ಬೇಡಿಕೊಳ್ಳಿರಿ, ಅದು ನಿಮಗೆ ದೊರೆಯುವದು 15:7	",
 },			
 {			
-"question" :	"	6. Jesus said, if you do this, you shall abide in My love.	",
+"question" :	"	6  ಯೇಸು ಹೇಳಿದ್ದು, ನೀವು ಇದನ್ನು ಮಾಡಿದರೆ ನನ್ನ ಪ್ರೀತಿಯಲ್ಲಿ ನೆಲೆಗೊಂಡಿರುವಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Weep	",
-	"	b. Good works	",
-	"	c. Fast & pray	",
-	"	d. Keep My commandments	"
+	"	A. ಗೋಳಾಡುವುದು	",
+	"	B. ಒಳ್ಳೆಯ ಕಾರ್ಯಗಳು	",
+	"	C. ಉಪವಾಸ ಮಾಡುವುದು ಮತ್ತು ಪ್ರಾರ್ಥಿಸುವುದು	",
+	"	D. ನನ್ನ ಆಜ್ಞೆಗಳನ್ನು ಕೈಕೊಂಡು ನಡೆಯುವುದು	"
 ],			
-"correct" :	"	d. Keep My commandments	",
-"explanation" :	"	If you keep My commandments, you will abide in My love, just as I have kept My Father’s commandments and abide in His love.Jn15:10	",
+"correct" :	"	D. ನನ್ನ ಆಜ್ಞೆಗಳನ್ನು ಕೈಕೊಂಡು ನಡೆಯುವುದು	",
+"explanation" :	"	ನಾನು ನನ್ನ ತಂದೆಯ ಆಜ್ಞೆಗಳನ್ನು ಕೈಕೊಂಡು ನಡೆದು ಆತನ ಪ್ರೀತಿಯಲ್ಲಿ ನೆಲೆಗೊಂಡಿರುವ ಮೇರೆಗೆ ನೀವು ನನ್ನ ಆಜ್ಞೆಗಳನ್ನು ಕೈಕೊಂಡು ನಡೆದರೆ ನನ್ನ ಪ್ರೀತಿಯಲ್ಲಿ ನೆಲೆಗೊಂಡಿರುವಿರಿ 15:10	",
 },			
 {			
-"question" :	"	7. Jesus said, this is My commandment, that you love	",
+"question" :	"	7  ಯೇಸು ಹೇಳಿದ್ದು, ನೀವು _____________ ಪ್ರೀತಿಸಬೇಕೆಂಬುದೆ ನಾನು ಕೊಡುವ ಆಜ್ಞೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. One another.	",
-	"	b. Me.	",
-	"	c. The Father.	",
-	"	d. The Comforter.	"
+	"	A. ಒಬ್ಬರನ್ನೊಬ್ಬರು	",
+	"	B. ನನ್ನನ್ನು	",
+	"	C. ತಂದೆಯನ್ನು	",
+	"	D. ಸಹಾಯಕನನ್ನು	"
 ],			
-"correct" :	"	a. One another.	",
-"explanation" :	"	This is My commandment, that you love one another as I have loved you.Jn15:12	",
+"correct" :	"	A. ಒಬ್ಬರನ್ನೊಬ್ಬರು	",
+"explanation" :	"	ನಾನು ನಿಮ್ಮನ್ನು ಪ್ರೀತಿಸಿದ ಮೇರೆಗೆ ನೀವು ಒಬ್ಬರನ್ನೊಬ್ಬರು ಪ್ರೀತಿಸಬೇಕೆಂಬದೇ ನಾನು ಕೊಡುವ ಆಜ್ಞೆಯಾಗಿದೆ. 15:12	",
 },			
 {			
-"question" :	"	8. Greater love has no man than	",
+"question" :	"	8  ________________________ ಹೆಚ್ಚಿನ ಪ್ರೀತಿಯು ಯಾವುದೂ ಇಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. A man of mercy.	",
-	"	b. A peacemaker.	",
-	"	c. A prophet.	",
-	"	d. He that lays down his life for his friends.	"
+	"	A. ಕರುಣೆಯುಳ್ಳ ಮನುಷ್ಯನ ಪ್ರೀತಿಗಿಂತ	",
+	"	B. ಶಾಂತಪಡಿಸುವ ಮನುಷ್ಯನ ಪ್ರೀತಿಗಿಂತ	",
+	"	C. ಪ್ರವಾದಿಯ ಪ್ರೀತಿಗಿಂತ	",
+	"	D. ಪ್ರಾಣವನ್ನೇ ಸ್ನೇಹಿತರಿಗೋಸ್ಕರ ಕೊಡುವ ಪ್ರೀತಿಗಿಂತ	"
 ],			
-"correct" :	"	d. He that lays down his life for his friends.	",
-"explanation" :	"	Greater love has no one than this, than to lay down one’s life for his friends.Jn15:13	",
+"correct" :	"	D. ಪ್ರಾಣವನ್ನೇ ಸ್ನೇಹಿತರಿಗೋಸ್ಕರ ಕೊಡುವ ಪ್ರೀತಿಗಿಂತ	",
+"explanation" :	"	ಪ್ರಾಣವನ್ನೇ ಸ್ನೇಹಿತರಿಗೋಸ್ಕರ ಕೊಡುವ ಪ್ರೀತಿಗಿಂತ ಹೆಚ್ಚಿನ ಪ್ರೀತಿಯು ಯಾವದೂ ಇಲ್ಲ 15:13	",
 },			
 {			
-"question" :	"	9. The servant is not greater than	",
+"question" :	"	9  _______________ ಆಳು ದೊಡ್ಡವನಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. The dust of the earth.	",
-	"	b. The wind.	",
-	"	c. The cattle.	",
-	"	d. His lord.	"
+	"	A. ಭೂಮಿಯ ಧೂಳಿಗಿಂತ	",
+	"	B. ಗಾಳಿಗಿಂತ	",
+	"	C. ಪಶುಗಳಿಗಿಂತ	",
+	"	D. ತನ್ನ ಧಣಿಗಿಂತ	"
 ],			
-"correct" :	"	d. His lord.	",
-"explanation" :	"	Remember the word that I said to you, ‘A servant is not greater than his master.’ If they persecuted Me, they will also persecute you. If they kept My word, they will keep yours also Jn15:20	",
+"correct" :	"	D. ತನ್ನ ಧಣಿಗಿಂತ	",
+"explanation" :	"	ದಣಿಗಿಂತ ಆಳು ದೊಡ್ಡವನಲ್ಲವೆಂಬದಾಗಿ ನಾನು ನಿಮಗೆ ಹೇಳಿದ ಮಾತನ್ನು ಜ್ಞಾಪಕಮಾಡಿಕೊಳ್ಳಿರಿ. ಅವರು ನನ್ನನ್ನು ಹಿಂಸೆಪಡಿಸಿದರೆ ನಿಮ್ಮನ್ನು ಸಹ ಹಿಂಸೆಪಡಿಸುವರು; ಅವರು ನನ್ನ ಮಾತನ್ನು ಕೈಕೊಂಡು ನಡೆದರೆ ನಿಮ್ಮ ಮಾತನ್ನು ಸಹ ಕೈಕೊಂಡು ನಡೆಯುವರು 15:20	",
 },			
 {			
-"question" :	"	10. He will testify of Jesus.	",
+"question" :	"	10 ಈತನು ಯೇಸುವಿನ ಕುರಿತು ಸಾಕ್ಷಿ ಹೇಳುವನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. An angel	",
-	"	b. The wind	",
-	"	c. The Comforter	",
-	"	d. Simon Peter	"
+	"	A. ದೂತನು	",
+	"	B. ಗಾಳಿಯು	",
+	"	C. ಸತ್ಯದ ಆತ್ಮನು	",
+	"	D. ಸೀಮೋನ ಪೇತ್ರನು	"
 ],			
-"correct" :	"	c. The Comforter	",
-"explanation" :	"	But when the Helper comes, whom I shall send to you from the Father, the Spirit of truth who proceeds from the Father, He will testify of Me.Jn15:26	",
+"correct" :	"	C. ಸತ್ಯದ ಆತ್ಮನು	",
+"explanation" :	"	ಆದರೆ ತಂದೆಯ ಬಳಿಯಿಂದ ನಾನು ನಿಮಗೆ ಕಳುಹಿಸಿಕೊಡುವ ಸಹಾಯಕನು, ಅಂದರೆ ತಂದೆಯ ಬಳಿಯಿಂದ ಹೊರಡುವ ಸತ್ಯದ ಆತ್ಮನು, ಬಂದಾಗ ಆತನು ನನ್ನನ್ನು ಕುರಿತು ಸಾಕ್ಷಿಹೇಳುವನು 15:26	",
 },			
 ]			

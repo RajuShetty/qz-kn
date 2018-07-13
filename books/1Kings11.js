@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 11";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. God instructed Israel not to take wives of other nations, for they would turn their hearts	",

@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 9";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
-"question" :	"	1. When Jesus sent His disciples out to preach the kingdom of God and heal the sick, he told them to take	",
+"question" :	"	1. ಯೇಸು ತನ್ನ ಶಿಷ್ಯರನ್ನು ದೇವರ ರಾಜ್ಯದ ಕುರಿತು ಸಾರುವುದಕ್ಕೆ ಮತ್ತು ರೋಗಿಗಳನ್ನು ಗುಣಪಡಿಸುವುದಕ್ಕೆ ಕಳುಹಿಸಿದಾಗ ಹೀಗೆ ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Food.	",
-	"	b. An extra coat.	",
-	"	c. Money.	",
-	"	d. Nothing.	"
+	"	A. ಆಹಾರವನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿರಿ	",
+	"	B. ಇನ್ನೊಂದು ಮೇಲಂಗಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿರಿ	",
+	"	C. ಹಣವನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿರಿ	",
+	"	D. ಏನೂ ತೆಗೆದುಕೊಂಡು ಹೋಗಬೇಡಿರಿ	"
 ],			
-"correct" :	"	d. Nothing.	",
-"explanation" :	"	And He said to them, Take nothing for the journey, neither staffs nor bag nor bread nor money; and do not have two tunics apiece. - Lk 9:3 	",
+"correct" :	"	D. ಏನೂ ತೆಗೆದುಕೊಂಡು ಹೋಗಬೇಡಿರಿ	",
+"explanation" :	"	ಕಳುಹಿಸುವಾಗ ಅವರಿಗೆ ಹೇಳಿದ್ದೇನಂದರೆ - ದಾರಿಗೆ ಏನೂ ತಕ್ಕೊಂಡು ಹೋಗಬೇಡಿರಿ, ಕೋಲು ಹಸಿಬೆ ಬುತ್ತಿ ಹಣ ಬೇಡ; ಎರಡಂಗಿಗಳಿರಬಾರದು.   ಲೂಕ 9:3	",
 },			
 {			
-"question" :	"	2. Herod heard some say that this man, had risen from the dead.	",
+"question" :	"	2. ಸತ್ತಂತಹ ಈ ಮನುಷ್ಯನಿಂದ ಯೇಸು ಎದ್ದು ಬಂದಿದ್ದಾನೆ ಎಂದು ಕೆಲವರು ಹೇಳುವುದನ್ನು ಹೆರೋದನು ಕೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. John the Baptist	",
-	"	b. David	",
-	"	c. Moses	",
-	"	d. Adam	"
+	"	A. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+	"	B. ದಾವೀದ	",
+	"	C. ಮೋಶೆ	",
+	"	D. ಆದಾಮ	"
 ],			
-"correct" :	"	a. John the Baptist	",
-"explanation" :	"	Now Herod the tetrarch heard of all that was done by Him; and he was perplexed, because it was said by some that John had risen from the dead, - Lk 9:7	",
+"correct" :	"	A. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನ	",
+"explanation" :	"	ಹೀಗಿರಲಾಗಿ ಉಪರಾಜನಾದ ಹೆರೋದನು ನಡೆದ ಸಂಗತಿಗಳನ್ನೆಲ್ಲಾ ಕೇಳಿ ಬಹಳವಾಗಿ ಕಳವಳಪಡುವವನಾದನು.  ಯಾಕಂದರೆ ಸತ್ತಿದ್ದ ಯೋಹಾನನು ತಿರಿಗಿ ಬದುಕಿಬಂದಿದ್ದಾನೆಂದು ಕೆಲವರೂ;  ಲೂಕ 9:7	",
 },			
 {			
-"question" :	"	3. Jesus fed this many men.	",
+"question" :	"	3.ಯೇಸು ಸುಮಾರು ಇಷ್ಟು ಸಾವಿರ ಗಂಡಸರಿಗೆ ಉಣಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 100	",
-	"	b. 2,000	",
-	"	c. 5,000	",
-	"	d. 10,000	"
+	"	A. 100	",
+	"	B. 2,000	",
+	"	C. 5,000	",
+	"	D. 10,000	"
 ],			
-"correct" :	"	c. 5,000	",
-"explanation" :	"	For there were about five thousand men. Then He said to His disciples, Make them sit down in groups of fifty. - Lk 9:14	",
+"correct" :	"	C. 5,000	",
+"explanation" :	"	ಗಂಡಸರೇ ಹೆಚ್ಚು ಕಡಿಮೆ ಐದುಸಾವಿರ ಮಂದಿಯಿದ್ದರು.   ಲೂಕ 9:14	",
 },			
 {			
-"question" :	"	4. What did Jesus feed the multitude with?	",
+"question" :	"	4. ಯೇಸು ಯಾವುದರಿಂದ ಜನರ ಗುಂಪಿಗೆ ಆಹಾರವನ್ನು ಒದಗಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 5 loaves & 2 fish	",
-	"	b. 3 loaves & 4 fish	",
-	"	c. 3 loaves & 3 fish	",
-	"	d. Bologna & cheese	"
+	"	A. 5 ರೊಟ್ಟಿ ಮತ್ತು 2 ಮೀನು	",
+	"	B. 3 ರೊಟ್ಟಿ ಮತ್ತು 4 ಮೀನು	",
+	"	C. 3 ರೊಟ್ಟಿ ಮತ್ತು 3 ಮೀನು	",
+	"	D. ಬೋಲಗ್ನ ಮತ್ತು ಬೆಣ್ಣೆ	"
 ],			
-"correct" :	"	a. 5 loaves & 2 fish	",
-"explanation" :	"	Then He took the five loaves and the two fish, and looking up to heaven, He blessed and broke them, and gave them to the disciples to set before the multitude. - Lk 9:16	",
+"correct" :	"	A. 5 ರೊಟ್ಟಿ ಮತ್ತು 2 ಮೀನು	",
+"explanation" :	"	ಆಮೇಲೆ ಆತನು ಆ ಐದು ರೊಟ್ಟಿ ಎರಡು ಮೀನುಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಆಕಾಶದ ಕಡೆಗೆ ನೋಡಿ ಅವುಗಳನ್ನು ಆಶೀರ್ವದಿಸಿ ಮುರಿದು ಶಿಷ್ಯರ ಕೈಗೆ ಕೊಟ್ಟು - ಈ ಜನರ ಗುಂಪಿಗೆ ಹಂಚಿರಿ ಅಂದನು.  ಲೂಕ 9:16	",
 },			
 {			
-"question" :	"	5. This man answered “the Christ of God” when Jesus asked who they say He was.	",
+"question" :	"	5. ನೀವು ನನ್ನನ್ನು ಯಾರೆನ್ನುತ್ತೀರಿ ಎಂದು ಯೇಸು ಕೇಳಿದಾಗ ಈ ಮನುಷ್ಯನು ನೀನು ದೇವರಿಂದ ಬರಬೇಕಾದ ಕ್ರಿಸ್ತನು ಎಂದು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. James	",
-	"	b. John	",
-	"	c. Andrew	",
-	"	d. Peter	"
+	"	A. ಯಾಕೋಬ	",
+	"	B. ಯೋಹಾನ	",
+	"	C. ಆಂದ್ರೇಯ	",
+	"	D. ಪೇತ್ರ	"
 ],			
-"correct" :	"	d. Peter	",
-"explanation" :	"	He said to them, But who do you say that I am? Peter answered and said, The Christ of God. - Lk 9:20	",
+"correct" :	"	D. ಪೇತ್ರ	",
+"explanation" :	"	ಆತನು ಅವರನ್ನು - ಆದರೆ ನೀವು ನನ್ನನ್ನು ಯಾರು ಅನ್ನುತ್ತೀರಿ ಎಂದು ಕೇಳಲಾಗಿ ಪೇತ್ರನು - ನೀನು ದೇವರಿಂದ ಬರಬೇಕಾಗಿರುವ ಕ್ರಿಸ್ತನು ಎಂದು ಉತ್ತರಕೊಟ್ಟನು;   ಲೂಕ 9:20	",
 },			
 {			
-"question" :	"	6. Jesus said, if any man follows Him, he must take this up daily.	",
+"question" :	"	6. ಯೇಸು ಹೇಳಿದ್ದು: ಯಾವನಾದರೂ ನನ್ನನ್ನು ಹಿಂಬಾಲಿಸಬೇಕಾದರೆ, ಇದನ್ನು ದಿನಾಲು ಹೊತ್ತುಕೊಂಡು ಬರಬೇಕು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Exercise	",
-	"	b. His cross	",
-	"	c. Singing	",
-	"	d. A sacrifice	"
+	"	A. ವ್ಯಾಯಾಮ	",
+	"	B. ತನ್ನ ಶಿಲುಬೆ	",
+	"	C. ಹಾಡುಗಾರಿಕೆ	",
+	"	D. ತನ್ನ ತ್ಯಾಗ	"
 ],			
-"correct" :	"	b. His cross	",
-"explanation" :	"	Then He said to them all, If anyone desires to come after Me, let him deny himself, and take up his cross daily, and follow Me. - Lk 9:23	",
+"correct" :	"	B. ತನ್ನ ಶಿಲುಬೆ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಆತನು ಎಲ್ಲರಿಗೂ ಹೇಳಿದ್ದೇನಂದರೆ - ಯಾವನಿಗಾದರೂ ನನ್ನ ಹಿಂದೆ ಬರುವದಕ್ಕೆ ಮನಸ್ಸಿದ್ದರೆ ಅವನು ತನ್ನನ್ನು ನಿರಾಕರಿಸಿ ತನ್ನ ಶಿಲುಬೆಯನ್ನು ದಿನಾಲೂ ಹೊತ್ತುಕೊಂಡು ನನ್ನ ಹಿಂದೆ ಬರಲಿ.   ಲೂಕ 9:23	",
 },			
 {			
-"question" :	"	7. Jesus spoke with these two men on the mountain.	",
+"question" :	"	7. ಯೇಸು ಈ ಇಬ್ಬರು ಮನುಷ್ಯರೊಂದಿಗೆ ಬೆಟ್ಟದ ಮೇಲೆ ಮಾತನಾಡಿದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Abraham & Isaac	",
-	"	b. David & Solomon	",
-	"	c. Moses & Elias	",
-	"	d. Cain & Abel	"
+	"	A. ಅಬ್ರಹಾಮ ಮತ್ತು ಇಸಾಕ	",
+	"	B. ದಾವೀದ ಮತ್ತು ಸೊಲೋಮೋನ	",
+	"	C. ಮೋಶೆ ಮತ್ತು ಎಲೀಯ	",
+	"	D. ಕಾಯಿನ ಮತ್ತು ಹೆಬೇಲ	"
 ],			
-"correct" :	"	c. Moses & Elias	",
-"explanation" :	"	And behold, two men talked with Him, who were Moses and Elijah, - Lk 9:30	",
+"correct" :	"	C. ಮೋಶೆ ಮತ್ತು ಎಲೀಯ	",
+"explanation" :	"	ಆತನ ಉಡುಪು ಬೆಳ್ಳಗಾಗಿ ಮಿಂಚುತ್ತಾ ಬಂತು.  ಇದಲ್ಲದೆ ಇಬ್ಬರು ಪುರುಷರು ಆತನ ಸಂಗಡ ಮಾತಾಡುತ್ತಿದ್ದರು.  ಇವರು ಯಾರಂದರೆ ಮೋಶೆಯೂ ಎಲೀಯನೂ.   ಲೂಕ 9:30	",
 },			
 {			
-"question" :	"	8. When the man asked Jesus to heal his son, who did he say had been unable to help him?	",
+"question" :	"	8. ಒಬ್ಬ ಮನುಷ್ಯನು ತನ್ನ ಮಗನನ್ನು ಸೌಖ್ಯಮಾಡು ಎಂದು ಯೇಸುವಿನ ಬಳಿ ಬಂದಾಗ ಇದು ಯಾರಿಂದ ಆಗದೆಹೋಯಿತು ಎಂದು ಆತ ಹೇಳಿದ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The priests	",
-	"	b. The doctors	",
-	"	c. The scribes	",
-	"	d. Jesus’ disciples	"
+	"	A. ಯಾಜಕರಿಂದ	",
+	"	B. ವೈದ್ಯರಿಂದ	",
+	"	C. ಶಾಸ್ತ್ರಿಗಳಿಂದ	",
+	"	D. ಯೇಸುವಿನ ಶಿಷ್ಯರಿಂದ	"
 ],			
-"correct" :	"	d. Jesus’ disciples	",
-"explanation" :	"	So I implored Your disciples to cast it out, but they could not. - Lk 9:40	",
+"correct" :	"	D. ಯೇಸುವಿನ ಶಿಷ್ಯರಿಂದ	",
+"explanation" :	"	ಅದನ್ನು ಬಿಡಿಸಬೇಕೆಂದು ನಿನ್ನ ಶಿಷ್ಯರನ್ನು ಬೇಡಿಕೊಂಡೆನು.  ಆದರೆ ಅವರಿಂದ ಆಗದೆಹೋಯಿತು ಎಂದು ಕೂಗಿ ಹೇಳಿದನು.  ಲೂಕ 9:40	",
 },			
 {			
-"question" :	"	9. When Jesus was turned away from a Samaritan village, James and John wanted to do this.	",
+"question" :	"	9. ಯೇಸು ಸಮಾರ್ಯ ಪಟ್ಟಣದಿಂದ ಹಿಂತಿರುಗಿದಾಗ, ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನರು ಏನು ಮಾಡಬೇಕೆಂದುಕೊಂಡರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Call fire from heaven	",
-	"	b. Talk to the governor	",
-	"	c. Hide it from Jesus	",
-	"	d. Sleep in the wilderness	"
+	"	A. ಆಕಾಶದಿಂದ ಬೆಂಕಿ ಬರಲಿ	",
+	"	B. ಮಂತ್ರಿಯೊಂದಿಗೆ ಮಾತನಾಡುವುದು	",
+	"	C. ಯೇಸುವಿಗೆ ಇದನ್ನು ಮರೆಮಾಡುವುದು	",
+	"	D. ಅಡವಿಯಲ್ಲಿ ನಿದ್ದೆ ಮಾಡುವುದು	"
 ],			
-"correct" :	"	a. Call fire from heaven	",
-"explanation" :	"	And when His disciples James and John saw this, they said, Lord, do You want us to command fire to come down from heaven and consume them, just as Elijah did - Lk 9:54	",
+"correct" :	"	A. ಆಕಾಶದಿಂದ ಬೆಂಕಿ ಬರಲಿ	",
+"explanation" :	"	ಆತನ ಶಿಷ್ಯರಾದ ಯಾಕೋಬ ಯೋಹಾನರು ಇದನ್ನು ಕಂಡು - ಸ್ವಾಮೀ, ಆಕಾಶದಿಂದ ಬೆಂಕಿಬಿದ್ದು ಇವರನ್ನು ನಾಶಮಾಡಲಿ ಎಂದು ನಾವು ಹೇಳುವುದಕ್ಕೆ ನಿನಗೆ ಮನಸ್ಸುಂಟೋ ಎಂದು ಕೇಳಲು;   ಲೂಕ 9:54-55	",
 },			
 {			
-"question" :	"	10. Jesus said, no man is fit for the kingdom of God, if he does this, after having put his hand to the plow.	",
+"question" :	"	10. ಯಾವನಾದರು ನೇಗಿಲ ಮೇಲೆ ಕೈಹಾಕಿ_______ ಅವನು ದೇವರ ರಾಜ್ಯಕ್ಕೆ ತಕ್ಕವನಲ್ಲ ಎಂದು ಯೇಸು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Cries	",
-	"	b. Digs	",
-	"	c. Looks back	",
-	"	d. Plants	"
+	"	A. ಅಳುವುದಕ್ಕೆ	",
+	"	B. ಅಗೆಯುವುದಕ್ಕೆ	",
+	"	C. ಹಿಂದಕ್ಕೆ ನೋಡಿದರೆ	",
+	"	D. ಗಿಡ ನೆಟ್ಟರೆ	"
 ],			
-"correct" :	"	c. Looks back	",
-"explanation" :	"	But Jesus said to him, No one, having put his hand to the plow, and looking back, is fit for the kingdom of God. - Lk 9:62	",
+"correct" :	"	C. ಹಿಂದಕ್ಕೆ ನೋಡಿದರೆ	",
+"explanation" :	"	ಯೇಸು ಅವನಿಗೆ - ಯಾವನಾದರೂ ನೇಗಿಲಿನ ಮೇಲೆ ತನ್ನ ಕೈಯನ್ನು ಹಾಕಿ ಹಿಂದಕ್ಕೆ ನೋಡಿದರೆ ಅವನು ದೇವರ ರಾಜ್ಯಕ್ಕೆ ತಕ್ಕವನಲ್ಲವೆಂದು ಹೇಳಿದನು.  ಲೂಕ 9:62	",
 },			
 ]			

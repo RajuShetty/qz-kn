@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 11";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. The whole Earth	",

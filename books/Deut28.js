@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 28";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 28";			
 var quiz = [			
 {			
 "question" :	"	1. If you observe all of the Lord’s commandments, this shall come upon you.	",

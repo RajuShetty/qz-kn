@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 14";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus said, let not your heart be troubled, you believe in God	",
+"question" :	"	1  ಯೇಸು ಹೇಳಿದ್ದು, ನಿಮ್ಮ ಹೃದಯವು ಕಳವಳಗೊಳ್ಳದೆ ಇರಲಿ; ದೇವರನ್ನು ನಂಬಿರಿ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. And this shall stand.	",
-	"	b. And this is more that the Pharisees do.	",
-	"	c. And this more than the heathen do.	",
-	"	d. Believe also in me.	"
+	"	A. ಇದು ನಿಲ್ಲುವುದು	",
+	"	B. ಇದು ಫರಿಸಾಯರು ಮಾಡುವುದಕ್ಕಿಂತ ಹೆಚ್ಚಿನದಾಗಿದೆ	",
+	"	C. ಇದು ವಿಧರ್ಮಿಗಳು ಮಾಡುವುದಕ್ಕಿಂತ ಹೆಚ್ಚಿನದಾಗಿದೆ	",
+	"	D. ನನ್ನನ್ನೂ ನಂಬಿರಿ	"
 ],			
-"correct" :	"	d. Believe also in me.	",
-"explanation" :	"	Let not your heart be troubled; you believe in God, believe also in Me.Jn14:1	",
+"correct" :	"	D. ನನ್ನನ್ನೂ ನಂಬಿರಿ	",
+"explanation" :	"	ನಿಮ್ಮ ಹೃದಯವು ಕಳವಳಗೊಳ್ಳದೆ ಇರಲಿ; ದೇವರನ್ನು ನಂಬಿರಿ, ನನ್ನನ್ನೂ ನಂಬಿರಿ 14:1	",
 },			
 {			
-"question" :	"	2. Jesus said, there are many of these in His Father’s house.	",
+"question" :	"	2  ಯೇಸು ಹೇಳಿದ್ದು, ನನ್ನ ತಂದೆಯ ಮನೆಯಲ್ಲಿ ಬಹಳ __________	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mansions	",
-	"	b. Spirits	",
-	"	c. Angels	",
-	"	d. Rewards	"
+	"	A. ಬಿಡಾರಗಳಿವೆ	",
+	"	B. ಆತ್ಮಗಳಿವೆ	",
+	"	C. ದೇವದೂತರಿದ್ದಾರೆ	",
+	"	D. ಬಹುಮಾನಗಳಿವೆ	"
 ],			
-"correct" :	"	a. Mansions	",
-"explanation" :	"	In My Father’s house are many mansions  if it were not so, I would have told you. I go to prepare a place for you Jn14:2	",
+"correct" :	"	A. ಬಿಡಾರಗಳಿವೆ	",
+"explanation" :	"	ನನ್ನ ತಂದೆಯ ಮನೆಯಲ್ಲಿ ಬಹಳ ಬಿಡಾರಗಳು ಅವೆ; ಇಲ್ಲದಿದ್ದರೆ ನಿಮಗೆ ಹೇಳುತ್ತಿದ್ದೆನು; ನಿಮಗೆ ಸ್ಥಳವನ್ನು ಸಿದ್ಧಮಾಡುವದಕ್ಕೆ ಹೋಗುತ್ತೇನಲ್ಲಾ 14:2	",
 },			
 {			
-"question" :	"	3. Which disciple asked Jesus, how can we know the way?	",
+"question" :	"	3  ಸ್ವಾಮಿ, ಮಾರ್ಗವು ನಮಗೆ ಹೇಗೆ ತಿಳಿದೀತು ಎಂದು ಯೇಸುವನ್ನು ಕೇಳಿದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Thomas	",
-	"	b. Peter	",
-	"	c. James	",
-	"	d. John	"
+	"	A. ತೋಮನು	",
+	"	B. ಪೇತ್ರನು	",
+	"	C. ಯಾಕೋಬ	",
+	"	D. ಯೋಹಾನ	"
 ],			
-"correct" :	"	a. Thomas	",
-"explanation" :	"	Thomas said to Him, Lord, we do not know where You are going, and how can we know the way? Jn14:5	",
+"correct" :	"	A. ತೋಮನು	",
+"explanation" :	"	ತೋಮನು ಆತನನ್ನು - ಸ್ವಾಮೀ, ನೀನು ಎಲ್ಲಿಗೆ ಹೋಗುತ್ತೀಯೋ ನಮಗೆ ತಿಳಿಯದು; ಮಾರ್ಗವು ಹೇಗೆ ತಿಳಿದೀತು ಎಂದು ಕೇಳಲು 14:5	",
 },			
 {			
-"question" :	"	4. Jesus said, I am the Way, the Truth and the	",
+"question" :	"	4  ಯೇಸು ಹೇಳಿದ್ದು, ನಾನೇ ಮಾರ್ಗವು, ಸತ್ಯವು ಮತ್ತು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Light.	",
-	"	b. Darkness.	",
-	"	c. Life.	",
-	"	d. Hope.	"
+	"	A. ಬೆಳಕು	",
+	"	B. ಕತ್ತಲು	",
+	"	C. ಜೀವವು	",
+	"	D. ನಿರೀಕ್ಷೆಯು	"
 ],			
-"correct" :	"	c. Life.	",
-"explanation" :	"	Jesus said to him, I am the way, the truth, and the life. No one comes to the Father except through Me.Jn14:6	",
+"correct" :	"	C. ಜೀವವು	",
+"explanation" :	"	ಯೇಸು ಅವನಿಗೆ - ನಾನೇ ಮಾರ್ಗವೂ ಸತ್ಯವೂ ಜೀವವೂ ಆಗಿದ್ದೇನೆ; ನನ್ನ ಮೂಲಕವಾಗಿ ಹೊರತು ಯಾರೂ ತಂದೆಯ ಬಳಿಗೆ ಬರುವದಿಲ್ಲ 14:6	",
 },			
 {			
-"question" :	"	5. Jesus said, he that believeth on Me, the works that I do, he shall do also and	",
+"question" :	"	5  ಯೇಸು ಹೇಳಿದ್ದು, ನನ್ನನ್ನು ನಂಬುವವನು ನಾನು ನಡಿಸುವ ಕ್ರಿಯೆಗಳನ್ನು ತಾನೂ ನಡಿಸುವನು  ಮತ್ತು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Greater works shall he do.	",
-	"	b. Men shall marvel.	",
-	"	c. Glory shall be his.	",
-	"	d. He shall reign.	"
+	"	A. ಅವುಗಳಿಗಿಂತ ಮಹತ್ತಾದ ಕ್ರಿಯೆಗಳನ್ನು ನಡಿಸುವನು	",
+	"	B. ಜನರು ಆಶ್ಚರ್ಯಗೊಳ್ಳುವರು	",
+	"	C. ಮಹಿಮೆ ಆತನದೆ	",
+	"	D. ಅವನು ಹೆಚ್ಚಿಸಲ್ಪಡುವನು	"
 ],			
-"correct" :	"	a. Greater works shall he do.	",
-"explanation" :	"	Most assuredly, I say to you, he who believes in Me, the works that I do he will do also; and greater works than these he will do, because I go to My Father.Jn14:12	",
+"correct" :	"	A. ಅವುಗಳಿಗಿಂತ ಮಹತ್ತಾದ ಕ್ರಿಯೆಗಳನ್ನು ನಡಿಸುವನು	",
+"explanation" :	"	ನಿಮಗೆ ನಿಜನಿಜವಾಗಿ ಹೇಳುತ್ತೇನೆ, ನನ್ನನ್ನು ನಂಬುವವನು ನಾನು ನಡಿಸುವ ಕ್ರಿಯೆಗಳನ್ನು ತಾನೂ ನಡಿಸುವನು; ಮತ್ತು ಅವುಗಳಿಗಿಂತ ಮಹತ್ತಾದ ಕ್ರಿಯೆಗಳನ್ನು ನಡಿಸುವನು. ಯಾಕಂದರೆ ನಾನು ತಂದೆಯ ಬಳಿಗೆ ಹೋಗುತ್ತೇನೆ 14:12	",
 },			
 {			
-"question" :	"	6. Jesus said, whatsoever you ask this way, that will I do.	",
+"question" :	"	6  ನೀವು ______________ ಏನೇನು ಬೇಡಿಕೊಳ್ಳುವಿರೋ, ಅದನ್ನು ನೆರವೇರಿಸುವೆನು ಎಂದು  ಯೇಸು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. On your knees	",
-	"	b. After penance	",
-	"	c. With a contrite spirit	",
-	"	d. In My name	"
+	"	A. ನಿಮ್ಮ ಮೊಣಕಾಲೂರಿ	",
+	"	B. ಪಾಪ ನಿವೇದನೆ ಮಾಡಿ	",
+	"	C. ಪಶ್ಚಾತ್ತಾಪದ ಆತ್ಮದೊಂದಿಗೆ	",
+	"	D. ನನ್ನ ಹೆಸರಿನಲ್ಲಿ	"
 ],			
-"correct" :	"	d. In My name	",
-"explanation" :	"	And whatever you ask in My name, that I will do, that the Father may be glorified in the Son Jn14:13	",
+"correct" :	"	D. ನನ್ನ ಹೆಸರಿನಲ್ಲಿ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ನೀವು ನನ್ನ ಹೆಸರಿನಲ್ಲಿ ಏನೇನು ಬೇಡಿಕೊಳ್ಳುವಿರೋ, ಅದನ್ನು ನೆರವೇರಿಸುವೆನು; ಹೀಗೆ ಮಗನ ಮೂಲಕವಾಗಿ ತಂದೆಗೆ ಮಹಿಮೆ ಉಂಟಾಗುವದು.  14:13	",
 },			
 {			
-"question" :	"	7. Jesus said, If you love me	",
+"question" :	"	7  ಯೇಸು ಹೇಳಿದ್ದು, ನೀವು ನನ್ನನ್ನು ಪ್ರೀತಿಸಿದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hate evil.	",
-	"	b. Rejoice.	",
-	"	c. Tell the world.	",
-	"	d. Keep My commandments.	"
+	"	A. ಕೆಟ್ಟದ್ದನ್ನು ದ್ವೇಷಿಸಿರಿ	",
+	"	B. ಸಂತೋಷಿಸಿರಿ	",
+	"	C. ಲೋಕಕ್ಕೆ ಹೇಳಿರಿ	",
+	"	D. ನನ್ನ ಆಜ್ಞೆಗಳನ್ನು ಕೈಕೊಳ್ಳಿರಿ	"
 ],			
-"correct" :	"	d. Keep My commandments.	",
-"explanation" :	"	If you love Me, keep My commandments.Jn14:15	",
+"correct" :	"	D. ನನ್ನ ಆಜ್ಞೆಗಳನ್ನು ಕೈಕೊಳ್ಳಿರಿ	",
+"explanation" :	"	ನೀವು ನನ್ನನ್ನು ಪ್ರೀತಿಸುವವರಾದರೆ ನನ್ನ ಆಜ್ಞೆಗಳನ್ನು ಕೈಕೊಂಡು ನಡೆಯುವಿರಿ.  14:15	",
 },			
 {			
-"question" :	"	8. What comforter did Jesus say the Father would send in His name?	",
+"question" :	"	8  ಯಾವ ಸಹಾಯಕನನ್ನು ತಂದೆಯು ನಿಮಗೆ ಕೊಡುವನು ಎಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wisdom	",
-	"	b. The Holy Ghost	",
-	"	c. Joy	",
-	"	d. A guardian angel	"
+	"	A. ಜ್ಞಾನದ ಆತ್ಮ	",
+	"	B. ಸತ್ಯದ ಆತ್ಮ	",
+	"	C. ಸಂತೋಷದ ಆತ್ಮ	",
+	"	D. ಕಾವಲಿನ ಆತ್ಮ	"
 ],			
-"correct" :	"	b. The Holy Ghost	",
-"explanation" :	"	But the Helper, the Holy Spirit, whom the Father will send in My name, He will teach you all things, and bring to your remembrance all things that I said to you.Jn14:26	",
+"correct" :	"	B. ಸತ್ಯದ ಆತ್ಮ	",
+"explanation" :	"	ಆದರೆ ಆ ಸಹಾಯಕನು ಅಂದರೆ ನನ್ನ ಹೆಸರಿನಲ್ಲಿ ತಂದೆಯು ಕಳುಹಿಸಿಕೊಡುವ ಪವಿತ್ರಾತ್ಮನೇ ನಿಮಗೆ ಎಲ್ಲವನ್ನು ಉಪದೇಶಿಸಿ ನಾನು ನಿಮಗೆ ಹೇಳಿದ್ದನ್ನೆಲ್ಲಾ ನಿಮ್ಮ ನೆನಪಿಗೆ ತರುವನು. 14:26	",
 },			
 {			
-"question" :	"	9. Jesus told his disciples, let not your heart be troubled, because He left this with them.	",
+"question" :	"	9  ಇದನ್ನು ನಿಮಗೆ ಬಿಟ್ಟುಹೋಗುತ್ತೇನೆ, ಆದುದರಿಂದ ನಿಮ್ಮ ಹೃದಯವು ಕಳವಳಗೊಳ್ಳದೆ ಇರಲಿ  ಎಂದು ಯೇಸು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hope	",
-	"	b. Wisdom	",
-	"	c. Peace	",
-	"	d. Joy	"
+	"	A. ನಿರೀಕ್ಷೆ	",
+	"	B. ಜ್ಞಾನ	",
+	"	C. ಶಾಂತಿ	",
+	"	D. ಸಂತೋಷ	"
 ],			
-"correct" :	"	c. Peace	",
-"explanation" :	"	Peace I leave with you, My peace I give to you; not as the world gives do I give to you. Let not your heart be troubled, neither let it be afraid.Jn14:27	",
+"correct" :	"	C. ಶಾಂತಿ	",
+"explanation" :	"	ಶಾಂತಿಯನ್ನು ನಿಮಗೆ ಬಿಟ್ಟುಹೋಗುತ್ತೇನೆ, ನನ್ನಲ್ಲಿರುವಂಥ ಶಾಂತಿಯನ್ನು ನಿಮಗೆ ಕೊಡುತ್ತೇನೆ; ಲೋಕವು ಕೊಡುವ ರೀತಿಯಿಂದ ನಾನು ನಿಮಗೆ ಕೊಡುವದಿಲ್ಲ. ನಿಮ್ಮ ಹೃದಯವು ಕಳವಳಗೊಳ್ಳದಿರಲಿ, ಹೆದರದಿರಲಿ 14:27	",
 },			
 {			
-"question" :	"	10. Jesus told His disciples He was going away and coming again,and if they loved Him they would do this.	",
+"question" :	"	10  ನಾನು ಹೋಗಿ ತಿರಿಗಿ ನಿಮ್ಮ ಬಳಿಗೆ ಬರುತ್ತೇನೆಂದು ನಿಮಗೆ ಹೇಳಿದ್ದನ್ನು ಕೇಳಿದಿರಿ.  ನೀವು  ನನ್ನನ್ನು ಪ್ರೀತಿಸುವವರಾಗಿದ್ದರೆ ಇದನ್ನು ಮಾಡಿರಿ ಎಂದು ಯೇಸು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mourn	",
-	"	b. Pray	",
-	"	c. Weep	",
-	"	d. Rejoice	"
+	"	A. ಗೋಳಾಡಿರಿ	",
+	"	B. ಪ್ರಾರ್ಥಿಸಿ	",
+	"	C. ಅಳಿರಿ	",
+	"	D. ಸಂತೋಷಿಸಿರಿ	"
 ],			
-"correct" :	"	d. Rejoice	",
-"explanation" :	"	You have heard Me say to you, ‘I am going away and coming back to you.’ If you loved Me, you would rejoice because I said,I am going to the Father,’ for My Father is greater than I.Jn14:28	",
+"correct" :	"	D. ಸಂತೋಷಿಸಿರಿ	",
+"explanation" :	"	ನಾನು ಹೋಗಿ ತಿರಿಗಿ ನಿಮ್ಮ ಬಳಿಗೆ ಬರುತ್ತೇನೆಂದು ನಿಮಗೆ ಹೇಳಿದ್ದನ್ನು ಕೇಳಿದಿರಿ. ನೀವು ನನ್ನನ್ನು ಪ್ರೀತಿಸುವವರಾಗಿದ್ದರೆ ನಾನು ತಂದೆಯ ಬಳಿಗೆ ಹೋಗುವ ವಿಷಯದಲ್ಲಿ ಸಂತೋಷಪಡುತ್ತಿದ್ದಿರಿ; ಯಾಕಂದರೆ ತಂದೆಯು ನನಗಿಂತ ದೊಡ್ಡವನು 14:28	",
 },			
 ]			

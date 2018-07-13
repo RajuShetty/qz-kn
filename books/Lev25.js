@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 25";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 25";			
 var quiz = [			
 {			
 "question" :	"	1. God said, when the children of Israel come to the land He gave them, the land shall	",

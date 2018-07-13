@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 2";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. Which day did God sanctify?	",

@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 3";			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
-"question" :	"	1. Let God be true, but every man 	",
+"question" :	"	1 ಎಲ್ಲಾ ಮನುಷ್ಯರು ______ಆದರೂ ದೇವರು ಸತ್ಯವಂತನೇ ಸರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. But a dog.	",
-	"	b. A liar.	",
-	"	c. As dirt.	",
-	"	d. Boast of himself.	"
+	"	A. ನಾಯಿ	",
+	"	B. ಸುಳ್ಳುಗಾರ	",
+	"	C. ಹೊಲಸು	",
+	"	D. ತನ್ನನ್ನು ಹೊಗಳಿಕೊಳ್ಳುವವನು	"
 ],			
-"correct" :	"	b. A liar.	",
-"explanation" :	"	God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.Rom3:4	",
+"correct" :	"	B. ಸುಳ್ಳುಗಾರ	",
+"explanation" :	"	ಎಲ್ಲಾ ಮನುಷ್ಯರು ಸುಳ್ಳುಗಾರರಾದರೂ ದೇವರು ಸತ್ಯವಂತನೇ ಸರಿ. ನೀನು ಎಲ್ಲಾ ನುಡಿಗಳಲ್ಲಿ ನ್ಯಾಯಸ್ಥನೆಂದು ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕು,ನಿನ್ನ ಮೇಲೆ ವ್ಯಾಜ್ಯ ನಡೆಯುವಾಗ ನೀನು ಗೆಲ್ಲಬೇಕುಎಂದು ಬರೆದದೆ. 3:4	",
 },			
 {			
-"question" :	"	2. Both Jews and Gentiles are 	",
+"question" :	"	2  ಯೆಹೂದ್ಯರೇ ಆಗಲಿ, ಅನ್ಯಜನಗಳೇ ಆಗಲಿ, ಎಲ್ಲರೂ ________	",
 "image" :	"",		
 "choices" : [			
-	"	a. Right in their own spirit.	",
-	"	b. Under sin.	",
-	"	c. Saved by works.	",
-	"	d. Children of Abraham.	"
+	"	A. ತಮ್ಮ ಆತ್ಮದಲ್ಲಿ ನೀತಿವಂತರು	",
+	"	B. ಪಾಪಕ್ಕೆ ಒಳಗಾಗಿದ್ದಾರೆ	",
+	"	C. ತಮ್ಮ ಕಾರ್ಯಗಳಿಂದ ರಕ್ಷಿಸಲ್ಪಟ್ಟಿದ್ದಾರೆ	",
+	"	D. ಅಬ್ರಹಾಮನ ಮಕ್ಕಳು	"
 ],			
-"correct" :	"	b. Under sin.	",
-"explanation" :	"	What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin; Rom3:9	",
+"correct" :	"	B. ಪಾಪಕ್ಕೆ ಒಳಗಾಗಿದ್ದಾರೆ	",
+"explanation" :	"	ಹಾಗಾದರೆ ಏನು ಹೇಳಬೇಕು? ನಾವು ಅನ್ಯರಿಗಿಂತ ಉತ್ತಮಸ್ಥಾನದಲ್ಲಿದ್ದೇವೋ? ಎಷ್ಟು ಮಾತ್ರಕ್ಕೂ ಇಲ್ಲ. ಯೆಹೂದ್ಯರೇ ಆಗಲಿ ಗ್ರೀಕರೇ ಆಗಲಿ ಎಲ್ಲರೂ ಪಾಪಕ್ಕೆ ಒಳಬಿದ್ದವರೆಂದು ಮೊದಲೇ ತೋರಿಸಿಕೊಟ್ಟಿದ್ದೇವಲ್ಲಾ 3:9	",
 },			
 {			
-"question" :	"	3. It is written, there is none 	",
-"image" :	"",		
-"choices" : [	"	a. Righteous.	",
-	"	b. Tempted more than God.	",
-	"	c. Able to stand against the devil.	",
-	"	d. Like unto Moses.	",
-	"	d. The great tribulation?	"
-],			
-"correct" :	"	a. Righteous.	",
-"explanation" :	"	As it is written, There is none righteous, no, not one: Rom3:10	",
-},			
-{			
-"question" :	"	4. There are none who do this.	",
+"question" :	"	3 ಇದು ಬರೆಯಲ್ಪಟ್ಟಿದೆ, ____ ಇಲ್ಲ, ಒಬ್ಬನಾದರೂ ಇಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Seek God	",
-	"	b. Exalt themselves	",
-	"	c. Take pleasure in sin	",
-	"	d. Mourn	"
+	"	A. ನೀತಿವಂತನು	",
+	"	B. ದೇವರಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ಶೋಧಿಸಲ್ಪಟ್ಟವನು	",
+	"	C. ದೆವ್ವಗಳಿಗೆ ಎದುರಾಗಿ ನಿಂತವನು	",
+	"	D. ಮೋಶೆಯಂತವನು	"
 ],			
-"correct" :	"	a. Seek God	",
-"explanation" :	"	 There is none that understandeth, there is none that seeketh after God.Rom3:11	",
+"correct" :	"	A. ನೀತಿವಂತನು	",
+"explanation" :	"	ಇದು ಶಾಸ್ತ್ರದಲ್ಲಿ ಬರೆದಿರುವ ಮಾತುಗಳಿಗೆ ಸರಿಯಾಗಿದೆ; ಅವು ಯಾವವಂದರೆ - ನೀತಿವಂತನು ಇಲ್ಲ, ಒಬ್ಬನಾದರೂ ಇಲ್ಲ; 3:10	",
 },			
 {			
-"question" :	"	5. No flesh shall be justified by this. 	",
+"question" :	"	4  ಇದನ್ನು ಮಾಡುವರು ಒಬ್ಬರೂ ಇಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The deeds of the law	",
-	"	b. The blood of Jesus	",
-	"	c. God	",
-	"	d. Justification	"
+	"	A. ದೇವರನ್ನು ಹುಡುಕುವವರು	",
+	"	B. ತಮ್ಮನ್ನೇ ಹೆಚ್ಚಿಸಿಕೊಳ್ಳುವವರು	",
+	"	C. ಪಾಪದಲ್ಲಿ ಸಂತೋಷಿಸುವವರು	",
+	"	D. ಗೋಳಾಡುವವರು	"
 ],			
-"correct" :	"	a. The deeds of the law	",
-"explanation" :	"	Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.Rom3:20	",
+"correct" :	"	A. ದೇವರನ್ನು ಹುಡುಕುವವರು	",
+"explanation" :	"	ತಿಳುವಳಿಕೆಯುಳ್ಳವನು ಇಲ್ಲ, ದೇವರನ್ನು ಹುಡುಕುವವನು ಇಲ್ಲ. 3:11	",
 },			
 {			
-"question" :	"	6. For by the law, is the knowledge of	",
+"question" :	"	5  ಯಾವ ಮನುಷ್ಯನೂ ಇದರಿಂದ ನಿರ್ಣಯಿಸಲ್ಪಡುವುದಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. God.	",
-	"	b. Man.	",
-	"	c. Sin.	",
-	"	d. Righteousness.	"
+	"	A. ನೇಮನಿಷ್ಟೆಗಳಿಂದ	",
+	"	B. ಯೇಸುವಿನ ರಕ್ತದಿಂದ	",
+	"	C. ದೇವರಿಂದ	",
+	"	D. ನ್ಯಾಯ ತೀರ್ಪಿನಿಂದ	"
 ],			
-"correct" :	"	c. Sin.	",
-"explanation" :	"	Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.Rom3:20	",
+"correct" :	"	A. ನೇಮನಿಷ್ಟೆಗಳಿಂದ	",
+"explanation" :	"	ಯಾಕಂದರೆ ಯಾವನಾದರೂ ನೇಮನಿಷ್ಠೆಗಳನ್ನನುಸರಿಸಿ ದೇವರ ಸನ್ನಿಧಿಯಲ್ಲಿ ನೀತಿವಂತನೆಂದು ನಿರ್ಣಯಿಸಲ್ಪಡುವದಿಲ್ಲ. ಧರ್ಮಶಾಸ್ತ್ರದಿಂದ ಪಾಪದ ಅರುಹು ಉಂಟಾಗುತ್ತದಷ್ಟೆ. 3:20	",
 },			
 {			
-"question" :	"	7. Who has sinned and come short of the glory of God?	",
+"question" :	"	6  ಧರ್ಮಶಾಸ್ತ್ರದಿಂದ ___ ಅರಿವು ಉಂಟಾಗುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Jews	",
-	"	b. Gentiles	",
-	"	c. All	",
-	"	d. The angels	"
+	"	A. ದೇವರ	",
+	"	B. ಮನುಷ್ಯರ	",
+	"	C. ಪಾಪದ	",
+	"	D. ನೀತಿಯ	"
 ],			
-"correct" :	"	c. All	",
-"explanation" :	"	 For all have sinned, and come short of the glory of God;Rom3:23	",
+"correct" :	"	C. ಪಾಪದ	",
+"explanation" :	"	ಯಾಕಂದರೆ ಯಾವನಾದರೂ ನೇಮನಿಷ್ಠೆಗಳನ್ನನುಸರಿಸಿ ದೇವರ ಸನ್ನಿಧಿಯಲ್ಲಿ ನೀತಿವಂತನೆಂದು ನಿರ್ಣಯಿಸಲ್ಪಡುವದಿಲ್ಲ. ಧರ್ಮಶಾಸ್ತ್ರದಿಂದ  ಪಾಪದ ಅರುಹು ಉಂಟಾಗುತ್ತದಷ್ಟೆ. 3:20	",
 },			
 {			
-"question" :	"	8. Man is justified by grace, through the redemption that is in	",
+"question" :	"	7  ಪಾಪ ಮಾಡಿ ದೇವರ ಮಹಿಮೆ ಹೊಂದೇ ಹೋದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Works.	",
-	"	b. The law.	",
-	"	c. Jesus.	",
-	"	d. Penance.	"
+	"	A. ಯೆಹೂದ್ಯರು	",
+	"	B. ಅನ್ಯರು	",
+	"	C. ಎಲ್ಲರೂ	",
+	"	D. ದೇವದೂತರು	"
 ],			
-"correct" :	"	c. Jesus.	",
-"explanation" :	"	Being justified freely by his grace through the redemption that is in Christ Jesus:Rom3:24	",
+"correct" :	"	C. ಎಲ್ಲರೂ	",
+"explanation" :	"	ಎಲ್ಲರೂ ಪಾಪಮಾಡಿ ದೇವರ ಮಹಿಮೆಯನ್ನು ಹೊಂದದೆ ಹೋಗಿದ್ದಾರೆ 3:23	",
 },			
 {			
-"question" :	"	9. There is remission of sins through faith in this.	",
+"question" :	"	8  ಮನುಷ್ಯನು ದೇವರ ಕೃಪೆಯಿಂದ ನಿರ್ಣಯಿಸಲ್ಪಡುವನು, ಅದು ____ ಮೂಲಕ ಆದ ಪಾಪ ವಿಮೋಚನಯೇ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Works	",
-	"	b. Deeds	",
-	"	c. Righteousness	",
-	"	d. The blood of Jesus	"
+	"	A. ಕಾರ್ಯಗಳ	",
+	"	B. ಧರ್ಮಶಾಸ್ತ್ರದ	",
+	"	C. ಯೇಸುವಿನ	",
+	"	D. ಪ್ರಾಯಶ್ಚಿತ್ತ	"
 ],			
-"correct" :	"	d. The blood of Jesus	",
-"explanation" :	"	Whom God hath set forth to be a propitiation through faith in his blood, to declare his righteousness for the remission of sins that are past, through the forbearance of God;Rom3:25	",
+"correct" :	"	C. ಯೇಸುವಿನ	",
+"explanation" :	"	ಅವರು ನೀತಿವಂತರೆಂದು ನಿರ್ಣಯ ಹೊಂದುವದು ದೇವರ ಉಚಿತಾರ್ಥವಾದ ಕೃಪೆಯಿಂದಲೇ ಕ್ರಿಸ್ತಯೇಸುವಿನಿಂದಾದ ಪಾಪ ವಿಮೋಚನೆಯ ಮೂಲಕವಾಗಿ ಆಗುವದು 3:24	",
 },			
 {			
-"question" :	"	10. Man is justified by faith, without	",
+"question" :	"	9  ಪಾಪಗಳಿಗೆ ಕ್ಷಮಾಪಣೆಯು ___ ನಂಬಿಕೆ ಮೂಲಕ ಆಗುವುದು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The grace of God.	",
-	"	b. Hope.	",
-	"	c. Mercy.	",
-	"	d. The deeds of the law.	"
+	"	A. ಕೆಲಸಗಳಲ್ಲಿ	",
+	"	B. ಕಾರ್ಯಗಳ	",
+	"	C. ನೀತಿತನದ	",
+	"	D. ಯೇಸುವಿನ ರಕ್ತದಲ್ಲಿ	"
 ],			
-"correct" :	"	d. The deeds of the law.	",
-"explanation" :	"	Therefore we conclude that a man is justified by faith without the deeds of the law.Rom3:28	",
+"correct" :	"	D. ಯೇಸುವಿನ ರಕ್ತದಲ್ಲಿ	",
+"explanation" :	"	ಈತನು ತನ್ನ ರಕ್ತವನ್ನು ಸುರಿಸಿ ನಂಬಿಕೆಯಿದ್ದವರಿಗಾಗಿ ಕೃಪಾಧಾರವಾಗಬೇಕೆಂದು ದೇವರು ಈತನನ್ನು ಮುಂದಿಟ್ಟನು.  3:25	",
+},			
+{			
+"question" :	"	10  ಮನುಷ್ಯನು ______ ಸಂಬಂಧವಿಲ್ಲದೇ ನಂಬಿಕೆಯಿಂದಲೇ ನೀತಿವಂತರೆಂದು ನಿರ್ಣಯಿಸಲ್ಪಡುವರು.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ದೇವರ ಕೃಪೆ	",
+	"	B. ನಿರೀಕ್ಷೆ	",
+	"	C. ದಯೆ	",
+	"	D. ಧರ್ಮಪ್ರಮಾಣದ ಕರ್ಮಗಳು	"
+],			
+"correct" :	"	D. ಧರ್ಮಪ್ರಮಾಣದ ಕರ್ಮಗಳು	",
+"explanation" :	"	ಧರ್ಮಪ್ರಮಾಣಸಂಬಂಧವಾದ ಕರ್ಮಗಳಿಲ್ಲದೆ ನಂಬಿಕೆಯಿಂದಲೇ ಮನುಷ್ಯರು ನೀತಿವಂತರೆಂದು ನಿರ್ಣಯಿಸಲ್ಪಡುವರೆಂಬದಾಗಿ ನಿಶ್ಚಯ ಮಾಡಿಕೊಂಡಿದ್ದೇವಲ್ಲಾ. 3:28	",
 },			
 ]			

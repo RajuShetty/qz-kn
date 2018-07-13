@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 29";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 29";			
 var quiz = [			
 {			
 "question" :	"	1. The Philistines gathered their armies to	",
@@ -46,7 +46,7 @@ var quiz = [
 	"	d. Jonathan	"
 ],			
 "correct" :	"	c. Achish	",
-"explanation" :	"	Then said the princes of the Philistines, What do these Hebrews here? And Achish said unto the princes of the Philistines, Is not this David, the servant of Saul the king of Israel, which hath been with me these days, or these years, and I have found no fault in him since he fell unto me unto this day? 1 Sam 29:3	",
+"explanation" :	"	Then said the princes of the Philistines, What do these ಇಬ್ರಿಯರಿಗೆ here? And Achish said unto the princes of the Philistines, Is not this David, the servant of Saul the king of Israel, which hath been with me these days, or these years, and I have found no fault in him since he fell unto me unto this day? 1 Sam 29:3	",
 },			
 {			
 "question" :	"	5. The princes of the Philistines wanted	",

@@ -1,4 +1,4 @@
-var quiztitle = "2 Thessalonians chapter 3";			
+var quiztitle = "2 ಥೆಸಲೋನಿಕದವರಿಗೆ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಯಾವುದು ಎಲ್ಲಾ ಕಡೆ ಹಬ್ಬಬೇಕೆಂದು ಪ್ರಾರ್ಥಿಸಬೇಕು?	",

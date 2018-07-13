@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 13";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. The children of Israel did evil in the sight of the Lord, and He delivered them in the hand of the	",

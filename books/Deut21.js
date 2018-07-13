@@ -1,11 +1,11 @@
-var quiztitle = " Deuteronomy  chapter 21";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1. Instruction is given in the case that one is found slain	",
 "image" :	"",		
 "choices" : [			
 	"	a. In the field.	",
-	"	b. In the market place.	",
+	"	b. In the ಮಾರ್ಕet place.	",
 	"	c. In his tent.	",
 	"	d. In the tabernacle.	"
 ],			

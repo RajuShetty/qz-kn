@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 2";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. A man and woman from this lineage bare a son.	",
@@ -46,7 +46,7 @@ var quiz = [
 	"	d. Miriam	"
 ],			
 "correct" :	"	a. Pharaoh's daughter	",
-"explanation" :	"	And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river's side; and when she saw the ark among the flags, she sent her maid to fetch it.And when she had opened it, she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This is one of the Hebrews' children. Ex 2:5-6	",
+"explanation" :	"	And the daughter of Pharaoh came down to wash herself at the river; and her maidens walked along by the river's side; and when she saw the ark among the flags, she sent her maid to fetch it.And when she had opened it, she saw the child: and, behold, the babe wept. And she had compassion on him, and said, This is one of the ಇಬ್ರಿಯರಿಗೆ' children. Ex 2:5-6	",
 },			
 {			
 "question" :	"	5. Who did she pay to nurse the baby?	",

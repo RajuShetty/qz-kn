@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 16";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
-"question" :	"	1. The rich man’s steward was accused of	",
+"question" :	"	 1. ಐಶ್ವರ್ಯವಂತನ ಮನೆವಾರ್ತೆಯವನ ಮೇಲೆ ಇದ್ದ ಆರೋಪವೇನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wasting his goods.	",
-	"	b. Adultery.	",
-	"	c. Blasphemy.	",
-	"	d. Murder.	"
+	"	 A. ಆಸ್ತಿಯನ್ನು ಹಾಳು ಮಾಡುತ್ತಿದ್ದಾನೆ	",
+	"	B. ವ್ಯಭಿಚಾರ	",
+	"	C. ದೇವದೂಷಣೆ	",
+	"	 D. ಕೊಲೆ	"
 ],			
-"correct" :	"	a. Wasting his goods.	",
-"explanation" :	"	He also said to His disciples: There was a certain rich man who had a steward, and an accusation was brought to him that this man was wasting his goods. - Lk 16:1	",
+"correct" :	"	 A. ಆಸ್ತಿಯನ್ನು ಹಾಳು ಮಾಡುತ್ತಿದ್ದಾನೆ	",
+"explanation" :	"	ಯೇಸು  ತನ್ನ ಶಿಷ್ಯರಿಗೂ ಹೇಳಿದ್ದೇನಂದರೆ - ಐಶ್ವರ್ಯವಂತನಾದ ಒಬ್ಬ ಮನುಷ್ಯನಿಗೆ ಒಬ್ಬ ಮನೆವಾರ್ತೆಯವನಿದ್ದನು.  ಇವನ ವಿಷಯವಾಗಿ ಯಜಮಾನನ ಬಳಿಯಲ್ಲಿ - ಇವನು ನಿನ್ನ ಆಸ್ತಿಯನ್ನು ಹಾಳುಮಾಡುತ್ತಾ ಇದ್ದಾನೆ ಎಂದು ಯಾರೋ ದೂರು ಹೇಳಿರಲಾಗಿ;  ಲೂಕ 16:1	",
 },			
 {			
-"question" :	"	2. He that is faithful in that which is least	",
+"question" :	"	2. ಸ್ವಲ್ಪವಾದದ್ದರಲ್ಲಿ ನಂಬಿಗಸ್ತನಾದವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Is faithful also in much.	",
-	"	b. Shall not inherit the kingdom.	",
-	"	c. Shall be your ruler.	",
-	"	d. Is a vagabond & thief.	"
+	"	 A. ಬಹಳವಾದದ್ದರಲ್ಲಿಯೂ ನಂಬಿಗಸ್ತನು	",
+	"	B. ಪರಲೋಕ ರಾಜ್ಯಕ್ಕೆ ಬಾಧ್ಯನಲ್ಲ	",
+	"	C. ನಿಮ್ಮನ್ನು ಆಳುವನು	",
+	"	D. ಅವನು ಕಳ್ಳ ಮತ್ತು ಅಲೆಮಾರಿ	"
 ],			
-"correct" :	"	a. Is faithful also in much.	",
-"explanation" :	"	He who is faithful in what is least is faithful also in much; and he who is unjust in what is least is unjust also in much. - Lk 16:10	",
+"correct" :	"	A. ಬಹಳವಾದದ್ದರಲ್ಲಿಯೂ ನಂಬಿಗಸ್ತನು	",
+"explanation" :	"	ಸ್ವಲ್ಪವಾದದ್ದರಲ್ಲಿ ನಂಬಿಗಸ್ತನಾದವನು ಬಹಳವಾದದ್ದರಲ್ಲಿಯೂ ನಂಬಿಗಸ್ತನಾಗುವನು;   ಲೂಕ 16:10	",
 },			
 {			
-"question" :	"	3. You cannot serve God and	",
+"question" :	"	3 ನೀವು ದೇವರನ್ನು ಮತ್ತು _________ ಸೇವಿಸಲಾರಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Live.	",
-	"	b. Mammon.	",
-	"	c. Taste death.	",
-	"	d. Self.	"
+	"	 A. ಜೀವನವನ್ನು	",
+	"	B. ಧನವನ್ನೂ	",
+	"	 C. ಮರಣದ ರುಚಿ	",
+	"	D. ನಿಮ್ಮನ್ನು	"
 ],			
-"correct" :	"	b. Mammon.	",
-"explanation" :	"	No servant can serve two masters; for either he will hate the one and love the other, or else he will be loyal to the one and despise the other. You cannot serve God and mammon.- Lk 16:13	",
+"correct" :	"	B. ಧನವನ್ನೂ	",
+"explanation" :	"	ಯಾವ ಆಳಾದರೂ ಇಬ್ಬರು ಯಜಮಾನರಿಗೆ ಸೇವೆ ಮಾಡಲಾರನು.  ಅವನು ಒಬ್ಬನನ್ನು ದ್ವೇಷಿಸಿ ಮತ್ತೊಬ್ಬನನ್ನು ಪ್ರೀತಿಸುವನು.  ಇಲ್ಲವೆ ಒಬ್ಬನನ್ನು ಹೊಂದಿಕೊಂಡು ಮತ್ತೊಬ್ಬನನ್ನು ತಾತ್ಸಾರ ಮಾಡುವನು.  ನೀವು ದೇವರನ್ನೂ ಧನವನ್ನೂ ಕೂಡ ಸೇವಿಸಲಾರಿರಿ ಅಂದನು.   ಲೂಕ 16:13	",
 },			
 {			
-"question" :	"	4. It is easier for this to pass, than one tittle of the law to fail.	",
+"question" :	"	4. ಧರ್ಮಶಾಸ್ತ್ರದೊಳಗಿನ ಒಂದು ಗುಡುಸಾದರೂ ಬಿದ್ದು ಹೋಗುವುದಕ್ಕಿಂತ __________ ಅಳಿದು ಹೋಗುವುದು ಸುಲಭ..	",
 "image" :	"",		
 "choices" : [			
-	"	a. Heaven & earth	",
-	"	b. A season	",
-	"	c. A lifetime	",
-	"	d. A kidney stone	"
+	"	A. ಆಕಾಶವೂ ಭೂಮಿಯು	",
+	"	B. ಋತುಗಳು	",
+	"	 C. ಜೀವಕಾಲ	",
+	"	 D. ಕಿಡ್ನಿಯ ಕಲ್ಲು	"
 ],			
-"correct" :	"	a. Heaven & earth	",
-"explanation" :	"	And it is easier for heaven and earth to pass away than for one tittle of the law to fail. - Lk 16:17	",
+"correct" :	"	A. ಆಕಾಶವೂ ಭೂಮಿಯು	",
+"explanation" :	"	ಧರ್ಮಶಾಸ್ತ್ರದೊಳಗಿಂತ ಒಂದು ಗುಡುಸಾದರೂ ಬಿದ್ದುಹೋಗುವದಕ್ಕಿಂತಲೂ ಆಕಾಶವು ಭೂಮಿಯು ಅಳಿದುಹೋಗುವುದು ಸುಲಭ.  ಲೂಕ 16:17	",
 },			
 {			
-"question" :	"	5. Whosoever puts away his wife, and marries another	",
+"question" :	"	5. ತನ್ನ ಹೆಂಡತಿಯನ್ನು ಬಿಟ್ಟು ಬೇರೊಬ್ಬಳನ್ನು ಮದುವೆ ಮಾಡಿಕೊಳ್ಳುವ ಪ್ರತಿಯೊಬ್ಬನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Is a fool.	",
-	"	b. Commits adultery.	",
-	"	c. Shall be marked.	",
-	"	d. Lacks wisdom.	"
+	"	A. ಮೂರ್ಖನು	",
+	"	B. ವ್ಯಭಿಚಾರ ಮಾಡುವನು	",
+	"	C. ಗುರುತಿಸಬೇಕು	",
+	"	D. ಜ್ಞಾನಹೀನನು	"
 ],			
-"correct" :	"	b. Commits adultery.	",
-"explanation" :	"	Whoever divorces his wife and marries another commits adultery; and whoever marries her who is divorced from her husband commits adultery. - Lk 16:18	",
+"correct" :	"	B. ವ್ಯಭಿಚಾರ ಮಾಡುವನು	",
+"explanation" :	"	ತನ್ನ ಹೆಂಡತಿಯನ್ನು ಬಿಟ್ಟು ಬೇರೊಬ್ಬಳನ್ನು ಮದುವೆಮಾಡಿಕೊಳ್ಳುವ ಪ್ರತಿಯೊಬ್ಬನು ವ್ಯಭಿಚಾರ ಮಾಡುವವನಾಗಿದ್ದಾನೆ;  ಲೂಕ 16:18	",
 },			
 {			
-"question" :	"	6. What was the name of the beggar that lay at the rich man’s gate?	",
+"question" :	"	6. ಐಶ್ವರ್ಯವಂತನಾದ ಮನುಷ್ಯನ ಮನೆಬಾಗಿಲನ ಬಳಿ ಇದ್ದ ಭಿಕ್ಷೆಗಾರನ ಹೆಸರೇನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Lazarus	",
-	"	b. Harold	",
-	"	c. Zephaniah	",
-	"	d. Titus	"
+	"	A. ಲಾಜರಸ್	",
+	"	B. ಹೆರೋದ	",
+	"	C. ಚೆಪನ್ಯ	",
+	"	D. ತೀತ	"
 ],			
-"correct" :	"	a. Lazarus	",
-"explanation" :	"	But there was a certain beggar named Lazarus, full of sores, who was laid at his gate, - Lk 16:20	",
+"correct" :	"	A. ಲಾಜರಸ್	",
+"explanation" :	"	ಅವನ ಮನೇ ಬಾಗಿಲಲ್ಲಿ ಲಾಜರನೆಂಬ ಒಬ್ಬ ಭಿಕ್ಷೆಗಾರನು ಬಿದ್ದುಕೊಂಡಿದ್ದನು.   ಲೂಕ 16:20	",
 },			
 {			
-"question" :	"	7. The beggar died and was carried here.	",
+"question" :	"	7. ಭಿಕ್ಷೆಗಾರನು ಸತ್ತು ಹೋದಾಗ ಅವನನ್ನು ಇಲ್ಲಿಗೆ ತಂದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hell	",
-	"	b. Abraham’s bosom	",
-	"	c. In the arms of Jesus	",
-	"	d. Mt. Zion	"
+	"	A. ನರಕ	",
+	"	B. ಅಬ್ರಹಾಮನ ಎದೆಗೆ	",
+	"	C. ಯೇಸುವಿನ ತೋಳುಗಳಲ್ಲಿ	",
+	"	D. ಸಿಯೋನ್ ಪರ್ವತಕ್ಕೆ	"
 ],			
-"correct" :	"	b. Abraham’s bosom	",
-"explanation" :	"	So it was that the beggar died, and was carried by the angels to Abraham's bosom. The rich man also died and was buried. - Lk 16:22	",
+"correct" :	"	B. ಅಬ್ರಹಾಮನ ಎದೆಗೆ	",
+"explanation" :	"	ಹೀಗಿರುವಲ್ಲಿ ಸ್ವಲ್ಪ ಕಾಲದ ಮೇಲೆ ಆ ಭಿಕ್ಷೆಗಾರನು ಸತ್ತನು; ದೇವದೂತರು ಅವನನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿ ಅಬ್ರಹಾಮನ ಎದೆಗೆ ಒರಗಿಸಿದರು.   ಲೂಕ 16:22	",
 },			
 {			
-"question" :	"	8. When the rich man died he went here.	",
+"question" :	"	8. ಐಶ್ವರ್ಯವಂತನು ಸತ್ತುಹೋದಾಗ ಇಲ್ಲಿಗೆ ತಂದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hell	",
-	"	b. To Abraham’s bosom	",
-	"	c. In the arms of Jesus	",
-	"	d. Mt. Zion	"
+	"	A.  ಪಾತಾಳ	",
+	"	B. ಅಬ್ರಹಾಮನ ಎದೆಗೆ	",
+	"	C. ಯೇಸುವಿನ ತೋಳುಗಳಲ್ಲಿ	",
+	"	D. ಸಿಯೋನ್ ಪರ್ವತಕ್ಕೆ	"
 ],			
-"correct" :	"	a. Hell	",
-"explanation" :	"	So it was that the beggar died, and was carried by the angels to Abraham's bosom. The rich man also died and was buried.And being in torments in Hades, he lifted up his eyes and saw Abraham afar off, and Lazarus in his bosom.- Lk 16:22-23	",
+"correct" :	"	A. ಪಾತಾಳ	",
+"explanation" :	"	ಆ ಐಶ್ವರ್ಯವಂತನು ಸಹ ಸತ್ತನು; ಅವನಿಗೆ ಉತ್ತರಕ್ರಿಯೆಗಳು ಆದವು.  ಅವನು ಪಾತಾಳದೊಳಗೆ ಯಾತನೆ ಪಡುತ್ತಾ ಇರುವಲ್ಲಿ;   ಲೂಕ 16:22-23	",
 },			
 {			
-"question" :	"	9. The rich man cried for this.	",
+"question" :	"	9. ಐಶ್ವರ್ಯವಂತನು ಇದಕ್ಕಾಗಿ ಅತ್ತನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Food	",
-	"	b. Money	",
-	"	c. Water	",
-	"	d. His son	"
+	"	A. ಆಹಾರ	",
+	"	B. ಹಣ	",
+	"	C. ನೀರು	",
+	"	D. ತನ್ಗ ಮಗನಿಗಾಗಿ	"
 ],			
-"correct" :	"	c. Water	",
-"explanation" :	"	Then he cried and said, 'Father Abraham, have mercy on me, and send Lazarus that he may dip the tip of his finger in water and cool my tongue; for I am tormented in this flame. - Lk 16:24	",
+"correct" :	"	C. ನೀರು	",
+"explanation" :	"	ತಂದೆಯೇ, ಅಬ್ರಹಾಮನೇ, ನನ್ನ ಮೇಲೆ ದಯವಿಟ್ಟು ಲಾಜರನನ್ನು ಕಳುಹಿಸು; ಅವನು ತನ್ನ ತುದಿ ಬೆರಳನ್ನು ನೀರಿನಲ್ಲಿ ಅದ್ದಿ ನನ್ನ ನಾಲಿಗೆಯನ್ನು ತಣ್ಣಗೆ ಮಾಡಲಿ, ಈ ಉರಿಯಲ್ಲಿ ಸಂಕಟ ಪಡುತ್ತೇನೆ ಎಂದು ಕೂಗಿ ಹೇಳಿದನು;   ಲೂಕ 16:24	",
 },			
 {			
-"question" :	"	10. How many brothers did the rich man have?	",
+"question" :	"	10. ಐಶ್ವರ್ಯವಂತನಿಗೆ ಎಷ್ಟು ಜನ ಸಹೋದರರಿದ್ದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 4	",
-	"	c. 5	",
-	"	d. 7	"
+	"	A. 2	",
+	"	B. 4	",
+	"	C. 5	",
+	"	D. 7	"
 ],			
-"correct" :	"	c. 5	",
-"explanation" :	"	for I have five brothers, that he may testify to them, lest they also come to this place of torment. - Lk 16:28	",
+"correct" :	"	C. 5	",
+"explanation" :	"	ನನಗೆ ಐದು ಮಂದಿ ಅಣ್ಣತಮ್ಮಂದಿರಿದ್ದಾರೆ; ಅವರು ಸಹ ಈ ಯಾತನೆಯ ಸ್ಥಳಕ್ಕೆ ಬಂದಾರು;   ಲೂಕ 16:28	",
 },			
 ]			

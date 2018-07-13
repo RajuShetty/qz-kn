@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 21";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1. How long was the famine in the land?	",

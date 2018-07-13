@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 32";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 32";			
 var quiz = [			
 {			
 "question" :	"	1. This doctrine shall drop as	",

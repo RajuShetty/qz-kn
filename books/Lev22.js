@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 22";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. These instructions were given to Moses for the priests, by	",

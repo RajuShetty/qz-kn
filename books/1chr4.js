@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 4";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. This man was more honorable than his brothers, and his mother said, she bare him with sorrow. 	",
@@ -41,7 +41,7 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. Ham	",
-	"	b. Luke	",
+	"	b. ಲೂಕ	",
 	"	c. Michal	",
 	"	d. Haggai	"
 ],			

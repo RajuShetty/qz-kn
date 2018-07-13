@@ -1,10 +1,10 @@
-var quiztitle = " 1 Samuel chapter 31";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 31";			
 var quiz = [			
 {			
 "question" :	"	1. These three men, sons of Saul, were slain in the battle.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter, James & John	",
+	"	a. Peter, ಯಾಕೋಬನು & ಯೋಹಾನ	",
 	"	b. Jonathan, Abinadab & Malchishua	",
 	"	c. Abner, Nabal & Amalek	",
 	"	d. Mattanah, Parnach & Lahad	"

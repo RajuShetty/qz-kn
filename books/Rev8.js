@@ -1,5 +1,5 @@
 			
-var quiztitle = " Revelation chapter 8";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. ಆತನು ಏಳನೆಯ ಮುದ್ರೆಯನ್ನು ಒಡೆದಾಗ ಸುಮಾರು ಅರ್ಧಗಂಟೇ ಹೊತ್ತಿನವರೆಗೂ	",

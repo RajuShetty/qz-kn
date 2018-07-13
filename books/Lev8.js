@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 8";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. All the people were together	",

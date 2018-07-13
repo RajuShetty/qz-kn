@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 4";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus was led of the Spirit into	",
+"question" :	"	1 ಯೇಸುವನ್ನು ಆತ್ಮನು ಎಲ್ಲಿಗೆ ಒಯ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The temple.	",
-	"	b. The wilderness.	",
-	"	c. Jerusalem.	",
-	"	d. Jericho.	"
+	"	A. ದೇವಾಲಯಕ್ಕೆ	",
+	"	B. ಅಡವಿಗೆ	",
+	"	C. ಯೆರೂಸಲೇಮಿಗೆ	",
+	"	D. ಯೆರಿಕೋವಿಗೆ	"
 ],			
-"correct" :	"	b. The wilderness.	",
-"explanation" :	"	Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil.- Matt 4:1	",
+"correct" :	"	B. ಅಡವಿಗೆ	",
+"explanation" :	"	ಆಗ ಯೇಸು ಸೈತಾನನಿಂದ ಶೋಧಿಸಲ್ಪಡುವುದಕ್ಕಾಗಿ ಆತ್ಮನು ಆತನನ್ನು ಅಡವಿಗೆ ಒಯ್ದನು.  ಮತ್ತಾಯ 4:1	",
 },			
 {			
-"question" :	"	2. How long did Jesus fast for?	",
+"question" :	"	2.   ಯೇಸು ಎಷ್ಟು ದಿನಗಳ ಕಾಲ ಉಪವಾಸವಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 40 days & nights	",
-	"	b. 30 days & nights	",
-	"	c. 10 days & nights	",
-	"	d. 1 week	"
+	"	A. 40 ದಿನ ಹಗಲಿರಳು	",
+	"	B. 30 ದಿನ ಹಗಲಿರಳು	",
+	"	C. 10 ದಿನಗಳು ಹಗಲಿರಳು	",
+	"	D. 1 ವಾರ	"
 ],			
-"correct" :	"	a. 40 days & nights	",
-"explanation" :	"	And when He had fasted forty days and forty nights, afterward He was hungry.- Matt 4:2	",
+"correct" :	"	A. 40 ದಿನ ಹಗಲಿರಳು	",
+"explanation" :	"	ಆತನು ನಾಲ್ವತ್ತು ದಿವಸ ಹಗಲಿರುಳು ಉಪವಾಸವಿದ್ದ ತರುವಾಯ ಆತನಿಗೆ ಹಸಿವಾಯಿತು. ಮತ್ತಾಯ 4:2	",
 },			
 {			
-"question" :	"	3. The devil told Jesus to turn the stones into	",
+"question" :	"	3. ಸೈತಾನನು ಯೇಸುವಿಗೆ ಈ ಕಲ್ಲುಗಳು _______ಆಗುವಂತೆ ಅಪ್ಪಣೆ ಕೊಡು ಎಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bread.	",
-	"	b. The temple.	",
-	"	c. A mountain.	",
-	"	d. An angel.	"
+	"	A. ರೊಟ್ಟಿ	",
+	"	B. ದೇವಾಲಯ	",
+	"	C. ಬೆಟ್ಟ	",
+	"	D. ದೇವದೂತ	"
 ],			
-"correct" :	"	a. Bread.	",
-"explanation" :	"	Now when the tempter came to Him, he said,If You are the Son of God, command that these stones become bread.- Matt 4:3	",
+"correct" :	"	A. ರೊಟ್ಟಿ	",
+"explanation" :	"	ಆಗ ಆ ಶೋಧಕನು ಆತನ ಬಳಿಗೆ ಬಂದು ನೀನು ದೇವರ ಮಗನಾಗಿದ್ದರೆ ಈ ಕಲ್ಲುಗಳು ರೊಟ್ಟಿಯಾಗುವಂತೆ ಅಪ್ಪಣೆಕೊಡು ಎಂದು ಹೇಳಲು.. ..  ಮತ್ತಾಯ 4:3	",
 },			
 {			
-"question" :	"	4. Jesus answered the devil	",
+"question" :	"	4.  ಯೇಸು ಸೈತಾನನಿಗೆ ಉತ್ತರಕೊಟ್ಟು ಹೇಳಿದನು:	",
 "image" :	"",		
 "choices" : [			
-	"	a. Man shall not live by bread alone.	",
-	"	b. The temple is God’s holy place.	",
-	"	c. The mountain shall come to me.	",
-	"	d. I can call ministering angels.	"
+	"	A. ಮನುಷ್ಯನು ರೊಟ್ಟಿ ತಿಂದ ಮಾತ್ರದಿಂದ ಬದುಕುವುದಿಲ್ಲ.	",
+	"	B. ದೇವಾಲಯವು ದೇವರ ಪರಿಶುದ್ದ ಆಲಯವಾಗಿದೆ	",
+	"	C. ಬೆಟ್ಟವು ನನ್ನ ಬಳಿ ಬರುವುದು	",
+	"	D. ನಾನು ಸೇವೆಗಾಗಿ ದೂತರನ್ನು ಕರೆಯಬಲ್ಲೆನು	"
 ],			
-"correct" :	"	a. Man shall not live by bread alone.	",
-"explanation" :	"	But He answered and said,It is written, 'Man shall not live by bread alone, but by every word that proceeds from the mouth of God.- Matt 4:4	",
+"correct" :	"	A. ಮನುಷ್ಯನು ರೊಟ್ಟಿ ತಿಂದ ಮಾತ್ರದಿಂದ ಬದುಕುವುದಿಲ್ಲ.	",
+"explanation" :	"	ಮನುಷ್ಯನು ರೊಟ್ಟಿ ತಿಂದ ಮಾತ್ರದಿಂದ ಬದುಕುವುದಿಲ್ಲ, ದೇವರ ಬಾಯಿಂದ ಹೊರಡುವ ಪ್ರತಿಯೊಂದು ಮಾತಿನಿಂದಲೂ ಬದುಕವನು ಎಂದು ಬರೆದದೆ ಅಂದನು. ಮತ್ತಾಯ 4:4	",
 },			
 {			
-"question" :	"	5. Satan offered Jesus all the kingdoms of the world, if He would	",
+"question" :	"	5 ಸೈತಾನನು ಯೇಸುವಿಗೆ ಪ್ರಪಂಚದ ಎಲ್ಲಾ ರಾಜ್ಯಗಳನ್ನು ಕೊಡುತ್ತೇನೆಂದು ಹೇಳಿದನು, ಆದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Turn stones to bread.	",
-	"	b. Jump from the temple.	",
-	"	c. Call for angels.	",
-	"	d. Worship him.	"
+	"	A. ಕಲ್ಲನ್ನು ರೊಟ್ಟಿಯನ್ನಾಗಿ ಮಾಡಬೇಕು	",
+	"	B. ದೇವಾಲಯದಿಂದ ದುಮುಕಬೇಕು	",
+	"	C. ದೂತರನ್ನು ಕರೆಯಬೇಕು	",
+	"	D. ಆತನನ್ನು ಆರಾಧಿಸಬೇಕು	"
 ],			
-"correct" :	"	d. Worship him.	",
-"explanation" :	"	Again, the devil took Him up on an exceedingly high mountain, and showed Him all the kingdoms of the world and their glory. And he said to Him, All these things I will give You if You will fall down and worship me.- Matt 4:8,9	",
+"correct" :	"	D. ಆತನನ್ನು ಆರಾಧಿಸಬೇಕು	",
+"explanation" :	"	ನೀನು ನನಗೆ ಸಾಷ್ಟಾಂಗ ನಮಸ್ಕಾರ ಮಾಡಿದರೆ ಇವುಗಳನ್ನೆಲ್ಲಾ ನಿನಗೆ ಕೊಡುವೆನು ಅಂದನು. ಮತ್ತಾಯ 4:9	",
 },			
 {			
-"question" :	"	6. When Jesus would not give in to any temptation, the devil left Him, and	",
+"question" :	"	6 ಯೇಸು ಯಾವುದೇ ಶೋಧನೆಗಳಲ್ಲಿ ಸೋಲದೇ ಇದ್ದಾಗ ಸೈತಾನನು ಆತನನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟನು, ಮತ್ತು ...	",
 "image" :	"",		
 "choices" : [			
-	"	a. Angels came & ministered to Him.	",
-	"	b. He turned the stones to bread.	",
-	"	c. His disciples brought Him food.	",
-	"	d. He prepared fish & honeycomb.	"
+	"	A. ದೇವದೂತರು ಬಂದು ಆತನಿಗೆ ಉಪಚಾರ ಮಾಡಿದರು	",
+	"	B. ಆತನು ಕಲ್ಲುಗಳನ್ನು ರೊಟ್ಟಿಯನ್ನಾಗಿ ಮಾಡಿದನು	",
+	"	C. ಆತನ ಶಿಷ್ಯರು ಆತನಿಗೆ ಆಹಾರ ತಂದರು	",
+	"	D. ಆತನು ಮೀನು ಮತ್ತು ಜೇನನನ್ನು ಸಿದ್ದಮಾಡಿದನು	"
 ],			
-"correct" :	"	a. Angels came & ministered to Him.	",
-"explanation" :	"	Then the devil left Him, and behold, angels came and ministered to Him.- Matt 4:11	",
+"correct" :	"	A. ದೇವದೂತರು ಬಂದು ಆತನಿಗೆ ಉಪಚಾರ ಮಾಡಿದರು	",
+"explanation" :	"	ಆಗ ಸೈತಾನನು ಆತನನ್ನು ಬಿಟ್ಟುಬಿಟ್ಟನು ಮತ್ತು ದೇವದೂತರು ಬಂದು ಆತನಿಗೆ ಉಪಚಾರ ಮಾಡಿದರು.  ಮತ್ತಾಯ 4:11	",
 },			
 {			
-"question" :	"	7. Jesus went to Galilee when He heard this man was cast into prison.	",
+"question" :	"	7 ಈ ಮನುಷ್ಯನು ಸೆರೆಗೆ ಬಿದ್ದನೆಂದು ತಿಳಿದು ಯೇಸು ಗಲಿಲಾಯಕ್ಕೆ ಹೋದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. Silas	",
-	"	c. John	",
-	"	d. King Herod	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಸೀಲ	",
+	"	C. ಯೋಹಾನ	",
+	"	D. ಅರಸನಾದ ಹೆರೋದ	"
 ],			
-"correct" :	"	c. John	",
-"explanation" :	"	Now when Jesus heard that John had been put in prison, He departed to Galilee.- Matt 4:12	",
+"correct" :	" C. ಯೋಹಾನ		",
+"explanation" :	"ಯೋಹಾನನು ಸೆರೆಗೆ ಬಿದ್ದನೆಂದು ಯೇಸು ಕೇಳಿ ಆ ಸ್ಥಳವನ್ನು ಬಿಟ್ಟು ಗಲಿಲಾಯ ಸೀಮೆಗೆ ಹೊರಟುಹೋದನು.  ಮತ್ತಾಯ 4:12		",
 },			
 {			
-"question" :	"	8. Jesus began to preach and say	",
+"question" :	"	8 ಯೇಸು ಉಪದೇಶಿಸಲು ಪ್ರಾರಂಭಿಸಿ ಹೇಳಿದನು...	",
 "image" :	"",		
 "choices" : [			
-	"	a. Repent, the kingdom of heaven is at hand.	",
-	"	b. God is love, hear ye Him.	",
-	"	c. The devil is our enemy, prepare for battle.	",
-	"	d. Pray always.	"
+	"	A. ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳಿರಿ, ಪರಲೋಕರಾಜ್ಯವು ಸಮೀಪವಾಯಿತು	",
+	"	B. ದೇವರು ಪ್ರೀತಿಯಾಗಿದ್ದಾನೆ, ಆತನಿಗೆ ಕಿವಿಗೊಡಿರಿ	",
+	"	C. ಸೈತಾನನು ನಮ್ಮ ಶತೃವಾಗಿದ್ದಾನೆ, ಯುದ್ಧಕ್ಕೆ ಸಿದ್ದರಾಗಿರಿ	",
+	"	D. ಯಾವಾಗಲೂ ಪ್ರಾರ್ಥಿಸಿರಿ	"
 ],			
-"correct" :	"	a. Repent, the kingdom of heaven is at hand.	",
-"explanation" :	"	From that time Jesus began to preach and to say, Repent, for the kingdom of heaven is at hand.- Matt 4:17	",
+"correct" :	"	A. ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳಿರಿ, ಪರಲೋಕರಾಜ್ಯವು ಸಮೀಪವಾಯಿತು	",
+"explanation" :	"	ಅಂದಿನಿಂದ ಯೇಸು - ಪರಲೋಕರಾಜ್ಯವು ಸಮೀಪಿಸಿತು, ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳಿರಿ ಎಂದು ಸಾರಿ ಹೇಳುವದಕ್ಕೆ ಪ್ರಾರಂಭಿಸಿದನು. ಮತ್ತಾಯ 4:17	",
 },			
 {			
-"question" :	"	9. Jesus told Andrew and Peter, Follow Me and I will	",
+"question" :	"	9 ಯೇಸು ಆಂದ್ರೇಯ ಮತ್ತು ಪೇತ್ರನಿಗೆ ಹೇಳಿದನು: ನನ್ನನ್ನು ಹಿಂಬಾಲಿಸಿ, ನಾನು.....	",
 "image" :	"",		
 "choices" : [			
-	"	a. Show you many miracles.	",
-	"	b. Make you my disciples.	",
-	"	c. Teach you many things.	",
-	"	d. Make you fishers of men.	"
+	"	A. ನಿಮಗೆ ಅನೇಕ ಅದ್ಭುತಗಳನ್ನು ತೋರಿಸುತ್ತೇನೆ	",
+	"	B. ನಿಮ್ಮನ್ನು ನನ್ನ ಶಿಷ್ಯರನ್ನಾಗಿ ಮಾಡಿಕೊಳ್ಳುತ್ತೇನೆ	",
+	"	C. ನಿಮಗೆ ಅನೇಕ ವಿಷಯಗಳನ್ನು ಕಲಿಸಿಕೊಡುತ್ತೇನೆ	",
+	"	D. ನಿಮ್ಮನ್ನು ಮನುಷ್ಯರನ್ನು ಹಿಡಿಯುವ ಬೆಸ್ತರನ್ನಾಗಿ ಮಾಡುತ್ತೇನೆ	"
 ],			
-"correct" :	"	d. Make you fishers of men.	",
-"explanation" :	"	And Jesus, walking by the Sea of Galilee, saw two brothers, Simon called Peter, and Andrew his brother, casting a net into the sea; for they were fishermen.Then He said to them,Follow Me, and I will make you fishers of men.- Matt 4:18,19	",
+"correct" :	"	D. ನಿಮ್ಮನ್ನು ಮನುಷ್ಯರನ್ನು ಹಿಡಿಯುವ ಬೆಸ್ತರನ್ನಾಗಿ ಮಾಡುತ್ತೇನೆ	",
+"explanation" :	"	ನನ್ನ ಹಿಂದೆ ಬನ್ನಿರಿ, ಮನುಷ್ಯರನ್ನು ಹಿಡಿಯುವ ಬೆಸ್ತರನ್ನಾಗಿ ನಿಮ್ಮನ್ನು ಮಾಡುವೆನು ಎಂದು ಹೇಳುತ್ತಲೇ .. ..  ಮತ್ತಾಯ 4:19	",
 },			
 {			
-"question" :	"	10. Jesus called these two sons of Zebedee.	",
+"question" :	"	10 ಜೆಬೆದಾಯನ ಈ ಇಬ್ಬರು ಮಕ್ಕಳನ್ನು ಯೇಸು ಕರೆದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. James & John	",
-	"	b. James & Andrew	",
-	"	c. James & Peter	",
-	"	d. John & Simon	"
+	"	A. ಯಾಕೋಬ ಮತ್ತು ಯೊಹಾನ	",
+	"	B. ಯಾಕೋಬ ಮತ್ತು ಆಂದ್ರೇಯ	",
+	"	C. ಯಾಕೋಬ ಮತ್ತು ಪೇತ್ರ	",
+	"	D. ಯೊಹಾನ ಮತ್ತು ಸಿಮೋನ	"
 ],			
-"correct" :	"	a. James & John	",
-"explanation" :	"	Going on from there, He saw two other brothers, James the son of Zebedee, and John his brother, in the boat with Zebedee their father, mending their nets. He called them,- Matt 4:21	",
+"correct" :	"	A. ಯಾಕೋಬ ಮತ್ತು ಯೊಹಾನ	",
+"explanation" :	"	ಯೇಸು ಅಲ್ಲಿಂದ ಮುಂದೆ ಹೋಗಿ ಇನ್ನಿಬ್ಬರು ಅಣ್ಣ ತಮ್ಮಂದಿರನ್ನು ಅಂದರೆ ಜೆಬೆದಾಯನ ಮಗನಾದ ಯಾಕೋಬನನ್ನೂ ಅವನ ತಮ್ಮನಾದ ಯೋಹಾನನನ್ನೂ ಕಂಡನು. ಮತ್ತಾಯ 4:21	",
 },			
 ]			

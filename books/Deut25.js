@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 25";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 25";			
 var quiz = [			
 {			
 "question" :	"	1. The judges shall justify the righteous, and do this to the wicked.	",

@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 14";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
-"question" :	"	1. Which disciple agreed with the chief priests to betray Jesus?	",
+"question" :	"	1 ಮಹಾಯಾಜಕರಿಗೆ ಯೇಸುವನ್ನು ಹಿಡಿದುಕೊಡಲು ಒಪ್ಪಿಕೊಂಡ ಶಿಷ್ಯನು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. John	",
-	"	c. James	",
-	"	d. Judas Iscariot	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಯೋಹಾನ	",
+	"	C. ಯಾಕೋಬ	",
+	"	D. ಇಸ್ಕರಿಯೋತ ಯೂದ	"
 ],			
-"correct" :	"	d. Judas Iscariot	",
-"explanation" :	"	Then Judas Iscariot, one of the twelve, went to the chief priests to betray Him to them. - Mr 14:10	",
+"correct" :	"	D. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+"explanation" :	"	ಆಮೇಲೆ ಹನ್ನೆರಡು ಮಂದಿ ಶಿಷ್ಯರಲ್ಲಿ ಒಬ್ಬನಾದ ಇಸ್ಕರಿಯೋತ ಯೂದನು ಯೇಸುವನ್ನು ಮಹಾಯಾಜಕರಿಗೆ ಹಿಡುಕೊಡಬೇಕೆಂತ ಅವರ ಬಳಿಗೆ ಹೋದನು.  ಮಾರ್ಕ 14:10	",
 },			
 {			
-"question" :	"	2. What did the disciples ask, when Jesus said, one would betray Him?	",
+"question" :	"	2 ನಿಮ್ಮಲ್ಲಿ ಒಬ್ಬನು ನನ್ನನ್ನು ಹಿಡಿದುಕೊಡುವನೆಂದು ಯೇಸು ಹೇಳಿದಾಗ ಶಿಷ್ಯರು ಏನೆಂದು  ಕೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Who would dare?	",
-	"	b. Is it I?	",
-	"	c. Are you sure?	",
-	"	d. How can this be?	"
+	"	A. ಅಷ್ಟು ಧೈರ್ಯ ಯಾರಿಗಿದೆ?	",
+	"	B. ನಾನಲ್ಲವಲ್ಲಾ?	",
+	"	C. ಇದು ಖಂಡಿತವಾಗಿಯೂ ಆಗುತ್ತದ?	",
+	"	D. ಇದು ಹೇಗಾಗುವುದು?	"
 ],			
-"correct" :	"	b. Is it I?	",
-"explanation" :	"	Now as they sat and ate, Jesus said, Assuredly, I say to you, one of you who eats with Me will betray Me.And they began to be sorrowful, and to say to Him one by one, Is it I? And another said, Is it I? - Mr 14:18-19	",
+"correct" :	"	B. ನಾನಲ್ಲವಲ್ಲಾ?	",
+"explanation" :	"	ಅವರು ಕೂತುಕೊಂಡು ಊಟ ಮಾಡುತ್ತಿರುವಾಗ ಯೇಸು ನಿಮ್ಮಲ್ಲಿ ಒಬ್ಬನು ನನ್ನನ್ನು ಹಿಡುಕೊಡುವನು, ಅವನು ನನ್ನ ಸಂಗಡ ಊಟ ಮಾಡುವವನೇ ಎಂದು ನಿಮಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ ಅಂದನು.  ಆಗ ಅವರು ದು:ಖಿತರಾಗಿ ನಾನಲ್ಲವಲ್ಲಾ ನಾನಲ್ಲವಲ್ಲಾ ಎಂದು ಒಬ್ಬೊಬ್ಬರೂ ಆತನನ್ನು ಕೇಳತೊಡಗಿದರು.  ಮಾರ್ಕ 14:18-19	",
 },			
 {			
-"question" :	"	3. What did Jesus say the fruit of the vine represented?	",
+"question" :	"	3 ದ್ರಾಕ್ಷಾರಸವು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. His life	",
-	"	b. His tears	",
-	"	c. His blood	",
-	"	d. His sorrow	"
+	"	A. ತನ್ನ ಜೀವನ	",
+	"	B. ತನ್ನ ಕಣ್ಣೀರು	",
+	"	C. ತನ್ನ ರಕ್ತ	",
+	"	D. ತನ್ನ ದು:ಖ	"
 ],			
-"correct" :	"	c. His blood	",
-"explanation" :	"	Then He took the cup, and when He had given thanks He gave it to them, and they all drank from it.And He said to them, This is My blood of the new covenant, which is shed for many.Assuredly, I say to you, I will no longer drink of the fruit of the vine until that day when I drink it new in the kingdom of God - Mr 14:23-25	",
+"correct" :	"	C. ತನ್ನ ರಕ್ತ	",
+"explanation" :	"	ಆಮೇಲೆ ಪಾತ್ರೆಯನ್ನು ತೆಗೆದುಕೊಂಡು ಸ್ತೋತ್ರ ಮಾಡಿ ಅವರಿಗೆ ಕೊಟ್ಟನು; ಅವರೆಲ್ಲರೂ ಅದರಲ್ಲಿ ಕುಡಿದರು.  ಮತ್ತು ಆತನು ಅವರಿಗೆ ಇದು ನನ್ನ ರಕ್ತ, ಇದು ಒಡಂಬಡಿಕೆ ರಕ್ತ; ಇದು ಬಹುಜನರಿಗೋಸ್ಕರ ಸುರಿಸಲ್ಪಡುವ ರಕ್ತ.  ಮಾರ್ಕ 14:23-24	",
 },			
 {			
-"question" :	"	4. What did Jesus say the bread represented?	",
+"question" :	"	4 ರೊಟ್ಟಿಯು ಏನನ್ನು ಸೂಚಿಸುತ್ತದೆಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The world	",
-	"	b. His disciples	",
-	"	c. His body	",
-	"	d. Manna	"
+	"	A. ಈ ಲೋಕ	",
+	"	B. ತನ್ನ ಶಿಷ್ಯರು	",
+	"	C. ತನ್ನ ದೇಹ	",
+	"	D. ಮನ್ನ	"
 ],			
-"correct" :	"	c. His body	",
-"explanation" :	"	And as they were eating, Jesus took bread, blessed and broke it, and gave it to them and said, Take, eat; this is My body. - Mr 14:22	",
+"correct" :	"	C. ತನ್ನ ದೇಹ	",
+"explanation" :	"	ಅವರು ಊಟಮಾಡುತ್ತಿರುವಾಗ ಆತನು ರೊಟ್ಟಿಯನ್ನು ತೆಗೆದುಕೊಂಡು ದೇವರ ಸ್ತೋತ್ರಮಾಡಿ ಮುರಿದು ಅವರಿಗೆ ಕೊಟ್ಟು ತಕ್ಕೊಳ್ಳಿರಿ; ಇದು ನನ್ನ ದೇಹ ಅಂದನು.  ಮಾರ್ಕ 14:22	",
 },			
 {			
-"question" :	"	5. When Jesus told His disciples, they would all be offended because of Him, which disciple insisted he would not?	",
+"question" :	"	5 ನನ್ನ ನಿಮಿತ್ತವಾಗಿ ನೀವೆಲ್ಲರೂ ದಿಗಿಲುಪಟ್ಟು ಹಿಂಜರಿಯುವಿರಿ ಎಂದು ಯೇಸು ಹೇಳಿದಾಗ ಯಾವ  ಶಿಷ್ಯನು ನಾನು ಹಾಗಲ್ಲ ಎಂದು ಹೇಳಿದ್ದು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. John	",
-	"	c. James	",
-	"	d. Judas Iscariot	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಯೋಹಾನ	",
+	"	C. ಯಾಕೋಬ	",
+	"	D. ಇಸ್ಕರಿಯೋತ ಯೂದ	"
 ],			
-"correct" :	"	a. Peter	",
-"explanation" :	"	Peter said to Him, Even if all are made to stumble, yet I will not be. - Mr 14:29	",
+"correct" :	"	A. ಪೇತ್ರ	",
+"explanation" :	"	ಆದರೆ ಪೇತ್ರನು ಎಲ್ಲರೂ ದಿಗಿಲುಪಟ್ಟು ಹಿಂಜರಿದರೂ ನಾನು ಹಿಂಜರಿಯುವದಿಲ್ಲ ಎಂದು ಹೇಳಲು.. ಮಾರ್ಕ 14:29	",
 },			
 {			
-"question" :	"	6. Jesus told that disciple, he would deny Him three times before	",
+"question" :	"	6 ಯೇಸು ಆ ಶಿಷ್ಯನಿಗೆ _________ ಮುಂಚೆ ನನ್ನನ್ನು ಅರಿಯನೆಂಬುದಾಗಿ ಮೂರು ಸಾರಿ  ಹೇಳುವಿ ಅಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The council.	",
-	"	b. The disciples.	",
-	"	c. The cock crowed twice.	",
-	"	d. His life was over.	"
+	"	A. ಸಂಘದ	",
+	"	B. ಶಿಷ್ಯರ	",
+	"	C. ಕೋಳಿ ಎರಡು ಸಾರಿ ಕೂಗುವುದಕ್ಕಿಂತ	",
+	"	D. ಆತನ ಜೀವನವು ಮುಗಿಯುವದಕ್ಕಿಂತ	"
 ],			
-"correct" :	"	c. The cock crowed twice.	",
-"explanation" :	"	Jesus said to him, Assuredly, I say to you that today, even this night, before the rooster crows twice, you will deny Me three times. - M3 14:30	",
+"correct" :	"	C. ಕೋಳಿ ಎರಡು ಸಾರಿ ಕೂಗುವುದಕ್ಕಿಂತ	",
+"explanation" :	"	ಯೇಸು - ನಿನಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ, ಈ ಹೊತ್ತು ಈ ರಾತ್ರಿಯಲ್ಲಿಯೇ ಕೋಳಿ ಎರಡು ಸಾರಿ ಕೂಗುವದಕ್ಕಿಂತ ಮುಂಚೆ ನೀನು ನನ್ನ ವಿಷಯದಲ್ಲಿ ಅವನನ್ನು ಅರಿಯೆನೆಂಬದಾಗಿ ಮೂರು ಸಾರಿ ಹೇಳುವಿ ಅಂದನು.  ಮಾರ್ಕ 14:30	",
 },			
 {			
-"question" :	"	7. Jesus said, this is ready, but the flesh is weak.	",
+"question" :	"	7 ಯೇಸು ಹೇಳಿದ್ದು: ___________ ಸಿದ್ಧವಾಗಿದೆ, ಆದರೆ ದೇಹಕ್ಕೆ ಬಲ ಸಾಲದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The heart	",
-	"	b. The mind	",
-	"	c. The spirit	",
-	"	d. The flesh	"
+	"	A. ಹೃದಯ	",
+	"	B. ಬುದ್ಧಿ	",
+	"	C. ಮನಸ್ಸು	",
+	"	D. ಶರೀರ	"
 ],			
-"correct" :	"	c. The spirit	",
-"explanation" :	"	Watch and pray, lest you enter into temptation. The spirit indeed is willing, but the flesh is weak - Mr 14:38	",
+"correct" :	"	C. ಮನಸ್ಸು	",
+"explanation" :	"	ಶೋಧನಗೆ ಒಳಗಾಗದಂತೆ ಎಚ್ಚರವಾಗಿದ್ದು ಪ್ರಾರ್ಥಿಸಿರಿ; ಮನಸ್ಸು ಸಿದ್ಧವಾಗಿದೆ ಸರಿ, ಆದರೆ ದೇಹಕ್ಕೆ ಬಲ ಸಾಲದು ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 14:38	",
 },			
 {			
-"question" :	"	8. What did the betrayer use to identify Jesus?	",
+"question" :	"	8 ಯೇಸುವನ್ನು ಹಿಡಿದುಕೊಡುವವನು ಯಾವುದರಿಂದ ಯೇಸುವನ್ನು ಗುರುತಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He called Him Rabbi.	",
-	"	b. He shook His hand.	",
-	"	c. He bowed before Him.	",
-	"	d. He kissed Him.	"
+	"	A. ಆತನನ್ನು ರಬ್ಬಿ ಎಂದು ಕೂಗಿದನು	",
+	"	B. ಆತನ ಕೈ ಕುಲುಕಿದನು	",
+	"	C. ಆತನ ಮುಂದೆ ಅಡ್ಡಬಿದ್ದನು	",
+	"	D. ಆತನಿಗೆ ಮುದ್ದಿಟ್ಟನು	"
 ],			
-"correct" :	"	d. He kissed Him.	",
-"explanation" :	"	Now His betrayer had given them a signal, saying, Whomever I kiss, He is the One; seize Him and lead Him away safely.As soon as He had come, immediately he went up to Him and said to Him, Rabbi, Rabbi! and kissed Him. - Mr 14:44-45	",
+"correct" :	"	D. ಆತನಿಗೆ ಮುದ್ದಿಟ್ಟನು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಆತನನ್ನು ಹಿಡುಕೊಡುವವನು ಅವರಿಗೆ ನಾನು ಯಾರಿಗೆ ಮುದ್ದಿಡುತ್ತೇನೋ ಅವನೇ ಆತನು; ಅವನನ್ನು ಹಿಡುದು ಭದ್ರವಾಗಿ ತೆಗೆದುಕೊಂಡುಹೋಗಿರಿ ಎಂದು ಗುರುತು ಹೇಳಿಕೊಟ್ಟಿದ್ದನು. ಅಲ್ಲಿಗೆ ಬಂದ ಕೂಡಲೆ ಅವನು ಯೇಸುವಿನ ಬಳಿಗೆ ಹೋಗಿ ಗುರುವೇ ಎಂದು ಹೇಳಿ ಆತನಿಗೆ ಮುದ್ದಿಡಲು ಅವರು ಆತನ ಮೇಲೆ ಕೈಹಾಕಿ ಆತನನ್ನು ಹಿಡಿದರು.  ಮಾರ್ಕ 14:44-45	",
 },			
 {			
-"question" :	"	9. When Peter was recognized as being Jesus' disciple, he	",
+"question" :	"	9 ಪೇತ್ರನು ಯೇಸುವಿನ ಶಿಷ್ಯನೆಂದು ಗುರುತಿಸಿದಾಗ, ಅವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Admitted it.	",
-	"	b. Began to curse & swear.	",
-	"	c. Laughed them to scorn.	",
-	"	d. Cried.	"
+	"	A. ಅದನ್ನು ಒಪ್ಪಿಕೊಂಡನು	",
+	"	B. ಶಪಿಸಿಕೊಳ್ಳುವುದಕ್ಕೂ ಆಣೆಯಿಟ್ಟುಕೊಳ್ಳುವುದಕ್ಖು ಪ್ರಾರಂಭಿಸಿದನು	",
+	"	C. ಅವರನ್ನು ಅಪಹಾಸ್ಯ ಮಾಡಿದನು	",
+	"	D. ಅತ್ತುಬಿಟ್ಟನು	"
 ],			
-"correct" :	"	b. Began to curse & swear.	",
-"explanation" :	"	And when she saw Peter warming himself, she looked at him and said, You also were with Jesus of Nazareth.But he denied it, saying, I neither know nor understand what you are saying. And he went out on the porch, and a rooster crowed.And the servant girl saw him again, and began to say to those who stood by, This is one of them.But he denied it again. And a little later those who stood by said to Peter again, Surely you are one of them; for you are a Galilean, and your speech shows it.Then he began to curse and swear, I do not know this Man of whom you speak - Mr 14:67-71	",
+"correct" :	"	B. ಶಪಿಸಿಕೊಳ್ಳುವುದಕ್ಕೂ ಆಣೆಯಿಟ್ಟುಕೊಳ್ಳುವುದಕ್ಖು ಪ್ರಾರಂಭಿಸಿದನು	",
+"explanation" :	"	ಅವನು ಚಳಿ ಕಾಯಿಸಿಕೊಳ್ಳುತ್ತಿರುವದನ್ನು ಕಂಡು ಅವನನ್ನು ನೋಡಿ ನೀನು ಸಹ ಆ ಜನರೇತಿನವನಾದ ಯೇಸುವಿನ ಕೂಡ ಇದ್ದವನು ಅಂದಳು, ಅವನು ಅಲ್ಲ; ನೀನು ಏನನ್ನುತ್ತೀಯೋ ನನಗೆ ಗೊತ್ತಿಲ್ಲ, ತಿಳಿಯುವದಿಲ್ಲ ಎಂದು ಹೇಳಿ ಹೊರಂಗಳಕ್ಕೆ ಹೋದನು.  ಅಲ್ಲಿ ದಾಸಿಯು ಅವನನ್ನು ಕಂಡು ಹತ್ತಿರದಲ್ಲಿ ನಿಂತಿದ್ದವರಿಗೆ ಇವನೂ ಅವರಲ್ಲಿ ಒಬ್ಬನು ಎಂದು ತಿರಿಗಿ ಹೇಳುವದಕ್ಕೆ ತೊಡಗಿದಳು.  ಅವನು ತಿರಿಗಿ ಅಲ್ಲ ಅಂದನು.  ಸ್ವಲ್ಪ ಹೊತ್ತಿನ ಮೇಲೆ ಅಲ್ಲಿ ನಿಂತವರು ಪೇತ್ರನಿಗೆ - ನಿಸ್ಚಯವಾಗಿ ನೀನು ಅವರಲ್ಲಿ ಒಬ್ಬನು; ನೀನು ಗಲಿಲಾಯದವನಷ್ಟೆ ಎಂದು ತಿರಿಗಿ ಹೇಳಿದರು.  ಆದರೆ ಅವನು - ನೀವು ಹೇಳುವ ಆ ಮನುಷ್ಯನನ್ನು ನಾನರಿಯೆನು ಎಂದು ಹೇಳಿ ಶಪಿಸಿಕೊಳ್ಳುವದಕ್ಕೂ ಆಣೆಯಿಟ್ಟುಕೊಳ್ಳುವದಕ್ಕೂ ಪ್ರಾರಂಭಿಸಿದನು.  ಮಾರ್ಕ 14:67-71	",
 },			
 {			
-"question" :	"	10. After hearing the cock crow, Peter	",
+"question" :	"	10 ಕೋಳಿ ಕೂಗುವುದು ಕೇಳಿದ ಮೇಲೆ, ಪೇತ್ರನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wept.	",
-	"	b. Went to Jesus.	",
-	"	c. Went back to the Mount of Olives.	",
-	"	d. Prayed.	"
+	"	A. ಅತ್ತನು	",
+	"	B. ಯೇಸುವಿನ ಬಳಿಗೆ ಹೋದನು	",
+	"	C. ಎಣ್ಣೇಗುಡ್ಡದ ಬಳಿಗೆ ಹಿಂತುರಿಗಿದನು	",
+	"	D. ಪ್ರಾರ್ಥಿಸಿದನು	"
 ],			
-"correct" :	"	a. Wept.	",
-"explanation" :	"	A second time the rooster crowed. Then Peter called to mind the word that Jesus had said to him, Before the rooster crows twice, you will deny Me three times.And when he thought about it, he wept. - Mr 14:72	",
+"correct" :	"	A. ಅತ್ತನು	",
+"explanation" :	"	ಆಗ ಪೇತ್ರನು ಕೋಳಿ ಎರಡು ಸಾರಿ ಕೂಗುವದಕ್ಕಿಂತ ಮುಂಚೆ ಮೂರು ಸಾರಿ ನನ್ನ ವಿಷಯವಾಗಿ ಅವನನ್ನು ಅರಿಯೆನೆಂಬದಾಗಿ ಹೇಳುವಿ ಎಂದು ಯೇಸು ತನಗೆ ಹೇಳಿದ ಮಾತನ್ನು ನೆನಪಿಗೆ ತಂದುಕೊಂಡು ಆ ವಿಷಯದಲ್ಲಿ ಯೋಚಿಸಿ ಅತ್ತನು.  ಮಾರ್ಕ 14:72	",
 },			
-]				
+]			

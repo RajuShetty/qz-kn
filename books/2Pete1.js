@@ -1,4 +1,4 @@
-var quiztitle = " 2 Peter chapter 1";			
+var quiztitle = " 2 ಪೇತ್ರನು ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. ಈ ಪತ್ರಿಕೆಯನ್ನು ಬರೆದವರು ಯಾರು?	",

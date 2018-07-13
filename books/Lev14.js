@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 14";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. Who examines a leper, to see if he was healed?	",

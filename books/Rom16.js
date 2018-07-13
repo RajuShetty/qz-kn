@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 16";			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
-"question" :	"	1. Paul commended this woman, a servant at the church of Cenchrea.	",
+"question" :	"	1 ಈಕೆಯು ಕೆಂಕ್ರಿಯ ಪಟ್ಟಣದ ಸಭೆಯ ಸೇವಕಿ ಎಂದು ಪೌಲನು ತಿಳಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Martha	",
-	"	b. Rebecca	",
-	"	c. Rachel	",
-	"	d. Phebe	"
+	"	A. ಮಾರ್ಥ	",
+	"	B. ರೆಬೆಕ್ಕ	",
+	"	C. ರಾಚೇಲ್	",
+	"	D. ಫೋಯೆಬೆ	"
 ],			
-"correct" :	"	d. Phebe	",
-"explanation" :	"	I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:Rom16:1	",
+"correct" :	"	D. ಫೋಯೆಬೆ	",
+"explanation" :	"	ನಾನು ನಿಮ್ಮ ಬಳಿಗೆ ಕಳುಹಿಸುವ ನಮ್ಮ ಸಹೋದರಿಯಾದ ಫೊಯಿಬೆಯನ್ನು ಪ್ರೀತಿಯಿಂದ ಅಂಗೀಕರಿಸಿರಿ. ಆಕೆಯು ಕೆಂಕ್ರೆಯ ಪಟ್ಟಣದಲ್ಲಿರುವ ಸಭೆಯ ಸೇವಕಳಾಗಿದ್ದಾಳೆ 16:1	",
 },			
 {			
-"question" :	"	2. Paul said, these helpers had laid down their own necks for his life.	",
+"question" :	"	2 ಪೌಲನು ಹೇಳುತ್ತಾನೆ, ಈ ಸಹಾಯಕರು ನನ್ನ ಪ್ರಾಣದ ರಕ್ಷಣೆಗಾಗಿ ತಮ್ಮ ಪ್ರಾಣವನ್ನು ಅಪಾಯಕ್ಕೆ ಗುರಿ ಮಾಡಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ananias & Sapphira	",
-	"	b. Priscilla & Aquila	",
-	"	c. Jacob & Esau	",
-	"	d. James & John	"
+	"	A.ಅನನೀಯ ಮತ್ತು ಸಫೋರ	",
+	"	B. ಪ್ರಿಸ್ಕಿಲ್ಲಾ ಮತ್ತು ಅಕ್ವಿಲ	",
+	"	C. ಯಾಕೋಬ ಮತ್ತು ಏಸಾವ	",
+	"	D. ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	"
 ],			
-"correct" :	"	b. Priscilla & Aquila	",
-"explanation" :	"	Greet Priscilla and Aquila my helpers in Christ Jesus:Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles.Rom16:3,4	",
+"correct" :	"	B. ಪ್ರಿಸ್ಕಿಲ್ಲಾ ಮತ್ತು ಅಕ್ವಿಲ	",
+"explanation" :	"	ಕ್ರಿಸ್ತ ಯೇಸುವಿನ ಸೇವೆಯಲ್ಲಿ ನನ್ನ ಜೊತೆಕೆಲಸದವರಾದ ಪ್ರಿಸ್ಕಳಿಗೂ ಅಕ್ವಿಲನಿಗೂ ನನ್ನ ವಂದನೆಗಳನ್ನು ಹೇಳಿರಿ. ಅವರು ನನ್ನ ಪ್ರಾಣದ ಸಂರಕ್ಷಣೆಗಾಗಿ ತಮ್ಮ ಪ್ರಾಣಗಳನ್ನು ಅಪಾಯಕ್ಕೆ ಗುರಿಮಾಡಿದರು. ನಾನು ಮಾತ್ರವೇ ಅಲ್ಲ, ಅನ್ಯಜನರ ಸಭೆಗಳವರೆಲ್ಲರೂ ಅವರ ಉಪಕಾರವನ್ನು ಸ್ಮರಿಸುತ್ತಾರೆ 16:3,4	",
 },			
 {			
-"question" :	"	3. Paul called Andronicus and Junia his kinsmen and fellow	",
+"question" :	"	3 ಆಂದ್ರೋನಿಕನೂ ಮತ್ತು ಯೂನ್ಯನನ್ನು ಪೌಲನು ತನ್ನ ಜೋತೇ ____ ಎಂದು ಕರೆದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Saints.	",
-	"	b. Prisoners.	",
-	"	c. Heathens.	",
-	"	d. Jews.	"
+	"	A. ಪರಿಶುದ್ಧರು	",
+	"	B. ಸೆರೆಯವರು	",
+	"	C. ವಿಧರ್ಮಿಗಳು	",
+	"	D. ಯೆಹೂದ್ಯರು	"
 ],			
-"correct" :	"	b. Prisoners.	",
-"explanation" :	"	Salute Andronicus and Junia, my kinsmen, and my fellow-prisoners, who are of note among the apostles, who also were in Christ before me.Rom16:7	",
+"correct" :	"	B. ಸೆರೆಯವರು	",
+"explanation" :	"	ನನ್ನ ಸ್ವಜನರೂ ಜೊತೆ ಸೆರೆಯವರೂ ಆಗಿರುವ ಅಂದ್ರೋನಿಕನಿಗೂ ಯೂನ್ಯನಿಗೂ ವಂದನೆ; ಅವರು ಅಪೊಸ್ತಲರಲ್ಲಿ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ, ಮತ್ತು ನನಗಿಂತ ಮುಂಚೆ ಕ್ರಿಸ್ತನನ್ನು ನಂಬುವವರಾದರು. 16:7	",
 },			
 {			
-"question" :	"	4. Salute one another with this.	",
+"question" :	"	4 ______ ಒಬ್ಬರನ್ನೊಬ್ಬರು ವಂದಿಸಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A holy kiss	",
-	"	b. Words of exhortation	",
-	"	c. A warm handshake	",
-	"	d. Tears of joy	"
+	"	A. ಪರಿಶುದ್ಧ ಮುತ್ತನಿಟ್ಟು	",
+	"	B. ಪ್ರೀತಿಯ ಮಾತುಗಳಿಂದ	",
+	"	C. ಪ್ರೀತಿಯ ಹಸ್ತಲಾಘವದಿಂದ	",
+	"	D. ಆನಂದ ಬಾಷ್ಪದಿಂದ	"
 ],			
-"correct" :	"	a. A holy kiss	",
-"explanation" :	"	Salute one another with an holy kiss. The churches of Christ salute you.Rom16:16	",
+"correct" :	"	A. ಪರಿಶುದ್ಧ ಮುತ್ತನಿಟ್ಟು	",
+"explanation" :	"	ಪವಿತ್ರವಾದ ಮುದ್ದಿಟ್ಟು ಒಬ್ಬರನ್ನೊಬ್ಬರು ವಂದಿಸಿರಿ. ಕ್ರಿಸ್ತನ ಸಭೆಗಳೆಲ್ಲಾ ನಿಮ್ಮನ್ನು ವಂದಿಸುತ್ತವೆ. 16:16	",
 },			
 {			
-"question" :	"	5. Mark them that cause divisions and offences contrary to the doctrine you have learned and	",
+"question" :	"	5  ನೀವು ಹೊಂದಿದ ಉಪದೇಶಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ ಬೇಧಗಳನ್ನು ವಿಘ್ನಗಳನ್ನು ನಿಮ್ಮಲ್ಲಿ ಉಂಟು ಮಾಡುವವರನ್ನು ಗುರುತಿಟ್ಟು ಅವರನ್ನು ____	",
 "image" :	"",		
 "choices" : [			
-	"	a. Teach them.	",
-	"	b. Kill them.	",
-	"	c. Avoid them.	",
-	"	d. Scold them.	"
+	"	A. ತಿಳಿಹೇಳಿ	",
+	"	B. ಕೊಂದುಹಾಕಿ	",
+	"	C. ಬಿಟ್ಟು ತೊಲಗಿರಿ	",
+	"	D. ಗದರಿಸಿ	"
 ],			
-"correct" :	"	c. Avoid them.	",
-"explanation" :	"	 Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them.Rom16: 17	",
+"correct" :	"	C. ಬಿಟ್ಟು ತೊಲಗಿರಿ	",
+"explanation" :	"	ಸಹೋದರರೇ, ನೀವು ಹೊಂದಿದ ಉಪದೇಶಕ್ಕೆ ವಿರುದ್ಧವಾಗಿ ಭೇದಗಳನ್ನೂ ವಿಘ್ನಗಳನ್ನೂ ನಿಮ್ಮಲ್ಲಿ ಉಂಟುಮಾಡುವವರನ್ನು ಗುರುತಿಟ್ಟು ಅವರನ್ನು ಬಿಟ್ಟು ತೊಲಗಿಹೋಗಿರಿ ಎಂದು ನಿಮ್ಮನ್ನು ಬೇಡಿಕೊಳ್ಳುತ್ತೇನೆ. 16: 17	",
 },			
 {			
-"question" :	"	6. They that cause these divisions and offences serve	",
+"question" :	"	6 ಈ ರೀತಿಯಾಗಿ ಬೇಧ ಮಾಡುವವರು ಇದರ ಸೇವೆ ಮಾಡುವವರಾಗಿದ್ದಾರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Jews.	",
-	"	b. The Gentiles.	",
-	"	c. Their own belly.	",
-	"	d. No purpose.	"
+	"	A. ಯೆಹೂದ್ಯರ	",
+	"	B. ಅನ್ಯಜನರ	",
+	"	C. ಸ್ವಂತ ಹೊಟ್ಟೆ	",
+	"	D. ಕಾರಣವಿಲ್ಲದೇ	"
 ],			
-"correct" :	"	c. Their own belly.	",
-"explanation" :	"	 For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.Rom16:18	",
+"correct" :	"	C. ಸ್ವಂತ ಹೊಟ್ಟೆ	",
+"explanation" :	"	ಅಂಥವರು ನಮ್ಮ ಕರ್ತನಾದ ಕ್ರಿಸ್ತನ ಸೇವೆಯನ್ನು ಮಾಡದೆ ತಮ್ಮ ಹೊಟ್ಟೆಯ ಸೇವೆಯನ್ನೇ ಮಾಡುವವರಾಗಿ ನಯದ ನುಡಿಗಳಿಂದಲೂ ಹೊಗಳಿಕೆಯ ಮಾತುಗಳಿಂದಲೂ ನಿಷ್ಕಪಟಿಗಳ ಹೃದಯಗಳನ್ನು ಮೋಸಗೊಳಿಸುತ್ತಾರೆ.  16:18	",
 },			
 {			
-"question" :	"	7. With their fair speech, they deceive the hearts of	",
+"question" :	"	7 ಇವರು ನಯವಾದ ನುಡಿಗಳಿಂದ ಇವರನ್ನು ಮೋಸಗೊಳಿಸುತ್ತಾರೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The fearful.	",
-	"	b. The Jews.	",
-	"	c. The Gentiles	",
-	"	d. The simple.	"
+	"	A. ಭಯಗ್ರಸ್ಥರು	",
+	"	B. ಯೆಹೂದ್ಯರು	",
+	"	C. ಅನ್ಯಜನಗಳು	",
+	"	D. ನಿಷ್ಕಪಟಿಗಳು	"
 ],			
-"correct" :	"	d. The simple.	",
-"explanation" :	"	 For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.Rom16:18	",
+"correct" :	"	D. ನಿಷ್ಕಪಟಿಗಳು	",
+"explanation" :	"	ಅಂಥವರು ನಮ್ಮ ಕರ್ತನಾದ ಕ್ರಿಸ್ತನ ಸೇವೆಯನ್ನು ಮಾಡದೆ ತಮ್ಮ ಹೊಟ್ಟೆಯ ಸೇವೆಯನ್ನೇ ಮಾಡುವವರಾಗಿ ನಯದ ನುಡಿಗಳಿಂದಲೂ ಹೊಗಳಿಕೆಯ ಮಾತುಗಳಿಂದಲೂ ನಿಷ್ಕಪಟಿಗಳ ಹೃದಯಗಳನ್ನು ಮೋಸಗೊಳಿಸುತ್ತಾರೆ.  16:18	",
 },			
 {			
-"question" :	"	8. Be wise of that which is good, and be simple concerning this.	",
+"question" :	"	8 ನೀವು ಒಳ್ಳೇತನದ ವಿಷಯದಲ್ಲಿ ಜಾಣರೂ, ___ ವಿಷಯದಲ್ಲಿ ಕಳಂಕವಿಲ್ಲದವರೂ ಆಗಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Evil	",
-	"	b. Justice	",
-	"	c. Mercy	",
-	"	d. Judgment	"
+	"	A. ಕೆಟ್ಟತನದ	",
+	"	B. ನ್ಯಾಯದ	",
+	"	C. ದಯೆಯ	",
+	"	D. ತೀರ್ಮಾನಗಳಲ್ಲಿ	"
 ],			
-"correct" :	"	a. Evil	",
-"explanation" :	"	 For your obedience is come abroad unto all men. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil.Rom16:19	",
+"correct" :	"	A. ಕೆಟ್ಟತನದ	",
+"explanation" :	"	ನಿಮ್ಮ ವಿಧೇಯತ್ವವು ಎಲ್ಲರಿಗೂ ಪ್ರಸಿದ್ಧವಾದದರಿಂದ ಇದನ್ನು ಬರೆದಿದ್ದೇನೆ; ನಿಮ್ಮ ವಿಷಯದಲ್ಲಿ ಆನಂದಪಡುತ್ತೇನೆ. ನೀವು ಒಳ್ಳೇತನದ ವಿಷಯದಲ್ಲಿ ಜಾಣರೂ ಕೆಟ್ಟತನದ ವಿಷಯದಲ್ಲಿ ಕಳಂಕವಿಲ್ಲದವರೂ ಆಗಿರಬೇಕೆಂದು ಅಪೇಕ್ಷಿಸುತ್ತೇನೆ.  16:19	",
 },			
 {			
-"question" :	"	9. God shall bruise this, under your feet shortly.	",
+"question" :	"	9 ದೇವರು ಶೀಘ್ರದಲ್ಲಿ ಇದನ್ನು ನಿಮ್ಮ ಕಾಲಕೆಳಗೆ ಹಾಕಿ ತುಳಿಸಿಬಿಡುವನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The ground	",
-	"	b. Hatefulness	",
-	"	c. Satan	",
-	"	d. Ignorance	"
+	"	A. ನೆಲವನ್ನು	",
+	"	B. ದ್ವೇಷವನ್ನು	",
+	"	C. ಸೈತಾನನನ್ನು	",
+	"	D. ಮುಗ್ಧತೆ	"
 ],			
-"correct" :	"	c. Satan	",
-"explanation" :	"	 And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.Rom16:20	",
+"correct" :	"	C. ಸೈತಾನನನ್ನು	",
+"explanation" :	"	ಶಾಂತಿದಾಯಕನಾದ ದೇವರು ಶೀಘ್ರವಾಗಿ ಸೈತಾನನನ್ನು ನಿಮ್ಮ ಕಾಲುಗಳ ಕೆಳಗೆ ಹಾಕಿ ತುಳಿಸಿಬಿಡುವನು. ನಮ್ಮ ಕರ್ತನಾದ ಯೇಸು ಕ್ರಿಸ್ತನ ಕೃಪೆಯು ನಿಮ್ಮೊಂದಿಗಿರಲಿ. ಆಮೆನ್. ಕರ್ತನಾದ ಯೇಸು ಕ್ರಿಸ್ತನ ಕೃಪೆಯು ನಿಮ್ಮೊಂದಿಗಿರಲಿ. 16:20	",
 },			
 {			
-"question" :	"	10. This be with you all.	",
+"question" :	"	10  ಇದು ನಿಮ್ಮೆಲ್ಲರೊಂದಿಗಿರಲಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The grace of Jesus	",
-	"	b. The hope of heaven	",
-	"	c. The fear of evil	",
-	"	d. The love of mammon	"
+	"	A. ಯೇಸುಕ್ರಿಸ್ತನ ಕೃಪೆ	",
+	"	B. ಪರಲೋಕದ ನಿರೀಕ್ಷೆ	",
+	"	C. ಕೆಟ್ಟತನದ ಭಯ	",
+	"	D. ಹಣದಾಶೆ.	"
 ],			
-"correct" :	"	a. The grace of Jesus	",
-"explanation" :	"	The grace of our Lord Jesus Christ be with you all. Amen.Rom16:24	",
+"correct" :	"	A. ಯೇಸುಕ್ರಿಸ್ತನ ಕೃಪೆ	",
+"explanation" :	"	ಯೇಸು ಕ್ರಿಸ್ತನ ಕೃಪೆಯು ನಿಮ್ಮೊಂದಿಗಿರಲಿ. 16:20	",
 },			
 ]			

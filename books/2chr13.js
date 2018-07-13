@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 13";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. There was war between Abijah and	",

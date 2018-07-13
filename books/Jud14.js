@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 14";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. Samson asked his parents, to get him a woman, who was a daughter of	",

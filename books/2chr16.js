@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 16";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. This king of Israel came up against Asa.	",

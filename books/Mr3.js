@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 3";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus healed a man with a withered	",
+"question" :	"	1  ಯೇಸು …………….ಬತ್ತಿಹೋಗಿದ್ದ ಮನುಷ್ಯನನ್ನು ಸ್ವಸ್ಥ ಮಾಡಿದ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hand.	",
-	"	b. Foot.	",
-	"	c. Arm.	",
-	"	d. Leg.	"
+	"	A. ಕೈ	",
+	"	B. ಅಂಗಾಲು	",
+	"	C. ತೋಳ	",
+	"	D. ಕಾಲು	"
 ],			
-"correct" :	"	a. Hand.	",
-"explanation" :	"	And He entered the synagogue again, and a man was there who had a withered hand.So they watched Him closely, whether He would heal him on the Sabbath, so that they might accuse Him.And He said to the man who had the withered hand, Step forward.Then He said to them, Is it lawful on the Sabbath to do good or to do evil, to save life or to kill? But they kept silent.And when He had looked around at them with anger, being grieved by the hardness of their hearts, He said to the man, Stretch out your hand. And he stretched it out, and his hand was restored as whole as the other. - Mr 3:1-5	",
+"correct" :	"	A. ಕೈ	",
+"explanation" :	"	ಇನ್ನೊಂದು ಸಮಯದಲ್ಲಿ ಯೇಸು ಸಭಾಮಂದಿರಕ್ಕೆ ಹೋದಾಗ ಅಲ್ಲಿ ಕೈಬತ್ತಿಹೋದವನೊಬ್ಬನಿದ್ದನು.  ಅವರು ಆತನ ಮೇಲೆ ತಪ್ಪುಹೊರಿಸಬೇಕೆಂದು ಆಲೋಚಿಸಿ ಸಬ್ಬತ್‍ದಿನದಲ್ಲಿ ಅವನನ್ನು ಸ್ವಸ್ಥ ಮಾಡುವನೋ ಏನೋ ಎಂದು ಆತನನ್ನು ಹೊಂಚಿ ನೋಡುತ್ತಾ ಇದ್ದರು.  ಆತನು ಕೈಬತ್ತಿದ್ದವನಿಗೆ ಎದ್ದು ನಡುವೆ ಬಾ ಎಂದು ಹೇಳಿ ಅವರಿಗೆ ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಯಾವುದನ್ನು ಮಾಡುವದು ನ್ಯಾಯ? ಮೇಲನ್ನು ಮಾಡುವದೋ? ಕೇಡನ್ನು ಮಾಡುವದೋ? ಪ್ರಾಣವನ್ನು ಉಳಿಸುವದೋ ತೆಗೆಯುವದೋ? ಎಂದು ಹೇಳಲು ಅವರು ಸುಮ್ಮನಿದ್ದರು.  ಆಗ ಆತನು ಅವರ ಮನಸ್ಸು ಕಲ್ಲಾಗಿರುವದನ್ನು ಕಂಡು ದು:ಖಪಟ್ಟು ಕೋಪದಿಂದ ಸುತ್ತಲೂ ಅವರನ್ನು ನೋಡಿ ಆ ಮನುಷ್ಯನಿಗೆ ನಿನ್ನ ಕೈಚಾಚು ಎಂದು ಹೇಳಿದನು. ಅವನು ಚಾಚಿದನು; ಕೈ ವಾಸಿಯಾಯಿತು.  ಮಾರ್ಕ 3:1-5	",
 },			
 {			
-"question" :	"	2. Where did Jesus perform this miracle?	",
+"question" :	"	2  ಯೇಸು ಅದ್ಭುತಗಳನ್ನು ಎಲ್ಲಿ ಮಾಡಿದ ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. In the synagogue	",
-	"	b. At the market place	",
-	"	c. In a house	",
-	"	d. In the wilderness	"
+	"	A. ಸಭಾ ಮಂದಿರದಲ್ಲಿ	",
+	"	B. ಸಂತೆ ಬೀದಿಯಲ್ಲಿ	",
+	"	C. ಮನೆಯಲ್ಲಿ	",
+	"	D. ಅಡವಿಯಲ್ಲಿ	"
 ],			
-"correct" :	"	a. In the synagogue	",
-"explanation" :	"	And He entered the synagogue again, and a man was there who had a withered hand. - Mr 3:1	",
+"correct" :	"	A. ಸಭಾ ಮಂದಿರದಲ್ಲಿ	",
+"explanation" :	"	ಇನ್ನೊಂದು ಸಮಯದಲ್ಲಿ ಯೇಸು ಸಭಾಮಂದಿರಕ್ಕೆ ಹೋದಾಗ ಅಲ್ಲಿ ಕೈಬತ್ತಿಹೋದವನೊಬ್ಬನಿದ್ದನು.  ಮಾರ್ಕ 3:1	",
 },			
 {			
-"question" :	"	3. Why did the Pharisees watch to see if Jesus would heal this man?	",
+"question" :	"	3 ಯೇಸು ಈ ಮನುಷ್ಯನನ್ನು  ಸ್ವಸ್ಥ ಮಾಡುವನೋ ಏನೋ ಎಂದು ಪರಿಸಾಯರು ಏಕೆ ನೋಡುತ್ತಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He was a Gentile.	",
-	"	b. It was the Sabbath.	",
-	"	c. It was unlawful to heal in that place.	",
-	"	d. It was unlawful to heal a publican.	"
+	"	A. ಅವನು ಅನ್ಯನಾಗಿದನು.	",
+	"	B. ಅದು ಸಬ್ಬತ್ ದಿನವಾಗಿತು.	",
+	"	C. ಆ ಸ್ಥಳದಲ್ಲಿ ಸೌಖ್ಯಪಡಿಸುವುದು ಧರ್ಮ ಶಾಸ್ತ್ರಕ್ಕೆ ವಿರೋದವಾಗಿತು.	",
+	"	D. ಜನರನ್ನು ಸ್ವಸ್ಥಪಡಿಸುವುದು ಧರ್ಮ ಶಾಸ್ತ್ರಕ್ಕೆ ವಿರುದ್ದವಾಗಿತು.	"
 ],			
-"correct" :	"	b. It was the Sabbath.	",
-"explanation" :	"	So they watched Him closely, whether He would heal him on the Sabbath, so that they might accuse Him. - Mr 3:2	",
+"correct" :	"	B. ಅದು ಸಬ್ಬತ್ ದಿನವಾಗಿತು.	",
+"explanation" :	"	ಅವರು ಆತನ ಮೇಲೆ ತಪ್ಪುಹೊರಿಸಬೇಕೆಂದು ಆಲೋಚಿಸಿ ಸಬ್ಬತ್‍ದಿನದಲ್ಲಿ ಅವನನ್ನು ಸ್ವಸ್ಥ ಮಾಡುವನೋ ಏನೋ ಎಂದು ಆತನನ್ನು ಹೊಂಚಿ ನೋಡುತ್ತಾ ಇದ್ದರು.  ಮಾರ್ಕ 3:2	",
 },			
 {			
-"question" :	"	4. The Pharisees took counsel with the Herodians how they might	",
+"question" :	"	4 ಪರಿಸಾಯರು  ಹೆರೋದ್ಯರನ್ನು ಕೂಡಿಕೊಂಡು ಏನನ್ನು ಆಲೋಚನೆ ಮಾಡಿಕೊಂಡರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Build a temple.	",
-	"	b. Heal the sick.	",
-	"	c. Destroy Jesus.	",
-	"	d. Bribe Jesus.	"
+	"	A. ದೇವಾಲಯವನ್ನು ಕಟ್ಟುವುದು.	",
+	"	B. ರೋಗಿಗಳನ್ನು ಸೌಖ್ಯ ಮಾಡುವುದು.	",
+	"	C. ಯೇಸುವನ್ನು ನಾಶ ಮಾಡುವುದು.	",
+	"	D. ಯೇಸುವನ್ನು ಕೊಲ್ಲುವುದು.	"
 ],			
-"correct" :	"	c. Destroy Jesus.	",
-"explanation" :	"	Then the Pharisees went out and immediately plotted with the Herodians against Him, how they might destroy Him. - Mr 3:6	",
+"correct" :	"	D. ಯೇಸುವನ್ನು ಕೊಲ್ಲುವುದು.	",
+"explanation" :	"	ಫರಿಸಾಯರು ಹೊರಕ್ಕೆ ಹೋಗಿ ಕೂಡಲೆ ಹೆರೋದ್ಯರನ್ನು ಕೂಡಿಕೊಂಡು ಇವನನ್ನು ಯಾವ ಉಪಾಯದಿಂದ ಕೊಲ್ಲೋಣ ಎಂದು ಆತನಿಗೆ ವಿರೋಧವಾಗಿ ಆಲೋಚನೆ ಮಾಡಿಕೊಂಡರು.  ಮಾರ್ಕ 3:6	",
 },			
 {			
-"question" :	"	5. How many men did Jesus ordain?	",
+"question" :	"	5 ಯೇಸು ಎಷ್ಟು ಜನರನ್ನು ಅಪೊಸ್ತಲರನ್ನಾಗಿ ನೇಮಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 10	",
-	"	c. 12	",
-	"	d. 13	"
+	"	A. ಎರಡು	",
+	"	B. ಹತ್ತು	",
+	"	C. ಹನ್ನೆರಡು	",
+	"	D. ಹದಿಮೂರು	"
 ],			
-"correct" :	"	c. 12	",
-"explanation" :	"	Then He appointed twelve, that they might be with Him and that He might send them out to preach, - Mr 3:14	",
+"correct" :	"	C. ಹನ್ನೆರಡು	",
+"explanation" :	"	ಆತನು ಹನ್ನೆರಡು ಮಂದಿಯನ್ನು ಆರಿಸಿ..    ಮಾರ್ಕ 3:14	",
 },			
 {			
-"question" :	"	6. Jesus sent the men to preach, cast out devils, and	",
+"question" :	"	6 ಯೇಸು ಅಪೋಸ್ತಲರನ್ನು ಕಳುಹಿಸಿದ್ದು, ಸಾರುವುದಕ್ಕೂ ದೆವ್ವಗಳನ್ನು ಬಿಡಿಸುವುದಕ್ಕೂ  ಮತ್ತು ……………	",
 "image" :	"",		
 "choices" : [			
-	"	a. Feed the poor.	",
-	"	b. Debate the Pharisees.	",
-	"	c. Rebuke sinners.	",
-	"	d. Heal the sick.	"
+	"	A. ಬಡವರಿಗೆ ಉಣಿಸಲು	",
+	"	B. ಫರಿಸಾಯರೊಂದಿಗೆ ವಾದಿಸಲು	",
+	"	C. ಪಾಪಿಗಳನ್ನು ಮನ:ತಿರುಗಿಸಲು	",
+	"	D. ರೋಗಿಗಳನ್ನು ಸ್ವಸ್ಥಮಾಡಲು	"
 ],			
-"correct" :	"	d. Heal the sick.	",
-"explanation" :	"	Then He appointed twelve, that they might be with Him and that He might send them out to preach,and to have power to heal sicknesses and to cast out demons - Mr 3:14-15	",
+"correct" :	"	D. ರೋಗಿಗಳನ್ನು ಸ್ವಸ್ಥಮಾಡಲು	",
+"explanation" :	"	ಆತನು ಹನ್ನೆರಡು ಮಂದಿಯನ್ನು ಆರಿಸಿ ಅವರು ತನ್ನ ಸಂಗಡ ಇರಬೇಕೆಂತಲೂ ದೆವ್ವಗಳನ್ನು ಬಿಡಿಸುವ ಅಧಿಕಾರವುಳ್ಳವರಾಗಿ ಸುವಾರ್ತೆಯನ್ನು ಸಾರುವದಕ್ಕೆ ತಾನು ಅವರನ್ನು ಕಳುಹಿಸುವೆನೆಂತಲೂ ಆ ಹನ್ನೆರಡು ಮಂದಿಯನ್ನು ಆರಿಸಿ ನೇಮಿಸಿದನು.  ಮಾರ್ಕ 3:14-15.	",
 },			
 {			
-"question" :	"	7. When the crowds gathered around Jesus, what did His friends say?	",
+"question" :	"	7 ಜನರ ಗುಂಪು ಯೇಸುವಿನ ಸುತ್ತ ಸೇರಿದಾಗ, ಆತನ ಬಂಧುಗಳು ಏನೆಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. This is the Son of God.	",
-	"	b. He is beside Himself.	",
-	"	c. I am His friend.	",
-	"	d. Make space for us near the master.	"
+	"	A. ಇವನು ದೇವರ ಮಗನು	",
+	"	B. ಅವನಿಗೆ ಹುಚ್ಚು ಹಿಡಿದದೆ	",
+	"	C. ನಾನು ಆತನ ಸ್ನೇಹಿತ	",
+	"	D. ನಾವು ಗುರುವಿನ ಬಳಿಗೆ ಹೋಗಲು ಸ್ಥಳ ನೀಡಿ.	"
 ],			
-"correct" :	"	b. He is beside Himself.	",
-"explanation" :	"	Then the multitude came together again, so that they could not so much as eat bread.But when His own people heard about this, they went out to lay hold of Him, for they said, He is out of His mind. - Mr 3:20-21	",
+"correct" :	"	B. ಅವನಿಗೆ ಹುಚ್ಚು ಹಿಡಿದದೆ	",
+"explanation" :	"	ಆತನು ಮನೆಯೊಳಗೆ ಬಂದಾಗ ಜನರು ತಿರಿಗಿ ನೆರದದ್ದರಿಂದ ಊಟಕ್ಕೂ ಅವಕಾಶವಾಗಲಿಲ್ಲ.  ಇದನ್ನು ಕೇಳಿ ಆತನ ಬಂಧುಗಳು ಅವನಿಗೆ ಹುಚ್ಚು ಹಿಡಿದದೆ ಎಂದು ಹೇಳಿ ಆತನನ್ನು ಹಿಡಿಯುವದಕ್ಕೆ ಹೊರಟರು.  ಮಾರ್ಕ 3:21-21	",
 },			
 {			
-"question" :	"	8. By what power did the Pharisees say Jesus cast out devils?	",
+"question" :	"	8  ಯೇಸು ಯಾವುದರ ಸಹಾಯದಿಂದ ದೆವ್ವಗಳನ್ನು ಬಿಡಿಸುತ್ತಾನೆಂದು ಫರಿಸಾಯರು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Beelzebub, prince of the devils	",
-	"	b. God	",
-	"	c. His own	",
-	"	d. He had no power to cast them out.	"
+	"	A. ದೆವ್ವಗಳ ಒಡೆಯನಾದ ಬೆಲ್ಜೆಬೂಲನ	",
+	"	B. ದೇವರ	",
+	"	C. ತನ್ನ ಸ್ವಂತ ಶಕ್ತಿ	",
+	"	D. ಅವುಗಳನ್ನು ಓಡಿಸಲು ಆತನಿಗೆ ಅಧಿಕಾರವಿರಲಿಲ್ಲ	"
 ],			
-"correct" :	"	a. Beelzebub, prince of the devils	",
-"explanation" :	"	And the scribes who came down from Jerusalem said, He has Beelzebub, and, By the ruler of the demons He casts out demons. - Mr 3:22	",
+"correct" :	"	A. ದೆವ್ವಗಳ ಒಡೆಯನಾದ ಬೆಲ್ಜೆಬೂಲನ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಯೆರೂಸಲೇಮಿನಿಂದ ಬಂದಿದ್ದ ಶಾಸ್ತ್ರಿಗಳು ಇವನನ್ನು ಬೆಲ್ಜೆಬೂಲನು ಹಿಡಿದಿದ್ದಾನೆಂತಲೂ ಇವನು ದೆವ್ವಗಳ ಒಡೆಯನ ಸಹಾಯದಿಂದ ದೆವ್ವಗಳನ್ನು ಬಿಡಿಸುತ್ತಾನೆಂತಲೂ ಹೇಳುತ್ತಿದ್ದರು.  ಮಾರ್ಕ 3:22	",
 },			
 {			
-"question" :	"	9. Jesus said, this divided, could not stand.	",
+"question" :	"	9  ಯೇಸು ಹೇಳಿದ್ದು, ಇದರಲ್ಲಿ ಭೇದ ಹುಟ್ಟಿದರೆ ಅದು ನಿಲ್ಲಲಾರದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. A house	",
-	"	b. A boat	",
-	"	c. A tower	",
-	"	d. A lie	"
+	"	A. ಮನೆ	",
+	"	B. ದೋಣಿ	",
+	"	C. ಗೋಪುರ	",
+	"	D. ಸುಳ್ಳು	"
 ],			
-"correct" :	"	a. A house	",
-"explanation" :	"	And if a house is divided against itself, that house cannot stand. - Mr 3:25	",
+"correct" :	"	A. ಮನೆ	",
+"explanation" :	"	ಒಂದು ಮನೆಯಲ್ಲಿ ಭೇದ ಹುಟ್ಟಿದರೆ ಆ ಮನೆಯು ನಿಲ್ಲಲಾರದು.  ಮಾರ್ಕ 3:25	",
 },			
 {			
-"question" :	"	10. Jesus said, this, is His brother and sister and mother.	",
+"question" :	"	10 ಯೇಸು ಹೇಳಿದ್ದು: ಇವರು ನನಗೆ ತಮ್ಮನೂ ತಂಗಿಯೂ ತಾಯಿಯೂ ಆಗಬೇಕು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Pharisees	",
-	"	b. Mary, Jose & Jesse	",
-	"	c. Whoever does the will of God	",
-	"	d. All Jews	"
+	"	A. ಫರಿಸಾಯರು	",
+	"	B. ಮರಿಯ, ಜೋಸೆ ಮತ್ತು ಜೆಸ್ಸಿ	",
+	"	C. ದೇವರ ಚಿತ್ತದಂತೆ ನಡೆಯುವವನು	",
+	"	D. ಎಲ್ಲಾ ಯೆಹೂದ್ಯರು	"
 ],			
-"correct" :	"	c. Whoever does the will of God	",
-"explanation" :	"	For whoever does the will of God is My brother and My sister and mother. - Mr 3:35	",
+"correct" :	"	C. ದೇವರ ಚಿತ್ತದಂತೆ ನಡೆಯುವವನು	",
+"explanation" :	"	ದೇವರ ಚಿತ್ತದಂತೆ ನಡೆಯುವವನೇ ನನಗೆ ತಮ್ಮನೂ ತಂಗಿಯೂ ಆಗಬೇಕು ಅಂದನು.  ಮಾರ್ಕ 3:35	",
 },			
 ]			

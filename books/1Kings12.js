@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 12";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. Rehoboam went to this place, where all Israel came to make him king.	",
@@ -19,7 +19,7 @@ var quiz = [
 	"	a. Jeroboam	",
 	"	b. Reno	",
 	"	c. Timaius	",
-	"	d. Philemon	"
+	"	d. ಫಿಲೆಮೋನನಿಗೆ	"
 ],			
 "correct" :	"	a. Jeroboam	",
 "explanation" :	"	And it came to pass, when Jeroboam the son of Nebat, who was yet in Egypt, heard of it, (for he was fled from the presence of king Solomon, and Jeroboam dwelt in Egypt;)That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying, 1 Kings 12:2-3	",

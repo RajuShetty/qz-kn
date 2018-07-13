@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 7";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. ಇವುಗಳನ್ನು ತೊಲಗಿಸಿ ನಮ್ಮನ್ನು ಶುಚಿಮಾಡಿಕೊಳ್ಳೋಣ.	",

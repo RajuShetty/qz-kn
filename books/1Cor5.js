@@ -1,4 +1,4 @@
-var quiztitle = "1 Corinthians chapter 5";			
+var quiztitle = "1 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. ಕೊರಿಂಥ ಸಭೆಯಲ್ಲಿ ಇದು ಇತ್ತೆಂದು ಜನರು ಸಾಧಾರಣವಾಗಿ ಹೇಳುತ್ತಿದ್ದರು.	",

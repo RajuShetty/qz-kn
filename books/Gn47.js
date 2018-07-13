@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 47";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 47";			
 var quiz = [			
 {			
 "question" :	"	1. How many of his brethren did Joseph present before Pharaoh?	",

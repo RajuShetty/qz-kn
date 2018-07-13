@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 20";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
-"question" :	"	1. On this day of the week Mary Magdalene came to the tomb and found the stone rolled away.	",
+"question" :	"	1  ವಾರದ ಈ ದಿನ ಮಗ್ಧಲದ ಮರಿಯಳು ಸಮಾಧಿಯ ಬಳಿ ಬಂದು ಅಲ್ಲಿ ಸಮಾಧಿಯ ಕಲ್ಲು  ತೆಗೆಯಲ್ಪಟ್ಟಿರುವುದನ್ನು ಕಂಡಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1 st	",
-	"	b. 3 rd	",
-	"	c. 5 th	",
-	"	d. 7 th	"
+	"	A. ಮೊದಲನೇ	",
+	"	B. ಮೂರನೇ	",
+	"	C. ಐದನೇ	",
+	"	D. ಏಳನೇ	"
 ],			
-"correct" :	"	a. 1 st	",
-"explanation" :	"	Now on the first day of the week Mary Magdalene went to the tomb early, while it was still dark, and saw that the stone had been taken away from the tomb.Jn20:1	",
+"correct" :	"	A. ಮೊದಲನೇ	",
+"explanation" :	"	ವಾರದ ಮೊದಲನೆಯ ದಿನದಲ್ಲಿ ಮಗ್ದಲದ ಮರಿಯಳು ಮುಂಜಾನೆ ಇನ್ನೂ ಕತ್ತಲೆ ಇರುವಾಗಲೇ ಸಮಾಧಿಯ ಬಳಿಗೆ ಬಂದು ಸಮಾಧಿಯ ಕಲ್ಲು ಅಲ್ಲಿಂದ ತೆಗೆದಿರುವದನ್ನು ಕಂಡಳು 20:1	",
 },			
 {			
-"question" :	"	2. What disciple is named that ran to the sepulcher?	",
+"question" :	"	2  ಸಮಾಧಿಯ ಬಳಿಗೆ ಓಢಿಹೋದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. James	",
-	"	c. Andrew	",
-	"	d. Judas	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಯಾಕೋಬ	",
+	"	C. ಆಂದ್ರೇಯ	",
+	"	D. ಯೂದ	"
 ],			
-"correct" :	"	a. Peter	",
-"explanation" :	"	Peter therefore went out, and the other disciple, and were going to the tomb.Jn20:3	",
+"correct" :	"	A. ಪೇತ್ರ	",
+"explanation" :	"	ಆಗ ಪೇತ್ರನೂ ಆ ಮತ್ತೊಬ್ಬ ಶಿಷ್ಯನೂ ಹೊರಟು ಸಮಾಧಿಯ ಕಡೆಗೆ ಹೋದರು. ಅವರಿಬ್ಬರೂ ಜೊತೆಯಾಗಿ ಓಡಿದರು 20:3	",
 },			
 {			
-"question" :	"	3. What did they see in the sepulcher?	",
+"question" :	"	3  ಸಮಾಧಿಯಲ್ಲಿ ಅವರು ಏನನ್ನು ಕಂಡರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus’ body	",
-	"	b. An angel	",
-	"	c. Jesus’ burial clothes	",
-	"	d. Gold, frankincense & myrrh	"
+	"	A. ಯೇಸುವಿನ ದೇಹ	",
+	"	B. ದೂತ	",
+	"	C. ಯೇಸುವಿನ ದೇಹವನ್ನು ಸುತ್ತಿದ್ದ ವಸ್ತ್ರಗಳು	",
+	"	D. ಚಿನ್ನ, ಧೂಪ ಮತ್ತು ರಕ್ತಭೋಳ	"
 ],			
-"correct" :	"	c. Jesus’ burial clothes	",
-"explanation" :	"	And he, stooping down and looking in, saw the linen cloths lying there; yet he did not go in.Then Simon Peter came, following him, and went into the tomb; and he saw the linen cloths lying there,Jn20:5,6	",
+"correct" :	"	C. ಯೇಸುವಿನ ದೇಹವನ್ನು ಸುತ್ತಿದ್ದ ವಸ್ತ್ರಗಳು	",
+"explanation" :	"	ಬೊಗ್ಗಿ ನೋಡಿ ಆ ನಾರುಬಟ್ಟೆಗಳು ಬಿದ್ದಿರುವದನ್ನು ಕಂಡನು; ಆದರೆ ಒಳಕ್ಕೆ ಹೋಗಲಿಲ್ಲ. ಸೀಮೋನ ಪೇತ್ರನು ಅವನ ಹಿಂದೆ ಬಂದು ಸಮಾಧಿಯೊಳಕ್ಕೆ ಹೋಗಿ ಆ ನಾರುಬಟ್ಟೆಗಳು ಬಿದ್ದಿರುವದನ್ನೂ ಆತನ ತಲೆಯ ಮೇಲಿದ್ದ ಕೈಪಾವುಡವು 20:5,6	",
 },			
 {			
-"question" :	"	4. Mary stood at the tomb weeping and saw this in the tomb.	",
+"question" :	"	4  ಸಮಾಧಿಯ ಬಳಿ ಅಳುತ್ತಾ ನಿಂತಿದ್ದ ಮರಿಯಳು, ಸಮಾಧಿಯ ಒಳಗೆ ಇದನ್ನು ಕಂಡಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The devil	",
-	"	b. 2 angels	",
-	"	c. A burning bush	",
-	"	d. A great light	"
+	"	A. ದೆವ್ವ	",
+	"	B. ಇಬ್ಬರು ದೂತರು	",
+	"	C. ಉರಿಯುವ ಪೊದೆ	",
+	"	D. ಮಹಾ ಬೆಳಕು	"
 ],			
-"correct" :	"	b. 2 angels	",
-"explanation" :	"	But Mary stood outside by the tomb weeping, and as she wept she stooped down and looked into the tomb. And she saw two angels in white sitting, one at the head and the other at the feet, where the body of Jesus had lain.Jn20:11,12	",
+"correct" :	"	B. ಇಬ್ಬರು ದೂತರು	",
+"explanation" :	"	ಆದರೆ ಮರಿಯಳು ಹೊರಗೆ ಸಮಾಧಿಯ ಬಳಿಯಲ್ಲಿ ಅಳುತ್ತಾ ನಿಂತಿದ್ದಳು. ಹೀಗೆ ಆಕೆ ಅಳುತ್ತಿರುವಾಗ ಸಮಾಧಿಯೊಳಗೆ ಬೊಗ್ಗಿ ನೋಡಲು ಯೇಸುವಿನ ದೇಹವು ಇಟ್ಟಿದ್ದ ಸ್ಥಳದಲ್ಲಿ ಬೆಳ್ಳಗಿರುವ ವಸ್ತ್ರಗಳನ್ನು ಹೊದ್ದುಕೊಂಡ ಇಬ್ಬರು ದೇವದೂತರನ್ನು ಕಂಡಳು; ಅವರಲ್ಲಿ ಒಬ್ಬನು ತಲೆಯಿದ್ದ ಕಡೆಯಲ್ಲಿ ಒಬ್ಬನು ಕಾಲಿದ್ದ ಕಡೆಯಲ್ಲಿ ಕೂತಿದ್ದರು 20:11,12	",
 },			
 {			
-"question" :	"	5. When Jesus spoke to Mary and she did not recognize Him, who did she think He was?	",
+"question" :	"	5  ಯೇಸು ಮರಿಯಳ ಬಳಿ ಮಾತನಾಡಿದಾಗ್ಯೂ ಆತನ ಗುರುತು ಸಿಗಲಿಲ್ಲ, ಆಕೆಯು ಆತನನ್ನು  ಯಾರೆಂದು ನೆನೆಸಿದ್ದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A soldier	",
-	"	b. A Pharisee	",
-	"	c. A gardener	",
-	"	d. Judas Iscariot	"
+	"	A. ಸೈನಿಕ	",
+	"	B. ಫರಿಸಾಯನು	",
+	"	C. ತೋಟಗಾರ	",
+	"	D. ಇಸ್ಕರಿಯೋತ ಯೂದ	"
 ],			
-"correct" :	"	c. A gardener	",
-"explanation" :	"	Now when she had said this, she turned around and saw Jesus standing there, and did not know that it was Jesus. Jesus said to her, Woman, why are you weeping? Whom are you seeking?he, supposing Him to be the gardener, said to Him, Sir, if You have carried Him away, tell me where You have laid Him, and I will take Him away. Jn20:14,15	",
+"correct" :	"	C. ತೋಟಗಾರ	",
+"explanation" :	"	ಇದನ್ನು ಹೇಳಿ ತಿರುಗಿಕೊಂಡು ಯೇಸು ನಿಂತಿರುವದನ್ನು ಕಂಡಳು, ಆದರೆ ಆತನು ಯೇಸು ಅಂತ ಆಕೆಗೆ ತಿಳಿಯಲಿಲ್ಲ. ಯೇಸು ಆಕೆಯನ್ನು - ಅಮ್ಮಾ, ಯಾಕೆ ಅಳುತ್ತೀ? ಯಾರನ್ನು ಹುಡುಕುತ್ತೀ? ಎಂದು ಕೇಳಲು ಆಕೆ ಆತನನ್ನು ತೋಟಗಾರನೆಂದು ನೆನಸಿ ಆತನಿಗೆ - ಅಯ್ಯಾ, ನೀನು ಆತನನ್ನು ಎತ್ತಿಕೊಂಡು ಹೋಗಿದ್ದರೆ ಎಲ್ಲಿ ಇಟ್ಟಿದ್ದೀ ನನಗೆ ಹೇಳು; ನಾನು ತೆಗೆದುಕೊಂಡು ಹೋಗುತ್ತೇನೆ ಎಂದು ಹೇಳಿದಳು. 20:14,15	",
 },			
 {			
-"question" :	"	6. When Jesus spoke her name, she recognized Him and called him this.	",
+"question" :	"	6  ಯೇಸು ಆಕೆಯನ್ನು ಹೆಸರಿಡಿದು ಕರೆದ ಮೇಲೆ, ಆಕೆಗೆ ಆತನ ಗುರುತು ಸಿಕ್ಕಿತು, ಆಗ ಆಕೆ  ಹೀಗೆಂದಳು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Rabboni	",
-	"	b. Lord	",
-	"	c. The Resurrection	",
-	"	d. Anointed of God	"
+	"	A. ರಬ್ಬೂನಿ	",
+	"	A. ಕರ್ತನೇ	",
+	"	C. ಪುನರುತ್ಥಾನವು	",
+	"	D. ದೇವರಿಂದ ಅಭಿಷೇಕಿಸಲ್ಪಟ್ಟವನು	"
 ],			
-"correct" :	"	a. Rabboni	",
-"explanation" :	"	Jesus said to her, Mary!She turned and said to Him,[a] Rabboni! (which is to say, Teacher).Jn20:16	",
+"correct" :	"	A. ರಬ್ಬೂನಿ	",
+"explanation" :	"	ಯೇಸು ಆಕೆಗೆ - ಮರಿಯಳೇ, ಎಂದು ಹೇಳಿದನು. ಆಕೆ ತಿರುಗಿಕೊಂಡು ಇಬ್ರಿಯ ಮಾತಿನಲ್ಲಿ - ರಬ್ಬೂನಿ, ಅಂದಳು.  20:16	",
 },			
 {			
-"question" :	"	7. Jesus breathed on His disciples,and said	",
+"question" :	"	7  ಯೇಸು ಶಿಷ್ಯರ ಮೇಲೆ ಊದಿ ಹೀಗಂದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Feel My breath. I am alive.	",
-	"	b. Receive ye the Holy Ghost.	",
-	"	c. I am not a spirit.	",
-	"	d. I am the breath of life.	"
+	"	A. ನನ್ನ ಶ್ವಾಸವನ್ನು ಅನುಭವಿಸಿರಿ, ನಾನು ಬದುಕಿದ್ದೇನೆ	",
+	"	B. ಪವಿತ್ರಾತ್ಮನನ್ನು ಹೊಂದಿಕೊಳ್ಳಿರಿ	",
+	"	C. ನಾನು ಆತ್ಮನಲ್ಲ	",
+	"	D. ನಾನು ಜೀವದಾಯಕ ಶ್ವಾಸವಾಗಿದ್ದೇನೆ	"
 ],			
-"correct" :	"	b. Receive ye the Holy Ghost.	",
-"explanation" :	"	And when He had said this, He breathed on them, and said to them, Receive the Holy Spirit.Jn20:22	",
+"correct" :	"	B. ಪವಿತ್ರಾತ್ಮನನ್ನು ಹೊಂದಿಕೊಳ್ಳಿರಿ	",
+"explanation" :	"	ಇದನ್ನು ಹೇಳಿ ಅವರ ಮೇಲೆ ಊದಿ ಅವರಿಗೆ - ಪವಿತ್ರಾತ್ಮವರವನ್ನು ತಕ್ಕೊಳ್ಳಿರಿ 20:22	",
 },			
 {			
-"question" :	"	8. This disciple was not there when Jesus appeared to the others, and he did not believe their account.	",
+"question" :	"	8  ಯೇಸು ಶಿಷ್ಯರಿಗೆ ಕಾಣಿಸಿಕೊಂಡಾಗ ಈ ಶಿಷ್ಯನು ಅಲ್ಲಿರಲಿಲ್ಲ ಮತ್ತು ಅವರು ಹೇಳಿದ್ದನ್ನು ಆತನು   ನಂಬಲಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Thomas	",
-	"	b. Peter	",
-	"	c. John	",
-	"	d. Matthew	"
+	"	A. ತೋಮ	",
+	"	B. ಪೇತ್ರ	",
+	"	C. ಯೋಹಾನ	",
+	"	D. ಮತ್ತಾಯ	"
 ],			
-"correct" :	"	a. Thomas	",
-"explanation" :	"	Now Thomas, called the Twin, one of the twelve, was not with them when Jesus came. The other disciples therefore said to him, We have seen the Lord.So he said to them, Unless I see in His hands the print of the nails, and put my finger into the print of the nails, and put my hand into His side, I will not believe.Jn20:24,25	",
+"correct" :	"	A. ತೋಮ	",
+"explanation" :	"	ಯೇಸು ಬಂದಾಗ ಹನ್ನೆರಡು ಮಂದಿ ಶಿಷ್ಯರೊಳಗೆ ಒಬ್ಬನಾದ ದಿದುಮನೆನಿಸಿಕೊಳ್ಳುವ ತೋಮನು ಅವರ ಸಂಗಡ ಇರಲಿಲ್ಲ. ಆದದರಿಂದ ಉಳಿದ ಶಿಷ್ಯರು - ನಾವು ಸ್ವಾಮಿಯನ್ನು ನೋಡಿದ್ದೇವೆ ಎಂದು ಅವನಿಗೆ ಹೇಳಿದರು. ಅದಕ್ಕೆ ಅವನು - ನಾನು ಆತನ ಕೈಗಳಲ್ಲಿ ಮೊಳೆಗಳಿಂದಾದ ಗಾಯವನ್ನು ನೋಡಿ ಆ ಮೊಳೆಯ ಗಾಯದಲ್ಲಿ ನನ್ನ ಬೆರಳನ್ನು ಇಟ್ಟು ಆತನ ಪಕ್ಕೆಯಲ್ಲಿ ನನ್ನ ಕೈಯನ್ನು ಹಾಕಿದ ಹೊರತು ನಿಮ್ಮ ಮಾತನ್ನು ನಂಬುವದೇ ಇಲ್ಲ ಅಂದನು 20:24,25	",
 },			
 {			
-"question" :	"	9. What did that disciple say when He saw Jesus?	",
+"question" :	"	9  ಆ ಶಿಷ್ಯನು ಯೇಸುವನ್ನು ಕಂಡಾಗ ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. I am a sinful man.	",
-	"	b. I shall doubt no more.	",
-	"	c. My Lord and my God.	",
-	"	d. Breathe on me.	"
+	"	A. ನಾನು ಪಾಪಿ	",
+	"	B. ನನಗೆ ಇನ್ನು ಯಾವ ಸಂದೇಹವೂ ಇಲ್ಲ	",
+	"	C. ನನ್ನ ಕರ್ತನೇ ನನ್ನ ದೇವರೇ	",
+	"	D. ನನ್ನ ಮೇಲೆ ಊದು	"
 ],			
-"correct" :	"	c. My Lord and my God.	",
-"explanation" :	"	And after eight days His disciples were again inside, and Thomas with them. Jesus came, the doors being shut, and stood in the midst, and said, Peace to you!Then He said to Thomas, Reach your finger here, and look at My hands; and reach your hand here, and put it into My side. Do not be unbelieving, but believing.And Thomas answered and said to Him, My Lord and my God!Jn20:26-28 	",
+"correct" :	"	C. ನನ್ನ ಕರ್ತನೇ ನನ್ನ ದೇವರೇ	",
+"explanation" :	"	ಎಂಟು ದಿವಸಗಳಾದ ಮೇಲೆ ಆತನ ಶಿಷ್ಯರು ತಿರಿಗಿ ಒಳಗಿದ್ದಾಗ ತೋಮನೂ ಅವರ ಸಂಗಡ ಇದ್ದನು. ಬಾಗಲುಗಳು ಮುಚ್ಚಿದ್ದವು. ಆಗ ಯೇಸು ಬಂದು ನಡುವೆ ನಿಂತು - ನಿಮಗೆ ಸಮಾಧಾನವಾಗಲಿ ಅಂದನು. ಆಮೇಲೆ ತೋಮನಿಗೆ - ನಿನ್ನ ಬೆರಳನ್ನು ಈ ಕಡೆ ಚಾಚಿ ನನ್ನ ಕೈಗಳನ್ನು ಮುಟ್ಟಿ ನೋಡು; ನಿನ್ನ ಕೈಚಾಚಿ ನನ್ನ ಪಕ್ಕೆಯಲ್ಲಿ ಹಾಕು; ನಂಬದವನಾಗಿರಬೇಡ, ನಂಬುವವನಾಗು ಎಂದು ಹೇಳಿದನು. ತೋಮನು ಆತನಿಗೆ - ನನ್ನ ಸ್ವಾಮೀ, ನನ್ನ ದೇವರು! ಎಂದು ಹೇಳಿದನು  20:26-28 	",
 },			
 {			
-"question" :	"	10. Jesus said, blessed are they who have not seen	",
+"question" :	"	10  ಯೇಸು ಹೇಳಿದ್ದು, ಕಾಣದೇ ____________ ಧನ್ಯನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. And yet have believed.	",
-	"	b. For they shall see.	",
-	"	c. For they are seen of My Father.	",
-	"	d. For they will be forgiven.	"
+	"	A. ನಂಬುವವನು	",
+	"	B. ಅವರು ಕಾಣುವದಕ್ಕಾಗಿ	",
+	"	C. ಅವರು ನನ್ನ ತಂದೆಯನ್ನು ನೋಡಿದ್ದಕ್ಕಾಗಿ ಅವರು	",
+	"	D. ಅವರು ಕ್ಷಮಿಸಲ್ಪಡುವುದಕ್ಕಾಗಿ	"
 ],			
-"correct" :	"	a. And yet have believed.	",
-"explanation" :	"	Jesus said to him, Thomas,[d] because you have seen Me, you have believed. Blessed are those who have not seen and yet have believed.Jn20:29	",
+"correct" :	"	A. ನಂಬುವವನು	",
+"explanation" :	"	ಯೇಸು ಅವನಿಗೆ - ನೀನು ನನ್ನನ್ನು ನೋಡಿದ್ದರಿಂದ ನಂಬಿದ್ದೀ; ನೋಡದೆ ನಂಬಿದವರು ಧನ್ಯರು ಎಂದು ಹೇಳಿದನು 20:29	",
 },			
 ]			

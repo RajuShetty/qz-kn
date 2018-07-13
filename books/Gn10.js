@@ -1,7 +1,7 @@
-var quiztitle = " Genesis  chapter 10";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter lists the generations of the sons of	",
+"question" :	"	1. This ಅಧ್ಯಾಯ lists the generations of the sons of	",
 "image" :	"",		
 "choices" : [			
 	"	a. Noah.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 21";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1. The men of Israel swore not to allow their daughters to marry men from this tribe.	",

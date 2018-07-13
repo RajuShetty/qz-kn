@@ -1,4 +1,4 @@
-var quiztitle = "2 Timothy chapter 3";			
+var quiztitle = "2 ತಿಮೊಥೆಯನಿಗೆ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಕಡೇ ದಿವಸಗಳಲ್ಲಿ ಇವು ಬರುವವು	",

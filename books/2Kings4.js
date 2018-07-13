@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 4";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. A widow told Elisha the creditors were going to take her	",

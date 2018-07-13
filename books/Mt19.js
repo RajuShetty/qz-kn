@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 19";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
-"question" :	"	1. Why did Jesus say Moses gave the command to give writing of divorcement?	",
+"question" :	"	1 ಮೋಶೆಯು ಯಾಕೆ ತ್ಯಾಗಪತ್ರವನ್ನು ಬರೆದುಕೊಟ್ಟು ಹೆಂದತಿಯನ್ನು ಬಿಟ್ಟುಬಿಡಬಹುದೆಂದು ಹೇಳಿದನು ಎಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Because of the hardness of your heart	",
-	"	b. Because it was God’s plan from the beginning	",
-	"	c. To fulfill the will of God	",
-	"	d. To provide freedom	"
+	"	A. ನಿಮ್ಮ ಹೃದಯದ ಮೊಡುತನವನ್ನು ನೋಡಿ	",
+	"	B. ಅದು ಆದಿಯಿಂದಲೂ ದೇವರ ಚಿತ್ತವಾಗಿತ್ತು	",
+	"	C. ದೇವರ ಚಿತ್ತವನ್ನು ನೆವೇರಿಸಲು	",
+	"	D. ಬಿಡುಗಡೆ ಕೊಡಲು	"
 ],			
-"correct" :	"	a. Because of the hardness of your heart	",
-"explanation" :	"	He said to them, Moses, because of the hardness of your hearts, permitted you to divorce your wives, but from the beginning it was not so. - Matt 19:8	",
+"correct" :	"	A. ನಿಮ್ಮ ಹೃದಯದ ಮೊಡುತನವನ್ನು ನೋಡಿ	",
+"explanation" :	"	ಮಾಶೆಯು ನಿಮ್ಮ ಮೊಂಡತನವನ್ನು ನೋಡಿ ನಿಮ್ಮ ಹೆಂಡರನ್ನು ಬಿಟ್ಟುಬಿಡುವದಕ್ಕೆ ಅಪ್ಪಣೆ ಕೊಟ್ಟನು.  ಮತ್ತಾಯ 19:8	",
 },			
 {			
-"question" :	"	2. When the children were brought to Jesus, what did the disciples do?	",
+"question" :	"	2 ಚಿಕ್ಕ ಮಕ್ಕಳನ್ನು ಯೇಸುವಿನ ಬಳಿಗೆ ತಂದಾಗ ಶಿಷ್ಯರು ಏನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Held them	",
-	"	b. Rebuked them	",
-	"	c. Prayed for them	",
-	"	d. Laid hands on them	"
+	"	A. ಅವರನ್ನು ಹಿಡಿದರು	",
+	"	B. ಅವರನ್ನು ಗದರಿಸಿದರು	",
+	"	C. ಅವರಿಗಾಗಿ ಪ್ರಾರ್ಥಿಸಿದರು	",
+	"	D. ಅವರ ಮೇಲೆ ಕೈಗಳನ್ನಿಟ್ಟರು	"
 ],			
-"correct" :	"	b. Rebuked them	",
-"explanation" :	"	Then little children were brought to Him that He might put His hands on them and pray, but the disciples rebuked them. - Matt 19:13	",
+"correct" :	"	B. ಅವರನ್ನು ಗದರಿಸಿದರು	",
+"explanation" :	"	ಆಗ ಕೆಲವರು ತಮ್ಮ ಚಿಕ್ಕ ಮಕ್ಕಳನ್ನು ಯೇಸುವಿನ ಬಳಿಗೆ ತಂದು ಆತನು ಅವುಗಳ ಮೇಲೆ ಕೈಯಿಟ್ಟು ಪ್ರಾರ್ಥನೆ ಮಾಡಬೇಕೆಂದು ಕೇಳಲು ಶಿಷ್ಯರು ಅವರನ್ನು ಗದರಿಸಿದರು. ಮತ್ತಾಯ 19:13	",
 },			
 {			
-"question" :	"	3. Jesus told the disciples, allow the children to come unto Me for	",
+"question" :	"	3 ಯೇಸು ಶಿಷ್ಯರಿಗೆ ಹೇಳಿದನು, ಆ ಮಕ್ಕಳನ್ನು ನನ್ನ ಬಳಿಗೆ ಬಿಡಿರಿ, ಯಾಕೆಂದರೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. They love Me.	",
-	"	b. They are God’s children.	",
-	"	c. You shall have children like them.	",
-	"	d. Such is the kingdom of heaven.	"
+	"	A. ಅವರು ನನ್ನನ್ನು ಪ್ರೀತಿಸುವರು	",
+	"	B. ಅವರು ದೇವರ ಮಕ್ಕಳು	",
+	"	C. ನಿಮಗೆ ಆ ಮಕ್ಕಳಂತಹ ಮಕ್ಕಳನ್ನು ಹೊಂದುವಿರಿ	",
+	"	D. ದೇವರ ರಾಜ್ಯವು ಅಂತಹವರದೇ	"
 ],			
-"correct" :	"	d. Such is the kingdom of heaven.	",
-"explanation" :	"	But Jesus said, Let the little children come to Me, and do not forbid them; for of such is the kingdom of heaven. - Matt 19:14	",
+"correct" :	"	D. ದೇವರ ರಾಜ್ಯವು ಅಂತಹವರದೇ	",
+"explanation" :	"	ಆದರೆ ಯೇಸು ಮಕ್ಕಳನ್ನು ಬಿಡಿರಿ, ನನ್ನ ಹತ್ತರ ಬರುವದಕ್ಕೆ ಅವುಗಳಿಗೆ ಅಡ್ಡಿ ಮಾಡಬೇಡಿರಿ, ಪರಲೋಕರಾಜ್ಯವು ಇಂಥವರದೇ ಎಂದು ಹೇಳಿ ___ ಮತ್ತಾಯ 19:14	",
 },			
 {			
-"question" :	"	4. A rich young man asked Jesus, what he needed to do to	",
+"question" :	"	4 ಒಬ್ಬ ಐಶ್ವರ್ಯವಂತ ಯೌವನಸ್ಥನು ಯೇಸುವನ್ನು ಕೇಳಿದ್ದು, ನಾನು ________  ಏನು ಮಾಡಬೇಕು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Help the poor.	",
-	"	b. Make more money.	",
-	"	c. Become a disciple.	",
-	"	d. Have eternal life.	"
+	"	A. ಬಡವರಿಗೆ ಸಹಾಯ ಮಾಡಲು	",
+	"	B. ಇನ್ನೂ ಹೆಚ್ಚು ಹಣ ಸಂಪಾದಿಸಲು	",
+	"	C. ಶಿಷ್ಯನಾಗಲು	",
+	"	D. ನಿತ್ಯಜೀವಕ್ಕೆ ಸೇರಲು	"
 ],			
-"correct" :	"	d. Have eternal life.	",
-"explanation" :	"	Now behold, one came and said to Him, Good Teacher, what good thing shall I do that I may have eternal life? - Matt 19:16	",
+"correct" :	"	D. ನಿತ್ಯಜೀವಕ್ಕೆ ಸೇರಲು	",
+"explanation" :	"	ಆಗ ಒಬ್ಬನು ಬಂದು ಆತನನ್ನು ಬೋಧಕನೇ ನಾನು ನಿತ್ಯಜೀವವನ್ನು ಪಡೆಯಬೇಕಾದರೆ ಏನು ಒಳ್ಳೇ ಕಾರ್ಯವನ್ನು ಮಾಡಬೇಕು ಎಂದು ಕೇಳಲಾಗಿ__  ಮತ್ತಾಯ 19:16	",
 },			
 {			
-"question" :	"	5. What did the young man say he had done since his youth?	",
+"question" :	"	5 ಯಾವುದನ್ನು ಮಾಡುತ್ತಾ ಇದ್ದೇನೆಂದು ಆ ಯೌವನಸ್ಥ ಐಶ್ವರ್ಯವಂತನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Kept the commandments	",
-	"	b. Helped the poor	",
-	"	c. Saved money	",
-	"	d. Prayed	"
+	"	A. ಆಜ್ಞೆಗಳನ್ನು ಪಾಲಿಸುವುದು	",
+	"	B. ಬಡವರಿಗೆ ಸಹಾಯ	",
+	"	C. ಹಣವನ್ನು ಉಳಿಸುವುದು	",
+	"	D. ಪ್ರಾರ್ಥಿಸುವುದು	"
 ],			
-"correct" :	"	a. Kept the commandments	",
-"explanation" :	"	So He said to him, Why do you call Me good? No one is good but One, that is, God. But if you want to enter into life, keep the commandments.He said to Him, Which ones? Jesus said, 'You shall not murder, You shall not commit adultery, 'You shall not steal,You shall not bear false witness,Honor your father and your mother,' and, You shall love your neighbor as yourself.The young man said to Him, All these things I have kept from my youth. What do I still lack? - Matt 19:17-20	",
+"correct" :	"	A. ಆಜ್ಞೆಗಳನ್ನು ಪಾಲಿಸುವುದು	",
+"explanation" :	"	ನರಹತ್ಯ ಮಾಡಬಾರದು, ವ್ಯಭಿಚಾರ ಮಾಡಬಾರದು, ಕದಿಯಬಾರದು, ಸುಳ್ಳುಸಾಕ್ಷಿ ಹೇಳಬಾರದು, ನಿನ್ನ ತಂದೆತಾಯಿಗಳನ್ನು ಸನ್ಮಾನಿಸಬೇಕು ಮತ್ತು ನಿನ್ನ ಹಾಗೆಯೇ ನಿನ್ನ ನೆರೆಯವನನ್ನು ಪ್ರೀತಿ ಮಾಡಬೇಕು ಎಂಬಿವುಗಳೇ ಅಂದನು, ಆ ಯೌವನಸ್ಥನು ಆತನನ್ನು ಇವೆಲ್ಲಕ್ಕೂ ಸರಿಯಾಗಿ ನಡಕೊಂಡಿದ್ದೇನೆ, ಇನ್ನೇನು ಕಡಿಮೆಯಾಗಿರಬಹುದು ಎಂದು ಕೇಳಲು,   ಮತ್ತಾಯ 19:18-20	",
 },			
 {			
-"question" :	"	6. What did the young man do when Jesus told him to sell whathe had, give to the poor and follow Him?	",
+"question" :	"	6 ನಿನಗಿರುವುದೆಲ್ಲವನ್ನು ಮಾರಿ ಬಡವರಿಗೆ ದಾನ ಮಾಡಿ ನನ್ನನ್ನು ನೀನು ಹಿಂಬಾಲಿಸು ಎಂದು ಯೇಸು ಹೇಳಿದಾಗ ಆ ಯೌವನಸ್ಥ ಐಶ್ವರ್ಯವಂತನು ಏನು ಮಾಡಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sold his possessions & followed Jesus	",
-	"	b. Went away sorrowful	",
-	"	c. Rejoiced at His words	",
-	"	d. Brought his family to Jesus	"
+	"	A. ಆತನ ಸ್ವಾಸ್ಥ್ಯವನ್ನು ಮಾರಿ ಯೇಸುವನ್ನು ಹಿಂಬಾಲಿಸಿದನು	",
+	"	B. ದು:ಖದಿಂದ ಹೊರಟುಹೋದನು	",
+	"	C. ಆತನ ಮಾತುಗಳಲ್ಲಿ ಸಂತೋಷಪಟ್ಟನು	",
+	"	D. ಆತನ ಕುಟುಂಬವನ್ನು ಯೇಸುವಿನ ಬಳಿ ತಂದನು	"
 ],			
-"correct" :	"	b. Went away sorrowful	",
-"explanation" :	"	Jesus said to him, If you want to be perfect, go, sell what you have and give to the poor, and you will have treasure in heaven; and come, follow Me.But when the young man heard that saying, he went away sorrowful, for he had great possessions.- Matt 19:21,22	",
+"correct" :	"	B. ದು:ಖದಿಂದ ಹೊರಟುಹೋದನು	",
+"explanation" :	"	ನೀನು ಸಂಪೂರ್ಣನಾಗಬೇಕೆಂದಿದ್ದರೆ ಹೋಗಿ ನಿನ್ನ ಆಸ್ತಿಯನ್ನು ಮಾರಿ ಬಡವರಿಗೆ ಕೊಡು, ಪರಲೋಕದಲ್ಲಿ ನಿನಗೆ ಸಂಪತ್ತಿರುವದು, ನೀನು ಬಂದು ನನ್ನನ್ನು ಹಿಂಬಾಲಿಸು ಎಂದು ಹೇಳಿದನು.  ಆ ಯೌವನಸ್ಥನು ಬಹಳ ಆಸ್ತಿಯುಳ್ಳವನಾಗಿದ್ದರಿಂದ ಈ ವÁತನ್ನು ಕೇಳಿ ದು:ಖದಿಂದ ಹೊರಟುಹೋದನು.  ಮತ್ತಾಯ 19:21-22	",
 },			
 {			
-"question" :	"	7. What did Jesus say is easier, than for a rich man to enter into the kingdom of God?	",
+"question" :	"	7 ಐಶ್ವರ್ಯವಂತರು ದೇವರರಾಜ್ಯದಲ್ಲಿ ಸೇರುವುದಕ್ಕಿಂತ ಯಾವುದು ಸುಲಭವೆಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A camel to go without water	",
-	"	b. A camel to go without food	",
-	"	c. A man to go without water	",
-	"	d. A camel to go through the eye of a needle	"
+	"	A. ಒಂಟೆಯು ನೀರಿಲ್ಲದೆ ಇರುವುದು	",
+	"	B. ಒಂಟೆಯು ಆಹಾರವಿಲ್ಲದೆ ಇರುವುದು	",
+	"	C. ಒಬ್ಬ ಮನುಷ್ಯನು ನೀರಿಲ್ಲದೆ ಇರುವುದು	",
+	"	D. ಒಂಟೆಯು ಸೂಜಿಯ ಕಣ್ಣಿನಲ್ಲಿ ಸೇರುವುದು	"
 ],			
-"correct" :	"	d. A camel to go through the eye of a needle	",
-"explanation" :	"	And again I say to you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.- Matt 19:24	",
+"correct" :	"	D. ಒಂಟೆಯು ಸೂಜಿಯ ಕಣ್ಣಿನಲ್ಲಿ ಸೇರುವುದು	",
+"explanation" :	"	ಐಶ್ವರ್ಯವಂತನು ದೇವರ ರಾಜ್ಯದಲ್ಲಿ ಸೇರುವದಕ್ಕಿಂತ ಒಂಟೆಯು ಸೂಜಿಯ ಕಣ್ಣಿನಲ್ಲಿ ನುಗ್ಗುವದು ಸುಲಭ ಎಂದು ನಿಮಗೆ ತಿರಿಗಿ ಹೇಳುತ್ತೇನೆ ಅಂದನು.  ಮತ್ತಾಯ 19:24	",
 },			
 {			
-"question" :	"	8. Jesus said, with God	",
+"question" :	"	8 ಯೇಸು ಹೇಳಿದ್ದು, ದೇವರಿಗೆ ...........	",
 "image" :	"",		
 "choices" : [			
-	"	a. Love abounds.	",
-	"	b. All things are possible.	",
-	"	c. Riches are eternal.	",
-	"	d. Life is worth living.	"
+	"	A. ಪ್ರೀತಿಯು ತುಂಬಿದೆ	",
+	"	B. ಎಲ್ಲಾವು ಸಾಧ್ಯ	",
+	"	C. ಐಶ್ವರ್ಯವು ಶಾಶ್ವತ	",
+	"	D. ಜೀವನ ಬೆಲೆಯುಳ್ಳ ಜೀವನ	"
 ],			
-"correct" :	"	b. All things are possible.	",
-"explanation" :	"	But Jesus looked at them and said to them, With men this is impossible, but with God all things are possible. - Matt 19:26	",
+"correct" :	"	B. ಎಲ್ಲಾವು ಸಾಧ್ಯ	",
+"explanation" :	"	ಯೇಸು ಅವರನ್ನು ದೃಷ್ಟಿಸಿ ನೋಡಿ ಇದು ಮನುಷ್ಯರಿಗೆ ಅಸಾಧ್ಯ, ಆದರೆ ದೇವರಿಗೆ ಎಲ್ಲವೂ ಸಾಧ್ಯವೇ ಅಂದನು.  ಮತ್ತಾಯ 19:26	",
 },			
 {			
-"question" :	"	9. What did Jesus say everyone that forsakes his house, or land, or family for His name’s sake shall receive?	",
+"question" :	"	9 ಯಾರಾದರೂ ತನ್ನ ಹೆಸರಿನ ನಿಮಿತ್ತ ಮನೆಯನ್ನಾಗಲಿ, ಭೂಮಿಯನ್ನಾಗಲಿ ಅಥವ ಕುಟುಂಬವನ್ನಾಗಲಿ ಕಳೆದುಕೊಂಡವನಿಗೆ ಏನು ಸಿಕ್ಕುವುದು ಎಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A new commandment	",
-	"	b. A crown, robe & ring	",
-	"	c. A throne	",
-	"	d. 100 fold & everlasting life	"
+	"	A. ಹೊಸ ಒಡಂಬಡಿಕೆ	",
+	"	B. ಕಿರೀಟ, ವಸ್ತ್ರ, ಮತ್ತು ಉಂಗುರ	",
+	"	C. ಸಿಂಹಾಸನ	",
+	"	D. ಅನೇಕ ಪಾಲು ಮತ್ತು ನಿತ್ಯಜೀವ	"
 ],			
-"correct" :	"	d. 100 fold & everlasting life	",
-"explanation" :	"	And everyone who has left houses or brothers or sisters or father or mother or wife or children or lands, for My name's sake, shall receive a hundredfold, and inherit eternal life. - Matt 19:29	",
+"correct" :	"	D. ಅನೇಕ ಪಾಲು ಮತ್ತು ನಿತ್ಯಜೀವ	",
+"explanation" :	"	ನನ್ನ ಹೆಸರಿನ ನಿಮಿತ್ತ ಮನೆಗಳನ್ನಾಗಲಿ ಅಣ್ಣತಮ್ಮಂದಿರನ್ನಾಗಲಿ ಅಕ್ಕತಂಗಿಯರನ್ನಾಗಲಿ ತಂದೆಯನ್ನಾಗಲಿ ತಾಯಿಯನ್ನಾಗಲಿ ಮಕ್ಕಳನ್ನಾಗಲಿ ಭೂಮಿಯನ್ನಾಗಲಿ ಬಿಟ್ಟುಬಿಟ್ಟಿರುವವರೆಲ್ಲರಿಗೆ ಅನೇಕ ಪಾಲು ಹೆಚ್ಚಾಗಿ ಸಿಕ್ಕುವದು ಮತ್ತು ಅವರು ನಿತ್ಯಜೀವಕ್ಕೆ ಬಾಧ್ಯರಾಗುವರು.  ಮತ್ತಾಯ 19:29	",
 },			
 {			
-"question" :	"	10. Who did Jesus say shall be first?	",
+"question" :	"	10 ಯಾರು ಮೊದಲಿಗರೆಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The disciples	",
-	"	b. The Jews	",
-	"	c. The last	",
-	"	d. Those prepared	"
+	"	A. ಶಿಷ್ಯರು	",
+	"	B. ಯೆಹೂದ್ಯರು	",
+	"	C. ಕಡೆಯವರು	",
+	"	D. ಸಿದ್ದವಾದವರು	"
 ],			
-"correct" :	"	c. The last	",
-"explanation" :	"	But many who are first will be last, and the last first. - Matt 19:30	",
+"correct" :	"	C. ಕಡೆಯವರು	",
+"explanation" :	"	ಆದರೆ ಬಹು ಮಂದಿ ಮೊದಲಿನವರು ಕಡೆಯವರಾಗುವರು, ಕಡೆಯವರು ಮೊದಲಿನವರಾಗುವರು.  ಮತ್ತಾಯ 19:30	",
 },			
 ]			

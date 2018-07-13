@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 15";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. The Spirit of God came upon this man, the son of Oded.	",

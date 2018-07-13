@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 7";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. The men of Kirjathjearim brought the ark to this man’s house.	",

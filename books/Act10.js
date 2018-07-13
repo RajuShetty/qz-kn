@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 10";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
-"question" :	"	1. This man was a centurion of the Italian band.	",
+"question" :	"	1 ಇತಾಲ್ಯದ ಪಟಾಲಮ್ಮಿನ ಶತಾಧಿಪತಿ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Cornelius	",
-	"	b. Nicolas	",
-	"	c. Samuel	",
-	"	d. Francis	"
+	"	A. ಕೊರ್ನೇಲ್ಯ	",
+	"	B. ನಿಕೋಲಸ್	",
+	"	C. ಸಮುವೇಲ	",
+	"	D. ಫ್ರಾನ್ಸಿಸ್	"
 ],			
-"correct" :	"	a. Cornelius	",
-"explanation" :	"	There was a certain man in Caesarea called Cornelius, a centurion of the band called the Italian band,Acts10:1	",
+"correct" :	"	A. ಕೊರ್ನೇಲ್ಯ	",
+"explanation" :	"	ಕೈಸರೈಯದಲ್ಲಿ ಇತಾಲ್ಯದ ಪಟಾಲಮೆನಿಸಿಕೊಳ್ಳುವ ಒಂದು ಪಟಾಲಮಿನ ಶತಾಧಿಪತಿಯಾದ ಕೊರ್ನೇಲ್ಯನೆಂಬ ಒಬ್ಬ ಮನುಷ್ಯನಿದ್ದನು. 10:1	",
 },			
 {			
-"question" :	"	2. The centurion was told by an angel to send for this man.	",
+"question" :	"	2 ಈ ಮನುಷ್ಯನನ್ನು ಕರೆತರುವಂತೆ ದೂತನು ಶತಾಧಿಪತಿಗೆ ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. Saul	",
-	"	c. Barnabas	",
-	"	d. Ananias	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಸೌಲ	",
+	"	C. ಬಾರ್ನಬ	",
+	"	D. ಅನನೀಯ	"
 ],			
-"correct" :	"	a. Peter	",
-"explanation" :	"	And now send men to Joppa, and call for one Simon, whose surname is Peter:Acts10:5	",
+"correct" :	"	A. ಪೇತ್ರ	",
+"explanation" :	"	ಈಗ ನೀನು ಯೊಪ್ಪಕ್ಕೆ ಜನರನ್ನು ಕಳುಹಿಸಿ ಪೇತ್ರನೆನಿಸಿಕೊಳ್ಳುವ ಸೀಮೋನನನ್ನು ಕರೆಯಿಸಬೇಕು. 10:5	",
 },			
 {			
-"question" :	"	3. Where did Peter go to pray?	",
+"question" :	"	3 ಪೇತ್ರನು ಪ್ರಾರ್ಥಿಸಲು ಎಲ್ಲಿ ಹೋದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The housetop	",
-	"	b. The temple	",
-	"	c. In a closet	",
-	"	d. In a cellar	"
+	"	A. ಮನೆಯ ಮಾಳಿಗೆಗೆ	",
+	"	B. ದೇವಾಲಯಕ್ಕೆ	",
+	"	C. ಚಿಕ್ಕ ಕೋಣೆ	",
+	"	D. ನೆಲಮಾಳಿಗೆ	"
 ],			
-"correct" :	"	a. The housetop	",
-"explanation" :	"	On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:Acts10:9	",
+"correct" :	"	A. ಮನೆಯ ಮಾಳಿಗೆಗೆ	",
+"explanation" :	"	ಮರುದಿನ ಅವರು ಪ್ರಯಾಣಮಾಡಿ ಆ ಊರಿನ ಹತ್ತಿರಕ್ಕೆ ಬರುತ್ತಿರುವಾಗ ಪೇತ್ರನು ಸುಮಾರು ಮಧ್ಯಾಹ್ನದಲ್ಲಿ ಪ್ರಾರ್ಥನೆ ಮಾಡುವದಕ್ಕಾಗಿ ಮಾಳಿಗೆಯನ್ನು ಹತ್ತಿದನು.  10:9	",
 },			
 {			
-"question" :	"	4. What did Peter see descend?	",
+"question" :	"	4 ಪೇತ್ರನು ಏನು ಇಳಿಯುವುದನ್ನು ಕಂಡನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A dove	",
-	"	b. A great sheet	",
-	"	c. A golden altar	",
-	"	d. A clay vessel	"
+	"	A. ಪಾರಿವಾಳ	",
+	"	B. ದೊಡ್ಡದಾದ ಶೀಟುಗಳು	",
+	"	C. ಚಿನ್ನದ ವೇದಿ	",
+	"	D. ದೊಡ್ಡ ಜೋಗುಳ	"
 ],			
-"correct" :	"	b. A great sheet	",
-"explanation" :	"	 And saw heaven opened, and a certain vessel descending upon him, as it had been a great sheet knit at the four corners, and let down to the earth:Acts10:11	",
+"correct" :	"	B. ದೊಡ್ಡದಾದ ಶೀಟುಗಳು	",
+"explanation" :	"	ಅವನು ಧ್ಯಾನ ಪರವಶನಾಗಿ ಆಕಾಶವು ತೆರೆದಿರುವದನ್ನೂ ನಾಲ್ಕು ಮೂಲೆಗಳನ್ನು ಹಿಡಿದಿದ್ದ ದೊಡ್ಡ ಜೋಳಿಗೆಯಂತಿರುವ ಏನೋ ಒಂದು ವಸ್ತುವು ಭೂಮಿಯ ಮೇಲೆ ಇಳಿಯುವದನ್ನೂ ಕಂಡನು. 10:11	",
 },			
 {			
-"question" :	"	5. In it were all manner of	",
+"question" :	"	5 ಅದರಲ್ಲಿ ಎಲ್ಲಾ ತರಹದ ______ ಇದ್ದವು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Blessings.	",
-	"	b. Cursings.	",
-	"	c. People.	",
-	"	d. Beasts.	"
+	"	A. ಆಶೀರ್ವಾದಗಳು	",
+	"	B. ಶಾಪಗಳು	",
+	"	C. ಜನಗಳು	",
+	"	D. ಕ್ರಿಮಿಕೀಟಗಳು	"
 ],			
-"correct" :	"	d. Beasts.	",
-"explanation" :	"	Wherein were all manner of fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air.Acts10:12	",
+"correct" :	"	D. ಕ್ರಿಮಿಕೀಟಗಳು	",
+"explanation" :	"	ಅದರೊಳಗೆ ಸಕಲ ವಿಧವಾದ ಪಶುಗಳೂ ನೆಲದ ಮೇಲೆ ಹರಿದಾಡುವ ಕ್ರಿಮಿಕೀಟಗಳೂ ಅಂತರಿಕ್ಷದಲ್ಲಿ ಹಾರಾಡುವ ಹಕ್ಕಿಗಳೂ ಇದ್ದವು 10:12	",
 },			
 {			
-"question" :	"	6. What did the voice instruct Peter to do? 	",
+"question" :	"	6 ಏನು ಮಾಡಬೇಕೆಂದು ಪೇತ್ರನಿಗೆ ಶಬ್ಧವು ಸೂಚಿಸಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Go to Jerusalem	",
-	"	b. Fast	",
-	"	c. Kill & eat	",
-	"	d. Judge man	"
+	"	A. ಯೆರೂಷಲೇಮಿಗೆ ಹೋಗು	",
+	"	B. ಉಪವಾಸಿಸು	",
+	"	C. ಕೊಯ್ದು ತಿನ್ನು	",
+	"	D. ನ್ಯಾಯ ತೀರಿಸು	"
 ],			
-"correct" :	"	c. Kill & eat	",
-"explanation" :	"	And there came a voice to him, Rise, Peter; kill, and eat.Acts10:13	",
+"correct" :	"	C. ಕೊಯ್ದು ತಿನ್ನು	",
+"explanation" :	"	ಆಗ - ಪೇತ್ರನೇ, ಎದ್ದು ಕೊಯ್ದು ತಿನ್ನು ಎಂದು ಅವನಿಗೆ ಒಂದು ವಾಣಿ ಕೇಳಿಸಿತು 10:13	",
 },			
 {			
-"question" :	"	7. When the centurion saw Peter, he	",
+"question" :	"	7 ಶತಾಧಿಪತಿಯು ಪೇತ್ರನನ್ನು ನೋಡಿದಾಗ, ಅವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hid himself.	",
-	"	b. Washed himself.	",
-	"	c. Worshipped him.	",
-	"	d. Turned him away.	"
+	"	A. ಬಚ್ಚಿಟ್ಟುಕೊಂಡನು	",
+	"	B. ತನ್ನನ್ನು ಶುದ್ಧಪಡಿಸಿಕೊಂಡನು	",
+	"	C. ಆತನ ಕಾಲಿಗೆ ಬಿದ್ದು ನಮಸ್ಕರಿಸಿದನು	",
+	"	D. ಆತನನು ಹಿಂದಕ್ಕೆ ಕಳುಹಿಸಿದನು	"
 ],			
-"correct" :	"	c. Worshipped him.	",
-"explanation" :	"	And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped him.Acts10:25	",
+"correct" :	"	C. ಆತನ ಕಾಲಿಗೆ ಬಿದ್ದು ನಮಸ್ಕರಿಸಿದನು	",
+"explanation" :	"	ಅವನು ಬಂದಾಗ ಕೊರ್ನೇಲ್ಯನು ಅವನನ್ನು ಎದುರುಗೊಂಡು ಅವನ ಪಾದಕ್ಕೆ ಬಿದ್ದು ನಮಸ್ಕಾರ ಮಾಡಿದನು.  10:25	",
 },			
 {			
-"question" :	"	8. Peter said, God had shown him, he shouldn't call any man	",
+"question" :	"	8 ಪೇತ್ರನು ಹೇಳಿದ್ದು, ಯಾವುದೇ ಮನುಷ್ಯನನ್ನು _______ ಎಂದು ಕರೆಯಬಾರದೆಂದು ದೇವರು ತೋರಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Brother.	",
-	"	b. Father.	",
-	"	c. Common or unclean.	",
-	"	d. Thou fool.	"
+	"	A. ಸಹೋದರ	",
+	"	B. ತಂದೆ	",
+	"	C. ಆಶುದ್ಧ	",
+	"	D. ಮೂರ್ಖ	"
 ],			
-"correct" :	"	c. Common or unclean.	",
-"explanation" :	"	 And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.Acts10:28	",
+"correct" :	"	C. ಆಶುದ್ಧ	",
+"explanation" :	"	ಅಲ್ಲಿ ಬಹು ಜನರು ಕೂಡಿಬಂದಿರುವದನ್ನು ಕಂಡು ಅವರಿಗೆ - ಯೆಹೂದ್ಯರು ಅನ್ಯಜನರ ಕೂಡ ಹೊಕ್ಕು ಬಳಿಕೆಮಾಡುವದು ಯೆಹೂದ್ಯರ ಸಂಪ್ರದಾಯಕ್ಕೆ ವಿರುದ್ಧವಾಗಿದೆ ಎಂದು ನೀವು ಬಲ್ಲಿರಷ್ಟೆ. ನನಗಂತೂ ಯಾವ ಮನುಷ್ಯನನ್ನಾದರೂ ಹೊಲೆಯನು ಇಲ್ಲವೆ ಅಶುದ್ಧನು ಅನ್ನಬಾರದೆಂದು ದೇವರು ತೋರಿಸಿದ್ದಾನೆ 10:28	",
 },			
 {			
-"question" :	"	9. The Jewish believers were astonished,because Gentiles	",
+"question" :	"	9 ಯೆಹೂದ್ಯರಾದ ವಿಶ್ವಾಸಿಗಳು ಆಶ್ಚರ್ಯಗೊಂಡರು, ಯಾಕೆಂದರೆ ಅನ್ಯಜನಗಳು,	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ate with them.	",
-	"	b. Received the Holy Ghost.	",
-	"	c. Lived in Joppa.	",
-	"	d. Prayed.	"
+	"	A. ಅವರ ಜೊತೆ ತಿಂದರು	",
+	"	B. ಪರಿಶುದ್ಧಾತ್ಮನನ್ನು ಹೊಂದಿಕೊಂಡರು	",
+	"	C. ಯೊಪ್ಪದಲ್ಲಿ ವಾಸಿಸಿದರು	",
+	"	D. ಪ್ರಾರ್ಥಿಸಿದರು	"
 ],			
-"correct" :	"	b. Received the Holy Ghost.	",
-"explanation" :	"	And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost.Acts10:45	",
+"correct" :	"	B. ಪರಿಶುದ್ಧಾತ್ಮನನ್ನು ಹೊಂದಿಕೊಂಡರು	",
+"explanation" :	"	ಅವರು ನಾನಾ ಭಾಷೆಗಳನ್ನಾಡುತ್ತಾ ದೇವರನ್ನು ಕೊಂಡಾಡುತ್ತಾ ಇರುವದನ್ನು ಪೇತ್ರನ ಸಂಗಡ ಬಂದಿದ್ದ ಯೆಹೂದ್ಯರಾದ ವಿಶ್ವಾಸಿಗಳು ಕೇಳಿದಾಗ - ಅನ್ಯಜನಗಳಿಗೂ ಪವಿತ್ರಾತ್ಮ ದಾನ ಮಾಡಲ್ಪಟ್ಟಿದೆಯಲ್ಲಾ ಎಂದು ಅತ್ಯಾಶ್ಚರ್ಯಪಟ್ಟರು. ನಡೆದ ಸಂಗತಿಯನ್ನು ಪೇತ್ರನು ನೋಡಿ -10:45	",
 },			
 {			
-"question" :	"	10. How did they know this had happened?	",
+"question" :	"	10 ಇದೆಲ್ಲಾ ಆಗುವುದು ಎಂದು ಅವರು ಹೇಗೆ ತಿಳಿದುಕೊಂಡಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. An angel told them.	",
-	"	b. They spoke with tongues.	",
-	"	c. A messenger was sent to them.	",
-	"	d. The Gentiles went to the	"
+	"	A. ದೂತನು ಹೇಳಿದ್ದನು	",
+	"	B. ಅವರು ನಾನಾಭಾಷೆ ಮಾತನಾಡಿದರು	",
+	"	C. ಅವರ ಬಳಿಗೆ ಒಬ್ಬ ದೂತನು ಕಳುಹಿಸಲ್ಪಟ್ಟಿದನು.	",
+	"	D. ಅನ್ಯರು ಸಭಾಮಂದಿರಕ್ಕೆ ಹೋದರು.	"
 ],			
-"correct" :	"	b. They spoke with tongues.	",
-"explanation" :	"	For they heard them speak with tongues, and magnify God. Then answered Peter,Acts10:46	",
+"correct" :	"	B. ಅವರು ನಾನಾಭಾಷೆ ಮಾತನಾಡಿದರು	",
+"explanation" :	"	ಅವರು ನಾನಾ ಭಾಷೆಗಳನ್ನಾಡುತ್ತಾ ದೇವರನ್ನು ಕೊಂಡಾಡುತ್ತಾ ಇರುವದನ್ನು ಪೇತ್ರನ ಸಂಗಡ ಬಂದಿದ್ದ ಯೆಹೂದ್ಯರಾದ ವಿಶ್ವಾಸಿಗಳು ಕೇಳಿದಾಗ - ಅನ್ಯಜನಗಳಿಗೂ ಪವಿತ್ರಾತ್ಮ ದಾನ ಮಾಡಲ್ಪಟ್ಟಿದೆಯಲ್ಲಾ ಎಂದು ಅತ್ಯಾಶ್ಚರ್ಯಪಟ್ಟರು. ನಡೆದ ಸಂಗತಿಯನ್ನು ಪೇತ್ರನು ನೋಡಿ -10:46	",
 },			
 ]			

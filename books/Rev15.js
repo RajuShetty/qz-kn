@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 15";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. ಯೋಹಾನನು ಎಷ್ಟು ದೇವದೂತರನ್ನು ನೋಡಿದನು?	",

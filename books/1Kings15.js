@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 15";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. He reigned three years in Jerusalem and walked in all the sins of his father.	",
@@ -94,7 +94,7 @@ var quiz = [
 	"	d. In his feet.	"
 ],			
 "correct" :	"	d. In his feet.	",
-"explanation" :	"	The rest of all the acts of Asa, and all his might, and all that he did, and the cities which he built, are they not written in the book of the chronicles of the kings of Judah? Nevertheless in the time of his old age he was diseased in his feet. 1 Kings 15:23	",
+"explanation" :	"	The rest of all the ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು of Asa, and all his might, and all that he did, and the cities which he built, are they not written in the book of the chronicles of the kings of Judah? Nevertheless in the time of his old age he was diseased in his feet. 1 Kings 15:23	",
 },			
 {			
 "question" :	"	9. Baasha conspired against, and smote this man.	",

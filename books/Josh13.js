@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 13";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. Who did the Lord speak to?	",
@@ -79,7 +79,7 @@ var quiz = [
 	"	a. The Egyptians & Ammonites	",
 	"	b. The Canaanites & Philistines	",
 	"	c. The Geshurites & Maachathites	",
-	"	d. The Greeks & Romans	"
+	"	d. The Greeks & ರೋಮಾಪುರದವರಿಗೆ	"
 ],			
 "correct" :	"	c. The Geshurites & Maachathites	",
 "explanation" :	"	Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day. Josh 13:13	",

@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 18";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. This tribe sought for an inheritance, for they had not yet received theirs.	",

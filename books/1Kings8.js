@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 8";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. Solomon assembled the elders and the heads of the tribes and the chief fathers here.	",

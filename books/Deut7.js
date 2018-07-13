@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 7";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. This many nations are mentioned, that were cast out before the children of Israel.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 6";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord was speaking these words to	",
@@ -67,7 +67,7 @@ var quiz = [
 	"	a. He shall be forgiven.	",
 	"	b. Cut off his hand.	",
 	"	c. He is to work in the tabernacle.	",
-	"	d. He must wear a linen robe to mark him.	"
+	"	d. He must wear a linen robe to ಮಾರ್ಕ him.	"
 ],			
 "correct" :	"	a. He shall be forgiven.	",
 "explanation" :	"	And the priest shall make an atonement for him before the LORD: and it shall be forgiven him for any thing of all that he hath done in trespassing therein. Lev 6:7	",

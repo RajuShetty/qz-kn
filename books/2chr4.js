@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 4";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. Solomon made an altar of this.	",

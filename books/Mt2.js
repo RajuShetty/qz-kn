@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 2";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
-"question" :	"	1. What city was Jesus born in?	",
+"question" :	"	1. ಯೇಸು ಯಾವ ಪಟ್ಟಣದಲ್ಲಿ ಹುಟ್ಟಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jerusalem	",
-	"	b. Bethlehem	",
-	"	c. Nazareth	",
-	"	d. Antioch	"
+	"	A.ಯೆರೂಸಲೇಮ್	",
+	"	B.ಬೆತ್ಲೆಹೇಮ್	",
+	"	C.ನಜರೇತು	",
+	"	D.ಅಂತಿಯೋಕ್ಯ	"
 ],			
-"correct" :	"	b. Bethlehem	",
-"explanation" :	"	 Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the East came to Jerusalem Matt 2:1	",
+"correct" :	"	B.ಬೆತ್ಲೆಹೇಮ್	",
+"explanation" :	"	ಅರಸನಾದ ಹೆರೋದನ ದಿನಗಳಲ್ಲಿ ಯೂದಾಯ ಸೀಮೆಯ ಬೇತ್ಲೆಹೇಮ್ ಎಂಬ ಊರಲ್ಲಿ ಯೇಸು ಹುಟ್ಟಿದಾಗ ..      ಮತ್ತಾಯ 1:1	",
 },			
 {			
-"question" :	"	2. Wise men came to worship Jesus from the	",
+"question" :	"	2. ಯೇಸುವನ್ನು ಆರಾಧಿಸಲು ಜೋಯಿಸರು ಯಾವ ದೇಶದಿಂದ ಬಂದರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. North.	",
-	"	b. East.	",
-	"	c. South.	",
-	"	d. West.	"
+	"	A.ಉತ್ತರ  ಬಡಗಣ	",
+	"	B.ಪೂರ್ವ  ಮೂಡಣ	",
+	"	C.ದಕ್ಷಿಣ  ತೆಂಕಣ	",
+	"	D.ಪಶ್ಚಿಮ  ಪಡುವಣ	"
 ],			
-"correct" :	"	b. East.	",
-"explanation" :	"	 Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the East came to Jerusalem Matt 2:1	",
+"correct" :	"	B.ಪೂರ್ವ  ಮೂಡಣ	",
+"explanation" :	"	ಯೇಸು ಹುಟ್ಟಿದಾಗ ಮೂಡಣ ದೇಶದ ಜೋಯಿಸರು ಯೆರೂಸಲೇಮಿಗೆ ಬಂದು ಮತ್ತಾಯ 2:1	",
 },			
 {			
-"question" :	"	3. They found Jesus by following	",
+"question" :	"	3. ಅವರು ಯಾವುದನ್ನು ಹಿಂಬಾಲಿಸಿದ್ದರಿಂದ ಯೇಸುವನ್ನು ಕಂಡರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A star.	",
-	"	b. A map.	",
-	"	c. Their dreams.	",
-	"	d. A cloud.	"
+	"	A.ನಕ್ಷತ್ರವನ್ನು	",
+	"	B.ನಕ್ಷೆಯನ್ನು	",
+	"	C.ಅವರ ಕನಸುಗಳನ್ನು	",
+	"	D.ಮೋಡವನ್ನು	"
 ],			
-"correct" :	"	a. A star.	",
-"explanation" :	"	saying,Where is He who has been born King of the Jews? For we have seen His star in the East and have come to worship Him.- Matt 2:2	",
+"correct" :	"	A.ನಕ್ಷತ್ರವನ್ನು	",
+"explanation" :	"	ಆತನನ್ನು ಸೂಚಿಸುವ ನಕ್ಷತ್ರವನ್ನು ನಾವು ಮೂಡಣ ದೇಶದಲ್ಲಿ ಕಂಡು ಆತನಿಗೆ ಅಡ್ಡ ಬೀಳುವುದಕ್ಕೆ ಬಂದೆವು ಅಂದರು.  ಮತ್ತಾಯ 2:2	",
 },			
 {			
-"question" :	"	4. King Herod told the wise men he wanted to worship Jesus also, but he really intended to	",
+"question" :	"	4. ಅರಸನಾದ ಹೆರೋದನು ಜೊಯೀಸರಿಗೆ ನಾನು ಸಹ ಬಂದು ಯೇಸುವನ್ನು ಆರಾಧಿಸುವೆನು ಎಂದು ಹೇಳಿದನು, ಆದರೆ ಅವನ ನಿಜವಾದ ಉದ್ದೇಶವಾಗಿದ್ದಿದ್ದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Crown Him king.	",
-	"	b. Kill Him.	",
-	"	c. Banish Him from Jerusalem.	",
-	"	d. Anoint Him.	"
+	"	A.ಅವನನ್ನು ಅರಸನನ್ನಾಗಿ ಮಾಡುವುದು	",
+	"	B.ಅವನನ್ನು ಕೊಲ್ಲುವುದು	",
+	"	C.ಯೆರೂಸಲೇಮಿನಿಂದ ಅವನನ್ನು ಓಡಿಸುವುದು	",
+	"	D.ಅವನನ್ನು ಅಭಿಷೇಕಿಸುವುದು	"
 ],			
-"correct" :	"	b. Kill Him.	",
-"explanation" :	"	Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream, saying, Arise, take the young Child and His mother, flee to Egypt, and stay there until I bring you word; for Herod will seek the young Child to destroy Him. - Matt 2:13	",
+"correct" :	"	B.ಅವನನ್ನು ಕೊಲ್ಲುವುದು	",
+"explanation" :	"	ಹೆರೋದನು ಈ ಕೂಸನ್ನು ಕೊಲ್ಲಬೇಕೆಂದು ಹುಡುಕುತ್ತಿರುವನು ಅಂದನು. ಮತ್ತಾಯ 2:13	",
 },			
 {			
-"question" :	"	5. When the wise men saw the child, they	",
+"question" :	"	5 ಜೋಯಿಸರು ಮಗುವನ್ನು ಕಂಡಾಗ, ಅವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sang for joy.	",
-	"	b. Danced before Him.	",
-	"	c. Were not certain He was the messiah.	",
-	"	d. Fell down & worshipped Him.	"
+	"	A.ಸಂತೋಷದಿಂದ ಹಾಡಿದರು	",
+	"	B.ಆತನ ಮುಂದೆ ಕುಣಿದಾಡಿದರು	",
+	"	C.ಆತನೆ ಮೆಸ್ಸಿಯ ಎಂಬುದರಲ್ಲಿ ಅವರಿಗೆ ಖಚಿತವಿರಲಿಲ್ಲ	",
+	"	D.ಆತನಿಗೆ ಅಡ್ಡಬಿದ್ದು ಆರಾಧಿಸಿದರು	"
 ],			
-"correct" :	"	d. Fell down & worshipped Him.	",
-"explanation" :	"	And when they had come into the house, they saw the young Child with Mary His mother, and fell down and worshiped Him. And when they had opened their treasures, they presented gifts to Him: gold, frankincense, and myrrh.-Matt 2:11	",
+"correct" :	"	D.ಆತನಿಗೆ ಅಡ್ಡಬಿದ್ದು ಆರಾಧಿಸಿದರು	",
+"explanation" :	"	ಆ ಮನೆಯೊಳಕ್ಕೆ ಹೋಗಿ ಆ ಕೂಸನ್ನು ಅದರ ತಾಯಿಯಾದ ಮರಿಯಳ ಬಳಿಯಲ್ಲಿ ಕಂಡು ಅದಕ್ಕೆ ಸಾಷ್ಟಾಂಗ ನಮಸ್ಕಾರ ಮಾಡಿ . .   ಮತ್ತಾಯ: 2:11	",
 },			
 {			
-"question" :	"	6. The wise men brought Jesus gifts of	",
+"question" :	"	6 ಜೋಯಿಸರು ಯಾವ ಕಾಣಿಕೆಗಳನ್ನು ತಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Gold, sliver & bronze.	",
-	"	b. Oil, silver & gold.	",
-	"	c. Gold, frankincense & myrrh.	",
-	"	d. Gold, frankincense & silver.	"
+	"	A.ಚಿನ್ನ, ಬೆಳ್ಳಿ ಮತ್ತು ತಾಮ್ರ	",
+	"	B.ಎಣ್ಣೆ, ಬೆಳ್ಳಿ ಮತ್ತು ಚಿನ್ನ	",
+	"	C.ಚಿನ್ನ, ಧೂಪ ಮತ್ತು ರಕ್ತಭೋಳ	",
+	"	D.ಚಿನ್ನ, ಧೂಪ ಮತ್ತು ಬೆಳ್ಳಿ	"
 ],			
-"correct" :	"	c. Gold, frankincense & myrrh.	",
-"explanation" :	"	And when they had come into the house, they saw the young Child with Mary His mother, and fell down and worshiped Him. And when they had opened their treasures, they presented gifts to Him: gold, frankincense, and myrrh.-Matt 2:11	",
+"correct" :	"	C.ಚಿನ್ನ, ಧೂಪ ಮತ್ತು ರಕ್ತಭೋಳ	",
+"explanation" :	"	ನಮಸ್ಕಾರ ಮಾಡಿ ತಮ್ಮ ಗಂಟುಗಳನ್ನು ಬಿಚ್ಚಿ ಅದಕ್ಕೆ ಚಿನ್ನ ಧೂಪ ರಕ್ತಬೋಳಗಳನ್ನು ಕಾಣಿಕೆಯಾಗಿ ಕೊಟ್ಟರು.  ಮತ್ತಾಯ 2:11	",
 },			
 {			
-"question" :	"	7. The wise men returned to their country by a different way because	",
+"question" :	"	7 ಜೋಯಿಸರು ತಮ್ಮ ದೇಶಗಳಿಗೆ ಬೇರೆ ಮಾರ್ಗದಿಂದ ಹೊರಟುಹೋದರು, ಏಕೆಂದರೆ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. They got lost.	",
-	"	b. Joseph asked them to.	",
-	"	c. God warned them in a dream.	",
-	"	d. It was a trade route.	"
+	"	A.ಅವರು ತಪ್ಪಿಹೋಗಿದ್ದರು	",
+	"	B.ಯೊಸೇಫನು ಅವರನ್ನು ಕೇಳಿಕೊಂಡಿದ್ದನು	",
+	"	C.ದೇವರು ಅವರನ್ನು ಕನಸಿನಲ್ಲಿ ಎಚ್ಚರಿಸಿದ್ದನು	",
+	"	D.ಅದು ವಾಣಿಜ್ಯ ಮಾರ್ಗವಾಗಿತ್ತು	"
 ],			
-"correct" :	"	c. God warned them in a dream.	",
-"explanation" :	"	Then, being divinely warned in a dream that they should not return to Herod, they departed for their own country another way.- Matt 2:12	",
+"correct" :	"	C.ದೇವರು ಅವರನ್ನು ಕನಸಿನಲ್ಲಿ ಎಚ್ಚರಿಸಿದ್ದನು	",
+"explanation" :	"	ಆಮೇಲೆ ದೇವರು ಕನಸಿನಲ್ಲಿ ಅವರಿಗೆ, ನೀವು ಹೆರೋದನ ಬಳಿಗೆ ತಿರಿಗಿ ಹೋಗಬಾರದೆಂದು ಅಪ್ಪಣೆಕೊಟ್ಟದ್ದರಿಂದ ಅವರು ಮತ್ತೊಂದು ದಾರಿಯಿಂದ ತಮ್ಮ ದೇಶಕ್ಕೆ ಹೊರಟುಹೋದರು.  ಮತ್ತಾಯ 2:12	",
 },			
 {			
-"question" :	"	8. When King Herod realized the wise men were not coming back to report to him, he	",
+"question" :	"	8 ಅರಸನಾದ ಹೆರೋದನು ಜೋಯಿಸರು ತನ್ನ ಬಳಿಗೆ ಹಿಂತಿರುಗಿ ಬಂದು ವಿಷಯ ತಿಳಿಸುವುದಿಲ್ಲ ಎಂದು ತಿಳಿದ ಮೇಲೆ, ಅವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ordered the wise men killed.	",
-	"	b. Commanded the wise men be put in prison.	",
-	"	c. Didn’t care.	",
-	"	d. Had all the babies killed.	"
+	"	A. ಜೋಯಿಸರನ್ನು ಕೊಲ್ಲಿರಿ ಎಂದು ಆಜ್ಞಾಪಿಸಿದನು	",
+	"	B. ಜೋಯಿಸರನ್ನು ಸೆರೆಗೆ ಹಾಕಿರಿ ಎಂದು ಅಪ್ಪಣೆ ಕೊಟ್ಟನು	",
+	"	C. ಲಕ್ಷ್ಯ ಕೊಡಲಿಲ್ಲ	",
+	"	D. ಎಲ್ಲಾ ಮಕ್ಕಳು ಕೊಲ್ಲಲ್ಪಟ್ಟರು	"
 ],			
-"correct" :	"	d. Had all the babies killed.	",
-"explanation" :	"	Then Herod, when he saw that he was deceived by the wise men, was exceedingly angry; and he sent forth and put to death all the male children who were in Bethlehem and in all its districts, from two years old and under, according to the time which he had determined from the wise men.- Matt 2:16	",
+"correct" :	"	D. ಎಲ್ಲಾ ಮಕ್ಕಳು ಕೊಲ್ಲಲ್ಪಟ್ಟರು	",
+"explanation" :	"	ಬೆತ್ಲೇಹೆಮಿನಲ್ಲಿಯೂ ಅದರ ಎಲ್ಲಾ ನೆರೆಹೊರೆ ಹಳ್ಳಿಗಳಲ್ಲಿಯೂ ಎರಡು ವರುಷದೊಳಗಿನ ಗಂಡುಕೂಸುಗಳನ್ನೆಲ್ಲಾ ಕೊಲ್ಲಿಸಿದನು. ಮತ್ತಾಯ 2:16	",
 },			
 {			
-"question" :	"	9. Joseph was warned by the angel of the Lord in a dream to take Mary and Jesus, and go here.	",
+"question" :	"	9 ಯೋಸೇಫನಿಗೆ ದೇವದೂತನು ಕನಸಿನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡು ಮರಿಯಳನ್ನು ಮತ್ತು ಯೇಸುವನ್ನು ತೆಗೆದುಕೊಂಡು ಇಲ್ಲಿಗೆ ಹೋಗೆಂದು ತಿಳಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Egypt	",
-	"	b. Nazareth	",
-	"	c. Bethlehem	",
-	"	d. Jerusalem	"
+	"	A.ಈಜಿಪ್ಟ್	",
+	"	B.ನಜರೇತ್	",
+	"	C.ಬೆತ್ಲೆಹೇಮ್	",
+	"	D.ಜೆರೂಸಲೇಮ್	"
 ],			
-"correct" :	"	a. Egypt	",
-"explanation" :	"	Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream, saying,Arise, take the young Child and His mother, flee to Egypt, and stay there until I bring you word; for Herod will seek the young Child to destroy Him.- Matt 2:13	",
+"correct" :	"	A.ಈಜಿಪ್ಟ್	",
+"explanation" :	"	ನೀನು ಎದ್ದು ಈ ಕೂಸನ್ನೂ ಇದರ ತಾಯಿಯನ್ನೂ ಕರಕೊಂಡು ಐಗುಪ್ತದೇಶಕ್ಕೆ ಓಡಿಹೋಗಿ ನಾನು ನಿನಗೆ ಹೇಳುವ ತನಕ ಅಲ್ಲೇ ಇರು, ಮತ್ತಾಯ 2:13	",
 },			
 {			
-"question" :	"	10. Joseph brought Mary and Jesus and dwelt in Nazareth, that it might be fulfilled which was spoken by the prophet, He shall be called	",
+"question" :	"	10 ಯೊಸೇಫನು ಮರಿಯಳು ಮತ್ತು ಯೇಸುವನ್ನು ತೆಗೆದುಕೊಂಡು ನಜರೇತಿನಲ್ಲಿ ವಾಸಿಸತೊಡಗಿದನು,  ಆತನಿಗೆ ಏನೆಂಬ ಹೆಸರು ಬರುವುದು ಎಂಬದಾಗಿ ಪ್ರವಾದಿಗಳಿಂದ ಹೇಳಿಸಿರುವ ಮಾತು ನೆರವೇರಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Repairer of the breach.	",
-	"	b. Counselor.	",
-	"	c. A Nazarene.	",
-	"	d. A carpenter.	"
+	"	A.ಛಿದ್ರವಾಗಿರುವುದನ್ನು ಸರಿಮಾಡುವವನು	",
+	"	B.ಆಪ್ತ ಸಮಾಲೋಚಕ	",
+	"	C.ನಜರಾಯ	",
+	"	D.ಬಡಗಿ	"
 ],			
-"correct" :	"	c. A Nazarene.	",
-"explanation" :	"	And he came and dwelt in a city called Nazareth, that it might be fulfilled which was spoken by the prophets,He shall be called a Nazarene.- Matt 2:23	",
+"correct" :	"	C.ನಜರಾಯ	",
+"explanation" :	"	ನನ್ನ ಮಗನನ್ನು ಐಗುಪ್ತದೇಶದೊಳಗಿಂದ ಕರೆದನೆಂದು ಕರ್ತನು ಪ್ರವಾದಿಯ ಮುಖಾಂತರ ಹೇಳಿದ ಮಾತು ನೆರವೇರಿತು. ಮತ್ತಾಯ 2:16	",
 },			
 ]			

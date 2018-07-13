@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 31";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 31";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord was speaking to	",

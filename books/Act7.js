@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 7";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
-"question" :	"	1. God promised an inheritance to Abraham and his seed, when he as yet had no	",
+"question" :	"	1 ಅಬ್ರಹಾಮನಿಗೆ ಇನ್ನೂ _____, ದೇವರು ಅಬ್ರಹಾಮನಿಗೆ ಮತ್ತು ಆತನ ಸಂತತಿಗೆ ಸ್ವಾಸ್ತ್ಯವನ್ನು ಪ್ರಮಾಣಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Faith.	",
-	"	b. Money.	",
-	"	c. Wife.	",
-	"	d. Child.	"
+	"	A. ನಂಬಿಕೆ ಇಲ್ಲದಿರುವಾಗಲೇ	",
+	"	B. ಹಣವಿಲ್ಲದಿರುವಾಗಲೇ	",
+	"	C. ಹೆಂಡತಿಯಿಲ್ಲದಿರುವಾಗಲೇ	",
+	"	D. ಮಕ್ಕಳಿಲ್ಲದಿರುವಾಗಲೇ	"
 ],			
-"correct" :	"	d. Child.	",
-"explanation" :	"	And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child.Acts7:5	",
+"correct" :	"	D. ಮಕ್ಕಳಿಲ್ಲದಿರುವಾಗಲೇ	",
+"explanation" :	"	ಇದರಲ್ಲಿ ಅವನಿಗೆ ಕಾಲಿಡುವಷ್ಟು ಭೂಮಿಯನ್ನು ಸ್ವಾಸ್ತ್ಯವಾಗಿ ಕೊಡದೆ ಅವನಿಗೆ ಮಕ್ಕಳು ಇನ್ನೂ ಇಲ್ಲದಿರುವಾಗ - ಈ ದೇಶವನ್ನು ನಿನಗೂ ನಿನ್ನ ಹಿಂದೆ ಬರುವ ನಿನ್ನ ಸಂತತಿಗೂ ಸ್ವಾಸ್ತ್ಯವಾಗಿ ಕೊಡುವೆನು ಎಂದು ಅವನಿಗೆ ವಾಗ್ದಾನ ಮಾಡಿದನು. 7:5	",
 },			
 {			
-"question" :	"	2. God said, Abraham's seed would be in bondage in a strange land for this many years.	",
+"question" :	"	2 ದೇವರು ಅಬ್ರಹಾಮನಿಗೆ, ನಿನ್ನ ಸಂತತಿಯು ಅನ್ಯದೇಶದಲ್ಲಿ ____ ವರ್ಷಗಳ ಕಾಲ ಗುಲಾಮರಾಗಿರುವರು ಎಂದು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 100	",
-	"	b. 200	",
-	"	c. 400	",
-	"	d. 500	"
+	"	A. 100	",
+	"	B. 200	",
+	"	C. 400	",
+	"	D. 500	"
 ],			
-"correct" :	"	c. 400	",
-"explanation" :	"	And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat them evil four hundred years.Acts7:6	",
+"correct" :	"	C. 400	",
+"explanation" :	"	ಇದಲ್ಲದೆ ದೇವರು ಹೇಳಿದ್ದೇನಂದರೆ - ನಿನ್ನ ಸಂತಾನದವರು ಅನ್ಯದೇಶದಲ್ಲಿ ಪ್ರವಾಸಿಗಳಾಗಿರುವರು. ಆ ಅನ್ಯದೇಶದವರು ಅವರನ್ನು ದಾಸರನ್ನಾಗಿ ಮಾಡಿಕೊಂಡು ನಾನೂರು ವರುಷಗಳ ತನಕ ಕ್ರೂರವಾಗಿ ನಡಿಸುವರು.  7:6	",
 },			
 {			
-"question" :	"	3. The patriarchs, moved with envy, sold this man into Egypt.	",
+"question" :	"	3 ಮೂಲಪಿತೃಗಳು ಹೊಟ್ಟೇಕಿಚ್ಚಿನಿಂದ ಈತನನ್ನು ಐಗುಪ್ತಕ್ಕೆ ಮಾರಿಬಿಟ್ಟರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jacob	",
-	"	b. Joseph	",
-	"	c. Isaac	",
-	"	d. Abraham	"
+	"	A. ಯಾಕೋಬ	",
+	"	B. ಯೋಸೇಪ	",
+	"	C. ಇಸಾಕ	",
+	"	D. ಅಬ್ರಹಾಮ	"
 ],			
-"correct" :	"	b. Joseph	",
-"explanation" :	"	And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,Acts7:9	",
+"correct" :	"	B. ಯೋಸೇಪ	",
+"explanation" :	"	ಮೂಲಪಿತೃಗಳು ಹೊಟ್ಟೇಕಿಚ್ಚಿನಿಂದ ಯೋಸೇಫನನ್ನು ಐಗುಪ್ತದೇಶಕ್ಕೆ ಮಾರಿಬಿಟ್ಟರು.  7:9	",
 },			
 {			
-"question" :	"	4. Moses was taken in by	",
+"question" :	"	4 ಮೋಶೆಯನ್ನು ತೆಗೆದುಕೊಂಡವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pharaoh's mother.	",
-	"	b. Pharaoh's wife.	",
-	"	c. Pharaoh's daughter.	",
-	"	d. Pharaoh's nurse.	"
+	"	A. ಫರೋಹನ ತಾಯಿ	",
+	"	B. ಫರೋಹನ ಹೆಂಡತಿ	",
+	"	C. ಫರೋಹನ ಮಗಳು	",
+	"	D. ಫರೋಹನ ದಾದಿ	"
 ],			
-"correct" :	"	c. Pharaoh's daughter.	",
-"explanation" :	"	And when he was cast out, Pharaoh's daughter took him up, and nourished him for her own son.And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.Acts7:21,22	",
+"correct" :	"	C. ಫರೋಹನ ಮಗಳು	",
+"explanation" :	"	ಆಮೇಲೆ ಅವನನ್ನು ಹೊರಗೆ ಹಾಕಿದಾಗ ಫರೋಹನ ಮಗಳು ಅವನನ್ನು ಎತ್ತಿಕೊಂಡು ಹೋಗಿ ತನ್ನ ಮಗನಾಗಿ ಸಾಕಿದಳು. ಮೋಶೆಯು ಐಗುಪ್ತದೇಶದವರ ಸರ್ವವಿದ್ಯೆಗಳಲ್ಲಿಯೂ ಉಪದೇಶಹೊಂದಿ ಮಾತುಗಳಲ್ಲಿಯೂ ಕಾರ್ಯಗಳಲ್ಲಿಯೂ ಸಮರ್ಥನಾದನು 7:21,22	",
 },			
 {			
-"question" :	"	5. Moses heard the Lord’s voice from	",
+"question" :	"	5 ಮೋಶೆಯು ದೇವರ ಶಬ್ದವನ್ನು ಕೇಳಿದ್ದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. A cloud.	",
-	"	b. Fire in a bush.	",
-	"	c. The sea.	",
-	"	d. A mountain.	"
+	"	A. ಮೋಡದಿಂದ	",
+	"	B. ಉರಿಯುವ ಪೊದೆಯಿಂದ	",
+	"	C. ಸಮುದ್ರದಿಂದ	",
+	"	D. ಬೆಟ್ಟದಿಂದ	"
 ],			
-"correct" :	"	b. Fire in a bush.	",
-"explanation" :	"	And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.Acts7:30	",
+"correct" :	"	B. ಉರಿಯುವ ಪೊದೆಯಿಂದ	",
+"explanation" :	"	ನಾಲ್ವತ್ತು ವರುಷ ತುಂಬಿದ ಮೇಲೆ ದೇವದೂತನು ಸೀನಾಯಿಬೆಟ್ಟದ ಅಡವಿಯಲ್ಲಿ ಮುಳ್ಳಿನ ಪೊದೆಯೊಳಗೆ ಉರಿಯುವ ಬೆಂಕಿಯಲ್ಲಿ ಅವನಿಗೆ ಕಾಣಿಸಿಕೊಂಡನು. 7:30	",
 },			
 {			
-"question" :	"	6. Who built a house for God?	",
+"question" :	"	6 ದೇವರಿಗಾಗಿ ಮನೆಯನ್ನು ಯಾರು ಕಟ್ಟಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. David	",
-	"	c. Solomon	",
-	"	d. Abraham	"
+	"	A. ಯೇಸು	",
+	"	B. ದಾವೀದ	",
+	"	C. ಸೊಲೊಮೋನ	",
+	"	D. ಅಬ್ರಹಾಮ	"
 ],			
-"correct" :	"	c. Solomon	",
-"explanation" :	"	Who found favour before God, and desired to find a tabernacle for the God of Jacob.But Solomon built him an house.Acts7:46-47	",
+"correct" :	"	C. ಸೊಲೊಮೋನ	",
+"explanation" :	"	ದಾವೀದನು ದೇವರ ಸನ್ನಿಧಾನದಲ್ಲಿ ಕೃಪೆಹೊಂದಿ ಯಾಕೋಬನ7.46 ಕೆಲವು ಪ್ರತಿಗಳಲ್ಲಿ - ಯಾಕೋಬನ ವಂಶದವರಿಗೋಸ್ಕರ ದೇವಾಲಯವನ್ನು ಕಟ್ಟಿಸುವದಕ್ಕೆ ಅಪ್ಪಣೆಯಾಗಬೇಕೆಂದು ಕೇಳಿಕೊಂಡನು. ಆದರೆ ಆತನಿಗೋಸ್ಕರ ಮನೆಯನ್ನು ಕಟ್ಟಿಸಿದವನು ಸೊಲೊಮೋನನು. 7:46-47	",
 },			
 {			
-"question" :	"	7. When Stephen looked up into heaven,he saw this, at God's right hand.	",
+"question" :	"	7 ಸ್ತೇಫನನು ತಲೆಯೆತ್ತಿ ಆಕಾಶವನ್ನು ನೋಡಿದಾಗ, ದೇವರ ಬಲಗಡೆ ಇದನ್ನು ಕಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. An angel standing	",
-	"	b. Jesus standing	",
-	"	c. A golden lamp stand	",
-	"	d. A chariot of fire	"
+	"	A. ದೇತನು ನಿಂತಿರುವುದು	",
+	"	B. ಯೇಸು ನಿಂತಿರುವುದು	",
+	"	C. ಚಿನ್ನದ ದೀಪಸ್ತಂಭ	",
+	"	D. ಅಗ್ನಿ ರಥಗಳು	"
 ],			
-"correct" :	"	b. Jesus standing	",
-"explanation" :	"	But he, being full of the Holy Ghost, looked up stedfastly into heaven, and saw the glory of God, and Jesus standing on the right hand of God, Acts7:55	",
+"correct" :	"	B. ಯೇಸು ನಿಂತಿರುವುದು	",
+"explanation" :	"	ಆದರೆ ಅವನು ಪವಿತ್ರಾತ್ಮಭರಿತನಾಗಿ ಆಕಾಶದ ಕಡೆಗೆ ದೃಷ್ಟಿಸಿನೋಡಿ ದೇವರ ಪ್ರಭಾವವನ್ನೂ ದೇವರ ಬಲಗಡೆಯಲ್ಲಿ ನಿಂತಿದ್ದ ಯೇಸುವನ್ನೂ ಕಂಡು -  7:55	",
 },			
 {			
-"question" :	"	8. They cast Stephen out of the city and	",
+"question" :	"	8 ಅವರು ಸ್ತೆಫನನ್ನು ಊರಿನಿಂದ ಹೊರಕ್ಕೆ ಕರಕೊಂಡು ಬಂದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Burned him.	",
-	"	b. Buried him.	",
-	"	c. Beat him.	",
-	"	d. Stoned him.	"
+	"	A. ಸುಟ್ಟುಹಾಕಿದರು	",
+	"	B. ಹೂತುಹಾಕಿದರು	",
+	"	C. ಹೊಡೆದರು	",
+	"	D. ಕಲ್ಲೆಸೆದರು	"
 ],			
-"correct" :	"	d. Stoned him.	",
-"explanation" :	"	And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul.Acts7:58	",
+"correct" :	"	D. ಕಲ್ಲೆಸೆದರು	",
+"explanation" :	"	ಅವನನ್ನು ಊರ ಹೊರಕ್ಕೆ ನೂಕಿಕೊಂಡು ಹೋಗಿ ಕೊಲ್ಲುವದಕ್ಕೆ ಕಲ್ಲೆಸೆದರು. ಸಾಕ್ಷಿಯವರು ತಮ್ಮ ಬಟ್ಟೆಗಳನ್ನು ತೆಗೆದು ಸೌಲನೆಂಬ ಒಬ್ಬ ಯೌವನಸ್ಥನ ಕಾಲುಗಳ ಬಳಿಯಲ್ಲಿ ಇಟ್ಟರು 7:58	",
 },			
 {			
-"question" :	"	9. At whose feet, did they lay down their clothes?	",
+"question" :	"	9 ಯಾರ ಪಾದದ ಬಳಿ ಅವರು ತಮ್ಮ ವಸ್ತ್ರವನ್ನು ಬಿಚ್ಚಿ ಇಟ್ಟರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Saul	",
-	"	b. Rufus	",
-	"	c. Gamaliel	",
-	"	d. Nicolas	"
+	"	A. ಸೌಲ	",
+	"	B. ರೂಫ	",
+	"	C. ಗಮಲಿಯೇಲ	",
+	"	D. ನಿಕೋಲಸ್	"
 ],			
-"correct" :	"	a. Saul	",
-"explanation" :	"	And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul.Acts7:58	",
+"correct" :	"	A. ಸೌಲ	",
+"explanation" :	"	ಅವನನ್ನು ಊರ ಹೊರಕ್ಕೆ ನೂಕಿಕೊಂಡು ಹೋಗಿ ಕೊಲ್ಲುವದಕ್ಕೆ ಕಲ್ಲೆಸೆದರು. ಸಾಕ್ಷಿಯವರು ತಮ್ಮ ಬಟ್ಟೆಗಳನ್ನು ತೆಗೆದು ಸೌಲನೆಂಬ ಒಬ್ಬ ಯೌವನಸ್ಥನ ಕಾಲುಗಳ ಬಳಿಯಲ್ಲಿ ಇಟ್ಟರು 7:58	",
 },			
 {			
-"question" :	"	10. After Stephen cried with a loud voice saying, lay not this sin to their charge, he	",
+"question" :	"	10 ಸ್ತೆಫನನು ದೊಡ್ಡ ಶಬ್ದದಿಂದ ,’ಕರ್ತನೇ, ಈ ಪಾಪವನ್ನು ಅವರ ಮೇಲೆ ಹೊರಿಸಬೇಡ’ ಎಂದು ಕೂಗಿ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Vanished.	",
-	"	b. Rose in a cloud.	",
-	"	c. Fell asleep.	",
-	"	d. Escaped.	"
+	"	A. ಮಾಯವಾದನು	",
+	"	B. ಮೋಡದಲ್ಲಿ ಎದ್ದನು	",
+	"	C. ನಿದ್ದೆ ಹೋದನು	",
+	"	D. ತಪ್ಪಿಸಿಕೊಂಡನು.	"
 ],			
-"correct" :	"	c. Fell asleep.	",
-"explanation" :	"	And they stoned Stephen, calling upon God, and saying, Lord Jesus, receive my spirit.And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.Acts7:59,60	",
+"correct" :	"	C. ನಿದ್ದೆ ಹೋದನು	",
+"explanation" :	"	ಅವರು ಸ್ತೆಫನನ ಮೇಲೆ ಕಲ್ಲೆಸೆಯುತ್ತಾ ಇರಲು ಅವನು ಕರ್ತನ ಹೆಸರನ್ನು ಹೇಳಿ - ಯೇಸುಸ್ವಾಮಿಯೇ, ನನ್ನಾತ್ಮವನ್ನು ಸೇರಿಸಿಕೋ ಎಂದು ಪ್ರಾರ್ಥಿಸಿ ಮೊಣಕಾಲೂರಿ - ಕರ್ತನೇ, ಈ ಪಾಪವನ್ನು ಅವರ ಮೇಲೆ ಹೊರಿಸಬೇಡವೆಂದು ಮಹಾಶಬ್ದದಿಂದ ಕೂಗಿದನು. 7:59,60	",
 },			
 ]			

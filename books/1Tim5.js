@@ -1,4 +1,4 @@
-var quiztitle = "1 Timothy chapter 5 ";			
+var quiztitle = "1 ತಿಮೊಥೆಯನಿಗೆ ಅಧ್ಯಾಯ 5 ";			
 var quiz = [			
 {			
 "question" :	"	1. ಇವರನ್ನು ಗದರಿಸಬೇಡಿರಿ.	",

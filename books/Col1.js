@@ -1,4 +1,4 @@
-var quiztitle = "Colossians chapter 1";			
+var quiztitle = "ಕೊಲೊಸ್ಸೆಯವರಿಗೆ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. ಯಾವ ಅಪೋಸ್ತಲನು ಈ ಪತ್ರಿಕೆಯನ್ನು ಬರೆದಿದ್ದು?	",

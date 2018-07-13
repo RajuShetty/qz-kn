@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 7";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. God said, He had made Moses this, to Pharaoh.	",
@@ -90,7 +90,7 @@ var quiz = [
 "choices" : [			
 	"	a. At the palace.	",
 	"	b. At the river.	",
-	"	c. At the market place.	",
+	"	c. At the ಮಾರ್ಕet place.	",
 	"	d. In the wilderness.	"
 ],			
 "correct" :	"	b. At the river.	",
@@ -113,7 +113,7 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. The Egyptians ate them.	",
-	"	b. The Hebrews ate them.	",
+	"	b. The ಇಬ್ರಿಯರಿಗೆ ate them.	",
 	"	c. They crawled out of the water.	",
 	"	d. They died.	"
 ],			

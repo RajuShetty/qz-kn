@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 2";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. Who brought the word of the Lord to the people?	",

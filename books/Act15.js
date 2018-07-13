@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 15";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
-"question" :	"	1. Certain men from Judea taught the brethren, they could not be saved unless they were	",
+"question" :	"	1 ಯೂದಾಯದಿಂದ ಬಂದ ಕೆಲವು ಸಹೋದರರು ಅವರಿಗೆ, ನೀವು _____ ಮಾಡಿಸಿಕೊಳ್ಳದ ಹೊರತು ರಕ್ಷಣೆಯಾಗುವುದಿಲ್ಲವೆಂದು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Baptized.	",
-	"	b. Apostles.	",
-	"	c. Jewish.	",
-	"	d. Circumcised.	"
+	"	A. ದೀಕ್ಷಾಸ್ನಾನ	",
+	"	B. ಅಪೋಸ್ತಲ	",
+	"	C. ಯೆಹೂದ್ಯ	",
+	"	D. ಸುನ್ನತಿ	"
 ],			
-"correct" :	"	d. Circumcised.	",
-"explanation" :	"	And certain men which came down from Judaea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved.Acts15:1	",
+"correct" :	"	D. ಸುನ್ನತಿ	",
+"explanation" :	"	ಬಳಿಕ ಕೆಲವರು ಯೂದಾಯದಿಂದ ಅಂತಿಯೋಕ್ಯಕ್ಕೆ ಬಂದು - ನೀವು ಮೋಶೆಯ ಗ್ರಂಥದಲ್ಲಿ ಹೇಳಿರುವ ನೇಮದ ಪ್ರಕಾರ ಸುನ್ನತಿಮಾಡಿಸಿಕೊಳ್ಳದಿದ್ದರೆ ನಿಮಗೆ ರಕ್ಷಣೆಯಾಗಲಾರದು ಎಂಬದಾಗಿ ಸಹೋದರರಿಗೆ ಉಪದೇಶಮಾಡುತ್ತಿದ್ದರು 15:1	",
 },			
 {			
-"question" :	"	2. When Paul and Barnabas disputed with those men, they sent Paul and Barnabas here, to bring the question before the apostles and elders.	",
+"question" :	"	2 ಪೌಲ ಮತ್ತು ಬಾರ್ನಬರು ಈ ಸಹೋದರರೊಂದಿಗೆ ವಿವಾದಿಸಿದಾಗ, ಅವರನ್ನು ಅಪೋಸ್ತಲರು ಮತ್ತು ಹಿರಿಯರ ಬಳಿ ಪ್ರಶ್ನಿಸುವುದಕ್ಕಾಗಿ ಇಲ್ಲಿಗೆ ಕಳುಹಿಸಲ್ಪಟ್ಟರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jericho	",
-	"	b. Jerusalem	",
-	"	c. Nazareth	",
-	"	d. Antioch	"
+	"	A. ಯೆರಿಕೊ	",
+	"	B. ಯೆರೂಸಲೇಮು	",
+	"	C. ನಜರೇತು	",
+	"	D. ಅಂತಿಯೋಕ್ಯ	"
 ],			
-"correct" :	"	b. Jerusalem	",
-"explanation" :	"	When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question.Acts15:2	",
+"correct" :	"	B. ಯೆರೂಸಲೇಮು	",
+"explanation" :	"	ಅವರಿಗೂ ಪೌಲ ಬಾರ್ನಬರಿಗೂ ಭೇದವೂ ಮಹಾ ವಿವಾದವೂ ಉಂಟಾದಾಗ ಇದರ ವಿಷಯವಾಗಿ ಸಹೋದರರು ಪೌಲ ಬಾರ್ನಬರನ್ನೂ ತಮ್ಮಲ್ಲಿ ಬೇರೆ ಕೆಲವರನ್ನೂ ಯೆರೂಸಲೇಮಿನಲ್ಲಿದ್ದ ಅಪೊಸ್ತಲರ ಮತ್ತು ಸಭೆಯ ಹಿರಿಯರ ಬಳಿಗೆ ಹೋಗಬೇಕೆಂದು ನೇಮಿಸಿದರು.  15:2	",
 },			
 {			
-"question" :	"	3. This man reminded everyone how God had shown him, that by his mouth, the Gentiles would hear the word and believe.	",
+"question" :	"	3 ಈ ಮನುಷ್ಯನು ದೇವರು ತನಗೆ ಹೇಗೆ ಪ್ರಕಟಿಸಿಕೊಂಡನು ಎಂಬುದನ್ನು ವಿವರಿಸಿದನು, ಈತನ ಬಾಯಿಂದ ಈ ಮಾತುಗಳನ್ನು ಕೇಳಿದ ಅನ್ಯರು ವಾಕ್ಯವನ್ನು ನಂಬಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Paul	",
-	"	b. Barnabas	",
-	"	c. Peter	",
-	"	d. Silas	"
+	"	A. ಪೌಲ	",
+	"	B. ಬಾರ್ನಬ	",
+	"	C. ಪೇತ್ರ	",
+	"	D. ಸೀಲ	"
 ],			
-"correct" :	"	c. Peter	",
-"explanation" :	"	 And when there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.Acts15:7	",
+"correct" :	"	C. ಪೇತ್ರ	",
+"explanation" :	"	ಪೇತ್ರನು ಎದ್ದು ಅವರಿಗೆ - ಸಹೋದರರೇ, ಅನ್ಯಜನರು ನನ್ನ ಬಾಯಿಂದ ಸುವಾರ್ತೆಯ ವಾಕ್ಯವನ್ನು ಕೇಳಿ ನಂಬಬೇಕೆಂದು ದೇವರು ಬಹಳ ದಿವಸಗಳ ಕೆಳಗೆ ನಿಮ್ಮೊಳಗಿಂದ ನನ್ನನ್ನು ಆರಿಸಿಕೊಂಡದ್ದು ನಿಮಗೇ ತಿಳಿದದೆ. 15:7	",
 },			
 {			
-"question" :	"	4. Who reminded them, how God visited the Gentiles, to take out a people for His name?	",
+"question" :	"	4 ಅನ್ಯಜನರಿಂದ, ದೇವರು ತನ್ನ ನಾಮಕ್ಕಾಗಿ ಒಬ್ಬನನ್ನು ಹೇಗೆ ಆರಿಸಿಕೊಂಡಿದ್ದಾನೆಂದು ಅವರಿಗೆ ಯಾರು ನೆನಪಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Silas	",
-	"	b. Judas	",
-	"	c. Paul	",
-	"	d. James 	"
+	"	A. ಸೀಲ	",
+	"	B. ಯೂದ	",
+	"	C. ಪೌಲಕ	",
+	"	D. ಯಾಕೋಬ	"
 ],			
-"correct" :	"	d. James 	",
-"explanation" :	"	And after they had held their peace, James answered, saying, Men and brethren, hearken unto me:Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name.Acts15:13,14	",
+"correct" :	"	D. ಯಾಕೋಬ	",
+"explanation" :	"	ಅವರು ಮಾತಾಡುವದನ್ನು ಮುಗಿಸಿದ ಮೇಲೆ ಯಾಕೋಬನು ಆ ಪ್ರಸ್ತಾಪವನ್ನು ಹಿಡಿದು ಹೇಳಿದ್ದೇನಂದರೆ -ಸಹೋದರರೇ, ನಾನು ಹೇಳುವದನ್ನು ಕೇಳಿರಿ - ದೇವರು ಮೊದಲಲ್ಲಿ ಅನ್ಯಜನರನ್ನು ಕಟಾಕ್ಷಿಸಿನೋಡಿ ತನ್ನ ಹೆಸರಿಗಾಗಿ ಅವರೊಳಗಿಂದ ಒಂದು ಪ್ರಜೆಯನ್ನು ಆರಿಸಿಕೊಂಡ ವಿಧವನ್ನು ಸಿಮೆಯೋನನು ವಿವರಿಸಿದನಷ್ಟೆ. 15:13,14	",
 },			
 {			
-"question" :	"	5. The apostles sent these men to Antioch with Paul and Barnabas.	",
+"question" :	"	5 ಪೌಲ ಮತ್ತು ಬಾರ್ನಬರೊಂದಿಗೆ ಅಪೋಸ್ತಲರು ಈ ಸಹೋದರರನ್ನು ಅಂತಿಯೋಕ್ಯಕ್ಕೆ ಕಳುಹಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Judas & Silas	",
-	"	b. Peter & John	",
-	"	c. John & Mark	",
-	"	d. Andrew & Peter	"
+	"	A. ಯೂದ ಮತ್ತು ಸೀಲ	",
+	"	B. ಪೆತ್ರ ಮತ್ತು ಯೋಹಾನ	",
+	"	C. ಯೋಹಾನ ಮತ್ತು ಮಾರ್ಕ	",
+	"	D. ಆಂದ್ರೇಯ ಮತ್ತು ಪೇತ್ರ	"
 ],			
-"correct" :	"	a. Judas & Silas	",
-"explanation" :	"	Then pleased it the apostles and elders with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas and Silas, chief men among the brethren:Acts15:22	",
+"correct" :	"	A. ಯೂದ ಮತ್ತು ಸೀಲ	",
+"explanation" :	"	ಆಗ ಅಪೊಸ್ತಲರೂ ಸಭೆಯ ಹಿರಿಯರೂ ಸರ್ವಸಭೆಯ ಸಮ್ಮತಿಯಿಂದ ತಮ್ಮಲ್ಲಿ ಕೆಲವರನ್ನು ಆರಿಸಿಕೊಂಡು ಪೌಲ ಬಾರ್ನಬರ ಜೊತೆಯಲ್ಲಿ ಅಂತಿಯೋಕ್ಯಕ್ಕೆ ಕಳುಹಿಸುವದು ಯುಕ್ತವೆಂದು ತೀರ್ಮಾನಿಸಿದರು. ಆದಕಾರಣ ಸಹೋದರರಲ್ಲಿ ಮುಖ್ಯರಾಗಿದ್ದ ಬಾರ್ಸಬ್ಬನೆನಿಸಿಕೊಳ್ಳುವ ಯೂದನನ್ನೂ ಸೀಲನನ್ನೂ ಆರಿಸಿಕೊಂಡು 15:22	",
 },			
 {			
-"question" :	"	6. The Gentiles were instructed not to eat meat	",
+"question" :	"	6 ಅನ್ಯರಿಗೆ ಈ ಮಾಂಸವನ್ನು ತಿನ್ನಬಾರದೆಂದು ಸೂಚಿಸಲಾಯಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Of any kind.	",
-	"	b. That was not washed.	",
-	"	c. Sacrificed to idols.	",
-	"	d. That was undercooked.	"
+	"	A. ಯಾವುದೇ ವಿಧವಾದ ಮಾಂಸ	",
+	"	B. ತೊಳೆಯದೇ ಇರುವ ಮಾಂಸ	",
+	"	C. ವಿಗ್ರಹಗಳಿಗೆ ನೈವೇದ್ಯ ಮಾಡಿರುವುದು	",
+	"	D. ಬೇಯಿಸಿಲ್ಲದ ಮಾಂಸ	"
 ],			
-"correct" :	"	c. Sacrificed to idols.	",
-"explanation" :	"	That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well. Fare ye well.Acts15:29	",
+"correct" :	"	C. ವಿಗ್ರಹಗಳಿಗೆ ನೈವೇದ್ಯ ಮಾಡಿರುವುದು	",
+"explanation" :	"	ವಿಗ್ರಹಕ್ಕೆ ನೈವೇದ್ಯಮಾಡಿದ್ದನ್ನೂ ರಕ್ತವನ್ನೂ ಕುತ್ತಿಗೆಹಿಸುಕಿ ಕೊಂದದ್ದನ್ನೂ ಹಾದರವನ್ನೂ ವಿಸರ್ಜಿಸುವದು ಅವಶ್ಯವಾಗಿದೆ. ಇದಕ್ಕೆ ಹೆಚ್ಚಿನ ಭಾರವನ್ನು ನಿಮ್ಮ ಮೇಲೆ ಹಾಕಬಾರದೆಂದು ಪವಿತ್ರಾತ್ಮನಿಗೂ ನಮಗೂ ವಿಹಿತವಾಗಿ ತೋರಿತು. ನೀವು ಎಚ್ಚರವಾಗಿದ್ದು ಇವುಗಳ ಗೊಡವೆಗೆ ಹೋಗದಿದ್ದರೆ ನಿಮಗೆ ಒಳ್ಳೇದಾಗುವದು. ಶುಭವಾಗಲಿ. 15:29	",
 },			
 {			
-"question" :	"	7. They are told to abstain from this. 	",
+"question" :	"	7 ಅವರಿಗೆ ಇದರಿಂದ ದೂರವಿರಬೇಕೆಂದು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Questions	",
-	"	b. Speaking	",
-	"	c. Fornication	",
-	"	d. Eating fruit	"
+	"	A. ಪ್ರಶ್ನಿಸುವುದರಿಂದ	",
+	"	B. ಮಾತುನಾಡುವುದರಿಂದ	",
+	"	C. ಹಾದರ	",
+	"	D. ಹಣ್ಣುಗಳನ್ನು ತಿನ್ನುವುದರಿಂದ	"
 ],			
-"correct" :	"	c. Fornication	",
-"explanation" :	"	That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well. Fare ye well.Acts15:29	",
+"correct" :	"	C. ಹಾದರ	",
+"explanation" :	"	ವಿಗ್ರಹಕ್ಕೆ ನೈವೇದ್ಯಮಾಡಿದ್ದನ್ನೂ ರಕ್ತವನ್ನೂ ಕುತ್ತಿಗೆಹಿಸುಕಿ ಕೊಂದದ್ದನ್ನೂ ಹಾದರವನ್ನೂ ವಿಸರ್ಜಿಸುವದು ಅವಶ್ಯವಾಗಿದೆ. ಇದಕ್ಕೆ ಹೆಚ್ಚಿನ ಭಾರವನ್ನು ನಿಮ್ಮ ಮೇಲೆ ಹಾಕಬಾರದೆಂದು ಪವಿತ್ರಾತ್ಮನಿಗೂ ನಮಗೂ ವಿಹಿತವಾಗಿ ತೋರಿತು. ನೀವು ಎಚ್ಚರವಾಗಿದ್ದು ಇವುಗಳ ಗೊಡವೆಗೆ ಹೋಗದಿದ್ದರೆ ನಿಮಗೆ ಒಳ್ಳೇದಾಗುವದು. ಶುಭವಾಗಲಿ. 15:29	",
 },			
 {			
-"question" :	"	8. When Paul wanted to revisit the cities where they preached, Barnabas was determined to	",
+"question" :	"	8 ಪೌಲನು ತಾನು ಸುವಾರ್ತೆ ಸಾರಿದ ಪಟ್ಟಣಗಳಿಗೆ ಮತ್ತೆ ಭೇಟಿ ಮಾಡಬೇಕೆಂದುಕೊಂಡಾಗ ಬಾರ್ನಬನು ಇದನ್ನು ಬಯಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Stay in Antioch.	",
-	"	b. Take Mark with them.	",
-	"	c. Go alone.	",
-	"	d. Undermine Paul.	"
+	"	A. ಅಂತಿಯೋಕ್ಯದಲ್ಲಿ ನೆಲಸಬೇಕೆಂದು	",
+	"	B. ತಮ್ಮೊಂದಿಗೆ ಮಾರ್ಕನನ್ನು ಕರೆದುಕೊಂಡುಹೋಗಬೇಕೆಂದು	",
+	"	C. ಒಬ್ಬಂಟಿಯಾಗಿ ಹೋಗಬೇಕೆಂದು	",
+	"	D. ಪೌಲನನ್ನು ಹಾಳುಮಾಡಲು	"
 ],			
-"correct" :	"	b. Take Mark with them.	",
-"explanation" :	"	And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the Lord, and see how they do.And Barnabas determined to take with them John, whose surname was Mark.Acts15:36,37	",
+"correct" :	"	B. ತಮ್ಮೊಂದಿಗೆ ಮಾರ್ಕನನ್ನು ಕರೆದುಕೊಂಡುಹೋಗಬೇಕೆಂದು	",
+"explanation" :	"	ಕೆಲವು ದಿವಸಗಳಾದ ಮೇಲೆ ಪೌಲನು ಬಾರ್ನಬನಿಗೆ - ನಾವು ಕರ್ತನ ವಾಕ್ಯವನ್ನು ಸಾರಿದ ಎಲ್ಲಾ ಊರುಗಳಿಗೆ ತಿರಿಗಿ ಹೋಗಿ ಅಲ್ಲಿರುವ ಸಹೋದರರು ಹೇಗಿದ್ದಾರೆಂದು ನೋಡೋಣ ಬಾ ಎಂದು ಹೇಳಿದನು. ಬಾರ್ನಬನು ಮಾರ್ಕನೆನಿಸಿಕೊಳ್ಳುವ ಯೋಹಾನನನ್ನು ತಮ್ಮ ಸಂಗಡ ಕರೆದುಕೊಂಡುಹೋಗಬೇಕೆಂದಿದ್ದಾಗ 15:36,37	",
 },			
 {			
-"question" :	"	9. Barnabas took this man, and sailed to Cyprus.	",
+"question" :	"	9 ಬಾರ್ನಬನು ಈ ಮನುಷ್ಯನೊಂದಿಗೆ ಕ್ಯುಪ್ರ ದ್ವೀಪಕ್ಕೆ ಹೋದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Judas	",
-	"	b. Silas	",
-	"	c. Mark	",
-	"	d. James	"
+	"	A. ಯೂದ	",
+	"	B. ಸೀಲ	",
+	"	C. ಮಾರ್ಕ	",
+	"	D. ಯಾಕೋಬ	"
 ],			
-"correct" :	"	c. Mark	",
-"explanation" :	"	And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus; Acts15:39	",
+"correct" :	"	C. ಮಾರ್ಕ	",
+"explanation" :	"	 ಈ ವಿಷಯದಲ್ಲಿ ತೀಕ್ಷ್ಣ ವಾಗ್ವಾದವುಂಟಾಗಿ ಅವರು ಒಬ್ಬರನ್ನೊಬ್ಬರು ಅಗಲಿದರು. ಬಾರ್ನಬನು ಮಾರ್ಕನನ್ನು ಕರಕೊಂಡು ಸಮುದ್ರಮಾರ್ಗವಾಗಿ ಕುಪ್ರದ್ವೀಪಕ್ಕೆ ಹೋದನು. 15:39	",
 },			
 {			
-"question" :	"	10. Paul took this man with him, and went through Syria and Cilicia.	",
+"question" :	"	10 ಪೌಲನು ಈ ಮನುಷ್ಯನೊಂದಿಗೆ ಸಿರಿಯ ಮತ್ತು ಕಿಲಿಕ್ಯ ಪ್ರಾಂತ್ಯಗಳ ಮುಖಾಂತರ ಹೋದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Silas	",
-	"	b. Barnabas	",
-	"	c. James	",
-	"	d. Mark	"
+	"	A. ಸೀಲ	",
+	"	B. ಬಾರ್ನಬ	",
+	"	C. ಯಾಕೋಬ	",
+	"	D. ಮಾರ್ಕ	"
 ],			
-"correct" :	"	a. Silas	",
-"explanation" :	"	And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God.And he went through Syria and Cilicia, confirming the churches.Acts15:40,41	",
+"correct" :	"	A. ಸೀಲ	",
+"explanation" :	"	ಪೌಲನು ಸೀಲನನ್ನು ಆರಿಸಿಕೊಂಡು ಸಹೋದರರಿಂದ ಕರ್ತನ ಕೃಪಾಶ್ರಯಕ್ಕೆ ಒಪ್ಪಿಸಲ್ಪಟ್ಟವನಾಗಿ ಹೊರಟು ಸಿರಿಯ ಕಿಲಿಕ್ಯ ಸೀಮೆಗಳಲ್ಲಿ ಸಂಚರಿಸುತ್ತಾ ಸಭೆಗಳನ್ನು ದೃಢಪಡಿಸಿದನು. 15:40,41	",
 },			
 ]			

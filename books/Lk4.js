@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 4";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus was led by the Spirit into the wilderness, and did not eat for this many days.	",
+"question" :	"	1. ಯೇಸು ಆತ್ಮನಿಂದ ಅಡವಿಗೆ ಒಯ್ಯಲ್ಪಟ್ಟು ಎಷ್ಟು ದಿನಗಳವರೆಗೂ ಆತನು ಏನೂ ತಿನ್ನಲಿಲ್ಲ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 10	",
-	"	b. 25	",
-	"	c. 40	",
-	"	d. 60	"
+	"	A. 10	",
+	"	B. 25	",
+	"	C. 40	",
+	"	D. 60	"
 ],			
-"correct" :	"	c. 40	",
-"explanation" :	"	being tempted for forty days by the devil. And in those days He ate nothing, and afterward, when they had ended, He was hungry. - Lk 4:2	",
+"correct" :	"	C. 40	",
+"explanation" :	"	ಯೇಸು ಪವಿತ್ರಾತ್ಮಭರಿತನಾಗಿ ಯೊರ್ದನ್ ಹೊಳೆಯಿಂದ ಹಿಂತಿರುಗಿ ದೇವರಾತ್ಮನಿಂದ ನಾಲ್ವತ್ತು ದಿವಸ ಅಡವಿಯಲ್ಲಿ ನಡಿಸಲ್ಪಡುತ್ತಾ ಸೈತಾನನಿಂದ ಶೋಧಿಸಲ್ಪಟ್ಟನು.  ಲೂಕ 4:1	",
 },			
 {			
-"question" :	"	2. The devil told Jesus to make bread from this.	",
+"question" :	"	2. ಸೈತಾನನು ಆತನಿಗೆ ಇದರಿಂದ ರೊಟ್ಟಿಯನ್ನು ಮಾಡುವಂತೆ ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Stone	",
-	"	b. Dust	",
-	"	c. Wind	",
-	"	d. Sand	"
+	"	A. ಕಲ್ಲು	",
+	"	B. ಧೂಳು	",
+	"	C. ಗಾಳಿ	",
+	"	D. ಮರಳು	"
 ],			
-"correct" :	"	a. Stone	",
-"explanation" :	"	And the devil said to Him, If You are the Son of God, command this stone to become bread. - Lk 4:3	",
+"correct" :	"	A. ಕಲ್ಲು	",
+"explanation" :	"	ಆಗ ಸೈತಾನನು ಆತನಿಗೆ ನೀನು ದೇವರ ಮಗನಾಗಿದ್ದರೆ ಈ ಕಲ್ಲು  ರೊಟ್ಟಿಯಾಗುವಂತೆ ಇದಕ್ಕೆ ಅಪ್ಪಣೆಕೊಡು ಎಂದು ಹೇಳಲು; ಲೂಕ 4:3	",
 },			
 {			
-"question" :	"	3. The devil said, he would give Jesus the glory of all the kingdoms of the world, if Jesus would do this.	",
+"question" :	"	3. ಯೇಸು ಇದನ್ನು ಮಾಡಿದರೆ ಲೋಕದ ಎಲ್ಲಾ ರಾಜ್ಯಗಳ ಮಹಿಮೆಯನ್ನು ಆತನಿಗೆ ಕೊಡುತ್ತೇನೆಂದು ಸೈತಾನನು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Worship the devil	",
-	"	b. Go back to heaven	",
-	"	c. Desert His disciples	",
-	"	d. Stop healing people	"
+	"	A. ಆತನಿಗೆ ಅಡ್ಡಬಿದ್ದರೆ	",
+	"	B. ಪರಲೋಕಕ್ಕೆ ಹಿಂದುರಿಗಿ ಹೋದರೆ	",
+	"	C. ಆತನ ಶಿಷ್ಯರನ್ನು ದೂರಮಾಡಿದರೆ	",
+	"	D. ಜನರಿಗೆ ಸೌಖ್ಯಪಡಿಸುವುದು ನಿಲ್ಲಿಸಿದರೆ	"
 ],			
-"correct" :	"	a. Worship the devil	",
-"explanation" :	"	And the devil said to Him, All this authority I will give You, and their glory; for this has been delivered to me, and I give it to whomever I wish.Therefore, if You will worship before me, all will be Yours. - Lk 4:6-7	",
+"correct" :	"	A. ಆತನಿಗೆ ಅಡ್ಡಬಿದ್ದರೆ	",
+"explanation" :	"	ಇವೆಲ್ಲವುಗಳ ಅಧಿಕಾರವನ್ನೂ ಇವುಗಳ ವೈಭವವನ್ನೂ ನಿನಗೆ ಕೊಡುವೆನು; ಇದೆಲ್ಲಾ ನನಗೆ ಕೊಟ್ಟದೆ, ಇದನ್ನು ನನ್ನ ಮನಸ್ಸು ಬಂದವನಿಗೆ ಕೊಡುತ್ತೇನೆ; ನೀನು ನನ್ನ ಮುಂದೆ ಅಡ್ಡಬಿದ್ದರೆ ಇದೆಲ್ಲಾ ನಿನ್ನದಾಗುವುದು ಎಂದು ಆತನಿಗೆ ಹೇಳಿದನು.  ಲೂಕ 4:6-7	",
 },			
 {			
-"question" :	"	4. The devil told Jesus to cast Himself down from here.	",
+"question" :	"	4. ಸೈತಾನನು ಯೇಸುವನ್ನು ಇಲ್ಲಿಂದ ಕೆಳಕ್ಕೆ ಧುಮುಕು ಎಂದು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The temple	",
-	"	b. A mountain	",
-	"	c. A ship	",
-	"	d. Heaven	"
+	"	A. ದೇವಾಲಯ	",
+	"	B. ಬೆಟ್ಟ	",
+	"	C. ಹಡಗು	",
+	"	D. ಪರಲೋಕ 	"
 ],			
-"correct" :	"	a. The temple	",
-"explanation" :	"	Then he brought Him to Jerusalem, set Him on the pinnacle of the temple, and said to Him, If You are the Son of God, throw Yourself down from here. - Lk 4:9	",
+"correct" :	"	A. ದೇವಾಲಯ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಅವನು ಆತನನ್ನು ಯೆರೂಸಲೇಮಿಗೆ ಕರೆದುಕೊಂಡು ಹೋಗಿ ದೇವಾಲಯದ ಶಿಖರದ ಮೇಲೆ ನಿಲ್ಲಿಸಿ ಆತನಿಗೆ ನೀನು ದೇವರ ಮಗನಾಗಿದ್ದರೆ ಇಲ್ಲಿಂದ ಕೆಳಕ್ಕೆ ದುಮುಕು.  ಲೂಕ 4:9	",
 },			
 {			
-"question" :	"	5. Jesus said, no prophet is accepted here.	",
+"question" :	"	5. ಯೇಸು ಹೇಳಿದ್ದು, ಯಾವ ಪ್ರವಾದಿಯು ಇಲ್ಲಿ ಸಮ್ಮತವಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Heaven	",
-	"	b. Hell	",
-	"	c. His own country	",
-	"	d. Jerusalem	"
+	"	A. ಪರಲೋಕದಲ್ಲಿ	",
+	"	B. ಪಾತಾಳದಲ್ಲಿ	",
+	"	C. ಸ್ವದೇಶದಲ್ಲಿ	",
+	"	D. ಯೆರೂಷಲೇಮಿನಲ್ಲಿ	"
 ],			
-"correct" :	"	c. His own country	",
-"explanation" :	"	Then He said, Assuredly, I say to you, no prophet is accepted in his own country. - Lk 4:24	",
+"correct" :	"	C. ಸ್ವದೇಶದಲ್ಲಿ	",
+"explanation" :	"	ಆದರೆ ಯಾವ ಪ್ರವಾದಿಯೂ ಸ್ವದೇಶದಲ್ಲಿ ಸಮ್ಮತನಲ್ಲವೆಂದು ನಿಮಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ.  ಲೂಕ 4:24	",
 },			
 {			
-"question" :	"	6. Many lepers were in Israel at the time this man was healed.	",
+"question" :	"	6. ಈ ಮನುಷ್ಯನು ಸೌಖ್ಯ ಹೊಂದಿದ ಕಾಲದಲ್ಲಿ ಇಸ್ರಾಯೇಲಿನಲ್ಲಿ ಅನೇಕ ಮಂದಿ ಕುಷ್ಠರೋಗಿಗಳು ಇದ್ದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Elijah	",
-	"	b. Isaiah	",
-	"	c. Moses	",
-	"	d. Naaman	"
+	"	A. ಎಲೀಯ	",
+	"	B. ಯೇಶಾಯ	",
+	"	C. ಮೋಶೆ	",
+	"	D. ನಾಮಾನ್	"
 ],			
-"correct" :	"	d. Naaman	",
-"explanation" :	"	And many lepers were in Israel in the time of Elisha the prophet, and none of them was cleansed except Naaman the Syrian. - Lk 4:27	",
+"correct" :	"	D. ನಾಮಾನ್	",
+"explanation" :	"	ಎಲೀಷನೆಂಬ ಪ್ರವಾದಿಯ ಕಾಲದಲ್ಲಿ ಇಸ್ರಾಯೇಲ್ ಜನರೊಳಗೆ ಎಷ್ಟೋ ಮಂದಿ ಕುಷ್ಠರೋಗಿಗಳು ಇದ್ದಾಗ್ಯೂ ಅವರಲ್ಲಿ ಒಬ್ಬನಾದರೂ ಶುದ್ಧನಾಗದೆ ಸುರಿಯ ದೇಶದವನಾದ ನಾಮಾನನು ಮಾತ್ರ ಶುದ್ಧನಾದನು ಎಂದು ಹೇಳಿದನು.  ಲೂಕ 4:27	",
 },			
 {			
-"question" :	"	7. The people led Jesus from the synagogue, to the brow of the hill, to	",
+"question" :	"	7. ಜನರು ಯೇಸುವನ್ನು ಸಭಾಮಂದಿರದಿಂದ ಬೆಟ್ಟ ಕಡಿದಾದ ಸ್ಥಳಕ್ಕೆ ಇದಕ್ಕಾಗಿ ನೂಕಿಕೊಂಡು ಬಂದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Make Him king.	",
-	"	b. Cast Him down.	",
-	"	c. Heal the sick.	",
-	"	d. Pray.	"
+	"	A. ಆತನನ್ನು ಅರಸನನ್ನಾಗಿ ಮಾಡಲು	",
+	"	B. ಅಲ್ಲಿಂದ ಕೆಳಕ್ಕೆ ದೊಬ್ಬಲು	",
+	"	C. ರೋಗಿಗಳನ್ನು ಗುಣಪಡಿಸಲು	",
+	"	D. ಪ್ರಾರ್ಥಿಸಲು	"
 ],			
-"correct" :	"	b. Cast Him down.	",
-"explanation" :	"	and rose up and thrust Him out of the city; and they led Him to the brow of the hill on which their city was built, that they might throw Him down over the cliff. - Lk 4:29	",
+"correct" :	"	A. ಅಲ್ಲಿಂದ ಕೆಳಕ್ಕೆ ದೊಬ್ಬಲು	",
+"explanation" :	"	ತಮ್ಮ ಊರು ಕಟ್ಟಿದ್ದ ಗುಡ್ಡದ ಕಡಿದಾದ ಸ್ಥಳಕ್ಕೆ ನಡಿಸಿಕೊಂಡು ಹೋಗಿ ಅಲ್ಲಿಂದ ಕೆಳಕ್ಕೆ ದೊಬ್ಬಬೇಕೆಂದಿದ್ದರು.  ಲೂಕ 4:29	",
 },			
 {			
-"question" :	"	8. Jesus healed a man with an unclean spirit here.	",
+"question" :	"	ದೆವ್ವಗಳಿಂದ ಬಾಧಿಸಲ್ಪಡುತ್ತಿದ್ದ ಮನುಷ್ಯನನ್ನು ಯೇಸು ಇಲ್ಲಿ ಸೌಖ್ಯಪಡಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The marketplace	",
-	"	b. The synagogue	",
-	"	c. By the sea	",
-	"	d. The wilderness	"
+	"	A. ಸಂತೇಪೇಟೆಯಲ್ಲಿ	",
+	"	B. ಸಭಾಮಂದಿರದಲ್ಲಿ	",
+	"	C. ಸಮುದ್ರದ ಬಳಿ	",
+	"	D. ಅಡವಿಯಲ್ಲಿ	"
 ],			
-"correct" :	"	b. The synagogue	",
-"explanation" :	"	Now in the synagogue there was a man who had a spirit of an unclean demon. And he cried out with a loud voice,saying, Let us alone! What have we to do with You, Jesus of Nazareth? Did You come to destroy us? I know who You are--the Holy One of God!But Jesus rebuked him, saying, Be quiet, and come out of him! And when the demon had thrown him in their midst, it came out of him and did not hurt him. - Lk 4:33-35	",
+"correct" :	"	B. ಸಭಾಮಂದಿರದಲ್ಲಿ	",
+"explanation" :	"	ಆ ಸಭಾಮಂದಿರದಲ್ಲಿ ದೆವ್ವಹಿಡಿದ ಒಬ್ಬ ಮನುಷ್ಯನಿದ್ದನು.  ಆ ದೆವ್ವವು ಹಾ! ನಜರೇತಿನ ಯೇಸುವೇ, ನಮ್ಮ ಗೊಡವೆ ನನಗೇಕೆ? ನಮ್ಮನ್ನು ನಾಶಮಾಡುವದಕ್ಕೆ ಬಂದೆಯಾ? ನಿನ್ನನ್ನು ಬಲ್ಲೆನು, ನೀನು ದೇವರು ಪ್ರತಿಷ್ಠಿಸಿದವನೇ ಎಂದು ಅಬ್ಬರಿಸಿ ಹೇಳಿತು.  ಯೇಸು ಅದನ್ನು ಗದರಿಸಿ ಸುಮ್ಮನಿರು, ಇವನನ್ನು ಬಿಟ್ಟುಹೋಗು ಎನ್ನಲಾಗಿ ಆ ದೆವ್ವವು ಅವನನ್ನು ನಡುವೆ ಕೆಡವಿ ಅವನಿಗೆ ಯಾವ ಕೇಡನ್ನೂ ಮಾಡದೆ ಬಿಟ್ಟುಹೋಯಿತು.  ಲೂಕ 4:33-35	",
 },			
 {			
-"question" :	"	9. Jesus healed this man’s mother-in-law of a fever.	",
+"question" :	"	9. ಜ್ವರದಿಂದ ನರಳುತ್ತಿದ್ದ ಈ ಮನುಷ್ಯನ ಅತ್ತೆಯನ್ನು ಯೇಸು ಗುಣಪಡಿಸಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Simon	",
-	"	b. Pilate	",
-	"	c. John	",
-	"	d. Luke	"
+	"	A. ಸೀಮೋನ	",
+	"	B. ಪಿಲಾತ	",
+	"	C. ಯೋಹಾನ	",
+	"	D. ಲೂಕ	"
 ],			
-"correct" :	"	a. Simon	",
-"explanation" :	"	Now He arose from the synagogue and entered Simon's house. But Simon's wife's mother was sick with a high fever, and they made request of Him concerning her.So He stood over her and rebuked the fever, and it left her. And immediately she arose and served them - Lk 4:38-39	",
+"correct" :	"	A. ಸೀಮೋನ	",
+"explanation" :	"	ಆತನು ಸಭಾಮಂದಿರದಿಂದೆದ್ದು ಸೀಮೋನನ ಮನೆಗೆ ಬಂದನು.  ಅಲ್ಲಿ ಸೀಮೋನನ ಻ತ್ತೆಯು ಕಠಿನ ಜ್ವರದಿಂದ ಬಹಳ ಕಷ್ಟಪಡುತ್ತಿರಲಾಗಿ ಆಕೆಯ ವಿಷಯದಲ್ಲಿ ಆತನನ್ನು ಬೇಡಿಕೊಂಡರು.  ಆತನು ಆಕೆಯ ಬಳಿ ನಿಂತು ಬಾಗಿ ಆ ಜ್ವರನ್ನು ಗದರಿಸಲು ಅದು ಆಕೆಯನ್ನು ಬಿಟ್ಟುಹೋಯಿತು.  ಲೂಕ 4:38-39	",
 },			
 {			
-"question" :	"	10. When the sun was setting, they brought sick people to Jesus, and He	",
+"question" :	"	10. ಹೊತ್ತು ಮುಣುಗುವಾಗ ಜನರು ರೋಗಿಗಳನ್ನು ಯೇಸುವಿನ ಬಳಿ ತಂದರು, ಆತನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sent them away.	",
-	"	b. Healed every one.	",
-	"	c. Cried with compassion.	",
-	"	d. Sent forth the disciples.	"
+	"	A. ಅವರನ್ನು ಕಳುಹಿಸಿಬಿಟ್ಟನು	",
+	"	B. ಪ್ರತಿಯೊಬ್ಬರನ್ನು ಗುಣಪಡಿಸಿದನು	",
+	"	C. ಅನುಕಂಪದಿಂದ ಅತ್ತನು	",
+	"	D. ಶಿಷ್ಯರನ್ನು ಕಳುಹಿಸಿದನು	"
 ],			
-"correct" :	"	b. Healed every one.	",
-"explanation" :	"	When the sun was setting, all those who had any that were sick with various diseases brought them to Him; and He laid His hands on every one of them and healed them. - Lk 4:40	",
+"correct" :	"	A. ಪ್ರತಿಯೊಬ್ಬರನ್ನು ಗುಣಪಡಿಸಿದನು	",
+"explanation" :	"	ಹೊತ್ತು ಮುಣುಗುವಾಗ ಆದದ್ದೇನಂದರೆ ಯಾರಾರ ಮನೆಯಲ್ಲಿ ತರತರದ ರೋಗಗಳಿಂದ ಅಸ್ವಸ್ಥವಾದವರಿದ್ದರೋ ಅವರೆಲ್ಲರು ಆ ರೋಗಿಗಳನ್ನು ಆತನ ಹತ್ತಿರಕ್ಕೆ ಕರಕೊಂಡು ಬಂದರು; ಆತನು ಪ್ರತಿಯೊಬ್ಬನ ಮೇಲೆಯೂ ಕೈಯಿಟ್ಟು ಅವರನ್ನು ವಾಸಿಮಾಡಿದನು.  ಲೂಕ 4:40	",
 },			
 ]			

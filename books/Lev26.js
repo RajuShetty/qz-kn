@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 26";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 26";			
 var quiz = [			
 {			
 "question" :	"	1. God said, ye shall not make these.	",

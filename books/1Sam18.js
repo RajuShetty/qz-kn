@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 18";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. He loved David as his own soul.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 33";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 33";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord told Moses, to take the people to the land He promised to	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 25";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 25";			
 var quiz = [			
 {			
 "question" :	"	1. The sons of Asaph, Heman and Jeduthun were set apart to prophesy with	",

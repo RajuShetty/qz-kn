@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 7";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. God told Noah to load the ark, because it would begin to rain in this many days.	",

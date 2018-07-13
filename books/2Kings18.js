@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 18";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. Hezekiah was king of	",

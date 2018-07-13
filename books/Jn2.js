@@ -1,124 +1,123 @@
-			
-var quiztitle = "John chapter 2";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
-"question" :	"	1. There was a marriage feast in this city of Galilee.	",
+"question" :	"	1  ಗಲಿಲಾಯದ ಈ ಪಟ್ಟಣದಲ್ಲಿ ಮದುವೆಯ ಔತಣವಿತ್ತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bethany	",
-	"	b. Cana	",
-	"	c. Jerusalem	",
-	"	d. Bethesda	"
+	"	A. ಬೆಥಾನ್ಯ	",
+	"	B. ಕಾನಾ	",
+	"	C. ಯೆರೂಸಲೇಮು	",
+	"	D. ಬೆತೆಸ್ದ	"
 ],			
-"correct" :	"	b. Cana	",
-"explanation" :	"	On the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there - Jn 2:1	",
+"correct" :	"	B. ಕಾನಾ	",
+"explanation" :	"	ಮೂರನೆಯ ದಿನದಲ್ಲಿ ಗಲಿಲಾಯದ ಕಾನಾ ಊರಿನಲ್ಲಿ ಒಂದು ಮದುವೆ ಆಯಿತು; ಯೇಸುವಿನ ತಾಯಿ ಅಲ್ಲಿ ಇದ್ದಳು 2:1	",
 },			
 {			
-"question" :	"	2. How many water pots were there?	",
+"question" :	"	2  ಅಲ್ಲಿ ಎಷ್ಟು ಕಲ್ಲಿನ ಬಾನೆಗಳಿದ್ದವು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 2	",
-	"	b. 6	",
-	"	c. 10	",
-	"	d. 12	"
+	"	A. 2	",
+	"	B. 6	",
+	"	C. 10	",
+	"	D. 12	"
 ],			
-"correct" :	"	b. 6	",
-"explanation" :	"	Now there were set there six waterpots of stone, according to the manner of purification of the Jews, containing twenty or thirty gallons apiece. - Jn 2:6	",
+"correct" :	"	B. 6	",
+"explanation" :	"	ಯೆಹೂದ್ಯರ ಶುದ್ಧಾಚಾರದ ಪದ್ಧತಿಯ ಪ್ರಕಾರ ಎರಡು ಮೂರು ಕೊಳಗ ನೀರು ಹಿಡಿಯುವ ಆರು ಕಲ್ಲಿನ ಬಾನೆಗಳು ಅಲ್ಲಿ ಇಟ್ಟಿದ್ದವು 2:6	",
 },			
 {			
-"question" :	"	3. Jesus told the servants to fill the pots with this.	",
+"question" :	"	3  ಯೇಸು ಅಲ್ಲಿನ ಕೆಲಸಗಾರರಿಗೆ ಬಾನೆಗಳಲ್ಲಿ ಏನನ್ನು ತುಂಬಿಸಲು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Water	",
-	"	b. Wine	",
-	"	c. Oil	",
-	"	d. Vinegar	"
+	"	A. ನೀರು	",
+	"	B. ದ್ರಾಕ್ಷಾರಸ	",
+	"	C. ಎಣ್ಣೆ	",
+	"	D. ವಿನೇಗಾರ್	"
 ],			
-"correct" :	"	a. Water	",
-"explanation" :	"	Jesus said to them, Fill the waterpots with water. And they filled them up to the brim. - Jn 2:7	",
+"correct" :	"	A. ನೀರು	",
+"explanation" :	"	ಯೇಸು ಅವರಿಗೆ - ಆ ಬಾನೆಗಳಲ್ಲಿ ನೀರು ತುಂಬಿರಿ ಅನ್ನಲು ಅವುಗಳನ್ನು ಕಂಠದ ಮಟ್ಟಿಗೆ ತುಂಬಿದರು. 2:7	",
 },			
 {			
-"question" :	"	4. What did the servants serve from these water pots?	",
+"question" :	"	4  ಕೆಲಸಗಾರರು ಆ ಬಾನೆಗಳಿಂದ ಏನನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗಿ ಕೊಟ್ಟರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Water	",
-	"	b. Wine	",
-	"	c. Oil	",
-	"	d. Vinegar	"
+	"	A. ನೀರು	",
+	"	B. ದ್ರಾಕ್ಷಾರಸ	",
+	"	C. ಎಣ್ಣೆ	",
+	"	D. ವಿನೇಗಾರ್	"
 ],			
-"correct" :	"	b. Wine	",
-"explanation" :	"	And He said to them, Draw some out now, and take it to the master of the feast. And they took it. When the master of the feast had tasted the water that was made wine, and did not know where it came from (but the servants who had drawn the water knew), the master of the feast called the bridegroom. - Jn 2:8-9	",
+"correct" :	"	B. ದ್ರಾಕ್ಷಾರಸ	",
+"explanation" :	"	ಆಗ ಅವರಿಗೆ - ಈಗ ಅದನ್ನು ತೋಡಿಕೊಂಡು ಹೋಗಿ ಔತಣದ ಪಾರುಪತ್ಯಗಾರನಿಗೆ ಕೊಡಿರಿ ಎಂದು ಹೇಳಿದಾಗ ತಕ್ಕೊಂಡು ಹೋಗಿ ಕೊಟ್ಟರು. ಅದು ಎಲ್ಲಿಂದ ಬಂತೋ ನೀರನ್ನು ತೋಡಿದ ಕೆಲಸದವರಿಗೆ ತಿಳಿದಿತ್ತೇ ಹೊರತು ಔತಣದ ಪಾರುಪತ್ಯಗಾರನಿಗೆ ತಿಳಿಯದಿರಲಾಗಿ ಅವನು ಅಷ್ಟರೊಳಗೆ ದ್ರಾಕ್ಷಾರಸವಾದ ಆ ನೀರನ್ನು ರುಚಿನೋಡಿದಾಗ 2:8-9	",
 },			
 {			
-"question" :	"	5. The governor of the feast said to the bridegroom	",
+"question" :	"	5 ಔತಣದ ಪಾರುಪತ್ಯಗಾರನು ಮದಲಿಂಗನಿಗೆ ಹೀಗೆ ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. This is a miracle.	",
-	"	b. This man has a devil.	",
-	"	c. You saved the good wine until now.	",
-	"	d. I will toast you & your bride.	"
+	"	A. ಇದು ಅದ್ಭುತ	",
+	"	B. ಈ ಮನುಷ್ಯನಲ್ಲಿ ದೆವ್ವವಿದೆ	",
+	"	C. ನೀನು ಹಿರಿದಿನದ ದ್ರಾಕ್ಷಾರಸವನ್ನು ಇದುವರೆಗೂ ಇಟ್ಟುಕೊಂಡಿದ್ದಿ	",
+	"	D. ನಾನು ನಿನ್ನನ್ನು ಮತ್ತು ವಧುವನ್ನು ಬೇಯಿಸಿಬಿಡುವೆನು	"
 ],			
-"correct" :	"	c. You saved the good wine until now.	",
-"explanation" :	"	And he said to him, Every man at the beginning sets out the good wine, and when the guests have well drunk, then the inferior. You have kept the good wine until now - Jn 2:10	",
+"correct" :	"	C. ನೀನು ಹಿರಿದಿನದ ದ್ರಾಕ್ಷಾರಸವನ್ನು ಇದುವರೆಗೂ ಇಟ್ಟುಕೊಂಡಿದ್ದಿ	",
+"explanation" :	"	ಮದಲಿಂಗನನ್ನು ಕರೆದು - ಎಲ್ಲರು ಹಿರಿದಿನ ದ್ರಾಕ್ಷಾರಸವನ್ನು ಮೊದಲುಕೊಟ್ಟು ಅಮಲೇರಿದ ಮೇಲೆ ಕಿರಿದಿನ ದ್ರಾಕ್ಷಾರಸವನ್ನು ಕೊಡುತ್ತಾರೆ; ನೀನು ಹಿರಿದಿನ ದ್ರಾಕ್ಷಾರಸವನ್ನು ಇದುವರೆಗೂ ಇಟ್ಟುಕೊಂಡಿದ್ದೀ ಅಂದನು. 2:10	",
 },			
 {			
-"question" :	"	6. Jesus traveled to this city for Passover.	",
+"question" :	"	6 ಫಸ್ಕ ಹಬ್ಬಕ್ಕಾಗಿ ಯೇಸು ಈ ಪಟ್ಟಣಕ್ಕೆ ಪ್ರಯಾಣಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jerusalem	",
-	"	b. Bethlehem	",
-	"	c. Uz	",
-	"	d. Canaan	"
+	"	A. ಯೆರೂಷಲೇಮು	",
+	"	B. ಬೆತ್ಲೆಹೇಮು	",
+	"	C. ಊಜ್	",
+	"	D. ಕಾನಾನ್	"
 ],			
-"correct" :	"	a. Jerusalem	",
-"explanation" :	"	Now the Passover of the Jews was at hand, and Jesus went up to Jerusalem. - Jn 2:13	",
+"correct" :	"	A. ಯೆರೂಷಲೇಮು	",
+"explanation" :	"	ಆಗ ಯೆಹೂದ್ಯರ ಪಸ್ಕಹಬ್ಬವು ಹತ್ತರ ಬಂದದರಿಂದ ಯೇಸು ಯೆರೂಸಲೇಮಿಗೆ ಹೋದನು 2:13	",
 },			
 {			
-"question" :	"	7. Jesus drove the moneychangers from here.	",
+"question" :	"	7  ಯೇಸು ಚಿನಿವಾರರನ್ನು ಇಲ್ಲಿಂದ ಹೊರಡಿಸಿದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The marketplace	",
-	"	b. The palace	",
-	"	c. Egypt	",
-	"	d. The temple	"
+	"	A. ಸಂತೇಪೇಟೆಗಳಿಂದ	",
+	"	B. ಅರಮನೆಯಿಂದ	",
+	"	C. ಐಗುಪ್ತ್ಯದಿಂದ	",
+	"	D. ದೇವಾಲಯದಿಂದ	"
 ],			
-"correct" :	"	d. The temple	",
-"explanation" :	"	And He found in the temple those who sold oxen and sheep and doves, and the moneychangers doing business.When He had made a whip of cords, He drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overturned the tables - Jn 2:14-15	",
+"correct" :	"	D. ದೇವಾಲಯದಿಂದ	",
+"explanation" :	"	ಅಲ್ಲಿ ದೇವಾಲಯದೊಳಗೆ ದನ ಕುರಿ ಪಾರಿವಾಳ ಮಾರುವವರನ್ನೂ ಕೂತಿರುವ ಚಿನಿವಾರರನ್ನೂ ಕಂಡು ಹಗ್ಗದಿಂದ ಕೊರಡೆ ಮಾಡಿ ಅದರಿಂದ ಕುರಿ ದನ ಸಹಿತ ಎಲ್ಲರನ್ನು ದೇವಾಲಯದ ಹೊರಕ್ಕೆ ಅಟ್ಟಿ ಚಿನಿವಾರರ ರೊಕ್ಕವನ್ನು ಚೆಲ್ಲಿ ಮೇಜುಗಳನ್ನು ಕೆಡವಿದನು. 2:14-15	",
 },			
 {			
-"question" :	"	8. Jesus said, make not My Father’s house	",
+"question" :	"	8  ನನ್ನ ತಂದೆಯ ಮನೆಯನ್ನು  ______________ ಮಾಡಬೇಡಿರಿ ಎಂದು ಯೇಸು   ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Your house.	",
-	"	b. Of no value.	",
-	"	c. A home for the wayward.	",
-	"	d. A house of merchandise.	"
+	"	A. ನಿಮ್ಮ ಮನೆಗಳಾಗಿ	",
+	"	B. ಬೆಲೆಯಿಲ್ಲದವುಗಳಾಗಿ	",
+	"	C. ಹಠಮಾರಿಗಳ ಮನೆಯಾಗಿ	",
+	"	D. ಸಂತೆಯನ್ನಾಗಿ	"
 ],			
-"correct" :	"	d. A house of merchandise.	",
-"explanation" :	"	And He said to those who sold doves, Take these things away! Do not make My Father's house a house of merchandise - Jn 2:16	",
+"correct" :	"	D. ಸಂತೆಯನ್ನಾಗಿ	",
+"explanation" :	"	ಪಾರಿವಾಳ ಮಾರುವವರಿಗೆ - ಇವುಗಳನ್ನು ಇಲ್ಲಿಂದ ತಕ್ಕೊಂಡು ಹೋಗಿರಿ; ನನ್ನ ತಂದೆಯ ಮನೆಯನ್ನು ಸಂತೆ ಮಾಡಬೇಡಿರಿ ಎಂದು ಹೇಳಿದನು. 2:16	",
 },			
 {			
-"question" :	"	9. Speaking of His body, Jesus said destroy this temple and I will raise it up in	",
+"question" :	"	9  ಯೇಸು ತನ್ನ ಶರೀರದ ಕುರಿತಾಗಿ, ಈ ದೇವಾಲಯವನ್ನು ಕೆಡವಿರಿ, ನಾನು _________    ಅದನ್ನು  ಎಬ್ಬಿಸುವೆನು ಅಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1 day.	",
-	"	b. 2 days.	",
-	"	c. 3 days.	",
-	"	d. 4 days.	"
+	"	A. 1 ದಿನ	",
+	"	B. 2 ದಿನ	",
+	"	C. 3 ದಿನ	",
+	"	D. 4 ದಿನ	"
 ],			
-"correct" :	"	c. 3 days.	",
-"explanation" :	"	Jesus answered and said to them, Destroy this temple, and in three days I will raise it up.Then the Jews said, It has taken forty-six years to build this temple, and will You raise it up in three days?But He was speaking of the temple of His body. - Jn 2:19-21	",
+"correct" :	"	C. 3 ದಿನ	",
+"explanation" :	"	ಯೇಸು - ಈ ದೇವಾಲಯವನ್ನು ಕೆಡವಿರಿ; ನಾನು ಮೂರು ದಿನದಲ್ಲಿ ಅದನ್ನು ಎಬ್ಬಿಸುವೆನು ಅಂದನು. ಅದಕ್ಕೆ ಯೆಹೂದ್ಯರು - ಈ ದೇವಾಲಯವನ್ನು ಕಟ್ಟುವದಕ್ಕೆ ನಾಲ್ವತ್ತಾರು ವರುಷ ಹಿಡಿಯಿತು; ನೀನು ಮೂರು ದಿನದಲ್ಲಿ ಅದನ್ನು ಎಬ್ಬಿಸುವಿಯೋ? ಅಂದರು. ಆದರೆ ಆತನು ತನ್ನ ದೇಹವೆಂಬ ದೇವಾಲಯದ ವಿಷಯವಾಗಿ ಆ ಮಾತನ್ನು ಹೇಳಿದ್ದನು 2:19-21	",
 },			
 {			
-"question" :	"	10. The Jews said, it took this long to build the temple.	",
+"question" :	"	10  ಈ ದೇವಾಲಯವನ್ನು ಕಟ್ಟಲು _________ ಬೇಕಾಯಿತು ಎಂದು ಯೆಹೂದ್ಯರು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. 10 years	",
-	"	b. 20 years	",
-	"	c. 46 years	",
-	"	d. 100 years	"
+	"	A. 10 ವರ್ಷ	",
+	"	B. 20 ವರ್ಷ	",
+	"	C. 46 ವರ್ಷ	",
+	"	D. 100 ವರ್ಷ	"
 ],			
-"correct" :	"	c. 46 years	",
-"explanation" :	"	Then the Jews said, It has taken forty-six years to build this temple, and will You raise it up in three days? - Jn 2:20	",
+"correct" :	"	C. 46 ವರ್ಷ	",
+"explanation" :	"	ಅದಕ್ಕೆ ಯೆಹೂದ್ಯರು - ಈ ದೇವಾಲಯವನ್ನು ಕಟ್ಟುವದಕ್ಕೆ ನಾಲ್ವತ್ತಾರು ವರುಷ ಹಿಡಿಯಿತು; ನೀನು ಮೂರು ದಿನದಲ್ಲಿ ಅದನ್ನು ಎಬ್ಬಿಸುವಿಯೋ? ಅಂದರು. 2:20	",
 },			
 ]			

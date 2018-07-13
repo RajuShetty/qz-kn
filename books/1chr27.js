@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 27";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 27";			
 var quiz = [			
 {			
 "question" :	"	1. David did not number them from this age and under.	",

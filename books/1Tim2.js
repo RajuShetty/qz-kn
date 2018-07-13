@@ -1,4 +1,4 @@
-var quiztitle = "1 Timothy chapter 2 ";			
+var quiztitle = "1 ತಿಮೊಥೆಯನಿಗೆ ಅಧ್ಯಾಯ 2 ";			
 var quiz = [			
 {			
 "question" :	"	1. ಇವರಿಗೋಸ್ಕರ ಪ್ರಾರ್ಥನೆಗಳನ್ನು ವಿಜ್ಞಾಪನೆಗಳನ್ನೂ ಮಾಡಬೇಕು	",

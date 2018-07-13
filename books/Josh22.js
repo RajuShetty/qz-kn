@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 22";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. Joshua called these two tribes and half the tribe of Manasseh. 	",

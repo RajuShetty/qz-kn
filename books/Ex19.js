@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 19";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. The children of Israel came to the wilderness of	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 18";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 18";			
 var quiz = [			
 {			
 "question" :	"	1. God told Elijah to go to	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 John Peter chapter 4";			
+var quiztitle = " 1 ಯೋಹಾನ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1.  ಇದು ದೇವರಿಂದ ಪ್ರೇರಿತವಾದವುಗಳೋ ಅಲ್ಲವೋ ಎಂಬುದನ್ನು ಪರೀಕ್ಷಿಸಬೇಕು.	",

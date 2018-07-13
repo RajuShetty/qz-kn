@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 5";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. Naaman was a mighty man in valor, but he was	",

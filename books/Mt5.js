@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 5";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus taught the multitude here.	",
+"question" :	"	1.  ಯೇಸು ಜನರ ಗುಂಪುಗಳಿಗೆ ಇಲ್ಲಿ  ಪ್ರಸಂಗಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. In the temple	",
-	"	b. From a ship	",
-	"	c. From a mountain	",
-	"	d. In Jerusalem	"
+	"	A. ದೇವಾಲಯದಲ್ಲಿ	",
+	"	B. ದೋಣಿಯಲ್ಲಿ	",
+	"	C. ಬೆಟ್ಟದಲ್ಲಿ	",
+	"	D. ಯೆರೂಸಲೇಮಿನಲ್ಲಿ	"
 ],			
-"correct" :	"	c. From a mountain	",
-"explanation" :	"And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him And he opened his mouth, and taught them,  Matt 5:1-2",
+"correct" :	"	C. ಬೆಟ್ಟದಲ್ಲಿ	",
+"explanation" :	"	ಆತನು ಆ ಜನರ ಗುಂಪುಗಳನ್ನು ಕಂಡು ಬೆಟ್ಟವನ್ನೇರಿ ಕೂತುಕೊಂಡ ತರುವಾಯ.. .. ಮತ್ತಾಯ 5:1	",
 },			
 {			
-"question" :	"	2. Blessed are they that hunger and thirst after _______, for they shall be filled.	",
+"question" :	"	2  .__________ ಹಸಿದು ಬಾಯಾರಿದವರು ಧನ್ಯರು, ಅವರು ತೃಪ್ತರಾಗುವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bread & wine	",
-	"	b. Wisdom	",
-	"	c. Signs & wonders	",
-	"	d. Righteousness	"
+	"	A.ರೊಟ್ಟಿ ಮತ್ತು ದ್ರಾಕ್ಷಾರಸ	",
+	"	B.ಜ್ಞಾನ	",
+	"	C.ಸೂಚಕ ಕಾರ್ಯ ಮತ್ತು ಅದ್ಭುತಗಳು	",
+	"	D.ನೀತಿಗೆ	"
 ],			
-"correct" :	"	d. Righteousness	",
-"explanation" :	"Blessed are they which do hunger and thirst after righteousness: for they shall be filled Mat 5:6	",
+"correct" :	"	D.ನೀತಿಗೆ	",
+"explanation" :	"	ನೀತಿಗೆ ಹಸಿದು ಬಾಯಾರಿದವರು ಧನ್ಯರು, ಅವರಿಗೆ ತೃಪ್ತಿಯಾಗುವುದು ಮತ್ತಾಯ 5:6	",
 },			
 {			
-"question" :	"	3. Blessed are the merciful, for	",
+"question" :	"	3. ಕರುಣೆಯುಳ್ಳವರು ಧನ್ಯರು, ________	",
 "image" :	"",		
 "choices" : [			
-	"	a. They shall inherit the kingdom of heaven.	",
-	"	b. They shall obtain mercy.	",
-	"	c. They shall be comforted.	",
-	"	d. They shall see God.	"
+	"	A. ಅವರು ಪರಲೋಕ ರಾಜ್ಯಕ್ಕೆ ಬಾಧ್ಯರಾಗುವರು	",
+	"	B. ಅವರು ಕರುಣಿಸಲ್ಪಡುವರು	",
+	"	C. ಅವರು ಸಮಾಧಾನ ಹೊಂದುವರು	",
+	"	D. ಅವರು ದೇವರನ್ನು ನೋಡುವರು	"
 ],			
-"correct" :	"	b. They shall obtain mercy.	",
-"explanation" :	"	Blessed are the merciful, For they shall obtain mercy.- Matt 5:7	",
+"correct" :	"	B. ಅವರು ಕರುಣಿಸಲ್ಪಡುವರು	",
+"explanation" :	"	ಕರುಣೆಯುಳ್ಳವರು ಧನ್ಯರು, ಅವರು ಕರುಣೆ ಹೊಂದುವರು. ಮತ್ತಾಯ 5:7	",
 },			
 {			
-"question" :	"	4. Blessed are the pure in heart, for	",
+"question" :	"	4. ನಿರ್ಮಲಚಿತ್ತರು ಧನ್ಯರು, ಅವರು _______	",
 "image" :	"",		
 "choices" : [			
-	"	a. Theirs is the kingdom of heaven.	",
-	"	b. They shall see God.	",
-	"	c. God’s hand is upon them.	",
-	"	d. They shall obtain mercy.	"
+	"	A. ಪರಲೋಕ ರಾಜ್ಯ ಅವರದು	",
+	"	B. ಅವರು ದೇವರನ್ನು ನೋಡುವರು	",
+	"	C. ದೇವರ ಕರ ಅವರ ಮೇಲೆ ಇರುವುದು	",
+	"	D. ಅವರು ಕರುಣಿಸಲ್ಪಡುವರು	"
 ],			
-"correct" :	"	b. They shall see God.	",
-"explanation" :	"	Blessed are the pure in heart, For they shall see God.- matt 5:8	",
+"correct" :	"	B. ಅವರು ದೇವರನ್ನು ನೋಡುವರು	",
+"explanation" :	"	ನಿರ್ಮಲಚಿತ್ತರು ಧನ್ಯರು, ಅವರು ದೇವರನ್ನು ನೋಡುವರು  ಮತ್ತಾಯ 5:8	",
 },			
 {			
-"question" :	"	5. What did Jesus say we should do when we are persecuted for righteousness sake?	",
+"question" :	"	5 ನೀತಿಯ ನಿಮಿತ್ತ  ನಾವು ಹಿಂಸೆಗೆ ಒಳಗಾದಾಗ ಏನು ಮಾಡಬೇಕೆಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mourn	",
-	"	b. Question why	",
-	"	c. Rejoice	",
-	"	d. Fall on our face	"
+	"	A. ಗೋಳಾಡಬೇಕು	",
+	"	B. ಏಕೆಂದು ಪ್ರಶ್ನಿಸಬೇಕು	",
+	"	C. ಸಂತೋಷಿಸಬೇಕು	",
+	"	D. ನಮ್ಮ ಮುಖದ ಮೇಲೆ ಬೀಳಬೇಕು	"
 ],			
-"correct" :	"	c. Rejoice	",
-"explanation" :	"	Blessed are those who are persecuted for righteousness' sake, For theirs is the kingdom of heaven.Blessed are you when they revile and persecute you, and say all kinds of evil against you falsely for My sake.Rejoice and be exceedingly glad, for great is your reward in heaven, for so they persecuted the prophets who were before you.- Matt 5:10,11,12	",
+"correct" :	"	C. ಸಂತೋಷಿಸಬೇಕು	",
+"explanation" :	"	ನೀತಿಯ ನಿಮಿತ್ತವಾಗಿ ಹಿಂಸೆಯನ್ನು ತಾಳಿಕೊಳ್ಳುವವರು ಧನ್ಯರು; ಪರಲೋಕರಾಜ್ಯವು ಅವರದು.  ನನ್ನ ನಿಮಿತ್ತವಾಗಿ ಜನರು ನಿಮ್ಮನ್ನು ನಿಂದಿಸಿ ಹಿಂಸೆಪಡಿಸಿ ನಿಮ್ಮ ಮೇಲೆ ಕೆಟ್ಟ ಕೆಟ್ಟ ಮಾತುಗಳನ್ನು ಸುಳ್ಳಾಗಿ ಹೊರಿಸಿದರೆ ನೀವು ಧನ್ಯರು. ಸಂತೋಷ[ಪಡಿರಿ ಮತ್ತಾಯ 5:10-12	",
 },			
 {			
-"question" :	"	6. What two things did Jesus compare us to?	",
+"question" :	"	6  ಯಾವ ಎರಡು ವಸ್ತುಗಳೊಂದಿಗೆ ಯೇಸು ನಮ್ಮನ್ನು ಹೋಲಿಸುತ್ತಾರೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Salt & pepper	",
-	"	b. Salt & light	",
-	"	c. A candle & dove	",
-	"	d. A dove & salt	"
+	"	A.ಉಪ್ಪು ಮತ್ತು ಮೆಣಸು	",
+	"	B.ಉಪ್ಪು ಮತ್ತು ಬೆಳಕು	",
+	"	C.ದೀಪಸ್ಥಂಬ ಮತ್ತು ಪಾರಿವಾಳ	",
+	"	D.ಪಾರಿವಾಳ ಮತ್ತು ಉಪ್ಪು	"
 ],			
-"correct" :	"	b. Salt & light	",
-"explanation" :	"	You are the salt of the earth; but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men. You are the light of the world. A city that is set on a hill cannot be hidden.- matt 5:13,14	",
+"correct" :	"	B.ಉಪ್ಪು ಮತ್ತು ಬೆಳಕು	",
+"explanation" :	"	ನೀವು ಭೂಮಿಗೆ ಉಪ್ಪಾಗಿದ್ದೀರಿ  ಮತ್ತಾಯ 5:13  ನೀವು ಲೋಕಕ್ಕೆ ಬೆಳಕಾಗಿದ್ದೀರಿ  ಮತ್ತಾಯ 5:14	",
 },			
 {			
-"question" :	"	7. Jesus said, whoever calls his brother a fool	",
+"question" :	"	7 ಯೇಸು ಹೇಳಿದ್ದು, ತನ್ನ ಸಹೋದರನನ್ನು ಮೂರ್ಖಾ ಎನ್ನುವವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Shall be made a fool himself.	",
-	"	b. Shall be persecuted.	",
-	"	c. Shall be in danger of hell fire.	",
-	"	d. Is not wise.	"
+	"	A. ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಮೂಖಾನಾಗುವನು	",
+	"	B. ಹಿಂಸೆಗೊಳಗಾಗುವನು	",
+	"	C. ಅಗ್ನಿನರಕಕ್ಕೆ ಗುರಿಯಾಗುವನು	",
+	"	D. ಅವನು ಬುದ್ದಿವಂತನಲ್ಲ	"
 ],			
-"correct" :	"	c. Shall be in danger of hell fire.	",
-"explanation" :	"	But I say to you that whoever is angry with his brother without a cause shall be in danger of the judgment. And whoever says to his brother, Raca! shall be in danger of the council. But whoever says, 'You fool!' shall be in danger of hell fire.- Matt 5:22	",
+"correct" :	"	C. ಅಗ್ನಿನರಕಕ್ಕೆ ಗುರಿಯಾಗುವನು	",
+"explanation" :	"	ತನ್ನ ಸಹೋದರರನ್ನು ನೋಡಿ ಮೂರ್ಖಾ ಅನ್ನುವವನು ಅಗ್ನಿನರಕಕ್ಕೆ ಗುರಿಯಾಗುವನು. ಮತ್ತಾಯ 5:22	",
 },			
 {			
-"question" :	"	8. Jesus said, if we take a gift to the altar and remember a brother has ought against us, we should	",
+"question" :	"	8 ಯೇಸು ಹೇಳಿದ್ದು, ನೀವು ಯಜ್ಞವೇದಿಯ ಹತ್ತಿರಕ್ಕೆ ಕಾಣಿಕೆಯನ್ನು ತರುವಾಗ ನಿಮ್ಮ ಸಹೋದರನಿಗೆ ನಿಮ್ಮ ಮೇಲೆ ಏನೋ ವಿರೋಧವದೆ ಎಂಬುದು ನೆನಪಾದರೆ ......	",
 "image" :	"",		
 "choices" : [			
-	"	a. Increase the gift.	",
-	"	b. Go reconcile with our brother.	",
-	"	c. Ask God for forgiveness.	",
-	"	d. Offer a sin sacrifice.	"
+	"	A. ಕಾಣಿಕೆಯನ್ನು ಹೆಚ್ಚಸಿ	",
+	"	B. ನಿನ್ನ ಸಹೋದರನ ಸಂಗಡ ಒಂದಾಗು	",
+	"	C. ದೇವರಲ್ಲಿ ಕ್ಷಮೆಯನ್ನು ಕೇಳು	",
+	"	D. ಪಾಪಪರಿಹಾರ ಯಜ್ಞವನ್ನು ಅರ್ಪಿಸಬೇಕು	"
 ],			
-"correct" :	"	b. Go reconcile with our brother.	",
-"explanation" :	"	Therefore if you bring your gift to the altar, and there remember that your brother has something against you,leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift.- Matt 5:23,24	",
+"correct" :	"	B. ನಿನ್ನ ಸಹೋದರನ ಸಂಗಡ ಒಂದಾಗು	",
+"explanation" :	"	ನೀನು ನಿನ್ನ ಕಾಣಿಕೆಯನ್ನು ಯಜ್ಞವೇದಿಯ ಹತ್ತಿರಕ್ಕೆ ತಂದಾಗ ನಿನ್ನ ಸಹೋದರನ ಮನಸ್ಸಿನಲ್ಲಿ ನಿನ್ನ ಮೇಲೆ ಏನೋ ವಿರೋಧವದೆ ಎಂಬುದು ನಿನ್ನ ನೆನಪಿಗೆ ಬಂದರೆ, ನಿನ್ನ ಕಾಣಿಕೆಯನ್ನು ಆ ಯಜ್ಞವೇದಿಯ ಮುಂದೆಯೇ ಬಿಟ್ಟುಹೋಗಿ ಮೊದಲು ನಿನ್ನ ಸಹೋದರನ ಸಂಗಡ ಒಂದಾಗು  ಮತ್ತಾಯ 5:23-24	",
 },			
 {			
-"question" :	"	9. Jesus said, whoever looks at a woman with lust	",
+"question" :	"	9. ಯೇಸು ಹೇಳಿದ್ದು, ಪರಸ್ತ್ರೀಯನ್ನು ನೋಡಿ ಮೋಹಿಸುವ ಪ್ರತಿ ಮನುಷ್ಯನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Has dishonored himself.	",
-	"	b. Has dishonored God.	",
-	"	c. Has committed adultery in his heart.	",
-	"	d. Shall be sorely punished.	"
+	"	a. ತನ್ನನ್ನ್ನು ಅಗೌರವಿಸಿದ ಹಾಗೆ.	",
+	"	b. ದೇವರನ್ನು ಅಗೌರವಿಸಿದ ಹಾಗೆ.	",
+	"	c. ತನ್ನ ಮನಸ್ಸಿನಲ್ಲಿ ಆಕೆಯ ಕೂಡ ವ್ಯಭಿಚಾರ ಮಾಡಿದವನಾದನು.	",
+	"	d. ಕಠಿಣವಾಗಿ ಶಿಕ್ಶೆಗೆ ಒಳಗಾಗಬೇಕು.	"
 ],			
-"correct" :	"	c. Has committed adultery in his heart.	",
-"explanation" :	"	But I say to you that whoever looks at a woman to lust for her has already committed adultery with her in his heart. - Matt 5:28	",
+"correct" :	"	c. ತನ್ನ ಮನಸ್ಸಿನಲ್ಲಿ ಆಕೆಯ ಕೂಡ ವ್ಯಭಿಚಾರ ಮಾಡಿದವನಾದನು.	",
+"explanation" :	"	ಆದರೆ ನಾನು ನಿಮಗೆ ಹೇಳುವದೇನಂದರೆ - ಪರಸ್ತ್ರೀಯನ್ನು ನೋಡಿ ಮೋಹಿಸುವ ಪ್ರತಿ ಮನುಷ್ಯನು ಆಗಲೇ ತನ್ನ ಮನಸ್ಸಿನಲ್ಲಿ ಆಕೆಯ ಕೂಡ ವ್ಯಭಿಚಾರ ಮಾಡಿದವನಾದನು. 5:28	",
 },			
 {			
-"question" :	"	10. Jesus said, if someone smites you on the right cheek	",
+"question" :	"	10 ಯೇಸು ಹೇಳಿದ್ದು, ಯಾರಾದರು ನಿಮ್ಮನ್ನು ಬಲಗೆನ್ನೆಯ ಮೇಲೆ ಹೊಡೆದರೆ,	",
 "image" :	"",		
 "choices" : [			
-	"	a. Turn to him the other cheek.	",
-	"	b. Curse them by the power of heaven.	",
-	"	c. Smite them back.	",
-	"	d. Take their coat.	"
+	"	A. ಮತ್ತೊಂದು ಕೆನ್ನೆಯನ್ನು ಅವರಿಗೆ ಕೊಡು	",
+	"	B. ಪರಲೋಕದ ಅಧಿಕಾರದಿಂದ ಅವರನ್ನು ಶಪಿಸು	",
+	"	C. ಅವರನ್ನು ಹಿಂತಿರುಗಿ ಹೊಡೆಯಬೇಕು	",
+	"	D. ಅವರ ಮೇಲಂಗಿಯನ್ನು ತೆಗೆದುಕೊಳ್ಳಬೇಕು	"
 ],			
-"correct" :	"	a. Turn to him the other cheek.	",
-"explanation" :	"	But I tell you not to resist an evil person. But whoever slaps you on your right cheek, turn the other to him also.- Matt 5:39	",
+"correct" :	"	A. ಮತ್ತೊಂದು ಕೆನ್ನೆಯನ್ನು ಅವರಿಗೆ ಕೊಡು	",
+"explanation" :	"	ಒಬ್ಬನು ನಿನ್ನ ಬಲಗೆನ್ನೆಯ ಮೇಲೆ ಹೊಡೆದರೆ ಅವನಿಗೆ ಮತ್ತೊಂಎದು ಕೆನ್ನೆಯನ್ನೂ ಒಡ್ಡು.  ಮತ್ತಾಯ 5:39	",
 },			
 ]			

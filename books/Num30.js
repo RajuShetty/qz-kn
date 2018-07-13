@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 30";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 30";			
 var quiz = [			
 {			
 "question" :	"	1. Who was speaking?	",

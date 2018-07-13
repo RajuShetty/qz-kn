@@ -1,7 +1,7 @@
-var quiztitle = " Genesis  chapter 5";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter is a book of the generations of	",
+"question" :	"	1. This ಅಧ್ಯಾಯ is a book of the generations of	",
 "image" :	"",		
 "choices" : [			
 	"	a. Noah.	",

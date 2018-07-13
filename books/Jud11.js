@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 11";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1. Jephthah was the son of	",

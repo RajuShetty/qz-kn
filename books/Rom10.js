@@ -1,124 +1,124 @@
-var quiztitle = "Romans chapter 10";			
-var quiz = [  			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 10";			
+var quiz = [			
 {			
-"question" :	"	1. Paul said, his desire for Israel is, they might be	",
+"question" :	"	1 ಪೌಲನು ಹೇಳುವ ಪ್ರಕಾರ, ಇಸ್ರಾಯೇಲ್ಯರ ಕುರಿತು ಅವನ ಮನೋಭಿಲಾಷೆ ಏನಾಗಿತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Annihilated.	",
-	"	b. Saved.	",
-	"	c. Blessed.	",
-	"	d. Cursed.	"
+	"	A. ಸಂಹರಿಸುವುದು	",
+	"	B. ರಕ್ಷಣೆ ಹೊಂದುವುದು	",
+	"	C. ಆಶೀರ್ವದಿಸಲ್ಪಡುವುದು	",
+	"	D. ಶಪಿಸಲ್ಪಡುವುದು	"
 ],			
-"correct" :	"	b. Saved.	",
-"explanation" :	"	Brethren, my heart's desire and prayer to God for Israel is, that they might be saved.10:1	",
+"correct" :	"	B. ರಕ್ಷಣೆ ಹೊಂದುವುದು	",
+"explanation" :	"	ಸಹೋದರರೇ, ಇಸ್ರಾಯೇಲ್ಯರು ರಕ್ಷಣೆಹೊಂದಬೇಕೆಂಬದೇ ನನ್ನ ಮನೋಭಿಲಾಷೆಯೂ ದೇವರಿಗೆ ನಾನು ಮಾಡುವ ವಿಜ್ಞಾಪನೆಯೂ ಆಗಿದೆ. 10:1	",
 },			
 {			
-"question" :	"	2. Israel has a zeal of God, but not according to this.	",
+"question" :	"	2 ಇಸ್ರಾಯೇಲ್ಯರಿಗೆ ದೇವರ ಕುರಿತು ಆಸಕ್ತಿ ಇತ್ತು, ಆದರೆ ಅದು ಇದರ ಪ್ರಕಾರ ಅಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The law	",
-	"	b. The scriptures	",
-	"	c. Knowledge	",
-	"	d. Sincerity	"
+	"	A. ಧರ್ಮಶಾಸ್ತ್ರ	",
+	"	B. ವಾಕ್ಯಾನುಸಾರ	",
+	"	C. ಜ್ಞಾನಾನುಸಾರ	",
+	"	D. ಪ್ರಾಮಾಣಿಕತೆ	"
 ],			
-"correct" :	"	c. Knowledge	",
-"explanation" :	"	 For I bear them record that they have a zeal of God, but not according to knowledge.Rom10:2	",
+"correct" :	"	C. ಜ್ಞಾನಾನುಸಾರ	",
+"explanation" :	"	ದೇವರಲ್ಲಿ ಆಸಕ್ತರಾಗಿದ್ದಾರೆಂದು ನಾನು ಅವರ ವಿಷಯದಲ್ಲಿ ಸಾಕ್ಷಿಕೊಡುತ್ತೇನೆ; ಆದರೂ ಅವರ ಆಸಕ್ತಿ ಜ್ಞಾನಾನುಸಾರವಾದದ್ದಲ್ಲ. 10:2	",
 },			
 {			
-"question" :	"	3. They were trying to establish their own	",
+"question" :	"	3 ಅವರು _____ ಸ್ಥಾಪಿಸಬೇಕೆಂದು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದಾರೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Name.	",
-	"	b. Riches.	",
-	"	c. Nation.	",
-	"	d. Righteousness.	"
+	"	A. ಹೆಸರು	",
+	"	B. ಐಶ್ವರ್ಯ	",
+	"	C. ರಾಜ್ಯ	",
+	"	D. ಸ್ವನೀತಿ	"
 ],			
-"correct" :	"	d. Righteousness.	",
-"explanation" :	"	For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.Rom10:3	",
+"correct" :	"	D. ಸ್ವನೀತಿ	",
+"explanation" :	"	ಅವರು ದೇವರಿಂದ ದೊರಕುವ ನೀತಿಯನ್ನರಿಯದೆ ಸ್ವನೀತಿಯನ್ನೇ ಸ್ಥಾಪಿಸಬೇಕೆಂದು ಪ್ರಯತ್ನಿಸುತ್ತಾ ಇದ್ದದರಿಂದ ದೇವರ ನೀತಿಗೆ ಅಧೀನರಾಗಲಿಲ್ಲ. 10:3	",
 },			
 {			
-"question" :	"	4. This man described the righteousness which is of the law, by saying, the man which doeth these things shall live by them.	",
+"question" :	"	4 ನೇಮ ನಿಷ್ಠೆಗಳಿಂದಾಗುವ ನೀತಿಯ ವಿಷಯದಲ್ಲಿ, ಅದನ್ನು ಅನುಸರಿಸಿದವನೇ ಅದರಿಂದ ಸಾಯುತ್ತಾನೆ ಎಂದು ಈ ವ್ಯಕ್ತಿ ಬರೆಯುತ್ತಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Moses	",
-	"	b. Solomon	",
-	"	c. Jonah	",
-	"	d. Noah	"
+	"	A. ಮೋಶೆ	",
+	"	B. ಸೊಲೋಮೋನ	",
+	"	C. ಯೋನ	",
+	"	D. ನೋಹ	"
 ],			
-"correct" :	"	a. Moses	",
-"explanation" :	"	 For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.Rom10:5	",
+"correct" :	"	A. ಮೋಶೆ	",
+"explanation" :	"	ನೇಮನಿಷ್ಠೆಗಳಿಂದಾಗುವ ನೀತಿಯ ವಿಷಯದಲ್ಲಿ - ಅದನ್ನು ಅನುಸರಿಸಿದವನೇ ಅದರಿಂದ ಜೀವಿಸುವನೆಂದು ಮೋಶೆಯು ಬರೆಯುತ್ತಾನೆ 10:5	",
 },			
 {			
-"question" :	"	5. If you will confess Him, and believe God raised Him from the dead, you will be saved.	",
+"question" :	"	5 ನೀನು ಈತನಲ್ಲಿ ಅರಿಕೆಮಾಡಿ, ದೇವರು ಈತನನ್ನು ಸತ್ತವರೊಳಗಿಂದ ಎಬ್ಬಿಸಿದನೆಂದು ನಂಬಿದರೆ, ನೀನು ರಕ್ಷಣೆ ಹೊಂದುವಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. Elijah	",
-	"	c. Elisha	",
-	"	d. Lazarus	"
+	"	A. ಯೇಸು	",
+	"	B. ಎಲೀಯ	",
+	"	C. ಎಲೀಷ	",
+	"	D. ಲಾಜರಸ್	"
 ],			
-"correct" :	"	a. Jesus	",
-"explanation" :	"	That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.Rom10:9	",
+"correct" :	"	A. ಯೇಸು	",
+"explanation" :	"	ಅದೇನಂದರೆ ನೀನು ಯೇಸುವನ್ನೇ ಕರ್ತನೆಂದು ಬಾಯಿಂದ ಅರಿಕೆಮಾಡಿಕೊಂಡು ದೇವರು ಆತನನ್ನು ಸತ್ತವರೊಳಗಿಂದ ಎಬ್ಬಿಸಿದನೆಂದು ಹೃದಯದಿಂದ ನಂಬಿದರೆ ನಿನಗೆ ರಕ್ಷಣೆಯಾಗುವದು ಎಂಬದೇ 10:9	",
 },			
 {			
-"question" :	"	 6. For with this, man believes unto righteousness.	",
-"image" :	"",	 	
-"choices" : [		 	
-	"	a. His mind	",
-	"	b. His heart	",
-	"	c. His intellect	",
-	"	d. His disobedience	"
-],			
-"correct" :	"	b. His heart	",
-"explanation" :	"	For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.Rom10:10	",
-},			
-{			
-"question" :	"	7. With the mouth, confession is made unto	",
+"question" :	"	6 _____ದಿಂದ ನಂಬುವುದರ ಮೂಲಕ ನೀತಿಯು ದೊರಕುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Salvation.	",
-	"	b. Predestination.	",
-	"	c. The likeness of God.	",
-	"	d. The world.	"
+	"	A. ಬುದ್ಧಿಯಿಂದ	",
+	"	B. ಹೃದಯದಿಂದ	",
+	"	C. ಜ್ಞಾನದಿಂದ	",
+	"	D. ಅವಿಶ್ವಾಸದಿಂದ	"
 ],			
-"correct" :	"	a. Salvation.	",
-"explanation" :	"	For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.Rom10:10	",
+"correct" :	"	B. ಹೃದಯದಿಂದ	",
+"explanation" :	"	ಹೃದಯದಿಂದ ನಂಬುವದರ ಮೂಲಕ ನೀತಿಯು ದೊರಕುತ್ತದೆ. ಬಾಯಿಂದ ಅರಿಕೆಮಾಡುವದರ ಮೂಲಕ ರಕ್ಷಣೆಯಾಗುತ್ತದೆ.  10:10	",
 },			
 {			
-"question" :	"	8. Whoever calls upon the name of the Lord	",
+"question" :	"	7 ಬಾಯಿಂದ ಅರಿಕೆ ಮಾಡುವುದರಿಂದ ____ ದೊರಕುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Is weak.	",
-	"	b. Is strong.	",
-	"	c. Is foolish.	",
-	"	d. Shall be saved.	"
+	"	A. ರಕ್ಷಣೆ	",
+	"	B. ದೈವನಿರ್ಣಯ	",
+	"	C. ದೇವರ ಚಿತ್ತ	",
+	"	D. ಈ ಲೋಕ	"
 ],			
-"correct" :	"	d. Shall be saved.	",
-"explanation" :	"	For whosoever shall call upon the name of the Lord shall be saved.Rom10:13	",
+"correct" :	"	A. ರಕ್ಷಣೆ	",
+"explanation" :	"	ಹೃದಯದಿಂದ ನಂಬುವದರ ಮೂಲಕ ನೀತಿಯು ದೊರಕುತ್ತದೆ. ಬಾಯಿಂದ ಅರಿಕೆಮಾಡುವದರ ಮೂಲಕ ರಕ್ಷಣೆಯಾಗುತ್ತದೆ.  10:10	",
 },			
 {			
-"question" :	"	9. Speaking of them that preach the gospel, the scripture says how beautiful	",
+"question" :	"	8 ಕರ್ತನ ನಾಮವನ್ನು ಹೇಳಿಕೊಳ್ಳುವವರೆಲ್ಲರಿಗೂ _____	",
 "image" :	"",		
 "choices" : [			
-	"	a. Is their home.	",
-	"	b. A walk for the Lord.	",
-	"	c. Are their feet.	",
-	"	d. Rivers shall flow upon them.	"
+	"	A. ಬಲಹೀನರಾಗುವರು	",
+	"	B. ಬಲಹೊಂದುವರು	",
+	"	C. ಮೂರ್ಖರಾಗುವರು	",
+	"	D. ರಕ್ಷಣೆಯಾಗುವುದು	"
 ],			
-"correct" :	"	c. Are their feet.	",
-"explanation" :	"	And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!Rom10:15	",
+"correct" :	"	D. ರಕ್ಷಣೆಯಾಗುವುದು	",
+"explanation" :	"	ಕರ್ತನ ನಾಮವನ್ನು ಹೇಳಿಕೊಳ್ಳುವವರೆಲ್ಲರಿಗೆ ರಕ್ಷಣೆಯಾಗುವದೆಂದು ಬರೆದದೆ 10:13	",
 },			
 {			
-"question" :	"	10. This comes by hearing, and hearing by the word of God.	",
+"question" :	"	9 ಶುಭದ ವಾರ್ತೆಯನ್ನು ಸಾರುವವರ ____ ಎಷ್ಟೋ ಅಂದವಾಗಿದೆ ಎಂದು ಬರೆಯಲ್ಪಟ್ಟಿದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sin	",
-	"	b. Joy	",
-	"	c. Faith	",
-	"	d. Tolerance	"
+	"	A. ಮನೆಗಳು	",
+	"	B. ದೇವರ ಕಡೆ ನಡಿಗೆ	",
+	"	C. ಪಾದಗಳು	",
+	"	D. ನದಿಗಳು ಅವರ ಮೇಲೆ ಹರಿಯುವವು	"
 ],			
-"correct" :	"	c. Faith	",
-"explanation" :	"	So then faith cometh by hearing, and hearing by the word of God.Rom10:17	",
+"correct" :	"	C. ಪಾದಗಳು	",
+"explanation" :	"	ಇದಕ್ಕೆ ಸರಿಯಾಗಿ ಶುಭದ ಸುವಾರ್ತೆಯನ್ನು ಸಾರುವವರ ಪಾದಗಳು ಎಷ್ಟೋ ಅಂದವಾಗಿವೆ ಎಂದು ಬರೆದದೆ. ಆದರೂ ಆ ಶುಭವರ್ತಮಾನಕ್ಕೆ ಎಲ್ಲರೂ ಕಿವಿಗೊಡಲಿಲ್ಲ. 10:15	",
+},			
+{			
+"question" :	"	10 ಸಾರಿದ ವಾರ್ತೆಯು ____ ಆಧಾರ, ಆ ವಾರ್ತೆಗೆ ಕ್ರಿಸ್ತನ ವಾಕ್ಯವೇ ಆಧಾರ.	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಪಾಪಕ್ಕೆ	",
+	"	B. ಸಂತೋಷಕ್ಕೆ	",
+	"	C. ನಂಬಿಕೆಗೆ	",
+	"	D. ತಾಳ್ಮೆಗೆ	"
+],			
+"correct" :	"	C. ನಂಬಿಕೆಗೆ	",
+"explanation" :	"	ಆದಕಾರಣ ಸಾರಿದ ವಾರ್ತೆಯು ನಂಬಿಕೆಗೆ ಆಧಾರ, ಆ ವಾರ್ತೆಗೆ ಕ್ರಿಸ್ತನ ವಾಕ್ಯವೇ ಆಧಾರ.  10:17	",
 },			
 ]			
 			

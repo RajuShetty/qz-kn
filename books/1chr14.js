@@ -1,4 +1,4 @@
-var quiztitle = " 1 Chronicles chapter 14";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. This king of Tyre sent messengers and gifts to David. 	",

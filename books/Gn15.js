@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 15";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. The word of the Lord came to Abram	",

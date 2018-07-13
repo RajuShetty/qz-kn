@@ -1,4 +1,4 @@
-var quiztitle = " Jude chapter 1";			
+var quiztitle = " ಯೂದನು ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. ಈ ಪತ್ರಿಕೆಯನ್ನು ಬರೆದವರು ಯಾರು.	",
@@ -106,7 +106,7 @@ var quiz = [
 	"	d. ದೇವರಲ್ಲಿ	"
 ],			
 "correct" :	"	 ಪ್ರಿಯರೇ, ನೀವಾದರೋ ನಿಮಗಿರುವ ಅತಿಪರಿಶುದ್ಧವಾದ ಕ್ರಿಸ್ತ ನಂಬಿಕೆಯನ್ನು ಆಧಾರಮಾಡಿಕೊಂಡು ಭಕ್ತಿಯಲ್ಲಿ ಅಭಿವೃದ್ಧಿಯನ್ನು ಹೊಂದುತ್ತಾ ಪವಿತ್ರಾತ್ಮ ಪ್ರೇರಿತರಾಗಿ ಪ್ರಾರ್ಥನೆ ಮಾಡುತ್ತಾ;  ಯೂದ 1:20	",
-"explanation" :	"	But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, Jude 1:20	",
+"explanation" :	"	But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost, ಯೂದನು 1:20	",
 },			
 {			
 "question" :	"	10. ಇದರಲ್ಲಿ ನಿಮ್ಮನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಿರಿ.	",

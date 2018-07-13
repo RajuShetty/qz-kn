@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 17";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. What was the name of the giant Philistine champion?	",

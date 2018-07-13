@@ -1,123 +1,123 @@
-var quiztitle = "Acts chapter 9";			
+var quiztitle = "ಅಪೊಸ್ತಲರ ಕೃತ್ಯಗಳು ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
-"question" :	"	1. Saul requested letters from the high priest, that he might do this, to any disciples he found.	",
+"question" :	"	1 ತನಗೆ ಸಿಗುವ ಯಾವುದೇ ವಿಶ್ವಾಸಿಯನ್ನು ________  ಅಧಿಕಾರ ಕೊಡುವ ಪತ್ರ ನೀಡುವಂತೆ ಸೌಲನು ಮಹಾಯಾಜಕರ ಬಳಿ ಬೇಡಿಕೊಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bind & bring them to Jerusalem	",
-	"	b. Kill them	",
-	"	c. Release them from prison	",
-	"	d. Tax them	"
+	"	A. ಬಂಧಿಸಿ ಯೆರೂಸಲೇಮಿಗೆ ತರವಂತೆ	",
+	"	B. ಕೊಲ್ಲುವುದಕ್ಕೆ	",
+	"	C. ಸೆರೆಮನೆಯಿಂದ ಅವರನ್ನು ಬಿಡಿಸುವಂತೆ	",
+	"	D. ತೆರಿಗೆ ಹಾಕುವಂತೆ	"
 ],			
-"correct" :	"	a. Bind & bring them to Jerusalem	",
-"explanation" :	"	Then Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest and asked letters from him to the synagogues of Damascus, so that if he found any who were of the Way, whether men or women, he might bring them bound to Jerusalem.Acts9:1,2	",
+"correct" :	"	A. ಬಂಧಿಸಿ ಯೆರೂಸಲೇಮಿಗೆ ತರವಂತೆ	",
+"explanation" :	"	ಸೌಲನು ಇನ್ನು ಕರ್ತನ ಶಿಷ್ಯರ ಮೇಲೆ ರೌದ್ರನಾಗಿದ್ದು ಬೆದರಿಕೆಯ ಮಾತುಗಳನ್ನಾಡುತ್ತಾ ಅವರನ್ನು ಸಂಹರಿಸಬೇಕೆಂದು ಆಶೆಪಡುತ್ತಾ ಮಹಾಯಾಜಕನ ಬಳಿಗೆ ಹೋಗಿ - ಆ ಮಾರ್ಗವನ್ನು ಹಿಡಿದವರು ಯಾರಾದರೂ ಸಿಕ್ಕಿದರೆ ಅವರು ಗಂಡಸರಾದರೂ ಸರಿಯೇ ಹೆಂಗಸರಾದರೂ ಸರಿಯೇ ನಾನು ಅವರಿಗೆ ಬೇಡಿಹಾಕಿಸಿ ಯೆರೂಸಲೇಮಿಗೆ ತರುವಂತೆ ದಮಸ್ಕದಲ್ಲಿರುವ ಆಯಾ ಸಭಾಮಂದಿರದವರಿಗೆ ನೀನು ಕಾಗದವನ್ನು ಕೊಡಬೇಕು ಎಂದು ಅವನನ್ನು ಬೇಡಿಕೊಂಡನು9:1,2	",
 },			
 {			
-"question" :	"	2. When the light shone from heaven,Saul	",
+"question" :	"	2 ಆಕಾಶದಿಮದ ಬೆಳಕು ಕಾಣಿಸಿದಾಗ, ಸೌಲನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fled.	",
-	"	b. Fell to the earth.	",
-	"	c. Began to weep.	",
-	"	d. Rejoiced.	"
+	"	A. ಓಡಿಹೋದನು	",
+	"	B. ನೆಲಕ್ಕೆ ಬಿದ್ದನು	",
+	"	C. ಅಳಲಿಕ್ಕೆ ಪ್ರಾರಂಭಿಸಿದನು	",
+	"	D. ಸಂತೋಷಿಸಿದನು	"
 ],			
-"correct" :	"	b. Fell to the earth.	",
-"explanation" :	"	And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest thou me? Acts9:3,4	",
+"correct" :	"	B. ನೆಲಕ್ಕೆ ಬಿದ್ದನು	",
+"explanation" :	"	ಅವನು ಪ್ರಯಾಣ ಮಾಡುತ್ತಾ ದಮಸ್ಕದ ಹತ್ತಿರಕ್ಕೆ ಬರಲು ಫಕ್ಕನೆ ಆಕಾಶದೊಳಗಿಂದ ಒಂದು ಬೆಳಕು ಅವನ ಸುತ್ತಲು ಮಿಂಚಿತು. ಅವನು ನೆಲಕ್ಕೆ ಬಿದ್ದು - ಸೌಲನೇ, ಸೌಲನೇ, ನನ್ನನ್ನು ಯಾಕೆ ಹಿಂಸೆ ಪಡಿಸುತ್ತೀ ಎಂದು ಹೇಳುವ ವಾಣಿಯನ್ನು ಕೇಳಿದನು. 9:3,4	",
 },			
 {			
-"question" :	"	3. Who answered Saul?	",
+"question" :	"	3 ಪೌಲನಿಗೆ ಯಾರು ಉತ್ತರಿಸಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The soldiers	",
-	"	b. Jesus	",
-	"	c. An angel	",
-	"	d. Peter	"
+	"	ಅ ಸೈನಿಕರು	",
+	"	B. ಯೇಸು	",
+	"	C. ದೂತನು	",
+	"	D. ಪೇತ್ರ	"
 ],			
-"correct" :	"	b. Jesus	",
-"explanation" :	"	And he said, Who art thou, Lord? And the Lord said, I am Jesus whom thou persecutest: it is hard for thee to kick against the pricks.Acts9:5	",
+"correct" :	"	B. ಯೇಸು	",
+"explanation" :	"	ಅವನು - ಕರ್ತನೇ, ನೀನಾರು ಎಂದು ಕೇಳಿದ್ದಕ್ಕೆ ಕರ್ತನು - ನೀನು ಹಿಂಸೆಪಡಿಸುವ ಯೇಸುವೇ ನಾನು.  9:5	",
 },			
 {			
-"question" :	"	4. How many days was Saul without sight?	",
+"question" :	"	4 ಕಣ್ಣು ಕಾಣಿಸದೆ ಸೌಲನು ಎಷ್ಟು ದಿನಗಳಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 3	",
-	"	b. 7	",
-	"	c. 10	",
-	"	d. 13	"
+	"	A. 3	",
+	"	B. 7	",
+	"	C. 10	",
+	"	D. 13	"
 ],			
-"correct" :	"	a. 3	",
-"explanation" :	"	And he was three days without sight, and neither did eat nor drink.Acts9:9	",
+"correct" :	"	A. 3	",
+"explanation" :	"	ಅವನು ಮೂರು ದಿವಸ ಕಣ್ಣುಕಾಣದೆ ಏನೂ ತಿನ್ನಲಿಲ್ಲ; ಏನೂ ಕುಡಿಯಲಿಲ್ಲ. 9:9	",
 },			
 {			
-"question" :	"	5. When this man laid his hands on Saul,he received his sight and was filled with the Holy Ghost.	",
+"question" :	"	5 ಈ ಮನುಷ್ಯನು ಸೌಲನ ಮೇಲೆ ಹಸ್ತಗಳನ್ನಿಟ್ಟಾಗ, ಆತನಿಗೆ ದೃಷ್ಟಿ ಬಂದಿತು ಮತ್ತು ಪರಿಶುದ್ದಾತ್ಮನಿಂದ ತುಂಬಲ್ಪಟ್ಟನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Barnabas	",
-	"	b. Peter	",
-	"	c. John	",
-	"	d. Ananias	"
+	"	A. ಬಾರ್ನಬ	",
+	"	B. ಪೇತ್ರ	",
+	"	C. ಯೋಹಾನ	",
+	"	D. ಅನನೀಯ	"
 ],			
-"correct" :	"	d. Ananias	",
-"explanation" :	"	And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost.And immediately there fell from his eyes as it had been scales: and he received sight forthwith, and arose, and was baptized.Acts9:17,18	",
+"correct" :	"	D. ಅನನೀಯ	",
+"explanation" :	"	ಆಗ ಅನನೀಯನು ಹೊರಟು ಆ ಮನೆಯೊಳಗೆ ಹೋಗಿ ಅವನ ಮೇಲೆ ತನ್ನ ಕೈಗಳನ್ನಿಟ್ಟು - ಸಹೋದರನಾದ ಸೌಲನೇ, ನೀನು ಬಂದ ದಾರಿಯಲ್ಲಿ ನಿನಗೆ ಕಾಣಿಸಿಕೊಂಡ ಕರ್ತನಾದ ಯೇಸು ನಿನಗೆ ಕಣ್ಣುಕಾಣುವಂತೆಯೂ ನೀನು ಪವಿತ್ರಾತ್ಮಭರಿತನಾಗುವಂತೆಯೂ ನನ್ನನ್ನು ನಿನ್ನ ಬಳಿಗೆ ಕಳುಹಿಸಿದ್ದಾನೆ ಎಂದು ಹೇಳಿದನು. ಕೂಡಲೆ ಅವನ ಕಣ್ಣುಗಳಿಂದ ಪರೆಗಳಂತೆ ಏನೋ ಬಿದ್ದು ಅವನ ಕಣ್ಣು ಕಾಣಿಸಿದವು. ಅವನು ಎದ್ದು ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿಕೊಂಡನು.  9:17,18	",
 },			
 {			
-"question" :	"	6. After Saul began to preach Christ is the Son of God, the Jews sought to	",
+"question" :	"	6 ಸೌಲನು ಯೇಸು ದೇವಕುಮಾರನೆಂದು ಸಾರಲು ಪ್ರಾರಂಭಿಸಿದಾಗ, ಯೆಹೂದ್ಯರು ಆಲೋಚಿಸಿದ್ದು,	",
 "image" :	"",		
 "choices" : [			
-	"	a. Imprison him.	",
-	"	b. Be converted.	",
-	"	c. Kill him.	",
-	"	d. Learn from him.	"
+	"	A. ಸೆರೆಗೆ ಹಾಕಬೇಕೆಂದು	",
+	"	B. ರೂಪಾಂತರ ಹೊಂದಲು	",
+	"	C. ಅವನನ್ನು ಕೊಲ್ಲಲು	",
+	"	D. ಅವನಿಂದ ಕಲಿತುಕೊಳ್ಳಲು	"
 ],			
-"correct" :	"	c. Kill him.	",
-"explanation" :	"	And after that many days were fulfilled, the Jews took counsel to kill him:Acts9:23	",
+"correct" :	"	C. ಅವನನ್ನು ಕೊಲ್ಲಲು	",
+"explanation" :	"	ಅನೇಕ ದಿವಸಗಳು ಹೋದ ಮೇಲೆ ಯೆಹೂದ್ಯರು ಅವನನ್ನು ಕೊಲ್ಲಬೇಕೆಂದು ಆಲೋಚನೆಮಾಡಿಕೊಂಡರು. 9:23	",
 },			
 {			
-"question" :	"	7. When the disciples were afraid of Saul, this man took him to the apostles.	",
+"question" :	"	7 ಶಿಷ್ಯರು ಸೌಲನ ಕುರಿತು ಭಯದಿಂದಿರುವಾಗ, ಈ ಮನುಷ್ಯನು ಸೌಲನನ್ನು ಅಪೋಸ್ತಲರ ಬಳಿಗೆ ಕರತಂದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ananias	",
-	"	b. Barnabas	",
-	"	c. Peter	",
-	"	d. Philip	"
+	"	A. ಅನನೀಯ	",
+	"	B. ಬಾರ್ನಬ	",
+	"	C. ಪೇತ್ರ	",
+	"	D. ಫಿಲಿಪ್ಪಿ	"
 ],			
-"correct" :	"	b. Barnabas	",
-"explanation" :	"	And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple.But Barnabas took him, and brought him to the apostles, and declared unto them how he had seen the Lord in the way, and that he had spoken to him, and how he had preached boldly at Damascus in the name of Jesus.Acts9:26,27	",
+"correct" :	"	B. ಬಾರ್ನಬ	",
+"explanation" :	"	ಅವನು ಯೆರೂಸಲೇಮಿಗೆ ಬಂದು ಶಿಷ್ಯರೊಳಗೆ ಸೇರಿಕೊಳ್ಳಬೇಕೆಂದು ಪ್ರಯತ್ನ ಮಾಡಿದಾಗ ಎಲ್ಲರು ಅವನನ್ನು ಶಿಷ್ಯನೆಂದು ನಂಬದೆ ಅವನಿಗೆ ಭಯಪಟ್ಟರು. ಆದರೆ ಬಾರ್ನಬನು ಅವನನ್ನು ಕೈಹಿಡಿದು ಅಪೊಸ್ತಲರ ಬಳಿಗೆ ಕರೆದುಕೊಂಡುಹೋಗಿ ಅವನು ದಾರಿಯಲ್ಲಿ ಕರ್ತನನ್ನು ಕಂಡದ್ದನ್ನೂ ಕರ್ತನು ಅವನ ಸಂಗಡ ಮಾತಾಡಿದ್ದನ್ನೂ ದಮಸ್ಕದೊಳಗೆ ಯೇಸುವಿನ ಹೆಸರಿನಲ್ಲಿ ಧೈರ್ಯದಿಂದ ಮಾತಾಡಿದ್ದನ್ನೂ ಅವರಿಗೆ ವಿವರವಾಗಿ ಹೇಳಿದನು. 9:26,27	",
 },			
 {			
-"question" :	"	8. Peter healed this man, who had been sick of the palsy eight years.	",
+"question" :	"	8 ಪಾಶ್ರ್ವವಾಯು ರೋಗಗದಿಂದ 8 ವರ್ಷಗಳಿಂದ ರೋಗದಲ್ಲಿ ಬಿದ್ದಿದ್ದ ಇವನನ್ನು ಪೇತ್ರನು ಗುಣಪಡಿಸಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Barnabas	",
-	"	b. Roger	",
-	"	c. Aeneas	",
-	"	d. Reuben	"
+	"	A. ಬಾರ್ನಬ	",
+	"	B. ರೋಜರ್	",
+	"	C. ಐನೇಯ	",
+	"	D. ರೂಬೇನ್	"
 ],			
-"correct" :	"	c. Aeneas	",
-"explanation" :	"	And there he found a certain man named Aeneas, which had kept his bed eight years, and was sick of the palsy.And Peter said unto him, Aeneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately.Acts9:33,34	",
+"correct" :	"	C. ಐನೇಯ	",
+"explanation" :	"	ಅಲ್ಲಿ ಪಾರ್ಶ್ವವಾಯುರೋಗಿಯಾಗಿ ಎಂಟು ವರುಷಗಳಿಂದ ಹಾಸಿಗೆಯ ಮೇಲೆ ಬಿದ್ದಿದ್ದ ಐನೇಯನೆಂಬ ಒಬ್ಬ ಮನುಷ್ಯನನ್ನು ಕಂಡನು. ಪೇತ್ರನು ಅವನಿಗೆ - ಐನೇಯನೇ, ಯೇಸು ಕ್ರಿಸ್ತನು ನಿನ್ನನ್ನು ವಾಸಿಮಾಡುತ್ತಾನೆ; ಎದ್ದು ನಿನ್ನ ಹಾಸಿಗೆಯನ್ನು ಹಾಸಿಕೋ ಎಂದು ಹೇಳಿದನು. ಕೂಡಲೆ ಅವನು ಎದ್ದನು 9:33,34	",
 },			
 {			
-"question" :	"	9. Peter prayed and this woman was raised from the dead.	",
+"question" :	"	9 ಪೇತ್ರನು ಪ್ರಾರ್ಥಿಸಿದಾಗ ಸತ್ತು ಹೋಗಿದ್ದ ಈ ಸ್ತ್ರೀಯು ಎದ್ದಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Tabitha	",
-	"	b. Deborah	",
-	"	c. Martha	",
-	"	d. Dinah	"
+	"	A. ತಬಿಥಾ	",
+	"	B. ದೆಬೋರ	",
+	"	C. ಮಾರ್ತಾ	",
+	"	D. ದೀನ	"
 ],			
-"correct" :	"	a. Tabitha	",
-"explanation" :	"	 Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.Acts9:36	",
+"correct" :	"	A. ತಬಿಥಾ	",
+"explanation" :	"	ಯೊಪ್ಪದಲ್ಲಿ ತಬಿಥಾ ಎಂಬ ಒಬ್ಬ ಶಿಷ್ಯಳಿದ್ದಳು. ಆ ಹೆಸರಿಗೆ ಗ್ರೀಕ್‍ಭಾಷೆಯಲ್ಲಿ ದೊರ್ಕ ಎಂದರ್ಥ. ಆಕೆಯು ಸತ್ಕ್ರಿಯೆಗಳನ್ನೂ ದಾನಧರ್ಮಗಳನ್ನೂ ಬಹಳವಾಗಿ ಮಾಡುತ್ತಿದ್ದಳು.  9:36	",
 },			
 {			
-"question" :	"	10. Peter tarried many days in Joppa with this tanner.	",
+"question" :	"	10 ಪೇತ್ರನು ಯೊಪ್ಪದಲ್ಲಿ ಈ ಚರ್ಮಕಾರನ ಮನೆಯಲ್ಲಿ ಬಹಳ ದಿನಗಳವರೆಗೂ ಇದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Samuel	",
-	"	b. Cornelius	",
-	"	c. Simon	",
-	"	d. Fred	"
+	"	A. ಸಮುವೇಲ	",
+	"	B. ಕೊರ್ನೇಲ್ಯನು	",
+	"	C. ಸಿಮೋನ	",
+	"	D. ಫ್ರಡ್	"
 ],			
-"correct" :	"	c. Simon	",
-"explanation" :	"	And it came to pass, that he tarried many days in Joppa with one Simon a tanner.Acts9:43	",
+"correct" :	"	C. ಸಿಮೋನ	",
+"explanation" :	"	ಆಮೇಲೆ ಪೇತ್ರನು ಯೊಪ್ಪದಲ್ಲಿ ಚರ್ಮಕಾರನಾದ ಸೀಮೋನನೆಂಬವನ ಬಳಿಯಲ್ಲಿ ಬಹಳ ದಿವಸದವರೆಗೂ ಇದ್ದನು 9:43	",
 },			
 ]			

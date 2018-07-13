@@ -1,4 +1,4 @@
-var quiztitle = "1 Thessalonians chapter 5";			
+var quiztitle = "1 ಥೆಸಲೋನಿಕದವರಿಗೆ ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. ಕರ್ತನ ದಿನವು ಹೇಗೆ ಬರುವುದು?	",

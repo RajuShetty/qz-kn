@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy   chapter 1";			
+var quiztitle = " Deuteronomy   ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. Who spoke these words?	",

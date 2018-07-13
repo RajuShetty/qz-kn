@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 5";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. What was to be done with every leper?	",

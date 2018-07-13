@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 13";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord instructed Moses to send men to search this land.	",

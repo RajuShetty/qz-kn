@@ -1,7 +1,7 @@
-var quiztitle = " 1 Chronicles chapter 8";			
+var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
-"question" :	"	1. This chapter begins by listing this man’s sons.	",
+"question" :	"	1. This ಅಧ್ಯಾಯ begins by listing this man’s sons.	",
 "image" :	"",		
 "choices" : [			
 	"	a. Asher	",
@@ -49,7 +49,7 @@ var quiz = [
 "explanation" :	"	And the sons of Ulam were mighty men of valour, archers, and had many sons, and sons' sons, an hundred and fifty. All these are of the sons of Benjamin. 1 Chron 8:40	",
 },			
 {			
-"question" :	"	5. The chapter concludes by stating, these are all the children of 	",
+"question" :	"	5. The ಅಧ್ಯಾಯ concludes by stating, these are all the children of 	",
 "image" :	"",		
 "choices" : [			
 	"	a. God.	",

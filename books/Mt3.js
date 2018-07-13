@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 3";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
-"question" :	"	1. John the Baptist preached in the wilderness of	",
+"question" :	"	1. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು ಯಾವ ಅಡವಿಯಲ್ಲಿ ಭೋದಿಸಿದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Judea.	",
-	"	b. Egypt.	",
-	"	c. Capernaum.	",
-	"	d. Bethlehem.	"
+	"	A.ಯೂದಾಯ	",
+	"	B.ಈಜಿಪ್ಟ್	",
+	"	C.ಕೆಪರ್ನೌಮ್	",
+	"	D.ಬೆತ್ಲೆಹೇಮ್	"
 ],			
-"correct" :	"	a. Judea.	",
-"explanation" :	"	In those days John the Baptist came preaching in the wilderness of Judea,- Matt 3:1	",
+"correct" :	"	A.ಯೂದಾಯ	",
+"explanation" :	"	ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳಿರಿ ಎಂದು ಯೂದಾಯದ ಅಡವಿಯಲ್ಲಿ ಸಾರಿ ಹೇಳುತ್ತಾ ಬಂದನು.  ಮತ್ತಾಯ 3:2	",
 },			
 {			
-"question" :	"	2. John the Baptist preached	",
+"question" :	"	2. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು ಭೋದಿಸಿದ್ದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. God is love.	",
-	"	b. Repent for the kingdom of God is at hand.	",
-	"	c. We’re all God’s children for He’s the creator.	",
-	"	d. Raise your children in the admonition of the Lord.	"
+	"	A.ದೇವರು ಪ್ರೀತಿಯಾಗಿದ್ದಾನೆ	",
+	"	B.ಮನ:ತಿರುಗಿರಿ, ದೇವರ ರಾಜ್ಯ ಸಮೀಪವಾಯಿತು	",
+	"	C.ನಾವೆಲ್ಲರೂ ದೇವರ ಮಕ್ಕಳು, ಆತನು ಸೃಷ್ಟಿಕರ್ತನು	",
+	"	D.ದೇವರ ಜ್ಞಾನದಲ್ಲಿ ನಿಮ್ಮ ಮಕ್ಕಳನ್ನು ಬೆಳೆಸಿರಿ	"
 ],			
-"correct" :	"	b. Repent for the kingdom of God is at hand.	",
-"explanation" :	"	and saying,Repent, for the kingdom of heaven is at hand! Matt 3:2	",
+"correct" :	"	B.ಮನ:ತಿರುಗಿರಿ, ದೇವರ ರಾಜ್ಯ ಸಮೀಪವಾಯಿತು	",
+"explanation" :	"	ಪರಲೋಕ ರಾಜ್ಯವು ಸಮೀಪವಾಯಿತು, ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳಿರಿ ಎಂದು ಯೂದಾಯದ ಅಡವಿಯಲ್ಲಿ ಸಾರಿ ಹೇಳುತ್ತಾ ಬಂದನು.  ಮತ್ತಾಯ 3:2	",
 },			
 {			
-"question" :	"	3. John’s clothes were made of this.	",
+"question" :	"	3. ಯೋಹಾನನ ಉಡುಪುಗಳು ಯಾವುದರಿಂದ ಉಂಟಾಗಿತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wool	",
-	"	b. Goat hair	",
-	"	c. Horse hair	",
-	"	d. Camel hair	"
+	"	A.ಉಣ್ಣೆ	",
+	"	B.ಕುರಿಯ ಕೂದಲು	",
+	"	C.ಕುದುರೆಯ ಕೂದಲು	",
+	"	D.ಒಂಟೆಯ ಕೂದಲು	"
 ],			
-"correct" :	"	d. Camel hair	",
-"explanation" :	"	And John himself was clothed in camel's hair, with a leather belt around his waist; and his food was locusts and wild honey. Matt 3:4	",
+"correct" :	"	D.ಒಂಟೆಯ ಕೂದಲು	",
+"explanation" :	"	ಈ ಯೋಹಾನನಿಗೆ ಒಂಟೇ ಕೂದಲಿನ ಹೊದಿಕೆಯೂ ಸೊಂಟದಲ್ಲಿ ತೊಗಲಿನ ನಡುಕಟ್ಟೂ ಇದ್ದವು.  ಮತ್ತಾಯ: 3:4	",
 },			
 {			
-"question" :	"	4. John’s diet consisted of this.	",
+"question" :	"	4. ಯೋಹಾನನ ಊಟವು ಇವುಗಳನ್ನು ಒಳಗೊಂಡಿತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Beans & lentils	",
-	"	b. Honey & fruit	",
-	"	c. Oats & nuts	",
-	"	d. Locusts & wild honey	"
+	"	A.ಹುರುಳಿ ಮತ್ತು ಮಸೂರ	",
+	"	B.ಜೇನು ಮತ್ತು ಹಣ್ಣು	",
+	"	C.ತೋಕೆಗೋಧಿ ಮತ್ತು ಬೀಜಗಳು	",
+	"	D.ಮಿಡತೆ ಮತ್ತು ಕಾಡುಜೇನು	"
 ],			
-"correct" :	"	d. Locusts & wild honey	",
-"explanation" :	"	And John himself was clothed in camel's hair, with a leather belt around his waist; and his food was locusts and wild honey. Matt 3:4	",
+"correct" :	"	D.ಮಿಡತೆ ಮತ್ತು ಕಾಡುಜೇನು	",
+"explanation" :	"	ಅವನಿಗೆ ಮಿಡತೆ ಮತ್ತು ಕಾಡುಜೇನು ಆಹಾರವಾಗಿದ್ದವು  ಮತ್ತಾಯ 3:4	",
 },			
 {			
-"question" :	"	5. Where did people come to John to be baptized?	",
+"question" :	"	5 ಯೋಹಾನನಿಂದ ದೀಕ್ಷಾಸ್ನಾನ ಹೊಂದಲು ಜನರು ಎಲ್ಲಿಗೆ ಬಂದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Red Sea	",
-	"	b. Jordan River	",
-	"	c. Sea of Galilee	",
-	"	d. Nile River	"
+	"	A.ಕೆಂಪು ಸಮುದ್ರ	",
+	"	B.ಯೋರ್ದಾನ್ ನದಿ	",
+	"	C.ಗಲಿಲಾಯ ಸಮುದ್ರ	",
+	"	D.ನೈಲ್ ನದಿ	"
 ],			
-"correct" :	"	b. Jordan River	",
-"explanation" :	"	and were baptized by him in the Jordan, confessing their sins.- Matt 3:6	",
+"correct" :	"	B.ಯೋರ್ದಾನ್ ನದಿ	",
+"explanation" :	"	ಅವರು ತಮ್ಮ ತಮ್ಮ ಪಾಪಗಳನ್ನು ಹೇಳಿಕೊಂಡು ಯೊರ್ದನ್ ಹೊಳೆಯಲ್ಲಿ ಅವನಿಂದ ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿಕೊಳ್ಳುತ್ತಿದ್ದರು. ಮತ್ತಾಯ 3;6	",
 },			
 {			
-"question" :	"	6. What did John call the Pharisees and Sadducees?	",
+"question" :	"	6 ಫರಿಸಾಯರು ಮತ್ತು ಸದ್ದುಕಾಯರನ್ನು ಯೋಹಾನನು ಏನೆಂದು ಕರೆದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Holy men of God	",
-	"	b. Blessed of Abraham	",
-	"	c. Generation of Vipers	",
-	"	d. Elders	"
+	"	A. ದೇವರ ಪರಿಶುದ್ಧ ಜನರು	",
+	"	B. ಅಬ್ರಹಾಮನ ಆರ್ಶೀವಾದದವರು	",
+	"	C. ಸರ್ಪಸಂತಾನದವರು	",
+	"	D. ದೊಡ್ಡವರು	"
 ],			
-"correct" :	"	c. Generation of Vipers	",
-"explanation" :	"	But when he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, Brood of vipers! Who warned you to flee from the wrath to come?- Matt 3:7	",
+"correct" :	"	C. ಸರ್ಪಸಂತಾನದವರು	",
+"explanation" :	"	ಆದರೆ ಅವನು ಫರಿಸಾಯರಲ್ಲಿಯೂ ಸದ್ದುಕಾಯರಲ್ಲಿಯೂ ಅನೇಕರು ತನ್ನಿಂದ ಸ್ನಾನ ಮಾಡಿಸಿಕೊಳ್ಳುವದಕ್ಕೆ ಬರುವದನ್ನು ಕಂಡು ಅವರಿಗೆ - ಎಲೈ ಸರ್ಪಜಾತಿಯವರೇ.. .. .. ಮತ್ತಾಯ 3:7	",
 },			
 {			
-"question" :	"	7. John said, there is one greater coming who will baptize with	",
+"question" :	"	7 ಯೋಹಾನನು ಹೇಳಿದನು, ನನಗಿಂತಲೂ ದೊಡ್ಡವನು ಒಬ್ಬನು ಬರುತ್ತಾನೆ, ಅವನು _______ ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸುತ್ತಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Holy water.	",
-	"	b. Water & blood.	",
-	"	c. The Holy Ghost & fire.	",
-	"	d. Love.	"
+	"	A. ಪರಿಶುದ್ಧ ನೀರಿನಿಂದ	",
+	"	B. ನೀರು ಮತ್ತು ರಕ್ತದಿಂದ	",
+	"	C. ಪವಿತ್ರಾತ್ಮ ಮತ್ತು ಬೆಂಕಿಯಿಂದ	",
+	"	D. ಪ್ರೀತಿಯಿಂದ	"
 ],			
-"correct" :	"	c. The Holy Ghost & fire.	",
-"explanation" :	"	I indeed baptize you with water unto repentance, but He who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire.- Matt 3:11	",
+"correct" :	"	C. ಪವಿತ್ರಾತ್ಮ ಮತ್ತು ಬೆಂಕಿಯಿಂದ	",
+"explanation" :	"	ಆತನು ಪವಿತ್ರಾತ್ಮನಲ್ಲಿಯೂ ಬೆಂಕಿಯಲ್ಲಿಯೂ ನಿಮಗೆ ಸ್ನಾನ ಮಾಡಿಸುವನು ಮತ್ತಾಯ 3:11	",
 },			
 {			
-"question" :	"	8. What did John say, when Jesus came to be baptized?	",
+"question" :	"	8 ಯೇಸು ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿಕೊಳ್ಳಲು ಬಂದಾಗ ಯೋಹಾನನು ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. I have need to be baptized of thee.	",
-	"	b. Come baptize all these with me.	",
-	"	c. Be baptized before the others.	",
-	"	d. I must baptize you to fulfill scripture.	"
+	"	A. ನಾನು ನಿನ್ನಿಂದ ದೀಕ್ಷಾಸ್ನಾನ ಹೊಂದತಕ್ಕವನು	",
+	"	B. ಬನ್ನಿ ನೀವೆಲ್ಲರೂ ನನ್ನಿಂದ ದೀಕ್ಷಾಸ್ನಾನ ಹೊಂದಿರಿ	",
+	"	C. ಬೇರೆಯವರ ಮುಂದೆ ದೀಕ್ಷಾಸ್ನಾನ ಹೊಂದಿರಿ	",
+	"	D. ವಾಕ್ಯಗಳು ನೆರವೇರಲು ನಾನು ನಿನಗೆ ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸುತ್ತೇನೆ	"
 ],			
-"correct" :	"	a. I have need to be baptized of thee.	",
-"explanation" :	"	And John tried to prevent Him, saying,I need to be baptized by You, and are You coming to me?- Matt 3:14	",
+"correct" :	"	A. ನಾನು ನಿನ್ನಿಂದ ದೀಕ್ಷಾಸ್ನಾನ ಹೊಂದತಕ್ಕವನು	",
+"explanation" :	"	ಆಗ ಯೋಹಾನನು ನಾನು ನಿನ್ನಿಂದ ಸ್ನಾನ ಮಾಡಿಸಿಕೊಳ್ಳತಕ್ಕವನಾಗಿರುವಲ್ಲಿ ನೀನು ನನ್ನ ಬಳಿಗೆ ಬರುವುದೇನು ಎಂದು ಹೇಳಿ ಆತನನ್ನು ತಡೆಯುತ್ತಾ ಇದ್ದನು. ಮತ್ತಾಯ 3:14	",
 },			
 {			
-"question" :	"	9. When Jesus was baptized, the heavens opened, and the Spirit of God descended upon Him like	",
+"question" :	"	9 ಯೇಸು ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿಕೊಂಡಾಗ, ಪರಲೋಕವು ತೆರೆಯಲ್ಪಟ್ಟಿತು ಮತ್ತು ಪವಿತ್ರಾತ್ಮನು ಆತನ ಮೇಲೆ ಯಾವ ರೂಪದಲ್ಲಿ ಆತನ ಮೇಲೆ ಇಳಿಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A mighty rushing wind.	",
-	"	b. An eagle.	",
-	"	c. A feather.	",
-	"	d. A dove.	"
+	"	A. ಜೋರಾಗಿ ಬೀಸುವ ಗಾಳಿ	",
+	"	B. ಹದ್ದು	",
+	"	C. ಹಕ್ಕಿಯ ಗರಿ	",
+	"	D. ಪಾರಿವಾಳ	"
 ],			
-"correct" :	"	d. A dove.	",
-"explanation" :	"	When He had been baptized, Jesus came up immediately from the water; and behold, the heavens were opened to Him, and He saw the Spirit of God descending like a dove and alighting upon Him.- Matt 3:16	",
+"correct" :	"	D. ಪಾರಿವಾಳ	",
+"explanation" :	"	ದೇವರ ಆತ್ಮ ಪಾರಿವಾಳದ ಹಾಗೆ ಇಳಿದು ತನ್ನ ಮೇಲೆ ಬರುವುದನ್ನು ಕಂಡನು. ಮತ್ತಾಯ 3:16	",
 },			
 {			
-"question" :	"	10. A voice from heaven said, this is my beloved Son	",
+"question" :	"	10 ಪರಲೋಕದಿಂದ ಒಂದು ಶಬ್ಧವು ಕೇಳಿಸಿತು, ಈತನು ಪ್ರಿಯನಾಗಿರುವ ನನ್ನ ಮಗನು,_____	",
 "image" :	"",		
 "choices" : [			
-	"	a. Hear ye him.	",
-	"	b. Follow him.	",
-	"	c. In whom I am well pleased.	",
-	"	d. In whom I am manifested.	"
+	"	A. ಆತನನ್ನು ಹೇಳಿದಂತೆ ನೀವು ಕೇಳಿರಿ	",
+	"	B. ಆತನನ್ನು ಹಿಂಬಾಲಿಸಿರಿ	",
+	"	C. ಈತನನ್ನು ಮೆಚ್ಚಿದ್ದೇನೆ	",
+	"	D. ಆತನಲ್ಲಿ ನಾನು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತೇನೆ	"
 ],			
-"correct" :	"	c. In whom I am well pleased.	",
-"explanation" :	"	And suddenly a voice came from heaven, saying,This is My beloved Son, in whom I am well pleased.- Matt 3:17	",
+"correct" :	"	C. ಈತನನ್ನು ಮೆಚ್ಚಿದ್ದೇನೆ	",
+"explanation" :	"	ಈತನು ಪ್ರಿಯನಾಗಿರುವ ನನ್ನ ಮಗನು, ಈತನನ್ನು ಮೆಚ್ಚಿದ್ದೇನೆ ಎಂದು ಆಕಾಶವಾಣಿ ಆಯಿತು. ಮತ್ತಾಯ 3:17	",
 },			
 ]			

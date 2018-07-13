@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 6";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. The commandments were given, that the people might fear 	",

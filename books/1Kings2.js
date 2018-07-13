@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 2";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. David reminded Solomon about this man killing Abner and Amasa.	",

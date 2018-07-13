@@ -1,4 +1,4 @@
-var quiztitle = " 3 John Peter chapter 1";			
+var quiztitle = " 3 ಯೋಹಾನ Peter ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. ಯೋಹಾನನು ತನ್ನನ್ನು ತಾನು ಹೀಗೆ ಪರಿಚಯ  ಮಾಡಿಕೊಂಡನು.	",

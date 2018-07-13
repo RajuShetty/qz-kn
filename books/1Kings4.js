@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 4";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. These men were the priests.	",

@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 28";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 28";			
 var quiz = [			
 {			
-"question" :	"	1. Who went to Jesus’ tomb?	",
+"question" :	"	1. ಯೇಸುವಿನ ಸಮಾಧಿಯ ಬಳಿ ಯಾರು ಹೋದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. James & John	",
-	"	b. Peter & Andrew	",
-	"	c. Mary Magdalene & the other Mary	",
-	"	d. Mary & Martha	"
+	"	A. ಯಾಕೋಬ ಮತ್ತು ಯೋಹಾನ	",
+	"	B. ಪೇತ್ರ ಮತ್ತು ಆಂದ್ರೇಯ	",
+	"	C. ಮಗ್ದಲದ ಮರಿಯಳು ಮತ್ತು ಮತ್ತೊಬ್ಬ ಮರಿಯಳು	",
+	"	D .ಮರಿಯಳು  ಮತ್ತು ಮಾರ್ಥಳು	"
 ],			
-"correct" :	"	c. Mary Magdalene & the other Mary	",
-"explanation" :	"	Now after the Sabbath, as the first day of the week began to dawn, Mary Magdalene and the other Mary came to see the tomb. - matt 28:1	",
+"correct" :	"	C. ಮಗ್ದಲದ ಮರಿಯಳು ಮತ್ತು ಮತ್ತೊಬ್ಬ ಮರಿಯಳು	",
+"explanation" :	"	ಸಬ್ಬತ್ ದಿನ ಆದ ಮೇಲೆ ವಾರದ ಮೊದಲನೆಯ ದಿವಸ ಬೆಳಗಾಗುವಾಗ ಮಗ್ಧಲದ ಮರಿಯಳೂ ಆ ಬೇರೆ ಮರಿಯಳೂ ಸಮಾಧಿಯನ್ನು ನೋಡುವುದಕ್ಕೆ ಬಂದರು.   ಮತ್ತಾಯ 28:1	",
 },			
 {			
-"question" :	"	2. It was the end of the Sabbath and toward the dawn of what day?	",
+"question" :	"	2. ಅದು ಸಬ್ಬತ್ ದಿನ ಆದ ಮೇಲೆ ವಾರದ ಯಾವ ದಿನ ಬೆಳಗಾಗುವುದಿತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1st	",
-	"	b. 3rd	",
-	"	c. 6th	",
-	"	d. 7th	"
+	"	A. ಮೊದಲನೆಯ	",
+	"	B. ಮೂರನೆಯ	",
+	"	C. ಆರನೆಯ	",
+	"	D. ಏಳನೆಯ	"
 ],			
-"correct" :	"	a. 1st	",
-"explanation" :	"	Now after the Sabbath, as the first day of the week began to dawn, Mary Magdalene and the other Mary came to see the tomb. - matt 28:1	",
+"correct" :	"	A. ಮೊದಲನೆಯ	",
+"explanation" :	"	ಸಬ್ಬತ್ ದಿನ ಆದ ಮೇಲೆ ವಾರದ ಮೊದಲನೆಯ ದಿವಸ ಬೆಳಗಾಗುವಾಗ ಮಗ್ಧಲದ ಮರಿಯಳೂ ಆ ಬೇರೆ ಮರಿಯಳೂ ಸಮಾಧಿಯನ್ನು ನೋಡುವುದಕ್ಕೆ ಬಂದರು.   ಮತ್ತಾಯ 28:1	",
 },			
 {			
-"question" :	"	3. Who moved the stone?	",
+"question" :	"	3. ಕಲ್ಲನ್ನು ಯಾರು ಉರುಳಿಸದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mary	",
-	"	b. Jesus	",
-	"	c. The soldiers	",
-	"	d. An angel	"
+	"	A. ಮರಿಯಳು	",
+	"	B. ಯೇಸು	",
+	"	C. ಸೈನಿಕರು	",
+	"	D. ದೂತನು	"
 ],			
-"correct" :	"	d. An angel	",
-"explanation" :	"	And behold, there was a great earthquake; for an angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat on it. - Matt 28:2	",
+"correct" :	"	D. ದೂತನು	",
+"explanation" :	"	ಆಗ ಮಹಾ ಭೂಕಂಪವಾಯಿತು.  ಕರ್ತನ ದೂತನು ಆಕಾಶದಿಂದ ಇಳಿದು ಬಂದು ಆ ಕಲ್ಲನ್ನು ಬಾಗಿಲಿನಿಂದ ಉರುಳಿಸಿ ಅದರ ಮೇಲೆ ಕೂತುಕೊಂಡನು.  ಮತ್ತಾಯ 28:2	",
 },			
 {			
-"question" :	"	4. The soldiers shook with fear and	",
+"question" :	"	4. ಸೈನಿಕರು ಭಯದಿಂದ ನಡುಗಿ _________	",
 "image" :	"",		
 "choices" : [			
-	"	a. Ran.	",
-	"	b. Cried like babies.	",
-	"	c. Became as dead men.	",
-	"	d. Pulled out their swords.	"
+	"	A. ಓಡಿಹೋದರು	",
+	"	B. ಮಕ್ಕಳಂತೆ ಅತ್ತರು	",
+	"	C. ಸತ್ತವರ ಹಾಗಾದರು	",
+	"	D. ತಮ್ಮ ಕತ್ತಿಯನ್ನು ಹೊರತೆಗೆದರು	"
 ],			
-"correct" :	"	c. Became as dead men.	",
-"explanation" :	"	And the guards shook for fear of him, and became like dead men. - Matt 28:4	",
+"correct" :	"	C. ಸತ್ತವರ ಹಾಗಾದರು	",
+"explanation" :	"	ಕಾವಲುಗಾರರು ಅವನಿಗೆ ಹೆದರಿ ನಡುಗಿ ಸತ್ತವರ ಹಾಗಾದರು.   ಮತ್ತಾಯ 28:4	",
 },			
 {			
-"question" :	"	5. The angel said, I know you seek Jesus	",
+"question" :	"	5 ದೂತನು ಹೇಳಿದ್ದು, ನೀವು ಯೇಸುವನ್ನು ಹುಡುಕುತ್ತೀರೆಂದು ಬಲ್ಲೆನು, ........	",
 "image" :	"",		
 "choices" : [			
-	"	a. Here He lies.	",
-	"	b. He is not here for He is risen.	",
-	"	c. His body has been stolen.	",
-	"	d. Come anoint His body.	"
+	"	A. ಆತನು ಇಲ್ಲಿ ಮಲಗಿದ್ದಾನೆ	",
+	"	B. ಆತನು ಇಲ್ಲಿ ಇಲ್ಲ, ತಾನು ಹೇಳಿದಂತೆ ಎದ್ದಿದ್ದಾನೆ	",
+	"	C. ಆತನ ದೇಹವು ಕಳುವಾಗಿದೆ	",
+	"	D. ಬನ್ನಿರಿ ಆತನ ದೇಹವನ್ನು ಅಭಿಷೇಕಿಸಿ	"
 ],			
-"correct" :	"	b. He is not here for He is risen.	",
-"explanation" :	"	He is not here; for He is risen, as He said. Come, see the place where the Lord lay. - Matt 28:6	",
+"correct" :	"	B. ಆತನು ಇಲ್ಲಿ ಇಲ್ಲ, ತಾನು ಹೇಳಿದಂತೆ ಎದ್ದಿದ್ದಾನೆ	",
+"explanation" :	"	ಆಗ ದೂತನು ಆ ಹೆಂಗಸರಿಗೆ ನೀವು ಹೆದರಬೇಡಿರಿ, ಶಿಲುಬೆಗೆ ಹಾಕಲ್ಪಟ್ಟಿದ್ದ ಯೇಸುವನ್ನು ಹುಡುಕುತ್ತೀರೆಂದು ಬಲ್ಲೆನು, ಆತನು ಇಲ್ಲಿ ಇಲ್ಲ, ತಾನು ಹೇಳಿದಂತೆ ಎದ್ದಿದ್ದಾನೆ, ಬನ್ನಿ ________                  ಮತ್ತಾಯ 28:5	",
 },			
 {			
-"question" :	"	6. As they departed to go to the disciples, whom did they see?	",
+"question" :	"	6 ಅವರು ಶಿಷ್ಯರ ಬಳಿಗೆ ಹೋಗಬೇಕೆಂದು ಹೊರಡುವಾಗ, ಅವರು ಯಾರನ್ನು ನೋಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. Another angel	",
-	"	c. Peter	",
-	"	d. The disciples	"
+	"	A. ಯೇಸು	",
+	"	B. ಮತ್ತೊಬ್ಬ ದೂತ	",
+	"	C. ಪೇತ್ರ	",
+	"	D. ಶಿಷ್ಯರನ್ನು	"
 ],			
-"correct" :	"	a. Jesus	",
-"explanation" :	"	And as they went to tell His disciples, behold, Jesus met them, saying, Rejoice! So they came and held Him by the feet and worshiped Him. - matt 28:9	",
+"correct" :	"	A. ಯೇಸು	",
+"explanation" :	"	ಅವರು ಭಯದಿಂದಲೂ ಮಹಾ ಸಂತೋಷದಿಂದಲೂ ಬೇಗ ಸಮಾಧಿಯ ಬಳಿಯಿಂದ ಹೊರಟು ಆತನ ಶಿಷ್ಯರಿಗೆ ತಿಳಿಸುವದಕ್ಕೆ ಓಡಿಹೋದರು.  ಆಗ ಯೇಸು ಅವರ ಎದುರಿಗೆ ಬಂದು ನಿಮಗೆ ಶುಭವಾಗಲಿ ಅಂದನು.       ಮತ್ತಾಯ 28:8-9	",
 },			
 {			
-"question" :	"	7. The chief priests gave the soldiers money to say this.	",
+"question" :	"	7 ಮಹಾಯಾಜಕರು ಸೈನಿಕರಿಗೆ ಹೀಗೆ ಹೇಳಿರೆಂದು ಹಣ ಕೊಟ್ಟರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus was never really dead.	",
-	"	b. Jesus rose as He said He would.	",
-	"	c. The body was given to the chief priest.	",
-	"	d. The body was stolen while they slept.	"
+	"	A. ಯೇಸು ನಿಜವಾಗಿ ಸತ್ತಿರಲಿಲ್ಲ	",
+	"	B. ಯೇಸು ಆತನು ಹೇಳಿದಂತೆ ಎದ್ದಿದ್ದಾನೆ	",
+	"	C. ಯೇಸುವಿನ ದೇಹವು ಮಹಾಯಾಜಕರಿಗೆ ಕೊಡಲ್ಪಟ್ಟಿತು	",
+	"	D. ಅವರು ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದಾಗ ಯೇಸುವಿನ ದೇಹವು ಕಳುವಾಯಿತು	"
 ],			
-"correct" :	"	d. The body was stolen while they slept.	",
-"explanation" :	"	When they had assembled with the elders and consulted together, they gave a large sum of money to the soldiers, saying,Tell them, His disciples came at night and stole Him away while we slept.- Matt 28:12,13	",
+"correct" :	"	D. ಅವರು ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದಾಗ ಯೇಸುವಿನ ದೇಹವು ಕಳುವಾಯಿತು	",
+"explanation" :	"	ಇವರು ಹಿರಿಯರ ಸಂಗಡ ಕೂಡಿಕೊಂಡು ಆಲೋಚನೆ ಮಾಡಿ ಆ ಸಿಪಾಯಿಗಳಿಗೆ ಬಹಳ ಹಣಕೊಟ್ಟು ಅವನ ಶಿಷ್ಯರು ರಾತ್ರಿಯಲ್ಲಿ ಬಂದು ನಾವು ನಿದ್ದೆ ಮಾಡುತ್ತಿರುವಾಗ ಅವನನ್ನು ಕದ್ದುಕೊಂಡು ಹೋದರು ಎಂದು ಹೇಳಿರಿ.        ಮತ್ತಾಯ 28:12-13	",
 },			
 {			
-"question" :	"	8. What did Jesus say was given to Him?	",
+"question" :	"	8 ಯೇಸು ತನಗೆ ಏನು ಕೊಡಲ್ಪಟ್ಟಿದೆ ಎಂದು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Life	",
-	"	b. Breath	",
-	"	c. Wisdom	",
-	"	d. All power	"
+	"	A. ಜೀವ	",
+	"	B. ಉಸಿರು	",
+	"	C. ಜ್ಞಾನ	",
+	"	D. ಎಲ್ಲಾ ಅಧಿಕಾರ	"
 ],			
-"correct" :	"	d. All power	",
-"explanation" :	"	And Jesus came and spoke to them, saying, All authority has been given to Me in heaven and on earth. - Matt 28:18	",
+"correct" :	"	D. ಎಲ್ಲಾ ಅಧಿಕಾರ	",
+"explanation" :	"	ಆಗ ಯೇಸು ಹತ್ತರಕ್ಕೆ ಬಂದು ಪರಲೋಕದಲ್ಲಿಯೂ ಭೂಲೋಕದಲ್ಲಿಯೂ ಎಲ್ಲಾ ಅಧಿಕಾರವು ನನಗೆ ಕೊಡಲ್ಪಟ್ಟಿದೆ.           ಮತ್ತಾಯ 28:18	",
 },			
 {			
-"question" :	"	9. Where did Jesus say the disciples should go teaching all that He commanded and baptizing?	",
+"question" :	"	9 ಶಿಷ್ಯರು ಎಲ್ಲಿಗೆ ಹೋಗಿ ಯೇಸುವಿನ ಆಜ್ಞೆಗಳನ್ನು ಉಪದೇಶಿಸಿ ಮತ್ತು ದೀಕ್ಷಾಸ್ನಾನ ಮಾಡಿಸಿ ಎಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Galilee	",
-	"	b. Jerusalem	",
-	"	c. All nations	",
-	"	d. To the Jews	"
+	"	A. ಗಲಿಲಾಯ	",
+	"	B. ಯೆರೂಷಲೇಮು	",
+	"	C. ಎಲ್ಲಾ ದೇಶಗಳು	",
+	"	D. ಯೆಹೂದ್ಯರಿಗೆ	"
 ],			
-"correct" :	"	c. All nations	",
-"explanation" :	"	Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, - Matt 28:19	",
+"correct" :	"	C. ಎಲ್ಲಾ ದೇಶಗಳು	",
+"explanation" :	"	ಆದ್ದರಿಂದ ನೀವು ಹೊರಟು ಹೋಗಿ ಎಲ್ಲಾ ದೇಶಗಳ ಜನರನ್ನು ಶಿಷ್ಯರನ್ನಾಗಿ ಮಾಡಿರಿ.  ಮತ್ತಾಯ 28:19	",
 },			
 {			
-"question" :	"	10. Jesus said, I am with you	",
+"question" :	"	10 ಯೇಸು ಹೇಳಿದ್ದು, .............................ನಾನು ನಿಮ್ಮ ಸಂಗಡ ಇರುತ್ತೇನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. But for a short time.	",
-	"	b. Whenever you need me.	",
-	"	c. Always.	",
-	"	d. Whenever you call upon My name.	"
+	"	A. ಸ್ವಲ್ಪ ದಿನ ಮಾತ್ರ	",
+	"	B. ನನ್ನ ಅವಶ್ಯಕತೆ ನಿಮಗಿದ್ದಾಗ	",
+	"	C. ಯುಗದ ಸಮಾಪ್ತಿವರೆಗೂ	",
+	"	D. ನೀವು ಯಾವಾಗ ನನ್ನ ಹೆಸರನ್ನು ಕರೆಯುತ್ತೀರೋ	"
 ],			
-"correct" :	"	c. Always.	",
-"explanation" :	"	teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age.Amen. - Matt 28:20	",
+"correct" :	"	C. ಯುಗದ ಸಮಾಪ್ತಿವರೆಗೂ	",
+"explanation" :	"	ನಾನು ನಿಮಗೆ ಆಜ್ಞಾಪಿಸಿದ್ದನ್ನೆಲ್ಲಾ ಕಾಪಾಡಿಕೊಳ್ಳುವದಕ್ಕೆ ಅವರಿಗೆ ಉಪದೇಶ ಮಾಡಿರಿ.  ನೋಡಿರಿ, ನಾನು ಯುಗದ ಸಮಾಪ್ತಿಯವರೆಗೂ ಎಲ್ಲಾ ದಿವಸ ನಿಮ್ಮ ಸಂಗಡ ಇರುತ್ತೇನೆ ಎಂದು ಹೇಳಿದನು.         ಮತ್ತಾಯ 28:20	",
 },			
 ]			

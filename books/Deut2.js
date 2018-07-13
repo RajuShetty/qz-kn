@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 2";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. Moses said, they took their journey into the wilderness, by way of this sea.	",

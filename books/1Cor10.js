@@ -1,4 +1,4 @@
-var quiztitle = "1 Corinthians chapter 10";			
+var quiztitle = "1 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. ಅವರೆಲ್ಲರನ್ನೂ ಹಿಂಬಾಲಿಸುತ್ತಿದ್ದ ಆತ್ಮೀಕ ಬಂಡೆ ಯಾವುದು?	",

@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 19";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. The victory that day was turned into this.	",

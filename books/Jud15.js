@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 15";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 15";			
 var quiz = [			
 {			
 "question" :	"	1. What did the father of Samson’s wife try to give him, in place of her?	",

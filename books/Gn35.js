@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 35";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 35";			
 var quiz = [			
 {			
 "question" :	"	1. Where did God tell Jacob to arise and go?	",

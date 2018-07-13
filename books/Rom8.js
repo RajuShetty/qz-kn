@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 8";			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
-"question" :	"	1. There is none of this, to them that are in Christ Jesus.	",
+"question" :	"	1 ಕ್ರಿಸ್ತ ಯೇಸುವಿನಲ್ಲಿರುವವರಿಗೆ ಇದು ಇಲ್ಲವೇ ಇಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mercy	",
-	"	b. Endurance	",
-	"	c. Love	",
-	"	d. Condemnation	"
+	"	A. ದಯೆ	",
+	"	B. ಸಹನೆ	",
+	"	C. ಪ್ರೀತಿ	",
+	"	D. ಅಪರಾಧ ನಿರ್ಂಯ	"
 ],			
-"correct" :	"	d. Condemnation	",
-"explanation" :	"	There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.Rom8:1	",
+"correct" :	"	D. ಅಪರಾಧ ನಿರ್ಂಯ	",
+"explanation" :	"	ಆದದರಿಂದ ಕ್ರಿಸ್ತ ಯೇಸುವಿನಲ್ಲಿ ಇರುವವರಿಗೆ ಅಪರಾಧನಿರ್ಣಯವು ಈಗ ಇಲ್ಲವೇ ಇಲ್ಲ 8:1	",
 },			
 {			
-"question" :	"	2. The law of the spirit of life in Christ Jesus has made us free from this.	",
+"question" :	"	2 ಕ್ರಿಸ್ತ ಯೇಸುವಿನಲ್ಲಿನ ಆತ್ಮದ ನಿಯಮವು ನಮ್ಮನ್ನು ಇದರಿಂದ ಬಿಡಿಸಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Gluttony	",
-	"	b. Tribulations	",
-	"	c. The law of sin & death	",
-	"	d. Signs & wonders	"
+	"	A. ಹೊಟ್ಟೆಬಾಕತನ	",
+	"	B. ಸಂಕಟಗಳು	",
+	"	C. ಮರಣ ಮತ್ತು ಪಾಪದ ಭಯ	",
+	"	D. ಅದ್ಭುತಗಳು ಮತ್ತು ಸೂಚನೆಗಳು	"
 ],			
-"correct" :	"	c. The law of sin & death	",
-"explanation" :	"	 For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.Rom8:2	",
+"correct" :	"	C. ಮರಣ ಮತ್ತು ಪಾಪದ ಭಯ	",
+"explanation" :	"	ಯಾಕಂದರೆ ಜೀವವನ್ನುಂಟುಮಾಡುವ ಪವಿತ್ರಾತ್ಮನಿಂದಾದ ನಿಯಮವು ನಿನ್ನನ್ನು8.2 ಕೆಲವು ಪ್ರತಿಗಳಲ್ಲಿ - ನನ್ನನ್ನು ಎಂದು ಬರೆದದೆ. ಪಾಪಮರಣಗಳಿಗೆ ಕಾರಣವಾದ ನಿಯಮದಿಂದ ಕ್ರಿಸ್ತ ಯೇಸುವಿನ ಮೂಲಕ ಬಿಡಿಸಿತು. 8:2	",
 },			
 {			
-"question" :	"	3. To be carnally minded is death, but to be spiritually minded is	",
+"question" :	"	3 ಶರೀರಭಾವದ ಮೇಲೆ ಮನಸ್ಸಿಡುವುದು ಮರಣ, ಆದರೆ ಪವಿತ್ರಾತ್ಮನ ಮೇಲೆ ಮನಸ್ಸಿಡುವುದು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sickness.	",
-	"	b. A fearful thing.	",
-	"	c. Hope & fear.	",
-	"	d. Life & peace.	"
+	"	A. ರೋಗ	",
+	"	B.ಭಯ	",
+	"	C. ನಿರೀಕ್ಷೆ ಮತ್ತು ಭಯ	",
+	"	D. ಜೀವ ಮತ್ತು ಸಮಾಧಾನ	"
 ],			
-"correct" :	"	d. Life & peace.	",
-"explanation" :	"	For to be carnally minded is death; but to be spiritually minded is life and peace.Rom8:6	",
+"correct" :	"	D. ಜೀವ ಮತ್ತು ಸಮಾಧಾನ	",
+"explanation" :	"	ಶರೀರಭಾವದವುಗಳ ಮೇಲೆ ಮನಸ್ಸಿಡುವದು ಮರಣ; ಪವಿತ್ರಾತ್ಮನವುಗಳ ಮೇಲೆ ಮನಸ್ಸಿಡುವದು ಜೀವವೂ ಮನಶ್ಶಾಂತಿಯೂ ಆಗಿದೆ. 8:6	",
 },			
 {			
-"question" :	"	4. They that are led by the spirit	",
+"question" :	"	4 ಆತ್ಮದಿಂದ ನಡೆಸಲ್ಪಡುವವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Shall die by the spirit.	",
-	"	b. Shall fall by the sword.	",
-	"	c. Are the sons of God.	",
-	"	d. Are on the stairway to heaven.	"
+	"	ಅ, ಆತ್ಮದಿಂದ ಮರಣಿಸುವರು	",
+	"	B. ಕತ್ತಿಯಿಂದ ಬೀಳುವರು	",
+	"	C. ದೇವರ ಮಕ್ಕಳು	",
+	"	D. ಪರಲೋಕದ ಮೆಟ್ಟಿಲುಗಳಲ್ಲಿರುವರು	"
 ],			
-"correct" :	"	c. Are the sons of God.	",
-"explanation" :	"	 For as many as are led by the Spirit of God, they are the sons of God.Rom8:14	",
+"correct" :	"	C. ದೇವರ ಮಕ್ಕಳು	",
+"explanation" :	"	ಯಾರಾರು ದೇವರ ಆತ್ಮನಿಂದ ನಡಿಸಿಕೊಳ್ಳುತ್ತಾರೋ ಅವರು ದೇವರ ಮಕ್ಕಳು.  8:14	",
 },			
 {			
-"question" :	"	5. We do not know what we should pray,but intercession is made with groaning that cannot be uttered, by	",
+"question" :	"	5 ನಾವು ಹೇಗೆ ಬೇಡಿಕೊಳ್ಳಬೇಕೋ ತಿಳಿಯದೇ ಇರುವುದರಿಂದ ______ ನಮಗಾಗಿ ಮಾತಿಲ್ಲದ ನರಳಾಟದಿಂದ ಬೇಡಿಕೊಳ್ಳತ್ತಾರೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Angels.	",
-	"	b. The saints in heaven.	",
-	"	c. The devil.	",
-	"	d. The Spirit.	"
+	"	A. ದೂತರು	",
+	"	B. ಪರಲೋಕದಲ್ಲಿರುವ ಪರಿಶುದ್ಧರು	",
+	"	C. ದೆವ್ವಗಳು	",
+	"	D. ಪವಿತ್ರಾತ್ಮನು	"
 ],			
-"correct" :	"	d. The Spirit.	",
-"explanation" :	"	 Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.Rom8:26	",
+"correct" :	"	D. ಪವಿತ್ರಾತ್ಮನು	",
+"explanation" :	"	ಹಾಗೆ ಪವಿತ್ರಾತ್ಮನು ಸಹ ನಮ್ಮ ಅಶಕ್ತಿಯನ್ನು ನೋಡಿ ಸಹಾಯಮಾಡುತ್ತಾನೆ. ಹೇಗಂದರೆ ನಾವು ತಕ್ಕ ಪ್ರಕಾರ ಏನು ಬೇಡಿಕೊಳ್ಳಬೇಕೋ ನಮಗೆ ಗೊತ್ತಿಲ್ಲದ್ದರಿಂದ ಪವಿತ್ರಾತ್ಮನು ತಾನೇ ಮಾತಿಲ್ಲದಂಥ ನರಳಾಟದಿಂದ ನಮಗೋಸ್ಕರ ಬೇಡಿಕೊಳ್ಳುತ್ತಾನೆ.  8:26	",
 },			
 {			
-"question" :	"	6. All things work this way, for those who love God and are the called according to His purpose.	",
+"question" :	"	6 ದೇವರ ಸಂಕಲ್ಪದ ಮೇರೆಗೆ ಕರೆಯಲ್ಪಟ್ಟ ಆತನನ್ನು ಪ್ರೀತಿಸುವವರ ಹಿತಕ್ಕಾಗಿ ಎಲ್ಲಾ ಕಾರ್ಯಗಳೂ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Lucky	",
-	"	b. For good	",
-	"	c. For evil	",
-	"	d. Distinctively	"
+	"	A. ಅದೃಷ್ಟವು	",
+	"	B. ಅನುಕೂಲವಾಗುವುದು	",
+	"	C. ಕೆಟ್ಟವುಗಳಾಗಿವೆ	",
+	"	D. ವಿಶಿಷ್ಟವಾಗಿವೆ	"
 ],			
-"correct" :	"	b. For good	",
-"explanation" :	"	And we know that all things work together for good to them that love God, to them who are the called according to his purpose.Rom8:28	",
+"correct" :	"	B. ಅನುಕೂಲವಾಗುವುದು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ದೇವರ ಸಂಕಲ್ಪದ ಮೇರೆಗೆ ಕರೆಯಲ್ಪಟ್ಟು ಆತನನ್ನು ಪ್ರೀತಿಸುವವರ ಹಿತಕ್ಕಾಗಿ ಎಲ್ಲಾ ಕಾರ್ಯಗಳು ಅನುಕೂಲವಾಗುತ್ತವೆ ಎಂದು ನಮಗೆ ಗೊತ್ತದೆ. 8:28	",
 },			
 {			
-"question" :	"	7. The question is asked, if God be for us 	",
-"image" :	"",		
-"choices" : [		"a. Who can be against us?	",
-	"	b. Can we stand?	",
-	"	c. Who can number us?	",
-	"	d. Can we be made worthy?	",
-	
-],			
-"correct" :	"a. Who can be against us?	",
-"explanation" :	"	What shall we then say to these things? If God be for us, who can be against us?Rom8:31	",
-},			
-{			
-"question" :	"	8. He is at the right hand of God, making intercession for us.	",
+"question" :	"	7 ದೇವರ ನಮ್ಮ ಕಡೆ ಇದ್ದರೆ ________	",
 "image" :	"",		
 "choices" : [			
-	"	a. David	",
-	"	b. Moses	",
-	"	c. Christ	",
-	"	d. Jude	"
+	"	A. ನಮ್ಮನ್ನು ಎದುರಿಸುವವರು ಯಾರು?	",
+	"	B. ನಾವು ನಿಂತುಕೊಳ್ಳಬಲ್ಲವೇ?	",
+	"	C. ನಮ್ಮನ್ನು ಯಾರು ಲೆಕ್ಕಿಸಾರು.	",
+	"	D. ನಾವು ಅರ್ಹರಾಗಬಲ್ಲವೇ?	"
 ],			
-"correct" :	"	c. Christ	",
-"explanation" :	"	Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.Rom8:34	",
+"correct" :	"	A. ನಮ್ಮನ್ನು ಎದುರಿಸುವವರು ಯಾರು?	",
+"explanation" :	"	ಹಾಗಾದರೆ ಈ ವಿಷಯಗಳಲ್ಲಿ ನಾವು ಏನು ಹೇಳೋಣ? ದೇವರು ನಮ್ಮ ಕಡೆ ಇದ್ದರೆ ನಮ್ಮನ್ನು ಎದುರಿಸುವವರು ಯಾರು? 8:31	",
 },			
 {			
-"question" :	"	9. In tribulation, distress and peril, we are	",
+"question" :	"	8 ಈತನು ದೇವರ ಬಲಗಡೆಯಲ್ಲಿ ಕುಳಿತು, ನಮಗಾಗಿ ಮಧ್ಯಸ್ಥಿಕೆ ವಹಿಸುತ್ತಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. As dogs.	",
-	"	b. More than conquerors.	",
-	"	c. More miserable than all men.	",
-	"	d. As a worm.	"
+	"	A. ದಾವೀದ	",
+	"	B. ಮೋಶೆ	",
+	"	C. ಕ್ರಿಸ್ತ	",
+	"	D. ಯೂದ	"
 ],			
-"correct" :	"	b. More than conquerors.	",
-"explanation" :	"	Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.Nay, in all these things we are more than conquerors through him that loved us.Rom8:35,36,37	",
+"correct" :	"	C. ಕ್ರಿಸ್ತ	",
+"explanation" :	"	ಅಪರಾಧಿಗಳೆಂದು ನಿರ್ಣಯಿಸುವವರು ಯಾರು? ಕ್ರಿಸ್ತ ಯೇಸು ಮರಣವನ್ನು ಹೊಂದಿದ್ದಲ್ಲದೆ ಜೀವಿತನಾಗಿ ಎದ್ದು ದೇವರ ಬಲಗಡೆಯಲ್ಲಿದ್ದು ನಮಗೋಸ್ಕರ ಬೇಡುವವನಾಗಿದ್ದಾನೆ.  8:34	",
 },			
 {			
-"question" :	"	10. Neither death, life, angels,principalities, nor powers can separate us from this.	",
+"question" :	"	9 ಸಂಕಟಗಳಲ್ಲಿ ಯಾತನೆಗಳಲ್ಲಿ, ಗಂಡಾಂತರಗಳಲ್ಲಿ, ನಾವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. The law	",
-	"	b. The love of God	",
-	"	c. Our vision	",
-	"	d. Sin	"
+	"	A. ನಾಯಿಗಳಂತಿದ್ದೇವೆ	",
+	"	B. ಪೂರ್ಣ ಜಯಶಾಲಿಗಳಾಗಿದ್ದೇವೆ	",
+	"	C. ಎಲ್ಲಾ ಜನರಿಗಿಂತ ದಯನೀಯವಾಗಿದ್ದೇವೆ	",
+	"	D. ಕ್ರಿಮಿಗಳಂತಿದ್ದೇವೆ	"
 ],			
-"correct" :	"	b. The love of God	",
-"explanation" :	"	For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,Nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.Rom8:38,39	",
+"correct" :	"	B. ಪೂರ್ಣ ಜಯಶಾಲಿಗಳಾಗಿದ್ದೇವೆ	",
+"explanation" :	"	ಕ್ರಿಸ್ತನ ಪ್ರೀತಿಯಿಂದ ನಮ್ಮನ್ನು ಅಗಲಿಸುವವರು ಯಾರು? ಕಷ್ಟವೋ ಸಂಕಟವೋ ಹಿಂಸೆಯೋ ಅನ್ನವಿಲ್ಲದಿರುವದೋ ವಸ್ತ್ರವಿಲ್ಲದಿರುವದೋ ಗಂಡಾಂತರವೋ ಖಡ್ಗವೋ? ದೇವರೇ, ನಾವು ನಿನ್ನ ನಿಮಿತ್ತ ದಿನವೆಲ್ಲಾ ಕೊಲೆಗೆ ಗುರಿಯಾಗಿದ್ದೇವೆ; ಜನರು ನಮ್ಮನ್ನು ಕೊಯ್ಗುರಿಗಳಂತೆ ಎಣಿಸಿದರು. ಎಂಬದಾಗಿ ಬರೆದಿರುವಂತೆ ಆಗುತ್ತದಲ್ಲಾ. ಆದರೆ ನಮ್ಮನ್ನು ಪ್ರೀತಿಸಿದಾತನ ಮೂಲಕವಾಗಿ ನಾವು ಈ ಎಲ್ಲಾ ವಿಷಯಗಳಲ್ಲಿ ಪೂರ್ಣ ಜಯಶಾಲಿಗಳಾಗುತ್ತೇವೆ 8:35,36,37	",
+},			
+{			
+"question" :	"	10 ಮರಣವಾಗಲಿ, ಜೀವವಾಗಲಿ, ದೇವದೂತರಾಗಲಿ, ದುರಾತ್ಮಗಳಾಗಲಿ, ಮಹತ್ವಗಳಾಗಲಿ, ನಮ್ಮನ್ನು ಇದರಿಂದ ಅಗಲಿಸಲಾರದು	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಧರ್ಮಶಾಸ್ತ್ರದಿಂದ	",
+	"	B. ದೇವರ ಪ್ರೀತಿಯಿಂದ	",
+	"	C. ದರ್ಶನದಿಂದ	",
+	"	D. ಪಾಪದಿಂದ	"
+],			
+"correct" :	"	B. ದೇವರ ಪ್ರೀತಿಯಿಂದ	",
+"explanation" :	"	ಹೇಗಂದರೆ ಮರಣವಾಗಲಿ ಜೀವವಾಗಲಿ ದೇವದೂತರಾಗಲಿ ದುರಾತ್ಮಗಳಾಗಲಿ ಈಗಿನ ಸಂಗತಿಗಳಾಗಲಿ ಮುಂದಣ ಸಂಗತಿಗಳಾಗಲಿ ಮಹತ್ವಗಳಾಗಲಿ ಮೇಲಣ ಲೋಕವಾಗಲಿ ಕೆಳಗಣ ಲೋಕವಾಗಲಿ ಬೇರೆ ಯಾವ ಸೃಷ್ಟಿಯಾಗಲಿ ನಮ್ಮನ್ನು ನಮ್ಮ ಕರ್ತನಾದ ಯೇಸು ಕ್ರಿಸ್ತನಲ್ಲಿ ತೋರಿಬಂದ ದೇವರ ಪ್ರೀತಿಯಿಂದ ಅಗಲಿಸಲಾರವೆಂದು ನನಗೆ ನಿಶ್ಚಯ ಉಂಟು. 8:38,39	",
 },			
 ]			

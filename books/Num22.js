@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 22";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. This king was afraid of the children of Israel.	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 23";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
 "question" :	"	1. David was told the Philistines were attacking	",

@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 21";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1. This man had a vineyard that Ahab wanted.	",

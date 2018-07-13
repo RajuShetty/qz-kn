@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 31";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 31";			
 var quiz = [			
 {			
 "question" :	"	1. How old was Moses when he was speaking to the children of Israel?	",
@@ -42,7 +42,7 @@ var quiz = [
 "choices" : [			
 	"	a. Be mocked.	",
 	"	b. Fail or forsake you.	",
-	"	c. Remove the ancient landmark.	",
+	"	c. Remove the ancient landಮಾರ್ಕ.	",
 	"	d. Plant thee & thou not grow.	"
 ],			
 "correct" :	"	b. Fail or forsake you.	",

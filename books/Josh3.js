@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 3";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. The people left Shittim and came here and lodged before they passed over.	",

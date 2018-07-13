@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 26";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 26";			
 var quiz = [			
 {			
 "question" :	"	1. How old was Uzziah when he began to reign?	",

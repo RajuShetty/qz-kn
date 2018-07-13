@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 5";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. ನಾವು ಎಲ್ಲಿಂದ ದೊರಕುವ ನಿವಾಸವನ್ನು ಧರಿಸಿಕೊಳ್ಳಬೇಕೆಂದು ಅಪೇಕ್ಷಿಸುತ್ತೇವೆ.	",

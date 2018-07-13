@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 23";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
 "question" :	"	1. Joshua called for all of Israel and told them he was	",

@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 19";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. The Levite’s concubine was at her father’s house for 	",

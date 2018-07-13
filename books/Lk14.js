@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 14";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus asked the Pharisees and lawyers, if it was lawful to do this, on the Sabbath.	",
+"question" :	"	1. ಸಬ್ಬತ್ದಿನದಲ್ಲಿ ಇದು ಮಾಡುವುದು ಸರಿಯೋ? ಸರಿಯಲ್ಲವೋ? ಎಂದು ಯೇಸು ಫರಿಸಾಯರನ್ನು ಧರ್ಮೋಪದೇಶಕರನ್ನು ಕೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Eat	",
-	"	b. Pray	",
-	"	c. Travel	",
-	"	d. Heal	"
+	"	A. ತಿನ್ನುವುದು	",
+	"	B. ಪ್ರಾರ್ಥಿಸುವುದು	",
+	"	C. ಪ್ರಯಾಣಿಸುವುದು	",
+	"	D. ಸ್ವಸ್ಥ ಮಾಡುವುದು	"
 ],			
-"correct" :	"	d. Heal	",
-"explanation" :	"	And Jesus, answering, spoke to the lawyers and Pharisees, saying, Is it lawful to heal on the Sabbath? - Lk 14:3	",
+"correct" :	"	D. ಸ್ವಸ್ಥ ಮಾಡುವುದು	",
+"explanation" :	"	ಆಗ ಯೇಸು ತನ್ನೆದುರಿಗೆ ಜಲೋದರವುಳ್ಳ ಒಬ್ಬ ಮನುಷ್ಯನಿರುವುದನ್ನು ನೋಡಿ - ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಸ್ವಸ್ಥಮಾಡುವದು ಸರಿಯೋ? ಸರಿಯಲ್ಲವೋ? ಎಂದು ಧರ್ಮೋಪದೇಶಕರನ್ನೂ ಫರಿಸಾಯರನ್ನೂ ಕೇಳಿದನು.  ಲೂಕ 14:2-3	",
 },			
 {			
-"question" :	"	2. Jesus asked, who would not pull one of these, out of a pit on the Sabbath.	",
+"question" :	"	2. ನಿಮ್ಮಲ್ಲಿ ಯಾವನೊಬ್ಬನ ಮಗನಾಗಲಿ ______ ಬಾವಿಯಲ್ಲಿ ಬಿದ್ದರೆ ಸಬ್ಬತ್ ದಿನದಲ್ಲಿ ಅದನ್ನು ಮೇಲೆತ್ತುವುದಿಲ್ಲವೋ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A horse	",
-	"	b. A man	",
-	"	c. An ox	",
-	"	d. A camel	"
+	"	A. ಕುದುರೆ	",
+	"	B. ಮನುಷ್ಯನಾಗಲಿ	",
+	"	C. ಎತ್ತು	",
+	"	D. ಒಂಟೆ	"
 ],			
-"correct" :	"	c. An ox	",
-"explanation" :	"	Then He answered them, saying, Which of you, having a donkey or an ox that has fallen into a pit, will not immediately pull him out on the Sabbath day? - Lk 14:5	",
+"correct" :	"	C. ಎತ್ತು	",
+"explanation" :	"	ನಿಮ್ಮಲ್ಲಿ ಯಾವನೊಬ್ಬನ ಮಗನಾಗಲಿ ಎತ್ತಾಗಲಿ ಬಾವಿಯಲ್ಲಿ ಬಿದ್ದರೆ ಅವನು ತಡಮಾಡದೆ ಸಬ್ಬತ್ ದಿನದಲ್ಲಾದರೂ ಮೇಲಕ್ಕೆ ತೆಗೆಯುವದಿಲ್ಲವೇ ಎಂದು ಅವರನ್ನು ಕೇಳಿದನು.  ಲೂಕ 14:5	",
 },			
 {			
-"question" :	"	3. When you are invited to a wedding take a seat here.	",
+"question" :	"	3. ನಿನ್ನನ್ನು ಮದುವೆ ಔತಣಕ್ಕೆ ಕರೆದಾಗ ನೀನು ಎಲ್ಲಿ ಕುಳಿತುಕೊಳ್ಳಬೇಕು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. In the highest room	",
-	"	b. In the lowest room	",
-	"	c. By the bride	",
-	"	d. By the groom	"
+	"	A. ಮೊದಲ ಪಂಕ್ತಿಯಲ್ಲಿ	",
+	"	B. ಕಡೆಯ ಪಂಕ್ತಿಯಲ್ಲಿ	",
+	"	C. ವಧುವಿನ ಬಳಿ	",
+	"	D. ವರನ ಬಳಿ	"
 ],			
-"correct" :	"	b. In the lowest room	",
-"explanation" :	"	But when you are invited, go and sit down in the lowest place, so that when he who invited you comes he may say to you, 'Friend, go up higher.' Then you will have glory in the presence of those who sit at the table with you. - Lk 14:10	",
+"correct" :	"	B. ಕಡೆಯ ಪಂಕ್ತಿಯಲ್ಲಿ	",
+"explanation" :	"	ಆದರೆ ಯಾವನಾದರೂ ನಿನ್ನನ್ನು ಕರೆದಾಗ ನೀನು ಹೋಗಿ ಕಡೆಯ ಸ್ಥಾನದಲ್ಲಿ ಕೂತುಕೋ;    ಲೂಕ 14:10	",
 },			
 {			
-"question" :	"	4. He that humbles himself shall be	",
+"question" :	"	4. ತನ್ನನ್ನು ತಗ್ಗಿಸಿಕೊಳ್ಳುವವನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Damned.	",
-	"	b. Forgotten.	",
-	"	c. A burden.	",
-	"	d. Exalted.	"
+	"	A. ದರಿದ್ರನು	",
+	"	B. ಮರೆಯುವನು	",
+	"	C. ಹೊರಿಸಲ್ಪಡುವನು	",
+	"	D. ಹೆಚ್ಚಿಸುವನು	"
 ],			
-"correct" :	"	d. Exalted.	",
-"explanation" :	"	For whoever exalts himself will be humbled, and he who humbles himself will be exalted. - Lk 14:11	",
+"correct" :	"	D. ಹೆಚ್ಚಿಸುವನು	",
+"explanation" :	"	ತನ್ನನ್ನು ಹೆಚ್ಚಿಸಿಕೊಳ್ಳುವ ಪ್ರತಿಯೊಬ್ಬನು ತಗ್ಗಿಸಲ್ಪಡುವನು; ತನ್ನನ್ನು ತಗ್ಗಿಸಿಕೊಳ್ಳುವವನು ಹೆಚ್ಚಿಸಲ್ಪಡುವನು ಅಂದನು;  ಲೂಕ 14:11	",
 },			
 {			
-"question" :	"	5. When you prepare a feast invite them that	",
+"question" :	"	5. ನೀವು ಔತಣಕ್ಕೆ ಸಿದ್ಧಪಡಿಸುವಾಗ ಇವರನ್ನು ಕರೆಯಿರಿ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Are far away.	",
-	"	b. Are Christians.	",
-	"	c. Are related.	",
-	"	d. Cannot repay you.	"
+	"	A. ದೂರದಲ್ಲಿರುವವರು	",
+	"	B. ಕ್ರೈಸ್ತರನ್ನು	",
+	"	C. ಸಂಬಂಧಿಕರನ್ನು	",
+	"	D. ಪುನ: ನಿಮ್ಮನ್ನು ಕರೆಯಲಾಗದವರನ್ನು	"
 ],			
-"correct" :	"	d. Cannot repay you.	",
-"explanation" :	"	But when you give a feast, invite the poor, the maimed, the lame, the blind. And you will be blessed, because they cannot repay you; for you shall be repaid at the resurrection of the just. - Lk 14:13-14	",
+"correct" :	"	D. ಪುನ: ನಿಮ್ಮನ್ನು ಕರೆಯಲಾಗದವರನ್ನು	",
+"explanation" :	"	ಆದರೆ ನೀನು ಔತಣ ಮಾಡಿಸುವಾಗ ಬಡವರು ಊನವಾದವರು ಕುಂಟರು ಕುರುಡರು ಇಂಥವರನ್ನು ಕರೆ; ಅವರು ನಿನಗೆ ಮುಯ್ಯಿಗೆ ಮುಯ್ಯಿ ಮಾಡುವದಕ್ಕೆ ಏನೂ ಇಲ್ಲದವರಾಗಿದ್ದರೂ ನೀತಿವಂತರು ಜೀವಿತರಾಗಿ ಎದ್ದು ಬರುವಲ್ಲಿ ನಿನಗೆ ಮುಯ್ಯಿಗೆ ಮುಯ್ಯಾಗುವುದರಿಂದ ನೀನು ಧನ್ಯನಾಗುವಿ ಅಂದನು.   ಲೂಕ 13-14	",
 },			
 {			
-"question" :	"	6. What did those who were invited to the great supper do?	",
+"question" :	"	6. ದೊಡ್ಡ ಔತಣಕ್ಕೆ ಕರೆಯಲ್ಪಟ್ಟವರೆಲ್ಲರೂ ಏನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Praised the host	",
-	"	b. Ate like gluttons	",
-	"	c. Made themselves drunk	",
-	"	d. Made excuses	"
+	"	A. ಔತಣಗಾರನನ್ನು ಹೊಗಳಿದರು	",
+	"	B. ಹೊಟ್ಟೆಬಾಕರಂತೆ ತಿಂದರು	",
+	"	C. ಪಾನಮತ್ತರಾದರು	",
+	"	D. ಕಾರಣಗಳನ್ನು ಹೇಳಿ ತಪ್ಪಿಸಿಕೊಂಡರು	"
 ],			
-"correct" :	"	d. Made excuses	",
-"explanation" :	"	Then He said to him, A certain man gave a great supper and invited many,and sent his servant at supper time to say to those who were invited, 'Come, for all things are now ready.'But they all with one accord began to make excuses. The first said to him, 'I have bought a piece of ground, and I must go and see it. I ask you to have me excused - Lk 14:16-18	",
+"correct" :	"	D. ಕಾರಣಗಳನ್ನು ಹೇಳಿ ತಪ್ಪಿಸಿಕೊಂಡರು	",
+"explanation" :	"	ಯೇಸು ಅವನಿಗೆ ಹೇಳಿದ್ದೇನಂದರೆ - ಒಬ್ಬಾನೊಬ್ಬ ಮನುಷ್ಯನು ದೊಡ್ಡ ಅಡಿಗೆ ಮಾಡಿಸಿ ಅನೇಕರಿಗೆ ಊಟಕ್ಕೆ ಹೇಳಿಸಿದನು.   ಆಮೇಲೆ ಊಟದ ಹೊತ್ತಿಗೆ ಅವನು ಊಟಕ್ಕೆ ಹೇಳಿಸಿಕೊಂಡವರ ಬಳಿಗೆ - ಈಗ ಸಿದ್ಧವಾಗಿದೆ, ಬರಬೇಕು ಎಂದು ಕರೆಯುವದಕ್ಕೆ ತನ್ನ ಆಳನ್ನು ಕಳುಹಿಸಿದನು.  ಆದರೆ ಅವರೆಲ್ಲರೂ ಕ್ಷಮಿಸಬೇಕೆಂದು ಒಂದೇ ಮನಸ್ಸಿನಿಂದ ಹೇಳುವದಕ್ಕೆ ತೊಡಗಿದರು.    ಮೊದಲನೆಯವನು ಆ ಆಳನ್ನು ನೋಡಿ - ಹೊಲವನ್ನು ಕ್ರಯಕ್ಕ ತಕ್ಕೊಂಡಿದ್ದೇನೆ, ಅದನ್ನು ಹೋಗಿ ನೋಡುವದಕ್ಕೆ ನನಗ ಅಗತ್ಯವಿದೆ, ನನ್ನನ್ನು ಕ್ಷಮಿಸಬೇಕೆಂದು ಕೇಳಿಕೊಂಡೆನೆಂಬದಾಗಿ ಹೇಳು ಅಂದನು.  ಲೂಕ 14:16-18  	",
 },			
 {			
-"question" :	"	7. The Lord told his servants to go out in the highways and hedges and	",
+"question" :	"	7. ಒಡೆಯನು ತನ್ನ ಆಳುಗಳನ್ನು ಕರೆದು, ನೀವು ಹಾದಿಗಳಿಗೂ ಬೇಲಿಗಳ ಬಳಿಗೂ ಹೋಗಿ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Buy more food.	",
-	"	b. Compel them to come in.	",
-	"	c. Beg for money.	",
-	"	d. Look for his son.	"
+	"	A. ಹೆಚ್ಚಿನ ಊಟವನ್ನು ಕೊಂಡುತನ್ನಿರಿ	",
+	"	B. ಬಲವಂತ ಮಾಡಿ ಒಳಕ್ಕೆ ಕರಕೊಂಡು ಬನ್ನಿರಿ	",
+	"	C. ಹಣಕ್ಕಾಗಿ ಬೇಡಿಕೊಳ್ಳಿರಿ	",
+	"	D. ನನ್ನ ಮಗನಿಗಾಗಿ ನೋಡಿರಿ	"
 ],			
-"correct" :	"	b. Compel them to come in.	",
-"explanation" :	"	Then the master said to the servant, 'Go out into the highways and hedges, and compel them to come in, that my house may be filled. - Lk 14:23	",
+"correct" :	"	B. ಬಲವಂತ ಮಾಡಿ ಒಳಕ್ಕೆ ಕರಕೊಂಡು ಬನ್ನಿರಿ	",
+"explanation" :	"	ಆಗ ಆ ಯಜಮಾನನು ತನ್ನ ಆಳಿಗೆ ಹೇಳಿದ್ದು - ನೀನು ಹಾದಿಗಳಿಗೂ ಬೇಲಿಗಳ ಬಳಿಗೂ ಹೋಗಿ ಅಲ್ಲಿ ಸಿಕ್ಕಿದವರನ್ನು ಬಲವಂತಮಾಡಿ ಒಳಕ್ಕೆ ಕರಕೊಂಡು ಬಾ;  ಲೂಕ 14:23	",
 },			
 {			
-"question" :	"	8. Jesus said, whoever does not bare this, cannot be his disciple.	",
+"question" :	"	8. ಯೇಸು ಹೇಳಿದ್ದು: ಯಾವನಾದರೂ ____ ಹೊತ್ತುಕೊಂಡು ನನ್ನ ಹಿಂದೆ ಬಂದ ಹೊರತು ಅವನು ನನ್ನ ಶಿಷ್ಯನಾಗಿರಲಾರ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The mark of the beast	",
-	"	b. Guilt	",
-	"	c. His cross	",
-	"	d. Faith, hope & charity	"
+	"	A. ಜೀವಿಯ ಗುರುತು	",
+	"	B. ಅಪರಾಧ	",
+	"	C. ತನ್ನ ಶಿಲುಬೆ	",
+	"	D. ನಂಬಿಕೆ, ನಿರೀಕ್ಷೆ ಮತ್ತು ದಾನ	"
 ],			
-"correct" :	"	c. His cross	",
-"explanation" :	"	And whoever does not bear his cross and come after Me cannot be My disciple.- Lk 14:27	",
+"correct" :	"	C. ತನ್ನ ಶಿಲುಬೆ	",
+"explanation" :	"	ಯಾವನಾದರೂ ತನ್ನ ಶಿಲುಬೆಯನ್ನು ಹೊತ್ತುಕೊಂಡು ನನ್ನ ಹಿಂದೆ ಬಂದ ಹೊರತು ಅವನು ನನ್ನ ಶಿಷ್ಯನಾಗಿರಲಾರನು.   ಲೂಕ 14:27	",
 },			
 {			
-"question" :	"	9. If a person were to build one of these, he would first count the cost.	",
+"question" :	"	9. ಒಬ್ಬ ಮನುಷ್ಯನು ಇದನ್ನು ಕಟ್ಟಿಸಬೇಕೆಂದಿದ್ದರೆ ಮೊದಲು ಕೂತುಕೊಂಡು ಅದಕ್ಕೆ ತಗಲುವ ಖರ್ಚನ್ನು ಲೆಕ್ಕಹಾಕಬೇಕು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. A kingdom	",
-	"	b. A tower	",
-	"	c. A house	",
-	"	d. A chariot	"
+	"	A. ರಾಜ್ಯ	",
+	"	B. ಬುರುಜು	",
+	"	C. ಮನೆ	",
+	"	D. ರಥ	"
 ],			
-"correct" :	"	b. A tower	",
-"explanation" :	"	For which of you, intending to build a tower, does not sit down first and count the cost, whether he has enough to finish it - Lk 14:28	",
+"correct" :	"	B. ಬುರುಜು	",
+"explanation" :	"	ನಿಮ್ಮಲ್ಲಿ ಯಾವನಾದರೂ ಒಂದು ಬುರುಜನ್ನು ಕಟ್ಟಿಸಬೇಕೆಂದು ಯೋಚಿಸಿದರೆ ಅವನು ಮೊದಲು ಕೂತುಕೊಂಡು ;   ಲೂಕ  14:28	",
 },			
 {			
-"question" :	"	10. This is good, but if it loses its savor, it is not fit for the land nor the dunghill.	",
+"question" :	"	10. ಇದು ಒಳ್ಳೆಯ ಪದಾರ್ಥವೇ, ಆದರೆ ಇದು ಸಪ್ಪಗಾದರೆ ಅದು ಭೂಮಿಗಾದರೂ ತಿಪ್ಪೆಗಾದರೂ ಉಪಯೋಗವಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Salt	",
-	"	b. Wine	",
-	"	c. Bread	",
-	"	d. Honey	"
+	"	A. ಉಪ್ಪು	",
+	"	B. ದ್ರಾಕ್ಷಾರಸ	",
+	"	C. ರೊಟ್ಟಿ	",
+	"	D. ಜೇನು	"
 ],			
-"correct" :	"	a. Salt	",
-"explanation" :	"	So likewise, whoever of you does not forsake all that he has cannot be My disciple.Salt is good; but if the salt has lost its flavor, how shall it be seasoned? - Lk 14:33-34 	",
+"correct" :	"	A. ಉಪ್ಪು	",
+"explanation" :	"	ಉಪ್ಪಂತೂ ಒಳ್ಳೆಯ ಪದಾರ್ಥವೇ; ಉಪ್ಪು ಸಹ ಸಪ್ಪಗಾದರೆ ಅದಕ್ಕೆ ಇನ್ನಾತರಿಂದ ರುಚಿಬಂದೀತು?  ಅದು ಭೂಮಿಗಾದರೂ ತಿಪ್ಪೆಗಾದರೂ ಉಪಯೋಗವಲ್ಲ; ಅದನ್ನು ಹೊರಗೆ ಬಿಸಾಡುತ್ತಾರೆ.  ಕೇಳುವದಕ್ಕೆ ಕಿವಿಯುಳ್ಳವನು ಕೇಳಲಿ ಅಂದನು.  ಲೂಕ 14:34-35	",
 },			
 ]			

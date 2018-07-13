@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 13";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. Jeroboam was standing by this, when the man of God came to him.	",

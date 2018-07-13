@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 8";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. Samuel made his sons	",

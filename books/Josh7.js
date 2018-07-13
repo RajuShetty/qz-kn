@@ -1,4 +1,4 @@
-var quiztitle = " Joshua  chapter 7";			
+var quiztitle = " Joshua  ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. The anger of the Lord was kindled against Israel because Achan	",

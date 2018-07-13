@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 10";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. What did God say He would bring into their coasts?	",
@@ -31,7 +31,7 @@ var quiz = [
 	"	a. We will not let them go.	",
 	"	b. We fear no God.	",
 	"	c. Let the men go.	",
-	"	d. Let us make war with the Hebrews.	"
+	"	d. Let us make war with the ಇಬ್ರಿಯರಿಗೆ.	"
 ],			
 "correct" :	"	c. Let the men go.	",
 "explanation" :	"	And Pharaoh's servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve the LORD their God: knowest thou not yet that Egypt is destroyed? Ex 10:7	",

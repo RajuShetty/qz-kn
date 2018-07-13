@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 25";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 25";			
 var quiz = [			
 {			
-"question" :	"	1. How many virgins originally took their lamps and went forth to meet the bridegroom?	",
+"question" :	"	1. ಮೊದಲು ಎಷ್ಟು ಜನ ಕನ್ನಿಕೆಯರು ಆರತಿಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಮದಲಿಂಗನನ್ನು ಎದುರುಗೊಳ್ಳುವುದಕ್ಕೆ ಹೋದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 5	",
-	"	b. 10	",
-	"	c. 20	",
-	"	d. 8	"
+	"	A. 5	",
+	"	B. 10	",
+	"	C. 20	",
+	"	D. 8	"
 ],			
-"correct" :	"	b. 10	",
-"explanation" :	"	Then the kingdom of heaven shall be likened to ten virgins who took their lamps and went out to meet the bridegroom. - Matt 25:1	",
+"correct" :	"	B. 10	",
+"explanation" :	"	ಆಗ ಪರಲೋಕರಾಜ್ಯವು ಆರತಿಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಮದಲಿಂಗನನ್ನು ಎದುರುಗೊಳ್ಳವುದಕ್ಕೆ ಹೊರಟಂಥ ಹತ್ತು ಮಂದಿ ಕನ್ಯೆಯರಿಗೆ ಹೋಲಿಕೆಯಾಗಿರುವುದು. ಮತ್ತಾಯ 24:1	",
 },			
 {			
-"question" :	"	2. Those that were wise	",
+"question" :	"	2.  ಬುದ್ಧಿವಂತ ಕನ್ನಿಕೆಯರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Took extra oil.	",
-	"	b. Took extra lamps.	",
-	"	c. Knew a shortcut.	",
-	"	d. Had no oil.	"
+	"	A. ಹೆಚ್ಚುವರಿ ಎಣ್ಣೆನ್ನು ತೆಗೆದುಕೊಂಡರು	",
+	"	B. ಹೆಚ್ಚವರಿ ಆರತಿಗಳನ್ನು ತೆಗೆದುಕೊಂಡರು	",
+	"	C. ಅಡ್ಡದಾರಿ ಗೊತ್ತಿತ್ತು	",
+	"	D. ಎಣ್ಣೆಯಿರಲಿಲ್ಲ	"
 ],			
-"correct" :	"	a. Took extra oil.	",
-"explanation" :	"	but the wise took oil in their vessels with their lamps. - Matt 25:4	",
+"correct" :	"	A. ಹೆಚ್ಚುವರಿ ಎಣ್ಣೆನ್ನು ತೆಗೆದುಕೊಂಡರು	",
+"explanation" :	"	ಬುದ್ಧುವಂತೆಯರು ತಮ್ಮ ಆರತಿಗಳ ಕೂಡ ಪಾತ್ರಗಳಲ್ಲಿ ಎಣ್ಣೆ ತಕ್ಕೊಂಡರು.   ಮತ್ತಾಯ 25:4	",
 },			
 {			
-"question" :	"	3. Those that were foolish	",
+"question" :	"	3. ಬುದ್ಧಿಯಿಲ್ಲದ ಕನ್ನಿಕೆಯರಿಗೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Broke their lamps.	",
-	"	b. Forgot their lamps.	",
-	"	c. Ran out of oil.	",
-	"	d. Stole oil.	"
+	"	A. ಅವರ ಆರತಿಗಳನ್ನು ಮುರಿದುಹಾಕಿದರು	",
+	"	B. ಅವರ ಆರತಿಗಳನ್ನು ಮರೆತೋದರು	",
+	"	C. ಎಣ್ಣೆ ಸಾಕಾಗದೆ ಹೋಯಿತು	",
+	"	D. ಎಣ್ಣೆಯನ್ನು ಕಳವು ಮಾಡಿದರು	"
 ],			
-"correct" :	"	c. Ran out of oil.	",
-"explanation" :	"	And the foolish said to the wise, Give us some of your oil, for our lamps are going out. - Matt 25:8	",
+"correct" :	"	C. ಎಣ್ಣೆ ಸಾಕಾಗದೆ ಹೋಯಿತು	",
+"explanation" :	"	ಆಗ್ಗೆ ಬುದ್ಧಿಯಿಲ್ಲದವರು ಬುದ್ಧಿವಂತೆಯರಿಗೆ ನಿಮ್ಮ ಎಣ್ಣೆಯಲ್ಲಿ ನಮಗೆ ಸ್ವಲ್ಪಕೊಡಿರಿ, ನಮ್ಮ ಆರತಿಗಳು ಆರಿಹೋಗುತ್ತವೆ ಎಂದು ಹೇಳಿದರು.      ಮತ್ತಾಯ 25:8	",
 },			
 {			
-"question" :	"	4. Where were the foolish virgins when the bridegroom came?	",
+"question" :	"	4. ಮದಲಿಂಗನು ಬಂದಾಗ ಬುದ್ಧಿಯಿಲ್ಲದ ಕನ್ನಿಕೆಯರು ಎಲ್ಲಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Lost in the dark	",
-	"	b. Waiting for him	",
-	"	c. Buying oil	",
-	"	d. Repairing their lamps	"
+	"	A. ಕತ್ತಲೆಯಲ್ಲಿ ಕಾಣದೇಹೋದರು	",
+	"	B. ಆತನಿಗಾಗಿ ಕಾಯುತ್ತಾ ಇದ್ದರು	",
+	"	C. ಎಣ್ಣೆಯನ್ನು ಕೊಂಡುಕೊಳ್ಳುತ್ತಾ ಇದ್ದರು	",
+	"	D. ಅವರ ಆರತಿಗಳನ್ನು ಸರಿ ಮಾಡಿಕೊಳ್ಳುತ್ತಿದ್ದರು	"
 ],			
-"correct" :	"	c. Buying oil	",
-"explanation" :	"	And while they went to buy, the bridegroom came, and those who were ready went in with him to the wedding; and the door was shut. - Matt 25:10	",
+"correct" :	"	C. ಎಣ್ಣೆಯನ್ನು ಕೊಂಡುಕೊಳ್ಳುತ್ತಾ ಇದ್ದರು	",
+"explanation" :	"	ಅವರು ಕೊಂಡುಕೊಳ್ಳಲಿಕ್ಕೆ ಹೋದಾಗ ಮದಲಿಂಗನು ಬಂದನು.   ಮತ್ತಾಯ 25:10	",
 },			
 {			
-"question" :	"	5. What did the servant who had the five talents do?	",
+"question" :	"	5 ಐದು ತಲಾಂತುಗಳನ್ನು ಹೊಂದಿದ್ದ ಸೇವಕನು ಏನು ಮಾಡಿದ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Buried it	",
-	"	b. Stole it	",
-	"	c. Made 5 more talents	",
-	"	d. Made 2 more talents	"
+	"	A.  ಅದನ್ನು ನೆಲದಲ್ಲಿ ಹುದುಗಿಸದನು	",
+	"	B.  ಅದನ್ನು ಕಳವು ಮಾಡಿದನು	",
+	"	C.  ಇನ್ನೂ 5 ತಲಾಂತು ಸಂಪಾದಿಸಿದನು	",
+	"	D.  ಇನ್ನೂ 2 ತಲಾಂತು ಸಂಪಾದಿಸಿದನು	"
 ],			
-"correct" :	"	c. Made 5 more talents	",
-"explanation" :	"	Then he who had received the five talents went and traded with them, and made another five talents. - Matt 25:16	",
+"correct" :	"	C.  ಇನ್ನೂ 5 ತಲಾಂತು ಸಂಪಾದಿಸಿದನು	",
+"explanation" :	"	ಐದು ತಲಾಂತು ಹೊಂದಿದವನು ಹೋಗಿ ಅದನ್ನು ವ್ಯಾಪಾರಕ್ಕೆ ಹಾಕಿ ಇನ್ನೂ ಐದು ತಲಾಂತು ಗಳಿಸಿಕೊಂಡನು.   ಮತ್ತಾಯ 25:16	",
 },			
 {			
-"question" :	"	6. Who did the Lord call a wicked servant?	",
+"question" :	"	6 ಕರ್ತನು ಯಾರನ್ನು ಕೆಟ್ಟ ಸೇವಕನೆಂದು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The man who buried the talent	",
-	"	b. The man who stole the talent	",
-	"	c. The man who had 2 talents	",
-	"	d. The man who had 5 talents	"
+	"	A. ತಲಾಂತನ್ನು ನೆಲದಲ್ಲಿ ಬಚ್ಚಿಟ್ಟ ಸೇವಕನನ್ನು	",
+	"	B. ತಲಾಂತನ್ನು ಕದ್ದ ವ್ಯಕ್ತಿಯನ್ನು	",
+	"	C. 2ತಲಾಂತು ಹೊಂದಿದ್ದ ಸೇವಕನನ್ನು	",
+	"	D. 5 ತಲಾಂತು ಹೊಂದಿದ್ದ ಸೇವಕನನ್ನು	"
 ],			
-"correct" :	"	a. The man who buried the talent	",
-"explanation" :	"	And I was afraid, and went and hid your talent in the ground. Look, there you have what is yours.But his lord answered and said to him, You wicked and lazy servant, you knew that I reap where I have not sown, and gather where I have not scattered seed. - Matt 25:25,26	",
+"correct" :	"	A. ತಲಾಂತನ್ನು ನೆಲದಲ್ಲಿ ಬಚ್ಚಿಟ್ಟ ಸೇವಕನನ್ನು	",
+"explanation" :	"	ನೀನು ತೂರದಿರುವಲ್ಲಿ ರಾಶಿಮಾಡಿಕೊಳ್ಳವವನು ಎಂದು ತಿಳಿದು ಹೆದರಿಕೊಂಡು ಹೋಗಿ ನಿನ್ನ ತಲಾಂತನ್ನು ಭೂಮಿಯಲ್ಲಿ ಬಚ್ಚಿಟ್ಟೆನು, ಇಗೋ ನಿನ್ನದು ನಿನಗೆ ಸಂದಿದೆ ಅಂದನು. ಆಗ ಅವನ ದಣಿಯು ಅವನಿಗೆ ಮೈಗಳ್ಳನಾದ ಕೆಟ್ಟ ಆಳು ನೀನು;   ಮತ್ತಾಯ 25:25-26	",
 },			
 {			
-"question" :	"	7. What happened to the unprofitable servant?	",
+"question" :	"	7. ಲಾಭಗಳಿಸದ ಸೇವಕನಿಗೆ ಏನಾಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He was given another talent	",
-	"	b. He was given 2 more talents	",
-	"	c. He was beaten	",
-	"	d. He was cast into outer darkness	"
+	"	A. ಅವನಿಗೆ ಮತ್ತೊಂದು ತಲಾಂತು ನೀಡಲಾಯಿತು	",
+	"	B. ಅವನಿಗೆ ಇನ್ನೂD.ತಲಾಂತು ಹೆಚ್ಚಿಗೆ ನೀಡಲಾಯಿತು	",
+	"	C. ಅವನು ಹೊಡೆಯಲ್ಪಟ್ಟನು	",
+	"	D. ಅವನು ಹೊರಗೆ ಕತ್ತಲೆ ಕೋಣೆಯೊಳಕ್ಕೆ ದಬ್ಬಲಾಯಿತು	"
 ],			
-"correct" :	"	d. He was cast into outer darkness	",
-"explanation" :	"	And cast the unprofitable servant into the outer darkness. There will be weeping and gnashing of teeth. - Matt 25:30	",
+"correct" :	"	D. ಅವನು ಹೊರಗೆ ಕತ್ತಲೆ ಕೋಣೆಯೊಳಕ್ಕೆ ದಬ್ಬಲಾಯಿತು	",
+"explanation" :	"	ಕೆಲಸಕ್ಕೆ ಬಾರದ ಈ ಆಳನ್ನು ಹೊರಗೆ ಕತ್ತಲೆಗೆ ಹಾಕಿಬಿಡಿರಿ ಎಂದು ಹೇಳಿದನು.  ಅಲ್ಲಿ ಗೋಳಾಟವೂ ಕಟಕಟನೆ ಹಲ್ಲಕಡಿಯೋಣವೂ ಇರುವವು.  ಮತ್ತಾಯ 25:30	",
 },			
 {			
-"question" :	"	8. Jesus compared His coming in glory to this.	",
+"question" :	"	8 ಯೇಸು ತನ್ನ ಮಹಿಮೆಯ ಬರೋಣವನ್ನು ಇದಕ್ಕೆ ಹೋಲಿಸಿದ್ದಾನೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. A carpenter building a house	",
-	"	b. A farmer separating wheat from tares	",
-	"	c. A jeweler separating gold from dross	",
-	"	d. A shepherd separating sheep from goats	"
+	"	A. ಬಡಗಿಯು ಮನೆಯನ್ನು ಕಟ್ಟುವುದು	",
+	"	B. ರೈತನು ಗೋಧಿಯನ್ನು ಹಣಜಿಯಿಂದ ಬೇರ್ಪಡಿಸುವುದು	",
+	"	C. ಅಕ್ಕಸಾಲಿಗನು ಚಿನ್ನವನ್ನು ಕಲ್ಮಶದಿಂದ ಬೇರ್ಪಡಿಸುವುದು	",
+	"	D. ಕುರುಬನು ಕುರಿಗಳನ್ನು ಆಡುಗಳಿಂದ ಬೇರ್ಪಡಿಸುವುದು	"
 ],			
-"correct" :	"	d. A shepherd separating sheep from goats	",
-"explanation" :	"	When the Son of Man comes in His glory, and all the holy angels with Him, then He will sit on the throne of His glory.All the nations will be gathered before Him, and He will separate them one from another, as a shepherd divides his sheep from the goats. - Matt 25:31,32	",
+"correct" :	"	D. ಕುರುಬನು ಕುರಿಗಳನ್ನು ಆಡುಗಳಿಂದ ಬೇರ್ಪಡಿಸುವುದು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಮನುಷ್ಯಕುಮಾರನು ತನ್ನ ಮಹಿಮೆಯಿಂದ ಎಲ್ಲಾ ದೇವದೂತರೊಂದಿಗೆ ಕೂಡಿಬರುವಾಗ ತನ್ನ ಮಹಿಮೆಯ ಸಿಂಹಾಸನದಲ್ಲಿ ಕೂತುಕೊಳ್ಳುವನು ಮತ್ತು ಎಲ್ಲಾ ದೇಶಗಳ ಜನರು ಆತನ ಮುಂದೆ ಕೂಡಿಸಲ್ಪಡುವರು, ಕುರುಬನು ಆಡುಗಳನ್ನೂ ಕುರಿಗಳನ್ನೂ ಬೇರೆಬೇರೆ ಮಾಡುವ ಪ್ರಕಾರ ಆತನು ಅವರನ್ನು ಬೇರೆಬೇರೆ ಮಾಡಿ ಕುರಿಗಳನ್ನು ______                     ಮತ್ತಾಯ 25:31-32	",
 },			
 {			
-"question" :	"	9. What did Jesus answer when those on his right, asked when they had fed or clothed Jesus, or visited Him when He was sick or in prison?	",
+"question" :	"	9 ನಾವು ನಿನಗೆ ಯಾವಾಗ ಊಟ ಕೊಟ್ಟೆವು, ಯಾವಾಗ ವಸ್ತ್ರ ಹೊದಿಸಿದೆವು ಮತ್ತು ಯಾವಾಗ ನೀನು ರೋಗಿಯಾಗಿದ್ದಾಗ ನಿನ್ನನ್ನು ಪರಾಮರ್ಶಿಸಿದೆವು ಎಂದು ಯೇಸುವಿನ ಬಲಭಾಗದಲ್ಲಿದ್ದವರು ಕೇಳಿದಾಗ ಆತನು ಏನೆಂದು ಉತ್ತರಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Many times.	",
-	"	b. When I walked on the earth.	",
-	"	c. In your thoughts.	",
-	"	d. When you did it to the least of My brethren.	"
+	"	A. ಬಹಳಷ್ಟು ಸಾರಿ	",
+	"	B. ನಾನು ಈ ಲೋಕದಲ್ಲಿ ಸಂಚರಿಸುತ್ತಿದ್ದಾಗ	",
+	"	C. ನಿಮ್ಮ ಯೋಚನೆಗಳಲ್ಲಿ	",
+	"	D. ನೀವು ಇವುಗಳನ್ನು ನನ್ನ ಸಹೋದರರಲ್ಲಿ ಅಲ್ಪವಾದವನಿಗೆ ಮಾಡಿದಾಗ	"
 ],			
-"correct" :	"	d. When you did it to the least of My brethren.	",
-"explanation" :	"	Then the righteous will answer Him, saying, 'Lord, when did we see You hungry and feed You, or thirsty and give You drink?When did we see You a stranger and take You in, or naked and clothe You?Or when did we see You sick, or in prison, and come to You? And the King will answer and say to them, 'Assuredly, I say to you, inasmuch as you did it to one of the least of these My brethren, you did it to Me. - Matt 25:37-40	",
+"correct" :	"	D. ನೀವು ಇವುಗಳನ್ನು ನನ್ನ ಸಹೋದರರಲ್ಲಿ ಅಲ್ಪವಾದವನಿಗೆ ಮಾಡಿದಾಗ	",
+"explanation" :	"	ಸ್ವಾಮಿ ಯಾವಾಗ ನೀನು ಹಸಿದದ್ದನ್ನು ಕಂಡು ನಿನಗೆ ಊಟಕ್ಕೆ ಕೊಟ್ಟವು, ಇಲ್ಲವೆ ನೀನು ಬಾಯಾರಿದ್ದನ್ನು ಕಂಡು ಕುಡಿಯುವುದಕ್ಕೆ ಕೊಟ್ಟವು? ಯಾವಾಗ ನೀನು ಪರದೇಶಿಯಾಗಿರುವದನ್ನು ಕಂಡು ಸೇರಿಸಿಕೊಂಡೆವು? ಇಲ್ಲವೆ ನಿನಗೆ ಬಟ್ಟೆಯಿಲ್ಲದ್ದೆನ್ನು ಕಂಡು ಉಡುವದಕ್ಕೆ ಕೊಟ್ಟೆವು? ಯಾವಾಗ ನೀನು ರೋಗದಲ್ಲಿ ಬಿದ್ದದ್ದನ್ನು ಅಥವಾ ಸೆರೆಮನೆಯಲ್ಲಿ ಇದ್ದದ್ದನ್ನು ಕಂಡು ನಿನ್ನನ್ನು ನೋಡುವುದಕ್ಕೆ ಬಂದೆವು ಎಂದು ಉತ್ತರವಾಗಿ ಹೇಳುವರು.  ಅದಕ್ಕೆ ಅರಸನು ಈ ನನ್ನ ಸಹೋದರರಲ್ಲಿ ಕೇವಲ ಅಲ್ಪನಾದವನೊಬ್ಬನಿಗೆ ಏನೇನು ಮಾಡಿದಿರೋ ಅದನ್ನು ನನಗೂ* ಮಾಡಿದ ಹಾಗಾಯಿತು ಎಂದು ನಿಮಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ ಅನ್ನುವನು.        ಮತ್ತಾಯ 25:37-40	",
 },			
 {			
-"question" :	"	10. What happened to those on His left who had not done these things?	",
+"question" :	"	10  ಈ ಕಾರ್ಯಗಳನ್ನು ಮಾಡದೇ ಇದ್ದ ಆತನ ಎಡಭಾಗದಲ್ಲಿದ್ದವರಿಗೆ ಏನಾಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. They repented.	",
-	"	b. They were forgiven.	",
-	"	c. They made excuses.	",
-	"	d. They were cast into everlasting fire.	"
+	"	A. ಅವರು ಮಾನಸಾಂತರ ಹೊಂದಿದರು	",
+	"	B. ಅವರು ಕ್ಷಮಿಸಲ್ಪಟ್ಟರು	",
+	"	C. ಅವರು ಕಾರಣಗಳನ್ನು ಹೇಳಿದರು	",
+	"	D. ಅವರು ನಿತ್ಯ ಬೆಂಕಿಗೆ ಹಾಕಲ್ಪಟ್ಟರು	"
 ],			
-"correct" :	"	d. They were cast into everlasting fire.	",
-"explanation" :	"	Then He will also say to those on the left hand, Depart from Me, you cursed, into the everlasting fire prepared for the devil and his angels: - Matt 25:41	",
+"correct" :	"	D. ಅವರು ನಿತ್ಯ ಬೆಂಕಿಗೆ ಹಾಕಲ್ಪಟ್ಟರು	",
+"explanation" :	"	ಆಮೇಲೆ ಆತನು ಎಡಗಡೆಯಲ್ಲಿರುವವರಿಗೆ ಶಾಪಗ್ರಸ್ತರೇ ನನ್ನನ್ನು ಬಿಟ್ಟು ಪಿಶಾಚನಿಗೂ ಅವನ ದೂತರಿಗೂ ಸಿದ್ದಮಾಡಿರುವ ನಿತ್ಯ ಬೆಂಕಿಯೊಳಕ್ಕೆ ಹೋಗಿರಿ.  ಮತ್ತಾಯ 25:41	",
 },			
 ]			

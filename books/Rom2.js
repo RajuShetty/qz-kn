@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 2";			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
-"question" :	"	1. Whoever judges another, does this.	",
+"question" :	"	1 ಮತ್ತೊಬ್ಬರಲ್ಲಿ ದೋಷವೆಣಿಸುವ ನೀನು ಇದನ್ನು ಮಾಡುತ್ತೀಯಾ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The will of God	",
-	"	b. Condemns himself	",
-	"	c. Makes himself God	",
-	"	d. Denies God	"
+	"	A. ದೇವರ ಚಿತ್ತ	",
+	"	B. ನಿನ್ನನ್ನು ದೋಷಿಯೆಂದು ತೀರ್ಪುಮಾಡಿಕೊಂಡ ಹಾಗಾಯಿತು	",
+	"	C. ತನ್ನನ್ನು ದೇವರು ಮಾಡಿಕೊಳ್ಳುತ್ತಾನೆ	",
+	"	D. ದೇವರನ್ನು ನಿರಾಕರಿಸುತ್ತಾನೆ.	"
 ],			
-"correct" :	"	b. Condemns himself	",
-"explanation" :	"	Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.Rom2:1	",
+"correct" :	"	B. ನಿನ್ನನ್ನು ದೋಷಿಯೆಂದು ತೀರ್ಪುಮಾಡಿಕೊಂಡ ಹಾಗಾಯಿತು	",
+"explanation" :	"	ಆದದರಿಂದ ಎಲೈ ಮನುಷ್ಯನೇ, ಮತ್ತೊಬ್ಬರಲ್ಲಿ ದೋಷವೆಣಿಸುವ ನೀನು ಯಾವನಾದರೂ ಸರಿಯೇ, ಉತ್ತರ ಹೇಳುವದಕ್ಕೆ ನಿನಗೆ ಮಾರ್ಗವಿಲ್ಲ. ಹೇಗಂದರೆ ಮತ್ತೊಬ್ಬರಲ್ಲಿ ದೋಷವೆಣಿಸುವದರಿಂದ ನಿನ್ನನ್ನು ನೀನೇ ದೋಷಿಯೆಂದು ತೀರ್ಪುಮಾಡಿಕೊಂಡ ಹಾಗಾಯಿತು. ಮತ್ತೊಬ್ಬರಲ್ಲಿ ದೋಷವೆಣಿಸುವ ನೀನು ಆ ದೋಷಗಳನ್ನೇ ನಡಿಸುತ್ತೀಯಲ್ಲಾ.  2:1	",
 },			
 {			
-"question" :	"	2. The judgment of God is according to this.	",
+"question" :	"	2  ದೇವರು ಮಾಡುವ ತೀರ್ಪು _______ ಗೆ ಅನುಗುಣವಾಗಿರುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Man	",
-	"	b. Truth	",
-	"	c. Evil	",
-	"	d. Two witnesses	"
+	"	A. ಮನುಷ್ಯರಿಗೆ	",
+	"	B. ಸತ್ಯಕ್ಕೆ	",
+	"	C. ಕೆಟ್ಟತನಕ್ಕೆ	",
+	"	D. ಇಬ್ಬರು ಸಾಕ್ಷಿಗಳಿಗೆ	"
 ],			
-"correct" :	"	b. Truth	",
-"explanation" :	"	But we are sure that the judgment of God is according to truth against them which commit such things.Rom2:2	",
+"correct" :	"	B. ಸತ್ಯಕ್ಕೆ	",
+"explanation" :	"	ಆದರೆ ಅಂಥವುಗಳನ್ನು ನಡಿಸುವವರ ವಿಷಯದಲ್ಲಿ ದೇವರು ಮಾಡುವ ತೀರ್ಪು ಸತ್ಯಕ್ಕನುಸಾರವಾಗಿಯೇ ಇರುವದೆಂದು ಬಲ್ಲೆವು 2:2	",
 },			
 {			
-"question" :	"	3. If you judge others, and yet do the same, do you think you will escape	",
+"question" :	"	3 ಮತ್ತೊಬ್ಬರ ಕಾರ್ಯಗಳಲ್ಲಿ ದೋಷವೆಣಿಸಿ, ಅವುಗಳನ್ನೇ ಮಾಡುತ್ತಿರುವ ನೀನು _____ ತಪ್ಪಿಸಿಕೊಂಡೇನೆಂದು ಯೋಚಿಸುತ್ತೀಯಾ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The mercy of God?	",
-	"	b. The judgment of God?	",
-	"	c. The fruit of the spirit?	",
-	"	d. The great tribulation?	"
+	"	A. ದೇವರ ದಯೆ	",
+	"	B. ದೇವರ ತೀರ್ಪು	",
+	"	C. ಆತ್ಮನ ಫಲ	",
+	"	D. ಮಹಾ ಸಂಕಟ	"
 ],			
-"correct" :	"	b. The judgment of God?	",
-"explanation" :	"	And thinkest thou this, O man, that judgest them which do such things, and doest the same, that thou shalt escape the judgment of God? Rom2:3	",
+"correct" :	"	B. ದೇವರ ತೀರ್ಪು	",
+"explanation" :	"	ಎಲೈ ಮನುಷ್ಯನೇ, ಅಂಥವುಗಳನ್ನು ನಡಿಸುವವರಲ್ಲಿ ದೋಷವೆಣಿಸಿ ಅವುಗಳನ್ನೇ ಮಾಡುತ್ತಿರುವ ನೀನು ದೇವರ ದಂಡನೆಯ ತೀರ್ಪಿಗೆ ತಪ್ಪಿಸಿಕೊಂಡೇನೆಂದು ಯೋಚಿಸುತ್ತೀಯಾ? 2:3	",
 },			
 {			
-"question" :	"	4. The goodness of God leads to	",
+"question" :	"	4 ದೇವರ ನೀತಿಯು ನಮ್ಮನ್ನು _____ ನಡೆಸುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Tribulation.	",
-	"	b. Repentance.	",
-	"	c. The highway of holiness.	",
-	"	d. The poor.	"
+	"	A.ಸಂಕಟಗಳಿಗೆ	",
+	"	B. ಮಾನಸಾಂತರ	",
+	"	C. ಪರಿಶುದ್ದ ದಾರಿಗೆ	",
+	"	D. ಬಡತನಕ್ಕೆ	"
 ],			
-"correct" :	"	b. Repentance.	",
-"explanation" :	"	Or despisest thou the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth thee to repentance? Rom2;4	",
+"correct" :	"	B. ಮಾನಸಾಂತರ	",
+"explanation" :	"	ಆತನ ಅಪಾರವಾದ ದಯಾ ಸಹನ ದೀರ್ಘಶಾಂತಿಗಳನ್ನು ಅಸಡ್ಡೆಮಾಡುತ್ತೀಯಾ? ಮನಸ್ಸನ್ನು ಬೇರೆಮಾಡಿಕೊಳ್ಳುವದಕ್ಕೆ ದೇವರ ಉಪಕಾರವು ನಿನ್ನನ್ನು ಪ್ರೇರಿಸುತ್ತದೆಂಬದು ನಿನಗೆ ಗೊತ್ತಿಲ್ಲವೇ? 2;4	",
 },			
 {			
-"question" :	"	5. God will render to every man according to this.	",
+"question" :	"	5 ದೇವರು ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ಅವರವರ ____ ಪ್ರಕಾರ ಪ್ರತಿಫಲ ನೀಡುತ್ತಾನೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. His name	",
-	"	b. His faith	",
-	"	c. His wealth	",
-	"	d. His deeds	"
+	"	A. ಹೆಸರು	",
+	"	B. ನಂಬಿಕೆ	",
+	"	C. ಸಂಪತ್ತು	",
+	"	D. ಕಾರ್ಯಗಳ	"
 ],			
-"correct" :	"	d. His deeds	",
-"explanation" :	"	But after thy hardness and impenitent heart treasurest up unto thyself wrath against the day of wrath and revelation of the righteous judgment of God;Who will render to every man according to his deeds: Rom2:5,6	",
+"correct" :	"	D. ಕಾರ್ಯಗಳ	",
+"explanation" :	"	ನೀನು ನಿನ್ನ ಮೊಂಡತನವನ್ನೂ ಪಶ್ಚಾತ್ತಾಪವಿಲ್ಲದ ಮನಸ್ಸನ್ನೂ ಅನುಸರಿಸುವದರಿಂದ ನಿನಗೋಸ್ಕರ ದೇವರ ಕೋಪವನ್ನು ಕೂಡಿಟ್ಟುಕೊಳ್ಳುತ್ತಾ ಇದ್ದೀ. ದೇವರ ಕೋಪವೂ ನ್ಯಾಯವಾದ ತೀರ್ಪು ಪ್ರಕಟವಾಗುವ ದಿವಸ ಬರುತ್ತದಷ್ಟೆ. ಆತನು ಪ್ರತಿಯೊಬ್ಬನಿಗೆ ಅವನವನ ಕೃತ್ಯಗಳಿಗೆ ತಕ್ಕ ಪ್ರತಿಫಲವನ್ನು ಕೊಡುವನು. 2:5,6	",
 },			
 {			
-"question" :	"	6. This will come upon every soul of man that does evil.	",
+"question" :	"	6 ಕೆಟ್ಟದ್ದನ್ನು ನಡೆಸುವ ಪ್ರತಿಯೊಬ್ಬರಿಗೂ ___ ಬರುವವು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mercy	",
-	"	b. Health & prosperity	",
-	"	c. Hope & peace	",
-	"	d. Tribulation & anguish	"
+	"	A. ದಯೆ	",
+	"	B. ಆರೋಗ್ಯ ಮತ್ತು ಸಮೃದ್ಧಿ	",
+	"	C. ನಿರೀಕ್ಷೆ	",
+	"	D. ಕಷ್ಟ ಸಂಕಟ	"
 ],			
-"correct" :	"	d. Tribulation & anguish	",
-"explanation" :	"	Tribulation and anguish, upon every soul of man that doeth evil, of the Jew first, and also of the Gentile; Rom2:9	",
+"correct" :	"	D. ಕಷ್ಟ ಸಂಕಟ	",
+"explanation" :	"	ಕೆಟ್ಟದ್ದನ್ನು ನಡಿಸುವ ಪ್ರತಿಯೊಬ್ಬ ನರಪ್ರಾಣಿಗೆ ಕಷ್ಟವೂ ಸಂಕಟವೂ ಬರುವವು - ಯೆಹೂದ್ಯರಿಗೆ ಮೊದಲು, ಅನಂತರ ಗ್ರೀಕರಿಗೆ ಸಹ.  2:9	",
 },			
 {			
-"question" :	"	7. God does not have this.	",
+"question" :	"	7 ದೇವರಿಗೆ ______ ಇದು ಇಲ್ಲ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Prosperity	",
-	"	b. Endless mercy	",
-	"	c. Abundant love	",
-	"	d. Respect of persons	"
+	"	A. ಸಮೃದ್ಧಿ	",
+	"	B. ಅಂತ್ಯವಿಲ್ಲದ ದಯೆ	",
+	"	C. ಅಪಾರವಾದ ಪ್ರೀತಿ	",
+	"	D. ಪಕ್ಷಪಾತ	"
 ],			
-"correct" :	"	d. Respect of persons	",
-"explanation" :	"	 For there is no respect of persons with God.Rom2:11	",
+"correct" :	"	D. ಪಕ್ಷಪಾತ	",
+"explanation" :	"	ದೇವರಿಗೆ ಪಕ್ಷಪಾತವಿಲ್ಲ. ಧರ್ಮಶಾಸ್ತ್ರವಿಲ್ಲದವರಾಗಿ ಪಾಪ ಮಾಡಿದವರು ಧರ್ಮಶಾಸ್ತ್ರವಿಲ್ಲದವರಾಗಿ ನಾಶಹೊಂದುವರು; ಆದರೆ ಧರ್ಮಶಾಸ್ತ್ರವುಳ್ಳವರಾಗಿದ್ದು ಪಾಪಮಾಡಿದವರು ಧರ್ಮಶಾಸ್ತ್ರಕ್ಕನುಸಾರವಾಗಿ ತೀರ್ಪನ್ನು ಹೊಂದುವರು.  2:11	",
 },			
 {			
-"question" :	"	8. God shall judge the secrets of men by 	",
-"image" :	"",		
-"choices" : [		"a. Their faith.	",
-	"	b. Jesus Christ.	",
-	"	c. God's grace.	",
-	"	d. The law.	",
-	"	d. Righteousness.	"
-],			
-"correct" :	"	b. Jesus Christ.	",
-"explanation" :	"	 In the day when God shall judge the secrets of men by Jesus Christ according to my gospel.Rom2:16	",
-},			
-{			
-"question" :	"	9. The question is asked, if those who teach others will do this.	",
+"question" :	"	8 ದೇವರು ____ ಮುಖಾಂತರ ಮನುಷ್ಯರ ಗುಟ್ಟುಗಳನ್ನು ಹಿಡಿದು ವಿಚಾರಿಸುತ್ತಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Study the law	",
-	"	b. Fast & pray	",
-	"	c. Teach themselves	",
-	"	d. Share in the glory	"
+	"	A. ಅವರ ನಂಬಿಕೆ	",
+	"	B. ಯೇಸು ಕ್ರಿಸ್ತನ	",
+	"	C. ದೇವರ ಕೃಪೆ	",
+	"	D. ಧರ್ಮಶಾಸ್ತ್ರ	"
 ],			
-"correct" :	"	c. Teach themselves	",
-"explanation" :	"	Thou therefore which teachest another, teachest thou not thyself? thou that preachest a man should not steal, dost thou steal? Rom2:21	",
+"correct" :	"	B. ಯೇಸು ಕ್ರಿಸ್ತನ	",
+"explanation" :	"	ನಾನು ಸಾರುವ ಸುವಾರ್ತೆಯಲ್ಲಿ ಬೋಧಿಸಿರುವ ಪ್ರಕಾರ ದೇವರು ಯೇಸು ಕ್ರಿಸ್ತನ ಮೂಲಕವಾಗಿ ಮನುಷ್ಯರ ಗುಟ್ಟುಗಳನ್ನು ಹಿಡಿದು ವಿಚಾರಿಸುವ ದಿನವು ಬರುತ್ತದೆ. ಆ ದಿನದಲ್ಲಿ ಇದೆಲ್ಲಾ ತಿಳಿದುಬರುವದು. 2:16	",
 },			
 {			
-"question" :	"	10. A Jew is one inwardly whose praise is of	",
+"question" :	"	9 ಈ ಪ್ರಶ್ನೆ ಕೇಳಲ್ಪಟ್ಟಿತು, ಮತ್ತೊಬ್ಬರಿಗೆ ಉಪದೇಶ ಮಾಡುವ ನೀನು ___ ಮಾಡದೇ ಇದ್ದೀಯೋ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Men.	",
-	"	b. Angels.	",
-	"	c. Himself.	",
-	"	d. God.	"
+	"	A. ಧರ್ಮಶಾಸ್ತ್ರಭ್ಯಾಸ	",
+	"	B. ಪ್ರಾರ್ಥನೆ ಮತ್ತು ಉಪವಾಸ	",
+	"	C. ನಿನಗೆ ಉಪದೇಶ	",
+	"	D. ಮಹಿಮೆಯಲ್ಲಿ ಹಂಚುವುದು	"
 ],			
-"correct" :	"	d. God.	",
-"explanation" :	"	But he is a Jew, which is one inwardly; and circumcision is that of the heart, in the spirit, and not in the letter; whose praise is not of men, but of God.Rom2:29	",
+"correct" :	"	C. ನಿನಗೆ ಉಪದೇಶ	",
+"explanation" :	"	ಹೀಗಿರಲಾಗಿ ಮತ್ತೊಬ್ಬನಿಗೆ ಉಪದೇಶ ಮಾಡುವ ನೀನು ನಿನಗೆ ಉಪದೇಶಮಾಡಿಕೊಳ್ಳದೆ ಇದ್ದೀಯೋ? ಕದಿಯಬಾರದೆಂದು ಬೋಧಿಸುವ ನೀನು ಕದಿಯುತ್ತೀಯೋ? 2:21	",
+},			
+{			
+"question" :	"	10 ಒಳಗಿನಿಂದ ಯೆಹೂದ್ಯನಾಗಿರುವಾತನಿಗೆ ಹೊಗಳಿಕೆಯು ____ರಿಂದ ಬರುತ್ತದೆ?	",
+"image" :	"",		
+"choices" : [			
+	"	A. ಮನುಷ್ಯರು	",
+	"	B. ದೇವದೂತರು	",
+	"	C. ತನ್ನಿಂದ ತಾನೇ	",
+	"	D. ದೇವರು	"
+],			
+"correct" :	"	D. ದೇವರು	",
+"explanation" :	"	ಆದರೆ ಒಳಗೆ ಯೆಹೂದ್ಯನಾಗಿರುವವನೇ ಯೆಹೂದ್ಯನು; ಮತ್ತು ಹೃದಯದಲ್ಲಿ ಆಗುವ ಸುನ್ನತಿಯೇ ಸುನ್ನತಿ. ಇದು ಬಾಹ್ಯಾಚಾರಕ್ಕೆ ಸಂಬಂಧಪಟ್ಟದ್ದಲ್ಲ, ಆತ್ಮ ಸಂಬಂಧಪಟ್ಟದ್ದೇ; ಇಂಥಾ ಸುನ್ನತಿಯಿದ್ದವನಿಗೆ ಬರುವ ಹೊಗಳಿಕೆಯು ದೇವರಿಂದಲೇ ಹೊರತು ಮನುಷ್ಯರಿಂದ ಬರುವದಲ್ಲ. 2:29	",
 },			
 ]			

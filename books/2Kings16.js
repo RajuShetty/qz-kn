@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 16";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. This king reigned for sixteen years, and did not do that which was right in the sight of the Lord.	",

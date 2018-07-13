@@ -1,4 +1,4 @@
-var quiztitle = "Philippians chapter 3";			
+var quiztitle = "ಫಿಲಿಪ್ಪಿಯವರಿಗೆ ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. ಇವರಿಗೆ ಎಚ್ಚರಿಕೆಯಾಗಿರಿ	",

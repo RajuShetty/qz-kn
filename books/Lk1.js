@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 1";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
-"question" :	"	1. What was the name of Zacharias’ wife?	",
+"question" :	"	1. ಜಕರೀಯನ ಹೆಂಡತಿಯ ಹೆಸರೇನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mary	",
-	"	b. Elizabeth	",
-	"	c. Anna	",
-	"	d. Martha	"
+	"	A. ಮೇರಿ	",
+	"	B. ಎಲಿಸಬೇತ್	",
+	"	C. ಹನ್ನ	",
+	"	D.ಮಾರ್ಥ	"
 ],			
-"correct" :	"	b. Elizabeth	",
-"explanation" :	"	There was in the days of Herod, the king of Judea, a certain priest named Zacharias, of the division of Abijah. His wife was of the daughters of Aaron, and her name was Elizabeth.- Lk 1:5	",
+"correct" :	"	B. ಎಲಿಸಬೇತ್	",
+"explanation" :	"	ಯೂದಾಯದ ಅರಸನಾದ ಹೆರೋದನ ಕಾಲದಲ್ಲಿ ಅಬೀಯನ ವರ್ಗಕ್ಕೆ ಸೇರಿದ ಜಕರೀಯನೆಂಬ ಒಬ್ಬ ಯಾಜಕನಿದ್ದನು.  ಅವನ ಹೆಂಡತಿಯು ಆರೋನನ ವಂಶದವಳು.  ಆಕೆಯ ಹೆಸರು ಎಲಿಸಬೇತ್ .    ಲೂಕ 1:5	",
 },			
 {			
-"question" :	"	2. Where was Zacharias when the angel appeared to him?	",
+"question" :	"	2. ಜಕರೀಯನಿಗೆ ದೂತನು ಕಾಣಿಸಿದಾಗ ಅವನು ಎಲ್ಲಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. In bed	",
-	"	b. In the temple	",
-	"	c. In the wilderness	",
-	"	d. In prison	"
+	"	A. ಹಾಸಿಗೆಯಲ್ಲಿ	",
+	"	B. ದೇವಾಲಯದಲ್ಲಿ	",
+	"	C. ಅಡವಿಯಲ್ಲಿ	",
+	"	D. ಸೆರೆಮನೆಯಲ್ಲಿ	"
 ],			
-"correct" :	"	b. In the temple	",
-"explanation" :	"	according to the custom of the priesthood, his lot fell to burn incense when he went into the temple of the Lord.And the whole multitude of the people was praying outside at the hour of incense.Then an angel of the Lord appeared to him, standing on the right side of the altar of incense. - Lk 1:9-11	",
+"correct" :	"	B. ದೇವಾಲಯದಲ್ಲಿ	",
+"explanation" :	"	ದೇವಾಲಯದೊಳಕ್ಕೆ ಹೋಗಿ ಧೂಪವನ್ನರ್ಪಿಸುವುದು ಯಾಜಕರ ಮರ್ಯಾದೆಯ ಪ್ರಕಾರ ಅವನ ಪಾಲಿಗೆ ಬಂತು.  ಧೂಪವನ್ನು ಅರ್ಪಿಸುವ ಹೊತ್ತಿನಲ್ಲಿ ಜನರ ಗುಂಪೆಲ್ಲಾ ಹೊರಗೆ ನಿಂತು ದೇವರನ್ನು ಪ್ರಾರ್ಥಿಸುತ್ತಿರಲಾಗಿ ಕರ್ತನ ದೂತನು ಧೂಪಪೀಥದ ಬಲಗಡೆಯಲ್ಲಿ ನಿಂತುಕೊಂಡವನಾಗಿ ಅವನಿಗೆ ಕಾಣಿಸಿಕೊಂಡನು.  ಲೂಕ 1:9-12	",
 },			
 {			
-"question" :	"	3. What did the angel tell Zacharias to call his son?	",
+"question" :	"	3. ದೂತನು ಜಕರೀಯನಿಗೆ ಅವನ ಮಗನಿಗೆ ಏನೆಂದು ಹೆಸರಿಡಬೇಕೆಂದು ಸೂಚಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. David	",
-	"	b. Philip	",
-	"	c. Mark	",
-	"	d. John	"
+	"	A. ದಾವೀದ	",
+	"	B. ಪಿಲಿಫ್ಪಿ	",
+	"	C. ಮಾರ್ಕ	",
+	"	D. ಯೋಹಾನ	"
 ],			
-"correct" :	"	d. John	",
-"explanation" :	"	But the angel said to him, Do not be afraid, Zacharias, for your prayer is heard; and your wife Elizabeth will bear you a son, and you shall call his name John. - Lk 1:13	",
+"correct" :	"	D. C29ಯೋಹಾನ	",
+"explanation" :	"	ಆದರೆ ಆ ದೂತನು ಅವನಿಗೆ ಜಕರೀಯಾ ಭಯಪಡಬೇಡ; ನಿನ್ನ ವಿಜ್ಞಾಪನೆ ದೇವರಿಗೆ ಮುಟ್ಟಿತು; ನಿನ್ನ ಹೆಂಡತಿಯಾದ ಎಲಿಸಬೇತಳು ನಿನಗೆ ಒಬ್ಬ ಮಗನನ್ನು ಹೆರುವಳು.  ನೀನು ಅವನಿಗೆ ಯೋಹಾನನೆಂದು ಹೆಡರಿಡಬೇಕು.    ಲೂಕ 1:13-14	",
 },			
 {			
-"question" :	"	4. What was the name of the angel?	",
+"question" :	"	4. ಆ ದೂತನ ಹೆಸರೇನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Michael	",
-	"	b. Gabriel	",
-	"	c. Lucifer	",
-	"	d. Fred	"
+	"	A. ಮಿಕಾಯೇಲ್	",
+	"	B. ಗಬ್ರಿಯೇಲ್	",
+	"	C. ಲೂಸಿಫರ್	",
+	"	D. ಫ್ರೆಡ್	"
 ],			
-"correct" :	"	b. Gabriel	",
-"explanation" :	"	And the angel answered and said to him, I am Gabriel, who stands in the presence of God, and was sent to speak to you and bring you these glad tidings. - Lk 1:19	",
+"correct" :	"	B. ಗಬ್ರಿಯೇಲ್	",
+"explanation" :	"	ಆ ದೂತನು - ನಾನು ದೇವರ ಸನ್ನಿಧಿಯಲ್ಲಿ ನಿಲ್ಲುವ ಗಬ್ರಿಯೇಲನು; ನಿನ್ನ ಕೂಡ ಮಾತಾಡಿ ಈ ಶುಭವರ್ತಮಾನವನ್ನು ನಿನಗೆ ತಿಳಿಸುವದಕ್ಕಾಗಿ ನಾನು ಕಳುಹಿಸಲ್ಪಟ್ಟಿದ್ದೇನೆ.  ಲೂಕ 1: 19	",
 },			
 {			
-"question" :	"	5. Because Zacharias didn’t believe the angel, he was unable to do this, until after the child was born.	",
+"question" :	"	5. ಜಕರೀಯನು ಇದನ್ನು ನಂಬದೆ ಹೋದದರಿಂದ ಮಗು ಹುಟ್ಟುವವರೆಗೂ ಅವನು _________ ಇದ್ದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. See	",
-	"	b. Walk	",
-	"	c. Speak	",
-	"	d. Hear	"
+	"	A.ನೋಡಲಾರದೆ	",
+	"	B. ನಡೆಯಲಾರದೆ	",
+	"	C. ಮಾತನಾಡಲಾರದೆ	",
+	"	D. ಕೇಳಲಾರದೆ	"
 ],			
-"correct" :	"	c. Speak	",
-"explanation" :	"	But behold, you will be mute and not able to speak until the day these things take place, because you did not believe my words which will be fulfilled in their own time - Lk 1:20	",
+"correct" :	"	C. ಮಾತನಾಡಲಾರದೆ	",
+"explanation" :	"	ಈ ನನ್ನ ಮಾತು ತಕ್ಕ ಸಮಯದಲ್ಲಿ ನೆರವೇರುವದು; ಆದರೆ ನೀನು ಅದನ್ನು ನಂಬದೆಹೋದದ್ದರಿಂದ ಅದೆಲ್ಲಾ ಸಂಭವಿಸುವ ದಿನದವರೆಗೂ ಮಾತನಾಡಲಾರದೆ ಮೂಕನಾಗಿರುವಿ ಎಂದು ಅವನಿಗೆ ಉತ್ತರಕೊಟ್ಟರನು;   ಲೂಕ 1:20	",
 },			
 {			
-"question" :	"	6. Gabriel came to Mary, in this city.	",
+"question" :	"	6.  ಈ ಪಟ್ಟಣದಲ್ಲಿ ಮರಿಯಳ ಬಳಿಗೆ ಗಬ್ರಿಯೇಲನನು ಕಳುಹಿಸಲ್ಪಟ್ಟನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jerusalem	",
-	"	b. Bethany	",
-	"	c. Bethlehem	",
-	"	d. Nazareth	"
+	"	A. ಯೆರೂಸಲೇಮು	",
+	"	B. ಬೆಥಾನ್ಯ	",
+	"	C. ಬೆತ್ಲೆಹೇಮ್	",
+	"	D. ನಜರೇತ್	"
 ],			
-"correct" :	"	d. Nazareth	",
-"explanation" :	"	Now in the sixth month the angel Gabriel was sent by God to a city of Galilee named Nazareth,to a virgin betrothed to a man whose name was Joseph, of the house of David. The virgin's name was Mary. - Lk 1:26-27	",
+"correct" :	"	D. ನಜರೇತ್	",
+"explanation" :	"	ಆರನೆಯ ತಿಂಗಳಲ್ಲಿ ದೇವರು ಗಬ್ರಿಯೇಲನೆಂಬ ತನ್ನ ದೂತನನ್ನು ಗಲಿಲಾಯ ಸೀಮೆಯ ನಜರೇತೆಂಬ ಊರಿಗೆ ಒಬ್ಬ ಕನ್ಯೆಯ ಬಳಿಗೆ ಕಳುಹಿಸಿದನು;  ಲೂಕ 1:26	",
 },			
 {			
-"question" :	"	7. Who was Mary engaged to?	",
+"question" :	"	7. ಮರಿಯಳು ಯಾರಿಗೆ ನಿಶ್ಚಯವಾಗಿದ್ದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Joseph	",
-	"	b. David	",
-	"	c. Samson	",
-	"	d. Luke	"
+	"	A.ಯೋಸೇಪ	",
+	"	B. ದಾವೀದ	",
+	"	C. ಸಂಸೋನ	",
+	"	D. ಲೂಕ	"
 ],			
-"correct" :	"	a. Joseph	",
-"explanation" :	"	to a virgin betrothed to a man whose name was Joseph, of the house of David. The virgin's name was Mary. - Lk 1:27	",
+"correct" :	"	A. ಯೋಸೇಪ	",
+"explanation" :	"	ಆ ಕನ್ಯೆಯ ಹೆಸರು ಮರಿಯಳು; ಆಕೆಯು ದಾವೀದನ ಮನೆತನದ ಯೋಸೇಫನೆಂಬ ಪುರುಷನಿಗೆ ನಿಶ್ಚಿತಾರ್ಥವಾಗಿದ್ದಳು.   ಲೂಕ 1:27	",
 },			
 {			
-"question" :	"	8. What was to be the name of Mary’s child?	",
+"question" :	"	8. ಮರಿಯಳ ಮಗನಿಗೆ ಏನೆಂದು ಹೆಸರಿಡಬೇಕೆಂದು ತಿಳಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Luke	",
-	"	b. Peter	",
-	"	c. Jesus	",
-	"	d. Jacob	"
+	"	A. ಲೂಕ	",
+	"	B. ಪೇತ್ರ	",
+	"	C. ಯೇಸು	",
+	"	D. ಯಾಕೋಬ	"
 ],			
-"correct" :	"	c. Jesus	",
-"explanation" :	"	And behold, you will conceive in your womb and bring forth a Son, and shall call His name Jesus. - Lk 1:31	",
+"correct" :	"	C. ಯೇಸು	",
+"explanation" :	"	ಇಗೋ, ನೀನು ಗರ್ಭಿಣಿಯಾಗಿ ಒಬ್ಬ ಮಗನನ್ನು ಹೆರುವಿ; ಆತನಿಗೆ ಯೇಸುವೆಂದು ಹೆಸರಿಡಬೇಕು.   ಲೂಕ 1:31	",
 },			
 {			
-"question" :	"	9. How was Mary related to Zacharias’ wife?	",
+"question" :	"	9. ಜಕರೀಯನ ಹೆಂಡತಿಗೆ ಮರಿಯಳು ಏನಾಗಿದ್ದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mary was her cousin.	",
-	"	b. Mary was her daughter.	",
-	"	c. Mary was her mother.	",
-	"	d. Mary was her granddaughter.	"
+	"	A. ಮರಿಯಳು ಬಂಧುವಾಗಿದ್ದಳು	",
+	"	B. ಮರಿಯಳು ಸಹೋದರಿಯಾಗಿದ್ದಳು	",
+	"	C. ಮರಿಯಳ ತಾಯಿಯಾಗಿದ್ದಳು	",
+	"	D. ಮರಿಯಳು ಆಕೆಯ ಮೊಮ್ಮಗಳಾಗಿದ್ದಳು	"
 ],			
-"correct" :	"	a. Mary was her cousin.	",
-"explanation" :	"	Now indeed, Elizabeth your relative has also conceived a son in her old age; and this is now the sixth month for her who was called barren. - Lk 1:36	",
+"correct" :	"	A. ಮರಿಯಳು ಬಂಧುವಾಗಿದ್ದಳು	",
+"explanation" :	"	ನಿನ್ನ ಬಂಧುವಾದ ಎಲಿಸಬೇತಳಿದ್ದಾಳಲ್ಲಾ, ಆಕೆ ಸಹ ಮುಪ್ಪಿನವಲಾದರೂ ಗರ್ಭಿಣಿಯಾಗಿದ್ದಾಳೆ;      ಲೂಕ 1:36	",
 },			
 {			
-"question" :	"	10. The angel told Mary, with God, nothing shall	",
+"question" :	"	10. ದೂತನು ಮರಿಯಳಿಗೆ ಯಾವುದು ನಿಷ್ಫಲವಾಗುವದಿಲ್ಲ ಅಂದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Be impossible.	",
-	"	b. Be overlooked.	",
-	"	c. Pass away.	",
-	"	d. Be important.	"
+	"	A. ದೇವರಿಂದ ಬರುವ ಯಾವ ಮಾತಾದರೂ	",
+	"	B. ಉನ್ನತ ದೃಷ್ಟಿಕೋನಗಳು	",
+	"	C. ಹೊರಟುಹೋಗುವಂತದು	",
+	"	D. ಅತಿ ಮುಖ್ಯವಾಗಿರುವುದು	"
 ],			
-"correct" :	"	a. Be impossible.	",
-"explanation" :	"	For with God nothing will be impossible.- Lk 10:37	",
+"correct" :	"	A. ದೇವರಿಂದ ಬರುವ ಯಾವ ಮಾತಾದರೂ	",
+"explanation" :	"	ದೇವರಿಂದ ಬರುವ ಯಾವ ಮಾತಾದರೂ ನಿಷ್ಫಲವಾಗುವುದಿಲ್ಲ ಅಂದನು       ಲೂಕ 1:37	",
 },			
 ]			

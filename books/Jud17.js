@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 17";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. Where was Micah from?	",

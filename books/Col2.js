@@ -1,4 +1,4 @@
-var quiztitle = "Colossians chapter 2";			
+var quiztitle = "ಕೊಲೊಸ್ಸೆಯವರಿಗೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಹೇಳಿದ್ದು: ಕೊಲೊಸ್ಸೊದವರಿಗೋಸ್ಕರವೂ ಮತ್ತು ಇವರಿಗೋಸ್ಕರವೂ ನನಗೆ ಬಹಳ ಹೋರಾಟ ಉಂಟು.	",

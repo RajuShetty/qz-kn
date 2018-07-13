@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 17";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord appeared to Abram when he was	",
@@ -100,7 +100,7 @@ var quiz = [
 "question" :	"	9. God told Abraham to call his son	",
 "image" :	"",		
 "choices" : [			
-	"	a. Luke.	",
+	"	a. ಲೂಕ.	",
 	"	b. Isaac.	",
 	"	c. Abram.	",
 	"	d. Joseph.	"

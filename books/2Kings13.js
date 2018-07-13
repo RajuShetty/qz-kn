@@ -1,4 +1,4 @@
-var quiztitle = " 2 Kings chapter 13";			
+var quiztitle = " 2 Kings ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. This man reigned over Israel in Samaria seventeen years and did evil.	",

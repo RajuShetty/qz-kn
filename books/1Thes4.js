@@ -1,4 +1,4 @@
-var quiztitle = "1 Thessalonians chapter 4";			
+var quiztitle = "1 ಥೆಸಲೋನಿಕದವರಿಗೆ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. ಇದಕ್ಕೆ ದೂರವಾಗಿರಬೇಕಾದುದು ದೇವರ ಚಿತ್ತ	",

@@ -1,4 +1,4 @@
-var quiztitle = "Galatians chapter 5";			
+var quiztitle = "ಗಲಾತ್ಯದವರಿಗೆ ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. ಇದರಲ್ಲಿ ಸ್ಥಿರವಾಗಿ ನಿಲ್ಲಿರಿ.	",

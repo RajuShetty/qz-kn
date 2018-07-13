@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 4";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
-"question" :	"	1. How did Jesus teach the people?	",
+"question" :	"	1 ಯೇಸು ಜನರಿಗೆ ಹೇಗೆ ಭೋದಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. With eloquent words	",
-	"	b. From the letters of the synagogue	",
-	"	c. In parables	",
-	"	d. In a song	"
+	"	A. ಸ್ಪಷ್ಟವಾದ ಮಾತುಗಳಿಂದ	",
+	"	B. ಸಭಾಮಂದಿರಗಳ ಪತ್ರಿಕೆಗಳಿಂದ	",
+	"	C. ಸಾಮ್ಯಗಳಿಂದ	",
+	"	D. ಹಾಡುಗಳಿಂದ	"
 ],			
-"correct" :	"	c. In parables	",
-"explanation" :	"	Then He taught them many things by parables, and said to them in His teaching - Mr 4:2	",
+"correct" :	"	C. ಸಾಮ್ಯಗಳಿಂದ	",
+"explanation" :	"	ಆ ಜನರೆಲ್ಲರು ಸಮುದ್ರದ ಹತ್ತರ ನೆಲದ ಮೇಲೆ ಇದ್ದರು.  ಆಗ ಆತನು ಅವರಿಗೆ ಸಾಮ್ಯರೂಪವಾಗಿ ಅನೇಕ ಸಂಗತಿಗಳನ್ನು ಉಪದೇಶ ಮಾಡಿದನು.  ಮಾರ್ಕ 4:2	",
 },			
 {			
-"question" :	"	2. What did the sower sow?	",
+"question" :	"	2 ಬಿತ್ತುವವನು ಏನನ್ನು ಬಿತ್ತಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mirth	",
-	"	b. The word	",
-	"	c. Harmony	",
-	"	d. Love	"
+	"	A. ನಲಿವು	",
+	"	B. ವಾಕ್ಯ	",
+	"	C. ಸಾಮರಸ್ಯ	",
+	"	D. ಪ್ರೀತಿ	"
 ],			
-"correct" :	"	b. The word	",
-"explanation" :	"	The sower sows the word. - Mr 4:14	",
+"correct" :	"	B. ವಾಕ್ಯ	",
+"explanation" :	"	ಆ ಬಿತ್ತುವವನು ವಾಕ್ಯವೆಂಬ ಬೀಜವನ್ನು ಬಿತ್ತುತ್ತಾನೆ.  ಮಾರ್ಕ 4:14	",
 },			
 {			
-"question" :	"	3. Jesus asked, is a candle brought to be put under	",
+"question" :	"	3  ಯೇಸು ಕೇಳಿದ್ದು: ದೀಪವನ್ನು ತಂದು …………………………….ಕೆಳಗಾಗಲಿ ಇಡುವುದುಂಟೇ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A man?	",
-	"	b. A basket or bed?	",
-	"	c. A house?	",
-	"	d. A bushel or bench?	"
+	"	A. ಮನುಷ್ಯನ	",
+	"	B. ಕೊಳಗ ಅಥವಾ ಮಂಚದ	",
+	"	C. ಮನೆಯ	",
+	"	D. ಕೊಳಗ ಅಥವಾ ಮೇಜು	"
 ],			
-"correct" :	"	b. A basket or bed?	",
-"explanation" :	"	Also He said to them, Is a lamp brought to be put under a basket or under a bed? Is it not to be set on a lampstand? - Mr 4:21	",
+"correct" :	"	B. ಕೊಳಗ ಅಥವಾ ಮಂಚದ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಆತನು ಅವರಿಗೆ ದೀಪವನ್ನು ತಂದು ಕೊಳಗದೊಳಗಾಗಲಿ ಮಂಚದ ಕೆಳಗಾಗಲಿ ಇಡುವದುಂಟೇ? ದೀಪಸ್ತಂಭದ ಮೇಲೆ ಇಡುತ್ತಾರಲ್ಲಾ ?..  ಮಾರ್ಕ 4:21	",
 },			
 {			
-"question" :	"	4. Jesus said, unto you that hear	",
+"question" :	"	4 ಯೇಸು ಹೇಳಿದ್ದು: ನೀವು ಕಿವಿಗೊಡುವ ವಿಷಯದಲ್ಲಿ ಎಚ್ಚರಿಕೆ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Shall more be given.	",
-	"	b. Is knowledge.	",
-	"	c. Shall be masters.	",
-	"	d. Shall know the law.	"
+	"	A. ಇನ್ನೂ ಕೂಡಿಸಿಕೊಡುವರು	",
+	"	B. ಅದು ಜ್ಞಾನ	",
+	"	C. ನೀವು ಗುರುಗಳಾಗುವಿರಿ	",
+	"	D. ನೀವು ಶಾಸ್ತ್ರವನ್ನು ಬಲ್ಲವರಾಗುವಿರಿ	"
 ],			
-"correct" :	"	a. Shall more be given.	",
-"explanation" :	"	Then He said to them, Take heed what you hear. With the same measure you use, it will be measured to you; and to you who hear, more will be given. - Mr 4:24	",
+"correct" :	"	A. ಇನ್ನೂ ಕೂಡಿಸಿಕೊಡುವರು	",
+"explanation" :	"	ಆತನು ಅವರಿಗೆ ನೀವು ಕಿವಿಗೊಡುವ ವಿಷಯದಲ್ಲಿ ಎಚ್ಚರಿಕೆ.  ನೀವು ಅಳೆಯುವ ಅಳತೆಯಿಂದಲೇ ನಿಮಗೂ ಅಳೆಯುವರು; ಇನ್ನೂ ಕೂಡಿಸಿಕೊಡುವರು.  ಮಾರ್ಕ 4:24	",
 },			
 {			
-"question" :	"	5. Jesus said, this is, as if a man should cast seed into the ground and sleep and the seed spring up.	",
+"question" :	"	5 ಯೇಸು ಹೇಳಿದ್ದು: ಒಬ್ಬನು ಭೂಮಿಯಲ್ಲಿ ಬೀಜವನ್ನು ಹಾಕಿ ರಾತ್ರಿ ಮಲಗುತ್ತಾ ಹಗಲು ಎದ್ದಿರುತ್ತಾ ಇರಲು ಅವನಿಗೆ ತಿಳಿಯದ ರೀತಿಯಲ್ಲಿ ಆ ಬೀಜವು ಹುಟ್ಟಿ ಬೆಳೆಯುವುದು.  ಇದರಂತೆ  …………………………	",
 "image" :	"",		
 "choices" : [			
-	"	a. The world	",
-	"	b. Life	",
-	"	c. The kingdom of God	",
-	"	d. The synagogue	"
+	"	A. ಪ್ರಪಂಚ	",
+	"	B. ಜೀವನ	",
+	"	C. ದೇವರ ರಾಜ್ಯ	",
+	"	D. ಸಭಾ ಮಂದಿರ	"
 ],			
-"correct" :	"	c. The kingdom of God	",
-"explanation" :	"	And He said, The kingdom of God is as if a man should scatter seed on the ground,and should sleep by night and rise by day, and the seed should sprout and grow, he himself does not know how. - Mr 4:26,27	",
+"correct" :	"	C. ದೇವರ ರಾಜ್ಯ	",
+"explanation" :	"	ಇನ್ನೂ ಆತನು ಅವರಿಗೆ ಹೇಳಿದ್ದು ಒಬ್ಬನು ಭೂಮಿಯಲ್ಲಿ ಬೀಜವನ್ನು ಹಾಕಿ ರಾತ್ರಿ ಮಲಗುತ್ತಾ ಹಗಲು ಎದ್ದಿರುತ್ತಾ ಇರಲು ಅವನಿಗೆ ತಿಳಿಯದ ರೀತಿಯಲ್ಲಿ ಆ ಬೀಜವು ಹುಟ್ಟಿ ಬೆಳೆಯುವುದು.  ಇದರಂತೆ ದೇವರ ರಾಜ್ಯ.  ಮಾರ್ಕ 4:26-27	",
 },			
 {			
-"question" :	"	6. Jesus compared the kingdom of God to this kind of seed.	",
+"question" :	"	6  ಯೇಸು ಪರಲೋಕ ರಾಜ್ಯವನ್ನು ಈ ಬೀಜಕ್ಕೆ ಹೋಲಿಸಿದ್ದಾನೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Apple	",
-	"	b. Olive	",
-	"	c. Grass	",
-	"	d. Mustard	"
+	"	A. ಆಫಲ್	",
+	"	B. ಆಲೀವ್	",
+	"	C. ಹುಲ್ಲು	",
+	"	D. ಸಾಸಿವೆ	"
 ],			
-"correct" :	"	d. Mustard	",
-"explanation" :	"	Then He said, To what shall we liken the kingdom of God? Or with what parable shall we picture it?It is like a mustard seed which, when it is sown on the ground, is smaller than all the seeds on earth - Mr 4:30-31	",
+"correct" :	"	D. ಸಾಸಿವೆ	",
+"explanation" :	"	ಇನ್ನೂ ಆತನು ಹೇಳಿದ್ದು ದೇವರ ರಾಜ್ಯವನ್ನು ಯಾವದಕ್ಕೆ ಹೋಲಿಸೋಣ? ಯಾವ ಸಾಮ್ಯದಿಂದ ಅದನ್ನು ತೋರಿಸಿಕೊಡೋಣ? ಅದು ಸಾಸಿವೆಕಾಳಿನಂತಿರುತ್ತದೆ.  ಮಾರ್ಕ 4:30-31	",
 },			
 {			
-"question" :	"	7. Where were Jesus and the disciples when the storm arose?	",
+"question" :	"	7 ಬಿರುಗಾಳಿ ಎದ್ದಾಗ ಯೇಸು ಮತ್ತು ಆತನ ಶಿಷ್ಯರು ಎಲ್ಲಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. In the temple	",
-	"	b. On a mountain	",
-	"	c. In a boat	",
-	"	d. At the marketplace	"
+	"	A..ದೇವಸ್ಥಾನದಲ್ಲಿ	",
+	"	B. ಬೆಟ್ಟದ ಮೇಲೆ	",
+	"	C. ದೋಣಿಯಲ್ಲಿ	",
+	"	D. ಸಂತೇಪೇಟೆಯಲ್ಲ	"
 ],			
-"correct" :	"	c. In a boat	",
-"explanation" :	"	Leaving the crowd behind, they took him along, just as he was, in the boat. There were also other boats with him. - Mr 4:36	",
+"correct" :	"	C. ದೋಣಿಯಲ್ಲಿ	",
+"explanation" :	"	ಅವರು ಆ ಜನರ ಗುಂಪನ್ನು ಬಿಟ್ಟು ಆತನನ್ನು ಅದೇ ದೋಣಿಯಲ್ಲಿ ಹಾಗೆಯೇ ಕರಕೊಂಡು ಹೋದರು.  ಬೇರೆ ದೋಣಿಗಳೂ ಆತನ ಸಂಗಡ ಇದ್ದವು.  ತರುವಾಯ ದೊಡ್ಡ ಬಿರುಗಾಳಿ ಎದ್ದು ತೆರೆಗಳು ಆ ದೋಣಿಗೆ ಬಡಿದು ಒಳಗೆ ನುಗ್ಗಿದ್ದರಿಂದ ..  ಮಾರ್ಕ 4:36-37	",
 },			
 {			
-"question" :	"	8. What was Jesus doing?	",
+"question" :	"	8 ಯೇಸು ಆಗ ಏನು ಮಾಡುತ್ತದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Sleeping	",
-	"	b. Eating	",
-	"	c. Praying	",
-	"	d. Weeping	"
+	"	A. ನಿದ್ದೆ	",
+	"	B. ತಿನ್ನುತ್ತಿದ್ದರು	",
+	"	C. ಪ್ರಾರ್ಥನೆ	",
+	"	D. ಬಿಕ್ಕಳಿಸುತ್ತಿದ್ದರು	"
 ],			
-"correct" :	"	a. Sleeping	",
-"explanation" :	"	But He was in the stern, asleep on a pillow. And they awoke Him and said to Him, Teacher, do You not care that we are perishing? - Mr 4:38	",
+"correct" :	"	A. ನಿದ್ದೆ	",
+"explanation" :	"	ಆತನು ದೋಣಿಯ ಹಿಂಭಾಗದಲ್ಲಿ ತಲೆಗಿಂಬನ್ನು ಒರಗಿ ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದನು.  ಮಾರ್ಕ4:38	",
 },			
 {			
-"question" :	"	9. What did the disciples ask Jesus?	",
+"question" :	"	9 ಶಿಷ್ಯರು ಯೇಸುವಿಗೆ ಏನೆಂದು ಕೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. From whence came this storm?	",
-	"	b. Canst thou calm the storm?	",
-	"	c. Do You not care that we are perishing?	",
-	"	d. What wilt thou have us to do?	"
+	"	A. ಈ ಬಿರುಗಾಳಿ ಎಲ್ಲಿಂದ ಬಂತು	",
+	"	B. ನೀನು ಬಿರುಗಾಳಿಯನ್ನು ನಿಲ್ಲಿಸುವುದಿಲ್ಲವೋ	",
+	"	C. ನಾವು ಮುಳುಗಿಹೋಗುವುದರಲ್ಲಿ ನಿನಗೆ ಚಿಂತೆಯಿಲ್ಲವೋ	",
+	"	D. ನಾವು ಏನು ಮಾಡಬೇಕೆನ್ನುತ್ತೀ	"
 ],			
-"correct" :	"	c. Do You not care that we are perishing?	",
-"explanation" :	"	But He was in the stern, asleep on a pillow. And they awoke Him and said to Him, Teacher, do You not care that we are perishing? - Mr 4:38	",
+"correct" :	"	C. ನಾವು ಮುಳುಗಿಹೋಗುವುದರಲ್ಲಿ ನಿನಗೆ ಚಿಂತೆಯಿಲ್ಲವೋ	",
+"explanation" :	"	ಅವರು ಆತನನ್ನು ಎಬ್ಬಿಸಿ - ಗುರುವೇ, ನಾವು ಮುಳುಗಿಹೋಗುವದರಲ್ಲಿ ನಿನಗೆ ಚಿಂತೆಯಲ್ಲವೇ ಎಂದು ಕೇಳಲು ..     ಮಾರ್ಕ 4:38	",
 },			
 {			
-"question" :	"	10. What did Jesus ask the disciples?	",
+"question" :	"	10 ಯೇಸು ಶಿಷ್ಯರಿಗೆ ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. To pull in the sails	",
-	"	b. Do you believe I can do this?	",
-	"	c. Who doest thou say that I am?	",
-	"	d. How is it that ye have no faith?	"
+	"	A. ಹುಟ್ಟು ಹಾಕಲು	",
+	"	B. ನಾನು ಇದನ್ನು ಮಾಡುತ್ತೇನೆಂದು ನೀವು ನಂಬುತ್ತೀರೋ	",
+	"	C. ನಾನು ಯಾರೆಂದು ನೀವು ಹೇಳುತ್ತೀರಿ.	",
+	"	D. ಯಾಕೆ ಧೈರ್ಯಗೆಡುತ್ತೀರಿ? ಇನ್ನೂ ನಿಮಗೆ ನಂಬಿಕೆಯಿಲ್ಲವೋ?	"
 ],			
-"correct" :	"	d. How is it that ye have no faith?	",
-"explanation" :	"	But He said to them, Why are you so fearful? How is it that you have no faith? - Mr 4:40	",
+"correct" :	"	D. ಯಾಕೆ ಧೈರ್ಯಗೆಡುತ್ತೀರಿ? ಇನ್ನೂ ನಿಮಗೆ ನಂಬಿಕೆಯಿಲ್ಲವೋ?	",
+"explanation" :	"	ತರುವಾಯ ಆತನು ಅವರನ್ನು ಯಾಕೆ ಧೈರ್ಯಗೆಡುತ್ತೀರಿ? ಇನ್ನೂ ನಿಮಗೆ ನಂಬಿಕೆಯಿಲ್ಲವೇ ಎಂದು ಕೇಳಲು ಅವರು ಬಹು ಭಯಪಟ್ಟು..    ಮಾರ್ಕ 4:41	",
 },			
 ]			

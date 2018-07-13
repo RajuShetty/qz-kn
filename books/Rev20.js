@@ -1,4 +1,4 @@
-var quiztitle = " Revelation chapter 20";			
+var quiztitle = " ಪ್ರಕಟನೆ ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1. ದೇವದೂತನ ಕೈಯಲ್ಲಿ ಏನಿತ್ತು?	",

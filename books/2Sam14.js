@@ -1,4 +1,4 @@
-var quiztitle = " 2 Samuel chapter 14";			
+var quiztitle = " 2 Samuel ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. Joab sent a wise woman before the king who feigned herself as	",

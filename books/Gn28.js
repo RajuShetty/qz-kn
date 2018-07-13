@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 28";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 28";			
 var quiz = [			
 {			
 "question" :	"	1. Isaac told Jacob not to take a wife from	",

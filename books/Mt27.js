@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 27";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 27";			
 var quiz = [			
 {			
-"question" :	"	1. What prisoner was released because of the feast?	",
+"question" :	"	1. ಫಸ್ಕ ಹಬ್ಬದ ಪ್ರಯುಕ್ತ ಯಾರು ಸೆರೆಮನೆಯಿಂದ ಬಿಡುಗಡೆ ಹೊಂದಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Jesus	",
-	"	b. Barabbas	",
-	"	c. Timothy	",
-	"	d. Achan	"
+	"	A. ಯೇಸು	",
+	"	B. ಬರಬ್ಬರ	",
+	"	C. ತಿಮೋಥಿ	",
+	"	D. ಆಕಾನನು	"
 ],			
-"correct" :	"	b. Barabbas	",
-"explanation" :	"	Then he released Barabbas to them; and when he had scourged Jesus, he delivered Him to be crucified. - Matt 27:26	",
+"correct" :	"	B. ಬರಬ್ಬರ	",
+"explanation" :	"	ಆಗ ಬರಬ್ಬನನ್ನು ಅವನಿಗೆ ಬಿಟ್ಟುಕೊಟ್ಟು ಯೇಸುವನ್ನು ಕೊರಡೆಗಳಿಂದ ಹೊಡಿಸಿ ಶಿಲುಬೆಗೆ ಹಾಕುವದಕ್ಕೆ ಒಪ್ಪಿಸಿದನು.    ಮತ್ತಾಯ 27:26	",
 },			
 {			
-"question" :	"	2. Who sent word to Pilate concerning Jesus, saying, have nothing to do with that just man?	",
+"question" :	"	2 “ನೀನು ಆ ಸತ್ಪುರುಷನ ಗೊಡವೆಗೆ ಹೋಗಬೇಡ” ಎಂದು ಪಿಲಾತನಿಗೆ ಯೇಸುವಿನ ಪರವಾಗಿ ಹೇಳಿದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Caiaphas	",
-	"	b. Herod	",
-	"	c. Pilate’s wife	",
-	"	d. The chief priests	"
+	"	A. ಕಾಯಫ	",
+	"	B. ಹೆರೋದ	",
+	"	C. ಪಿಲಾತನ ಹೆಂಡತಿ	",
+	"	D. ಮಹಾ ಯಾಜಕರು	"
 ],			
-"correct" :	"	c. Pilate’s wife	",
-"explanation" :	"	While he was sitting on the judgment seat, his wife sent to him, saying, Have nothing to do with that just Man, for I have suffered many things today in a dream because of Him. - matt 27:19	",
+"correct" :	"	C. ಪಿಲಾತನ ಹೆಂಡತಿ	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಅವನು ನ್ಯಾಯಾಸನದಲ್ಲಿ ಕೂತಿರುವಾಗ ಅವನ ಹೆಂಡತಿಯು ನೀನು ಆ ಸತ್ಪುರುಷನ ಗೊಡವೆಗೆ ಹೋಗಬೇಡ, ಅವನ ದೆಸೆಯಿಂದ ಈ ಹೊತ್ತು ಕನಸಿನಲ್ಲಿ ಬಹಳ ತೊಂದರೆಪಟ್ಟೆನು ಎಂದು ಅವನ ಬಳಿಗೆ ಹೇಳಿಕಳುಹಿಸಿದಳು.  ಮತ್ತಾಯ27:19	",
 },			
 {			
-"question" :	"	3. When Pilate asked the crowd what they would have him do with Jesus, they said	",
+"question" :	"	3. ಪಿಲಾತನು ಕೂಡಿಬಂದಿದ್ದ ಜನರಿಗೆ ಕ್ರಿಸ್ತನೆನಿಸಕೊಳ್ಳುವ ಈ ಯೇಸುವನ್ನು ನಾನೇನು ಮಾಡಲಿ ಎಂದು ಕೇಳಿದಾಗ ಅವರು .........	",
 "image" :	"",		
 "choices" : [			
-	"	a. Release Him.	",
-	"	b. Scourge Him.	",
-	"	c. Crucify Him.	",
-	"	d. Give Him to us.	"
+	"	A. ಬಿಟ್ಟುಬಿಡು ಅಂದರು	",
+	"	B. ಉಪದ್ರವಪಡಿಸು ಅಂದರು	",
+	"	C. ಶಿಲುಬೆಗೆ ಹಾಕಿಸು ಅಂದರು	",
+	"	D. ಆತನನ್ನು ನಮಗೆ ಕೊಡು ಅಂದರು	"
 ],			
-"correct" :	"	c. Crucify Him.	",
-"explanation" :	"	Pilate said to them, What then shall I do with Jesus who is called Christ? They all said to him, Let Him be crucified! - Matt 27:22	",
+"correct" :	"	C. ಶಿಲುಬೆಗೆ ಹಾಕಿಸು ಅಂದರು	",
+"explanation" :	"	ಪಿಲಾತನು ಅವರನ್ನು ಹಾಗಾದರೆ ಕ್ರಿಸ್ತನನ್ನಿಸಿಕೊಳ್ಳುವ ಯೇಸುವನ್ನು ನಾನೇನು ಮಾಡಲಿ ಎಂದು ಕೇಳಲು ಎಲ್ಲರೂ ಅವನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕಿಸು ಅಂದರು.  ಮತ್ತಾಯ 27:22	",
 },			
 {			
-"question" :	"	4. Who scourged Jesus?	",
+"question" :	"	4. ಯೇಸುವನ್ನು ಕೊರಡೆಗಳಿಂದ ಹೊಡೆದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The soldiers	",
-	"	b. Pilate	",
-	"	c. Barabbas	",
-	"	d. Judas	"
+	"	A. ಸೈನಿಕರು	",
+	"	B. ಪಿಲಾತನು	",
+	"	C. ಬರಬ್ಬರನು	",
+	"	D. ಯೂದನು	"
 ],			
-"correct" :	"	b. Pilate	",
-"explanation" :	"	When Pilate saw that he could not prevail at all, but rather that a tumult was rising, he took water and washed his hands before the multitude, saying, I am innocent of the blood of this just Person. You see to it.And all the people answered and said, His blood be on us and on our children.Then he released Barabbas to them; and when he had scourged Jesus, he delivered Him to be crucified. - Matt 27:24-26	",
+"correct" :	"	B. ಪಿಲಾತನು	",
+"explanation" :	"	ಆಗ ಪಿಲಾತನು ತನ್ನ ಯತ್ನ ನಡೆಯುವದಿಲ್ಲ, ಗದ್ದಲ ಮಾತ್ರ ಹೆಚ್ಚಾಗುತ್ತದೆ ಎಂದು ತಿಳಿದು ನೀರು ತಕ್ಕೊಂಡು ಜನರ ಮುಂದೆ ಕೈ ತೊಳಕೊಂಡು ಈ ಪುರುಷನನ್ನು ಕೊಲ್ಲಿಸಿದ್ದಕ್ಕೆ ನಾನು ಸೇರಿದವನಲ್ಲ, ನೀವೇ ನೋಡಿಕೊಳ್ಳಿರಿ ಅನ್ನಲಾಗಿ ಜನರೆಲ್ಲಾ ಅವನನ್ನು ಕೊಲ್ಲಿಸಿದ್ದಕ್ಕೆ ನಾವೂ ನಮ್ಮ ಮಕ್ಕಳು ಉತ್ತರ ಕೊಡುತ್ತೇವೆ ಅಂದರು.  ಆಗ ಬರಬ್ಬನನ್ನು ಅವರಿಗೆ ಬಿಟ್ಟುಕೊಟ್ಟು ಯೇಸುವನ್ನು ಕೊರಡೆಗಳಿಂದ ಹೊಡಿಸಿ ಶಿಲುಬೆಗೆ ಹಾಕುವದಕ್ಕೆ ಒಪ್ಪಿಸಿದನು.   ಮತ್ತಾಯ 27:24-26	",
 },			
 {			
-"question" :	"	5. What did the soldiers put on Jesus head?	",
+"question" :	"	5 ಯೇಸುವಿನ ತಲೆಯ ಮೇಲೆ ಸೈನಿಕರು ಏನನ್ನು ಇಟ್ಟರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A king’s crown	",
-	"	b. Water	",
-	"	c. Oil	",
-	"	d. A crown of thorns	"
+	"	A. ಅರಸನ ಕಿರೀಟ	",
+	"	B. ನೀರು	",
+	"	C. ಎಣ್ಣೆ	",
+	"	D. ಮುಳ್ಳಿನ ಕಿರೀಟ	"
 ],			
-"correct" :	"	d. A crown of thorns	",
-"explanation" :	"	Then the soldiers of the governor took Jesus into the Praetorium and gathered the whole garrison around Him.And they stripped Him and put a scarlet robe on Him.When they had twisted a crown of thorns, they put it on His head, and a reed in His right hand. And they bowed the knee before Him and mocked Him, saying, Hail, King of the Jews - Matt 27:27-29	",
+"correct" :	"	D. ಮುಳ್ಳಿನ ಕಿರೀಟ	",
+"explanation" :	"	ಆತನ ಬಟ್ಟೆಗಳನ್ನು ತೆಗೆದುಹಾಕಿ ಕೆಂಪು ಒಲ್ಲಿಯನ್ನು ಹೊದಿಸಿ ಮುಳ್ಳುಬಳ್ಳಿಯಿಂದ ಕಿರೀಟವನ್ನು ಹೆಣೆದು ಆತನ ತಲೆಯ ಮೇಲೆ ಇಟ್ಟು ಬಲಗೈಯ್ಯಲ್ಲಿ ____ ಮತ್ತಾಯ 27:28-29	",
 },			
 {			
-"question" :	"	6. Who did they compel to carry the cross of Jesus?	",
+"question" :	"	6 ಯೇಸುವಿನ ಶಿಲುಬೆಯನ್ನು ಹೊರುವುದಕ್ಕೆ ಅವರು ಯಾರನ್ನು ಬಿಟ್ಟೀಹಿಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Judas Iscariot	",
-	"	b. Saul of Tarshish	",
-	"	c. Simon of Cyrene	",
-	"	d. Peter	"
+	"	A. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+	"	B. ತಾರ್ಷೀಷಿನ ಸೌಲ	",
+	"	C. ಕುರೇನ ಪಟ್ಟಣದ ಸಿಮೋನ	",
+	"	D. ಪೇತ್ರ	"
 ],			
-"correct" :	"	c. Simon of Cyrene	",
-"explanation" :	"	Now as they came out, they found a man of Cyrene, Simon by name. Him they compelled to bear His cross. - Matt 27:32	",
+"correct" :	"	C.ಕುರೇನ ಪಟ್ಟಣದ ಸಿಮೋನ	",
+"explanation" :	"	ಹೊರಕ್ಕೆ ಹೋಗುತ್ತಿರುವಾಗ ಕುರೇನ ಪಟ್ಟಣದ ಸೀಮೋನನೆಂಬವನನ್ನು ಕಂಡು ಅವನನ್ನು ಆತನ ಶಿಲುಬೆಯನ್ನು ಹೊರುವದಕ್ಕೆ ಬಿಟ್ಟೀಹಿಡಿದರು.   ಮತ್ತಾಯ 27:32	",
 },			
 {			
-"question" :	"	7. Where did they take Jesus to be crucified?	",
+"question" :	"	7 ಅವರು ಶಿಲುಬೆಗೆ ಹಾಕಲು ಯೇಸುವನ್ನು ಎಲ್ಲಿಗೆ ಕರೆದುಕೊಂಡು ಹೋದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bethany	",
-	"	b. Jerusalem	",
-	"	c. Cyrene	",
-	"	d. Golgotha	"
+	"	A. ಬೆತಾನ್ಯ	",
+	"	B. ಯೆರೂಸಲೇಮ್	",
+	"	C. ಕುರೇನ ಪಟ್ಟಣ	",
+	"	D. ಗೊಲ್ಗೋಥ	"
 ],			
-"correct" :	"	d. Golgotha	",
-"explanation" :	"	And when they had come to a place called Golgotha, that is to say, Place of a Skull,they gave Him sour wine mingled with gall to drink. But when He had tasted it, He would not drink.Then they crucified Him, and divided His garments, casting lots, that it might be fulfilled which was spoken by the prophet: They divided My garments among them, And for My clothing they cast lots - Matt 27:33-35	",
+"correct" :	"	D. ಗೊಲ್ಗೋಥ	",
+"explanation" :	"	ಮತ್ತು ಗೊಲ್ಗೊಥಾ ಅಂದರೆ ಕಪಾಲಸ್ಥಳ ಎಂಬ ಸ್ಥಾನಕ್ಕೆ ಬಂದಾಗ ಆತನಿಗೆ ಕಹಿ ಬೆರಸಿದ ದ್ರಾಕ್ಷಾರಸವನ್ನು ಕುಡಿಯುವದಕ್ಕೆ ಕೊಟ್ಟರು  ಆತನು ಅದನ್ನು ರುಚಿ ನೋಡಿ ಕುಡಿಯಲೊಲ್ಲದೆ ಇದ್ದನು.  ಬಳಿಕ ಅವರು ಆತನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕಿ ಆತನ ಬಟ್ಟೆಗಳಿಗಾಗಿ ಚೀಟು ಹಾಕಿ ಪಾಲುಮಾಡಿಕೊಂಡರು.  ಮತ್ತಾಯ 27:33-35	",
 },			
 {			
-"question" :	"	8. What did they give Jesus to drink?	",
+"question" :	"	8 ಅವರು ಯೇಸುವಿಗೆ ಕುಡಿಯುವುದಕ್ಕೆ ಏನನ್ನು ಕೊಟ್ಟರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Water	",
-	"	b. Goat’s milk	",
-	"	c. Vinegar & gall	",
-	"	d. Fruit of the vine	"
+	"	A. ನೀರು	",
+	"	B. ಮೇಕೆಯ ಹಾಲು	",
+	"	C. ಹುಳಿರಸ	",
+	"	D. ದ್ರಾಕ್ಷಾರಸ	"
 ],			
-"correct" :	"	c. Vinegar & gall	",
-"explanation" :	"	they gave Him sour wine mingled with gall to drink. But when He had tasted it, He would not drink. - Matt 27:34	",
+"correct" :	"	D. ದ್ರಾಕ್ಷಾರಸ	",
+"explanation" :	"	ಮತ್ತು ಗೊಲ್ಗೊಥಾ ಅಂದರೆ ಕಪಾಲಸ್ಥಳ ಎಂಬ ಸ್ಥಾನಕ್ಕೆ ಬಂದಾಗ ಆತನಿಗೆ ಕಹಿ ಬೆರಸಿದ ದ್ರಾಕ್ಷಾರಸವನ್ನು ಕುಡಿಯುವದಕ್ಕೆ ಕೊಟ್ಟರು  ಆತನು ಅದನ್ನು ರುಚಿ ನೋಡಿ  ಮತ್ತಾಯ 27:34	",
 },			
 {			
-"question" :	"	9. What did they do with Jesus’ clothes?	",
+"question" :	"	9 ಯೇಸುವಿನ ಬಟ್ಟೆಯನ್ನು ಅವರು ಏನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Gave them to His mother	",
-	"	b. Gave them to His disciples	",
-	"	c. Burned them	",
-	"	d. Cast lots for them	"
+	"	A. ಅದನ್ನು ಅವನ ತಾಯಿಗೆ ಕೊಟ್ಟುಬಿಟ್ಟರು	",
+	"	B. ಆತನ ಶಿಷ್ಯರಿಗೆ ಅದನ್ನು ಕೊಟ್ಟುಬಿಟ್ಟರು	",
+	"	C. ಅದನ್ನು ಸುಟ್ಟುಹಾಕಿದರು	",
+	"	D. ಅದಕ್ಕಾಗಿ ಚೀಟು ಹಾಕಿದರು	"
 ],			
-"correct" :	"	d. Cast lots for them	",
-"explanation" :	"	Then they crucified Him, and divided His garments, casting lots, that it might be fulfilled which was spoken by the prophet: They divided My garments among them, And for My clothing they cast lots. - Matt 27:35	",
+"correct" :	"	D. ಅದಕ್ಕಾಗಿ ಚೀಟು ಹಾಕಿದರು	",
+"explanation" :	"	ಬಳಿಕ ಅವರು ಆತನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕಿ ಆತನ ಬಟ್ಟೆಗಳಿಗಾಗಿ ಚೀಟು ಹಾಕಿ ಪಾಲುಮಾಡಿಕೊಂಡರು.  ಮತ್ತಾಯ 27:35	",
 },			
 {			
-"question" :	"	10. Who begged Jesus’ body from Pilate, and laid it in his own tomb?	",
+"question" :	"	10 ಪಿಲಾತನ ಬಳಿಗೆ ಹೋಗಿ ಯೇಸುವಿನ ದೇಹವನ್ನು ತನಗೆ ಕೊಡಬೇಕೆಂದು ಬೇಡಿಕೊಂಡು ಅದನ್ನು ತನ್ನ ಸಮಾಧಿಯಲ್ಲಿ ಇಟ್ಟವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Simon of Cyrene	",
-	"	b. Saul of Tarshish	",
-	"	c. Joseph of Arimathea	",
-	"	d. Peter	"
+	"	A. ಕುರೇನ ಪಟ್ಟಣದ ಸಿಮೋನ	",
+	"	B. ತಾರ್ಷೀಷಿನ ಸೌಲ	",
+	"	C. ಅರಿಮಥಾಯದ ಯೊಸೇಫನು	",
+	"	D. ಪೇತ್ರನು	"
 ],			
-"correct" :	"	c. Joseph of Arimathea	",
-"explanation" :	"	Now when evening had come, there came a rich man from Arimathea, named Joseph, who himself had also become a disciple of Jesus.This man went to Pilate and asked for the body of Jesus. Then Pilate commanded the body to be given to him.When Joseph had taken the body, he wrapped it in a clean linen cloth,and laid it in his new tomb which he had hewn out of the rock; and he rolled a large stone against the door of the tomb, and departed. - Matt 27:57-60	",
+"correct" :	"	C. ಅರಿಮಥಾಯದ ಯೊಸೇಫನು	",
+"explanation" :	"	ಸಂಜೆಯಾದಾಗ ಅರಿಮಥಾಯದ ಯೋಸೇಫನೆಂಬ ಒಬ್ಬ ಧನವಂತನು ಬಂದನು, ಇವನು ಸಹ ಯೇಸುವಿನ ಶಿಷ್ಯನಾಗಿದ್ದನು.  ಇವನು ಪಿಲಾತನ ಬಳಿಗೆ ಹೋಗಿ ಹೇಸುವಿನ ದೇಹವನ್ನು ತನಗೆ ಕೊಡಿಸಬೇಕೆಂದು ಅಪ್ಪಣೆ ಮಾಡಿದನು.  ಯೋಸೇಫನು ಆ ದೇಹವನ್ನು ತೆಗೆದುಕೊಂಡು ಅದನ್ನು ಶುದ್ಧವಾದ ನಾರುಮಡಿಯಲ್ಲಿ ಸುತ್ತಿ ಬಂಡೆಯಲ್ಲಿ ತೋಡಿದ್ದ ತನ್ನ ಹೊಸ ಸಮಾಧಿಯಲ್ಲಿ ಇಟ್ಟು ಸಮಾಧಿಯ ಬಾಗಿಲಿಗೆ ದೊಡ್ಡ ಕಲ್ಲನ್ನು ಉರುಳಿಸಿ ಹೋದನು.     ಮತ್ತಾಯ 27:57-60	",
 },			
 ]			

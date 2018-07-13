@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 21";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1. This king, a Canaanite, fought against Israel and took some of the men prisoners.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Titus chapter 2";			
+var quiztitle = " ತೀತನಿಗೆ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಇದಕ್ಕೆ ಅನುಗುಣವಾಗಿ ಬೋಧನೆ ಮಾಡು.	",

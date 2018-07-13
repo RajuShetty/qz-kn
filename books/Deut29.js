@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 29";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 29";			
 var quiz = [			
 {			
 "question" :	"	1. These are the words of the covenant the Lord gave to this man, to make with the children of Israel.	",

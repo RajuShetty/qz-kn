@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 28";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 28";			
 var quiz = [			
 {			
 "question" :	"	1. They gathered to fight with Israel.	",

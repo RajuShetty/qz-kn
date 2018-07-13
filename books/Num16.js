@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 16";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. These men rose up against Moses and Aaron.	",

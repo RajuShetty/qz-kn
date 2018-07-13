@@ -1,4 +1,4 @@
-var quiztitle = " 1 Kings chapter 22";			
+var quiztitle = " 1 Kings ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. He was the king of Judah.	",

@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 11";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
-"question" :	"	1. What village was Lazarus from?	",
+"question" :	"	1  ಲಾಜರನು ಯಾವ ಊರಿನವನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bethany	",
-	"	b. Capernaum	",
-	"	c. Canaan	",
-	"	d. Thessalonica	"
+	"	A. ಬೆಥಾನ್ಯ	",
+	"	B. ಕಪರ್ನೌಮ್	",
+	"	C. ಕಾನಾ	",
+	"	D. ಥೆಸ್ಸೊಲೊನಿಯ 	"
 ],			
-"correct" :	"	a. Bethany	",
-"explanation" :	"	Now a certain man was sick, Lazarus of Bethany, the town of Mary and her sister Martha.Jn11:1	",
+"correct" :	"	A. ಬೆಥಾನ್ಯ	",
+"explanation" :	"	ಬೇಥಾನ್ಯದ ಲಾಜರನೆಂಬವನೊಬ್ಬನು ಅಸ್ವಸ್ಥನಾಗಿದ್ದನು. ಅದು ಮಾರ್ಥಳು ಮರಿಯಳು ಎಂಬ ಅಕ್ಕತಂಗಿಯರು ಇದ್ದ ಊರು 11:1	",
 },			
 {			
-"question" :	"	2. What relation was Lazarus to Mary and Martha?	",
+"question" :	"	2  ಮರಿಯ ಮತ್ತು ಮಾರ್ಥಳಿಗೆ, ಲಾಜರನಿಗೆ ಏನು ಸಂಬಂಧ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Uncle	",
-	"	b. Nephew	",
-	"	c. Brother	",
-	"	d. Father	"
+	"	A. ಚಿಕ್ಕಪ್ಪ	",
+	"	B. ಸೋದರಳಿಯ	",
+	"	C. ಸಹೋದರ	",
+	"	D. ತಂದೆ	"
 ],			
-"correct" :	"	c. Brother	",
-"explanation" :	"	Therefore the sisters sent to Him, saying, Lord, behold, he whom You love is sick. Jn11:3	",
+"correct" :	"	C. ಸಹೋದರ	",
+"explanation" :	"	ಈ ಮರಿಯಳು ಯೇಸುಸ್ವಾಮಿಗೆ ತೈಲವನ್ನು ಹಚ್ಚಿ ಆತನ ಪಾದಗಳನ್ನು ತನ್ನ ತಲೇಕೂದಲಿನಿಂದ ಒರಸಿದವಳು. ಈಕೆಯ ತಮ್ಮನಾದ ಲಾಜರನೇ ಅಸ್ವಸ್ಥನಾಗಿದ್ದನು 11.2	",
 },			
 {			
-"question" :	"	3. This was the same Mary that wiped Jesus feet with	",
+"question" :	"	3  ಈ ಮರಿಯಳು ಯೇಸುವಿನ ಪಾದಗಳನ್ನು ____________ ಒರೆಸಿದ ಅದೇ ಮರಿಯಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Linen.	",
-	"	b. Her hair.	",
-	"	c. Fleece.	",
-	"	d. Wine.	"
+	"	A. ಲೈನಿನ್ ಬಟ್ಟೆ	",
+	"	B. ತನ್ನ ತಲೇಗೂದಲಿನಿಂದ	",
+	"	C. ಉಣ್ಣೆಯಿಂದ	",
+	"	D. ದ್ರಾಕ್ಷಾರಸದಿಂದ	"
 ],			
-"correct" :	"	b. Her hair.	",
-"explanation" :	"	It was that Mary who anointed the Lord with fragrant oil and wiped His feet with her hair, whose brother Lazarus was sick. Jn11:2	",
+"correct" :	"	B. ತನ್ನ ತಲೇಗೂದಲಿನಿಂದ	",
+"explanation" :	"	ಈ ಮರಿಯಳು ಯೇಸುಸ್ವಾಮಿಗೆ ತೈಲವನ್ನು ಹಚ್ಚಿ ಆತನ ಪಾದಗಳನ್ನು ತನ್ನ ತಲೇಕೂದಲಿನಿಂದ ಒರಸಿದವಳು. ಈಕೆಯ ತಮ್ಮನಾದ ಲಾಜರನೇ ಅಸ್ವಸ್ಥನಾಗಿದ್ದನು 11:2	",
 },			
 {			
-"question" :	"	4. When Jesus said, Lazarus is sleeping, he meant	",
+"question" :	"	4  ಲಾಜರನು ನಿದ್ದೆ ಮಾಡುತ್ತಿದ್ದಾನೆಂದು ಯೇಸು ಹೇಳಿದಾಗ, ಆತನ ಉದ್ದೇಶವು	",
 "image" :	"",		
 "choices" : [			
-	"	a. He was well.	",
-	"	b. He was dead.	",
-	"	c. He was asleep.	",
-	"	d. He was sick.	"
+	"	A. ಆತನು ಚೆನ್ನಾಗಿದ್ದಾನೆ	",
+	"	B. ಆತನು ಸತ್ತು ಹೋಗಿದ್ದಾನೆ	",
+	"	C. ಆತನು ನಿದ್ರೆ ಮಾಡುತ್ತಿದ್ದಾನೆ	",
+	"	D. ಆತನು ರೋಗಿಯಾಗಿದ್ದಾನೆ	"
 ],			
-"correct" :	"	b. He was dead.	",
-"explanation" :	"	These things He said, and after that He said to them, Our friend Lazarus sleeps, but I go that I may wake him up.Jn 11:11-14	",
+"correct" :	"	B. ಆತನು ಸತ್ತು ಹೋಗಿದ್ದಾನೆ	",
+"explanation" :	"	ಈ ಮಾತುಗಳನ್ನು ಹೇಳಿದ ಮೇಲೆ ಅವರಿಗೆ - ನಮ್ಮ ಮಿತ್ರನಾದ ಲಾಜರನು ನಿದ್ರೆಮಾಡುತ್ತಾನೆ; ನಾನು ಅವನನ್ನು ನಿದ್ರೆಯಿಂದ ಎಬ್ಬಿಸುವದಕ್ಕಾಗಿ ಹೋಗುತ್ತೇನೆ ಎಂದು ಹೇಳಿದನು. ಅದಕ್ಕೆ ಶಿಷ್ಯರು - ಸ್ವಾಮೀ, ಅವನು ನಿದ್ರೆಮಾಡುತ್ತಿದ್ದರೆ ಸ್ವಸ್ಥನಾಗುವನು ಅಂದರು. ಯೇಸು ಅವನ ಮರಣವನ್ನು ಸೂಚಿಸಿ ಅದನ್ನು ಹೇಳಿದ್ದನು; ಆದರೆ ಅವರು ನಿದ್ರೆಯ ವಿಶ್ರಾಂತಿಯನ್ನು ಕುರಿತು ಹೇಳುತ್ತಾನೆಂದು ನೆನಸಿದರು 11:11-14	",
 },			
 {			
-"question" :	"	5. This disciple said, let us go with Jesus, and die with Him.	",
+"question" :	"	5  ನಾವು ಸಹ ಆತನೊಡನೆ ಸಾಯೋಣ ಎಂದು ಯಾರು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. John	",
-	"	b. Simon	",
-	"	c. Judas Iscariot	",
-	"	d. Thomas	"
+	"	A. ಯೋಹಾನ	",
+	"	B. ಸೀಮೋನ	",
+	"	C. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+	"	D. ದಿದುಮನೆಂಬ ತೋಮ	"
 ],			
-"correct" :	"	d. Thomas	",
-"explanation" :	"	Then Thomas, who is called the Twin, said to his fellow disciples, Let us also go, that we may die with Him.Jn11:16	",
+"correct" :	"	D. ದಿದುಮನೆಂಬ ತೋಮ	",
+"explanation" :	"	ಆಗ ದಿದುಮನೆಂಬ ತೋಮನು ಜೊತೇ ಶಿಷ್ಯರಿಗೆ - ನಾವು ಸಹ ಹೋಗಿ ಆತನೊಡನೆ ಸಾಯೋಣ ಎಂದು ಹೇಳಿದನು 11:16	",
 },			
 {			
-"question" :	"	6. When she heard that Jesus was coming, she went to meet Him then called for her sister.	",
+"question" :	"	6  ಯೇಸು ಬರುತ್ತಿದ್ದಾನೆಂದು ಕೇಳಿ ಈಕೆಯು ಹೋಗಿ ಯೇಸುವನ್ನು ಸಂಧಿಸಿ ಮತ್ತೆ ಹೋಗಿ ತನ್ನ  ಸಹೋದರಿಯನ್ನು ಕರೆದಳು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Mary	",
-	"	b. Martha	",
-	"	c. Anna	",
-	"	d. Dorcas	"
+	"	A. ಮರಿಯಳು	",
+	"	B. ಮಾರ್ಥಳು	",
+	"	C. ಹನ್ನ	",
+	"	D. ದೊರ್ಕಳು	"
 ],			
-"correct" :	"	b. Martha	",
-"explanation" :	"	Now Martha, as soon as she heard that Jesus was coming, went and met Him, but Mary was sitting in the house. Now Martha said to Jesus, Lord, if You had been here, my brother would not have died.  But even now I know that whatever You ask of God, God will give You. Jn11:20-28	",
+"correct" :	"	B. ಮಾರ್ಥಳು	",
+"explanation" :	"	ಹೀಗಿರುವಲ್ಲಿ ಮಾರ್ಥಳು ಯೇಸು ಬರುತ್ತಾನೆಂದು ಕೇಳಿ ಆತನನ್ನು ಎದುರುಗೊಳ್ಳುವದಕ್ಕೆ ಹೋದಳು; ಆದರೆ ಮರಿಯಳು ಮನೆಯಲ್ಲೇ ಕೂತುಕೊಂಡಿದ್ದಳು. ಮತ್ತು ಮಾರ್ಥಳು ಯೇಸುವಿಗೆ - ಸ್ವಾಮೀ, ನೀನು ಇಲ್ಲಿ ಇರುತ್ತಿದ್ದರೆ ನನ್ನ ತಮ್ಮನು ಸಾಯುತ್ತಿರಲಿಲ್ಲ; ಈಗಲಾದರೂ ದೇವರನ್ನು ಏನು ಬೇಡಿಕೊಳ್ಳುತ್ತೀಯೋ ಅದನ್ನು ದೇವರು ನಿನಗೆ ಅನುಗ್ರಹಿಸುವನೆಂದು ಬಲ್ಲೆನು ಎಂದು ಹೇಳಿದಳು. ಯೇಸು ಆಕೆಗೆ - ನಿನ್ನ ತಮ್ಮನು ಎದ್ದುಬರುವನೆಂದು ಹೇಳಿದನು. ಮಾರ್ಥಳು - ಸತ್ತವರಿಗೆ ಕಡೇ ದಿನದಲ್ಲಿ ಪುನರುತ್ಥಾನವಾಗುವಾಗ ಅವನೂ ಎದ್ದು ಬರುವನೆಂದು ನಾನು ಬಲ್ಲೆನು ಅಂದಳು. ಯೇಸು ಆಕೆಗೆ - ನಾನೇ ಪುನರುತ್ಥಾನವೂ ಜೀವವೂ ಆಗಿದ್ದೇನೆ; ನನ್ನನ್ನು ನಂಬುವವನು ಸತ್ತರೂ ಬದುಕುವನು; ಮತ್ತು ಬದುಕುತ್ತಾ ನನ್ನನ್ನು ನಂಬುವ ಪ್ರತಿಯೊಬ್ಬನು ಎಂದಿಗೂ ಸಾಯುವದಿಲ್ಲ; ಇದನ್ನು ನಂಬುತ್ತೀಯಾ? ಎಂದು ಹೇಳಿದನು. ಆಕೆ - ಹೌದು, ಸ್ವಾಮೀ, ಲೋಕಕ್ಕೆ ಬರಬೇಕಾದ ದೇವಕುಮಾರನಾದ ಕ್ರಿಸ್ತನು ನೀನೇ ಎಂದು ನಂಬಿದ್ದೇನೆ ಅಂದಳು.ಇದನ್ನು ಹೇಳಿ ಆಕೆ ಹೋಗಿ ತನ್ನ ತಂಗಿಯಾದ ಮರಿಯಳನ್ನು ಗುಪ್ತವಾಗಿ ಕರೆದು - ಗುರುವು ಬಂದಿದ್ದಾನೆ, ನಿನ್ನನ್ನು ಕರೆಯುತ್ತಾನೆ ಅಂದಳು. 11:20-28	",
 },			
 {			
-"question" :	"	7. Jesus said, I am	",
+"question" :	"	7  ಯೇಸು ಹೇಳಿದ್ದು, ನಾನೇ	",
 "image" :	"",		
 "choices" : [			
-	"	a. The Resurrection & Life.	",
-	"	b. Right on time.	",
-	"	c. Never late.	",
-	"	d. The hope & Glory.	"
+	"	A. ಪುನರುತ್ಥಾನವು ಮತ್ತು ಜೀವವು	",
+	"	B. ಸಮಯಕ್ಕೆ ಬರುವವನು	",
+	"	C. ಎಂದಿಗೂ ತಡಮಾಡುವುದಿಲ್ಲ	",
+	"	D. ನಿರೀಕ್ಷೆಯು ಮಹಿಮೆಯು	"
 ],			
-"correct" :	"	a. The Resurrection & Life.	",
-"explanation" :	"	Jesus said to her, I am the resurrection and the life. He who believes in Me, though he may die, he shall live Jn11:25	",
+"correct" :	"	B. ಸಮಯಕ್ಕೆ ಬರುವವನು	",
+"explanation" :	"	ಯೇಸು ಆಕೆಗೆ - ನಾನೇ ಪುನರುತ್ಥಾನವೂ ಜೀವವೂ ಆಗಿದ್ದೇನೆ; ನನ್ನನ್ನು ನಂಬುವವನು ಸತ್ತರೂ ಬದುಕುವನು 11:25	",
 },			
 {			
-"question" :	"	8. How long had Lazarus been dead?	",
+"question" :	"	8  ಲಾಜರನು ಸತ್ತು ಎಷ್ಟು ದಿನಗಳಾಗಿತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 1 day	",
-	"	b. 2 days	",
-	"	c. 3 days	",
-	"	d. 4 days	"
+	"	A. 1 ದಿನ	",
+	"	B. 2 ದಿನ	",
+	"	C. 3 ದಿನ	",
+	"	D. 4 ದಿನ	"
 ],			
-"correct" :	"	d. 4 days	",
-"explanation" :	"	jesus said, Take away the stone.Martha, the sister of him who was dead, said to Him, Lord, by this time there is a stench, for he has been dead four days.Jn 11:39	",
+"correct" :	"	D. 4 ದಿನ	",
+"explanation" :	"	ಯೇಸು - ಆ ಕಲ್ಲನ್ನು ತೆಗೆದುಹಾಕಿರಿ ಅನ್ನಲು ತೀರಿಹೋದವನ ಅಕ್ಕನಾದ ಮಾರ್ಥಳು - ಸ್ವಾಮೀ, ಅವನು ಸತ್ತು ನಾಲ್ಕು ದಿವಸವಾಯಿತು; ಈಗ ನಾತ ಹುಟ್ಟಿದೆ ಅಂದಳು.11:39	",
 },			
 {			
-"question" :	"	9. What did Jesus cry with a loud voice outside the tomb of Lazarus?	",
+"question" :	"	9  ಯೇಸು ಲಾಜರನ ಸಮಾಧಿಯ ಹೊರಗಡೆ ದೊಡ್ಡ ಶಬ್ಧದಿಂದ ಏನೆಂದು ಕೂಗಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Lazarus, come forth.	",
-	"	b. Ye of little faith.	",
-	"	c. Repent, ye.	",
-	"	d. Ye have killed the prophets.	"
+	"	A. ಲಾಜರನೇ ಹೊರಗೆ ಬಾ	",
+	"	B. ಎಲೈ ಅಲ್ಪ ವಿಶ್ವಾಸಿಗಳೇ	",
+	"	C. ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳಿರಿ	",
+	"	D. ನೀವು ಪ್ರವಾದಿಗಳನ್ನು ಕೊಂದವರು	"
 ],			
-"correct" :	"	a. Lazarus, come forth.	",
-"explanation" :	"	Now when He had said these things, He cried with a loud voice, Lazarus, come forth Jn11:43	",
+"correct" :	"	A. ಲಾಜರನೇ ಹೊರಗೆ ಬಾ	",
+"explanation" :	"	ಅದನ್ನು ಹೇಳಿದ ಮೇಲೆ ದೊಡ್ಡ ಶಬ್ದದಿಂದ - ಲಾಜರನೇ, ಹೊರಗೆ ಬಾ ಎಂದು ಕೂಗಿದನು 11:43	",
 },			
 {			
-"question" :	"	10. This man, the high priest,prophesied that it is expedient for us that one man should die for the people, and that the whole nation perish not.	",
+"question" :	"	10  ಜನವೆಲ್ಲಾ ನಾಶವಾಗುವದಕ್ಕಿಂತ ಒಬ್ಬ ಮನುಷ್ಯನು ಜನಕ್ಕೋಸ್ಕರ ಸಾಯುವುದು ನಿಮಗೆ  ಹಿತವೆಂದು ನೀವು ಆಲೋಚಿಸುವದೂ ಇಲ್ಲ ಎಂಬುದಾಗಿ ಹೇಳಿದವರು ಯಾರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Annas	",
-	"	b. Herod	",
-	"	c. Caiaphas	",
-	"	d. Malachi	"
+	"	A. ಹನ್ನ	",
+	"	B. ಹೆರೋದ	",
+	"	C. ಕಾಯಫ	",
+	"	D. ಮಲಾಕಿ	"
 ],			
-"correct" :	"	c. Caiaphas	",
-"explanation" :	"	And one of them, Caiaphas, being high priest that year, said to them, You know nothing at all,nor do you consider that it is expedient for us[e] that one man should die for the people, and not that the whole nation should perish.Now this he did not say on his own authority; but being high priest that year he prophesied that Jesus would die for the nation, Jn 11:49-51	",
+"correct" :	"	C. ಕಾಯಫ	",
+"explanation" :	"	ಆದರೆ ಅವರಲ್ಲಿ ಕಾಯಫನೆಂಬವನೊಬ್ಬನು ಆ ವರುಷಕ್ಕೆ ಮಹಾಯಾಜಕನಾಗಿದ್ದು ಅವರಿಗೆ - ನಿಮಗೇನೂ ತಿಳಿಯುವದಿಲ್ಲ; ಜನವೆಲ್ಲಾ ನಾಶವಾಗುವದಕ್ಕಿಂತ ಒಬ್ಬ ಮನುಷ್ಯನು ಜನಕ್ಕೋಸ್ಕರ ಸಾಯುವದು ನಿಮಗೆ ಹಿತವೆಂದು ನೀವು ಆಲೋಚಿಸುವದೂ ಇಲ್ಲ ಎಂಬದಾಗಿ ಹೇಳಿದನು. ಇದನ್ನು ಅವನು ತನ್ನಷ್ಟಕ್ಕೆ ತಾನೇ ಹೇಳಲಿಲ್ಲ; ಆದರೆ ತಾನು ಆ ವರುಷದ ಮಹಾಯಾಜಕನಾಗಿದ್ದದರಿಂದ ದೇವಪ್ರೇರಣೆಯಿಂದ ಮಾತಾಡಿ ಯೇಸು ಆ ಜನಕ್ಕೋಸ್ಕರ ಸಾಯುವದಕ್ಕಿದ್ದನೆಂದು ಹೇಳಿದನು 11:49-51	",
 },			
 ]			

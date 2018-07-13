@@ -1,4 +1,4 @@
-var quiztitle = " Deuteronomy  chapter 24";			
+var quiztitle = " Deuteronomy  ಅಧ್ಯಾಯ 24";			
 var quiz = [			
 {			
 "question" :	"	1. If a man takes a wife and finds some uncleanness in her, let him	",

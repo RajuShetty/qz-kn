@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 12";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. Samuel said, he did this, as the people asked him to.	",

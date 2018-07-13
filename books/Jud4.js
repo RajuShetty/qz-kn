@@ -1,4 +1,4 @@
-var quiztitle = " Judges chapter 4";			
+var quiztitle = " Judges ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. The children of Israel again did evil in the sight of the Lord, and were serving under this king of Canaan.	",

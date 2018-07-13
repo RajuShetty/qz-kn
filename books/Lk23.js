@@ -1,123 +1,124 @@
-var quiztitle = "Luke chapter 23";			
+			
+var quiztitle = "ಲೂಕ ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
-"question" :	"	1. What did Pilate say about Jesus?	",
+"question" :	"	1. ಪಿಲಾತನು ಯೇಸುವಿನ ಕುರಿತು ಏನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He is worthy of death.	",
-	"	b. I find no fault in this man.	",
-	"	c. He is indeed God’s Son.	",
-	"	d. He is a liar.	"
+	"	A. ಆತನು ಮರಣಕ್ಕೆ ಯೋಗ್ಯನು	",
+	"	B. ಈತನಲ್ಲಿ ನಾನು ಏನೂ ತಪ್ಪನ್ನು ಕಂಡಿಲ್ಲ	",
+	"	C. ಈತನು ನಿಜವಾಗಿಯು ದೇವರ ಮಗನು	",
+	"	D. ಈತನು ಸುಳ್ಳುಗಾರನು	"
 ],			
-"correct" :	"	b. I find no fault in this man.	",
-"explanation" :	"	o Pilate said to the chief priests and the crowd, I find no fault in this Man. - Lk 23:4	",
+"correct" :	"	B. ಈತನಲ್ಲಿ ನಾನು ಏನೂ ತಪ್ಪನ್ನು ಕಂಡಿಲ್ಲ	",
+"explanation" :	"	ಆತನು - ನೀನೇ ಹೇಳಿದ್ದೀ ಎಂದು ಉತ್ತರಕೊಟ್ಟನು.  ಪಿಲಾತನು ಮಹಾಯಾಜಕರಿಗೂ ಜನರ ಗುಂಪಿಗೂ - ಈ ಮನುಷ್ಯನಲ್ಲಿ ನನಗೆ ಯಾವ ಅಪರಾಧವೂ ಕಾಣಿಸುವುದಿಲ್ಲವೆಂದು ಹೇಳಿದನು.   ಲೂಕ 23:4	",
 },			
 {			
-"question" :	"	2. When this man saw Jesus he was glad, because he hoped to see a miracle.	",
+"question" :	"	2 ಈ ಮನುಷ್ಯನು ಯೇಸುವನ್ನು ನೋಡಿದಾಗ ಹರ್ಷಿಸಿದನು, ಏಕೆಂದರೆ ಯೇಸುವಿನಿಂದ ಒಂದು ಅದ್ಭುತ ಕಾರ್ಯವನ್ನು  ನೋಡಬಹುದೆಂದು ಅಂದುಕೊಂಡನು. 	",
 "image" :	"",		
-"choices" : [			
-	"	a. Herod	",
-	"	b. Jairus	",
-	"	c. Potiphar	",
-	"	d. Pharaoh	"
+"choices" : [		 	
+	"	A. ಹೆರೋದ	",
+	"	B. ಯಾಯಿರ	",
+	"	C. ಪೋಟಿಪೋರ	",
+	"	D. ಫರೋಹ	"
 ],			
-"correct" :	"	a. Herod	",
-"explanation" :	"	Now when Herod saw Jesus, he was exceedingly glad; for he had desired for a long time to see Him, because he had heard many things about Him, and he hoped to see some miracle done by Him - Lk 23:8	",
+"correct" :	"	A. ಹೆರೋದ	",
+"explanation" :	"	ಹೆರೋದನು ಯೇಸುವನ್ನು ನೋಡಿದಾಗ ಬಹಳ ಸಂತೋಷಪಟ್ಟನು; ಯಾಕಂದರೆ ಆತನ ವಿಷಯವಾಗಿ ಅನೇಕ ಸಂಗತಿಗಳನ್ನು ಕೇಳಿದ್ದರಿಂದ ಆತನನ್ನು ಕಾಣಬೇಕೆಂದು ಬಹು ಕಾಲದಿಂದ ಅಪೇಕ್ಷಿಸಿದ್ದನು.  ಆತನಿಂದ ಯಾವದಾದರೂ ಒಂದು ಸೂಚಕಕಾರ್ಯವಾಗುವದನ್ನು ನೋಡಬೇಕೆಂದು ನಿರೀಕ್ಷಿಸಿದನು.  ಲೂಕ 23:8	",
 },			
 {			
-"question" :	"	3. The people wanted this man released instead of Jesus.	",
+"question" :	"	3 ಯೇಸುವಿನ ಬದಲಾಗಿ ಈ ಮನುಷ್ಯನನ್ನು ಬಿಡುಗಡೆ ಮಾಡಬೇಕೆಂದು ಜನರು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Barabbas	",
-	"	b. Zacchaeus	",
-	"	c. Nicodemus	",
-	"	d. Joseph	"
+	"	A. ಬರಬ್ಬರ	",
+	"	B. ಜಕ್ಕಾಯ	",
+	"	C. ನಿಕೋದೇಮ	",
+	"	D. ಯೋಸೇಫ	"
 ],			
-"correct" :	"	a. Barabbas	",
-"explanation" :	"	And they all cried out at once, saying, Away with this Man, and release to us Barabbas - Lk 23:18	",
+"correct" :	"	A. ಬರಬ್ಬರ	",
+"explanation" :	"	ಆದರೆ ಅವರು - ಅವನನ್ನು ಕೊಲ್ಲಿಸು, ನಮಗೆ ಬರಬ್ಬನನ್ನು ಬಿಟ್ಟುಕೊಡು ಎಂದು ಒಟ್ಟಾಗಿ ಕೂಗಿದರು.   ಲೂಕ 23:18	",
 },			
 {			
-"question" :	"	4. What did the crowd cry out should be done to Jesus?	",
+"question" :	"	 4. ಯೇಸುವಿಗೆ ಏನು ಮಾಡಬೇಕೆಂದು ಜನರ ಗುಂಪು ಕೂಗಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Release Him.	",
-	"	b. Chastise Him.	",
-	"	c. Crucify Him.	",
-	"	d. Beat Him.	"
+	"	A. ಆತನನ್ನು ಬಿಟ್ಟುಬಿಡಿರಿ	",
+	"	B. ಆತನಿಗೆ ಕೊರಡೆಗಳಿಂದ ಹೊಡೆಸಿ	",
+	"	C. ಆತನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕಿಸಿ	",
+	"	D. ಆತನನ್ನು ಹೊಡೆಯಿರಿ	"
 ],			
-"correct" :	"	c. Crucify Him.	",
-"explanation" :	"	But they shouted, saying, Crucify Him, crucify Him - Lk 23:21	",
+"correct" :	"	C. ಆತನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕಿಸಿ	",
+"explanation" :	"	ಆದರೆ ಅವರು - ಅವನನ್ನು ಶಿಲುಬೆಗೆ ಹಾಕಿಸು, ಶಿಲುಬೆಗೆ ಹಾಕಿಸು ಎಂದು ಕೂಗುತ್ತಿದ್ದರು.   ಲೂಕ 23:21	",
 },			
 {			
-"question" :	"	5. Who carried Jesus’ cross?	",
+"question" :	"	5. ಯೇಸುವಿನ ಶಿಲುಬೆಯನ್ನು ಯಾರು ಹೊತ್ತರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Joseph	",
-	"	b. Simon	",
-	"	c. Herod	",
-	"	d. Dominic	"
+	"	A. ಯೋಸೇಫ	",
+	"	B. ಸೀಮೋನ	",
+	"	C. ಹೆರೋದ	",
+	"	D. ಡೊಮಿನಿಕ್	"
 ],			
-"correct" :	"	b. Simon	",
-"explanation" :	"	Now as they led Him away, they laid hold of a certain man, Simon a Cyrenian, who was coming from the country, and on him they laid the cross that he might bear it after Jesus. - Lk 23:26	",
+"correct" :	"	B. ಸೀಮೋನ	",
+"explanation" :	"	ಅವರು ಆತನನ್ನು ತೆಗೆದುಕೊಂಡು ಹೋಗುತ್ತಿರುವಾಗ ಹೊಲದಿಂದ ಬರುತ್ತಿದ್ದ ಕುರೇನೆಪಟ್ಟಣದ ಸೀಮೋನನೆಂಬವನನ್ನು ಹಿಡಿದು ಶಿಲುಬೆಯನ್ನು ಅವನ ಮೇಲೆ ಇಟ್ಟು ಯೇಸುವಿನ ಹಿಂದೆ ಹೊತ್ತುಕೊಂಡು ಬರುವ ಹಾಗೆ ಮಾಡಿದರು.   ಲೂಕ 23:26	",
 },			
 {			
-"question" :	"	6. Where did they crucify Jesus?	",
+"question" :	"	6. ಯೇಸುವನ್ನು ಎಲ್ಲಿ ಶಿಲುಬೆಗೆ ಹಾಕಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Calvary	",
-	"	b. Bethany	",
-	"	c. Egypt	",
-	"	d. Canaan	"
+	"	A. ಕಪಾಲ	",
+	"	B. ಬೆಥನಿ	",
+	"	C. ಐಗುಪ್ತ್ಯ	",
+	"	D. ಕಾನಾ	"
 ],			
-"correct" :	"	a. Calvary	",
-"explanation" :	"	And when they had come to the place called Calvary, there they crucified Him, and the criminals, one on the right hand and the other on the left. - Lk 23:33	",
+"correct" :	"	A. ಕಪಾಲ	",
+"explanation" :	"	ಅವರು ಕಪಾಲವೆಂಬ ಸ್ಥಳಕ್ಕೆ ಬಂದಾಗ ಅಲ್ಲಿ ಆತನನ್ನೂ ಆ ದುಷ್ಕರ್ಮಿಗಳನ್ನೂ ಶಿಲುಬೆಗೆ ಹಾಕಿದರು;    ಲೂಕ 23:33	",
 },			
 {			
-"question" :	"	7. When Jesus was on the cross, He prayed	",
+"question" :	"	7. ಯೇಸು ಶಿಲುಬೆಯ ಮೇಲೆ ಇದ್ದಾಗ ಆತ ಹೀಗೆ ಪ್ರಾರ್ಥಿಸಿದನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Father, rebuke them.	",
-	"	b. Father, destroy them.	",
-	"	c. Father, forgive them.	",
-	"	d. Father, send angels from heaven.	"
+	"	A. ತಂದೆಯೇ ಅವರನ್ನು ಗದರಿಸು	",
+	"	B. ತಂದೆಯೇ ಅವರನ್ನು ನಾಶಪಡಿಸು	",
+	"	C. ತಂದೆಯೇ ಅವರನ್ನು ಕ್ಷಮಿಸು	",
+	"	D. ತಂದೆಯೇ, ಪರಲೋಕದಿಂದ ದೂತರನ್ನು ಕಳುಹಿಸು	"
 ],			
-"correct" :	"	c. Father, forgive them.	",
-"explanation" :	"	Then Jesus said, Father, forgive them, for they do not know what they do. And they divided His garments and cast lots. - Lk 23:34	",
+"correct" :	"	C. ತಂದೆಯೇ ಅವರನ್ನು ಕ್ಷಮಿಸು	",
+"explanation" :	"	ಆಗ ಯೇಸು  - ತಂದೆಯೇ, ಅವರಿಗೆ ಕ್ಷಮಿಸು; ತಾವು ಏನು ಮಾಡುತ್ತೇವೆಂಬದನ್ನು ಅರಿಯರು ಅಂದನು.  ಆಮೇಲೆ ಆತನ ಬಟ್ಟೆಗಳನ್ನು ಪಾಲುಮಾಡಿ ಚೀಟು ಹಾಕಿದರು.    ಲೂಕ 23:34	",
 },			
 {			
-"question" :	"	8. This superscription was written over Jesus in Greek, Latin and Hebrew.	",
+"question" :	"	8 ಗ್ರೀಕ್, ಲ್ಯಾಟಿನ್ ಮತ್ತು ಇಬ್ರಿಯ ಭಾಷೆಯಲ್ಲಿದ್ದಂತಹ ಈ ವಿಳಾಸವನ್ನು ಯೇಸುವಿನ ಶಿಲುಬೆಲ್ಲಿ ತೂಗುಹಾಕಲಾಯಿತು	",
 "image" :	"",		
 "choices" : [			
-	"	a. This is the king of the Jews.	",
-	"	b. I found no fault in Him.	",
-	"	c. An innocent man	",
-	"	d. A liar & blasphemer	"
+	"	A. ಇವನು ಯೆಹೂದ್ಯರ ಅರಸನು	",
+	"	B. ಈತನಲ್ಲಿ ನನಗೆ ಯಾವ ತಪ್ಪೂ ಕಾಣಲಿಲ್ಲ	",
+	"	C. ಈತನು ಮುಗ್ಧ ಮನುಷ್ಯನು	",
+	"	D. ಸುಳ್ಳುಗಾರನು ಮತ್ತು ದೇವದೂಷಕನು	"
 ],			
-"correct" :	"	a. This is the king of the Jews.	",
-"explanation" :	"	And an inscription also was written over Him in letters of Greek, Latin, and Hebrew: THIS IS THE KING OF THE JEWS - Lk 23:38	",
+"correct" :	"	A. ಇವನು ಯೆಹೂದ್ಯರ ಅರಸನು	",
+"explanation" :	"	ಇದಲ್ಲದೆ ಆತನ ಮೇಲ್ಗಡೆಯಲ್ಲಿ - ಇವನು ಯೆಹೂದ್ಯರ ಅರಸನು ಎಂಬದಾಗಿ ಒಂದು ವಿಳಾಸವಿತ್ತು.    ಲೂಕ 23:38	",
 },			
 {			
-"question" :	"	9. Jesus told this man he would be with Him in paradise.	",
+"question" :	"	9. ಯೇಸು ಇವನಿಗೆ ನೀನು ಈ ದಿನವೇ ನನ್ನ ಸಂಗಡ ಪರದೈಸಿನಲ್ಲಿರುವಿ ಎಂದು ಹೇಳಿದನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The soldier	",
-	"	b. A criminal on a cross	",
-	"	c. Simon	",
-	"	d. The chief priest	"
+	"	A. ಸೈನಿಕನಿಗೆ	",
+	"	B. ಶಿಲುಬೆಯ ಮೇಲಿದ್ದ ಕಳ್ಳನಿಗೆ	",
+	"	C. ಸೀಮೋನ	",
+	"	D. ಮಹಾಯಾಜಕನಿಗೆ	"
 ],			
-"correct" :	"	b. A criminal on a cross	",
-"explanation" :	"	Then one of the criminals who were hanged blasphemed Him, saying, If You are the Christ, save Yourself and us.But the other, answering, rebuked him, saying, Do you not even fear God, seeing you are under the same condemnation?And we indeed justly, for we receive the due reward of our deeds; but this Man has done nothing wrong.Then he said to Jesus, Lord, remember me when You come into Your kingdom.And Jesus said to him, Assuredly, I say to you, today you will be with Me in Paradise. - Lk 23:39-43	",
+"correct" :	"	B. ಶಿಲುಬೆಯ ಮೇಲಿದ್ದ ಕಳ್ಳನಿಗೆ	",
+"explanation" :	"	ತೂಗುಹಾಕಿದ್ದ ಆ ದುಷ್ಕರ್ಮಿಗಳಲ್ಲಿ ಒಬ್ಬನು ಆತನನ್ನು ದೂಷಿಸಿ - ನೀನು ಬರಬೇಕಾದ ಕ್ರಿಸ್ತನಲ್ಲವೇ, ನಿನ್ನನ್ನು ರಕ್ಷಿಸಿಕೋ, ನಮ್ಮನ್ನೂ ರಕ್ಷಿಸು ಎಂದು ಹೇಳಿದ್ದಕ್ಕೆ ಎರಡನೆಯವನು ಅವನನ್ನು ಗದರಿಸಿ - ನೀನು ಇದೇ ದಂಡನೆಯಲ್ಲಿರುವಾಗಲೂ ದೇವರಿಗೆ ಹೆದರುವದಿಲ್ಲವೋ?  ನಾವಂತೂ ನ್ಯಾಯವಾಗಿ ದಂಡನೆಯಲ್ಲಿದ್ದೇವೆ, ನಾವು ಮಾಡಿದ್ದಕ್ಕೆ ತಕ್ಕ ಪ್ರತಿಫಲವನ್ನು ಹೊಂದುತ್ತಾ ಇದ್ದೇವೆ;  ಈತನಾದರೋ ಅಲ್ಲದ್ದೇನೂ ಮಾಡಲಿಲ್ಲ ಎಂದು ಹೇಳಿ - ಯೇಸುವೇ, ನೀನು ನಿನ್ನ ರಾಜ್ಯವನ್ನು ಪಡೆದವನಾಗಿ ಬರುವಾಗ ನನ್ನನ್ನು ನೆನಸಿಕೋ ಅಂದನು.  ಅದಕ್ಕೆ ಯೇಸು - ಈಹೊತ್ತೇ ನನ್ನ ಸಂಗಡ ಪರದೈಸಿನಲ್ಲಿರುವಿ ಎಂದು ನಿನಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ ಎಂದು ಉತ್ತರಕೊಟ್ಟನು.   ಲೂಕ 23:39-43	",
 },			
 {			
-"question" :	"	10. This man begged the body of Jesus from Pilate.	",
+"question" :	"	10. ಈ ಮನುಷ್ಯನು ಪಿಲಾತನ ಬಳಿ ಯೇಸುವಿನ ದೇಹಕ್ಕಾಗಿ ಬೇಡಿಕೊಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Peter	",
-	"	b. Joseph	",
-	"	c. James	",
-	"	d. John	"
+	"	A. ಪೇತ್ರ	",
+	"	B. ಯೋಸೇಫ	",
+	"	C. ಯಾಕೋಬ	",
+	"	D. ಯೋಹಾನ	"
 ],			
-"correct" :	"	b. Joseph	",
-"explanation" :	"	Now behold, there was a man named Joseph, a council member, a good and just man.He had not consented to their decision and deed. He was from Arimathea, a city of the Jews, who himself was also waiting for the kingdom of God.This man went to Pilate and asked for the body of Jesus. - Lk 23:50-52	",
+"correct" :	"	B. ಯೋಸೇಫ	",
+"explanation" :	"	ಅರಿಮಥಾಯವೆಂಬ ಯೆಹೂದ್ಯರದೊಂದು ಪಟ್ಟಣದ ಒಬ್ಬ ಮನುಷ್ಯನಿದ್ದನು;  ಅವನ ಹೆಸರು ಯೋಸೇಫನು.  ಅವನು ಹಿರೀಸಭೆಯವನು, ಉತ್ತಮನು, ಸತ್ಪುರುಷನು, ದೇವರ ರಾಜ್ಯವನ್ನು ಎದುರು ನೋಡುತ್ತಿದ್ದವನು; ಅವನು ಹಿರೀಸಭೆಯುವರ ಆಲೋಚನೆಗೂ ಕೃತ್ಯಕ್ಕೂ ಸಮ್ಮತಿಪಟ್ಟಿರಲಿಲ್ಲ.  ಅವನು ಪಿಲಾತನ ಬಳಿಗೆ ಹೋಗಿ ಯೇಸುವಿನ ದೇಹವನ್ನು ತನಗೆ ಕೊಡಿಸಬೇಕೆಂದು ಬೇಡಿಕೊಂಡು;   ಲೂಕ 23:50-52	",
 },			
 ]			

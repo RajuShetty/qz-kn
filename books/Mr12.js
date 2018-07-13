@@ -1,100 +1,100 @@
-var quiztitle = "Mark chapter 12";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus told a parable of a man that planted	",
+"question" :	"	1 ಯೇಸು ಯಾವ ತೋಟದ ಧಣಿಯ ಸಾಮ್ಯವನ್ನು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A fig tree.	",
-	"	b. A wheat field.	",
-	"	c. A vineyard.	",
-	"	d. A cornfield.	"
+	"	A. ಅಂಜೂರದ ಮರ	",
+	"	B. ಗೋಧಿಯ ತೋಟ	",
+	"	C. ದ್ರಾಕ್ಷೇ ತೋಟ	",
+	"	D. ಜೋಳದ ತೋಟ	"
 ],			
-"correct" :	"	c. A vineyard.	",
-"explanation" :	"	Then He began to speak to them in parables: A man planted a vineyard and set a hedge around it, dug a place for the wine vat and built a tower. And he leased it to vinedressers and went into a far country. - Mr 12:1	",
+"correct" :	"	C. ದ್ರಾಕ್ಷೇ ತೋಟ	",
+"explanation" :	"	ಆಗ ಯೇಸು ಅವರ ಕೂಡ ಸಾಮ್ಯರೂಪವಾಗಿ ಮಾತಾಡುವದಕ್ಕೆ ತೊಡಗಿ ಒಬ್ಬ ಮನುಷ್ಯನು ಒಂದು ದ್ರಾಕ್ಷೆಯ ತೋಟವನ್ನು ಮಾಡಿ ..     ಮಾರ್ಕ 12:1	",
 },			
 {			
-"question" :	"	2. What happened to the first servant he sent to collect of the husbandmen?	",
+"question" :	"	2 ದ್ರಾಕ್ಷೇತೋಟದ ಹಣ್ಣಿನ ಪಾಲನ್ನು ತೆಗೆದುಕೊಂಡು ಬರುವುದಕ್ಕೆ ಕಳುಹಿಸಿದ ಮೊದಲನೇ  ಸೇವಕನಿಗೆ ಏನಾಯಿತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He stole money.	",
-	"	b. He went to work for the husbandman.	",
-	"	c. He was killed.	",
-	"	d. He was beaten.	"
+	"	A. ಅವನು ಹಣವನ್ನು ಕದ್ದುಕೊಂಡನು	",
+	"	B. ಅವನು ಪಾಲಿಗಾಗಿ ಕೆಲಸ ಮಾಡಲು ಹೋದನು	",
+	"	C. ಅವನು ಕೊಲ್ಲಲ್ಪಟ್ಟನು	",
+	"	D. ಅವನನ್ನು ಹೊಡೆದು ಬರಿಗೈಯಲ್ಲಿ ಕಳುಹಿಸಿದರು	"
 ],			
-"correct" :	"	d. He was beaten.	",
-"explanation" :	"	Now at vintage-time he sent a servant to the vinedressers, that he might receive some of the fruit of the vineyard from the vinedressers.And they took him and beat him and sent him away empty-handed. - Mr 12:2-3	",
+"correct" :	"	D. ಅವನನ್ನು ಹೊಡೆದು ಬರಿಗೈಯಲ್ಲಿ ಕಳುಹಿಸಿದರು	",
+"explanation" :	"	ಫಲಕಾಲ ಬಂದಾಗ ದ್ರಾಕ್ಷೆಯ ತೋಟದ ಹಣ್ಣಿನ ಪಾಲನ್ನು ಆ ಒಕ್ಕಲಿಗರಿಂದ ತೆಗೆದುಕೊಂಡು ಬರುವದಕ್ಕಾಗಿ ಒಬ್ಬ ಆಳನ್ನು ಅವರ ಬಳಿಗೆ ಕಳುಹಿಸಿದನು.  ಅವರು ಅವನನ್ನು ಹಿಡುಕೊಂಡು ಹೊಡೆದು ಬರಿಗೈಲಿ ಕಳುಹಿಸಿಬಿಟ್ಟರು.     ಮಾರ್ಕ 12:2-3	",
 },			
 {			
-"question" :	"	3. What did they do to the son?	",
+"question" :	"	3 ಅವರು ಮಗನಿಗೆ ಏನನ್ನು ಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Killed him	",
-	"	b. Received him	",
-	"	c. Paid what was owed	",
-	"	d. Beat him	"
+	"	A. ಅವನನ್ನು ಕೊಂದರು	",
+	"	B. ಅವನನ್ನು ಸ್ವಾಗತಿಸಿದರು	",
+	"	C. ಅವನಿಗೆ ಬರತಕ್ಕ ಪಾಲನ್ನು ಕೊಟ್ಟರು	",
+	"	D. ಅವನನ್ನು ಹೊಡೆದರು	"
 ],			
-"correct" :	"	a. Killed him	",
-"explanation" :	"	But those vinedressers said among themselves, 'This is the heir. Come, let us kill him, and the inheritance will be ours.So they took him and killed him and cast him out of the vineyard. - Mr 12:7-8	",
+"correct" :	"	A. ಅವನನ್ನು ಕೊಂದರು	",
+"explanation" :	"	ಆ ಒಕ್ಕಲಿಗರು ಇವನೇ ಬಾಧ್ಯಸ್ಥನು; ಬನ್ನಿ, ಇವನನ್ನು ಕೊಂದುಹಾಕೋಣ; ಆಗ ಸ್ವಾಸ್ತ್ಯ ನಮ್ಮದಾಗುವದು ಎಂದು ಒಬ್ಬರ ಸಂಗಡಲೊಬ್ಬರು ಮಾತಾಡಿಕೊಂಡು ಅವನನ್ನು ಹಿಡಿದು ಕೊಂದುಹಾಕಿ ದ್ರಾಕ್ಷೆಯ ತೋಟದಿಂದ ಹೊರಕ್ಕೆ ಬಿಸಾಟುಬಿಟ್ಟರು.   ಮಾರ್ಕ12:7-8	",
 },			
 {			
-"question" :	"	4. Pharisees tried to trap Jesus by asking if it is lawful to	",
+"question" :	"	4 ಯಾವುದು ಸರಿಯೋ ಸರಿಯಲ್ಲವೋ ಎಂದು ಫರಿಸಾಯರು ಯೇಸುವನ್ನು ಕೇಳಿ ಆತನನ್ನು  ಮಾತಿನಲ್ಲಿ ಸಿಕ್ಕಿಸುವುದಕ್ಕೆ ನೋಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pay tribute.	",
-	"	b. Marry a Gentile.	",
-	"	c. Divorce.	",
-	"	d. Eat on the Sabbath.	"
+	"	A. ಕೈಸರನಿಗೆ ತೆರಿಗೆ ಕೊಡುವುದು	",
+	"	B. ಅನ್ಯರನ್ನು ಮದುವೆಯಾಗುವುದು	",
+	"	C. ವಿಚ್ಚೇದನ ನೀಡುವುದು	",
+	"	D. ಸಬ್ಬತ್ ದಿನದಲ್ಲು ಊಟ ಮಾಡುವುದು	"
 ],			
-"correct" :	"	a. Pay tribute.	",
-"explanation" :	"	Then they sent to Him some of the Pharisees and the Herodians, to catch Him in His words.When they had come, they said to Him, Teacher, we know that You are true, and care about no one; for You do not regard the person of men, but teach the way of God in truth. Is it lawful to pay taxes to Caesar, or not? - 12:13-14	",
+"correct" :	"	A. ಕೈಸರನಿಗೆ ತೆರಿಗೆ ಕೊಡುವುದು	",
+"explanation" :	"	ಇವರು ಬಂದು ಬೋಧಕನೇ, ನೀನು ಸತ್ಯವಂತನು, ಯಾರಿಗೂ ಹೆದರದವನು; ನೀನು ಜನರ ಮುಖದಿಚ್ಛೆಗೆ ಮಾತಾಡದೆ ದೇವರ ಮಾರ್ಗವನ್ನು ಸತ್ಯವಾಗಿ ಬೋಧಿಸುವವನಾಗಿದ್ದೀ ಎಂದು ಬಲ್ಲೆವು.  ಕೈಸರನಿಗೆ ತೆರಿಗೆ ಕೊಡುವದು ಸರಿಯೋ ಸರಿಯಲ್ಲವೋ..   ಮಾರ್ಕ 12:13-14	",
 },			
 {			
-"question" :	"	5. What did Jesus ask for?	",
+"question" :	"	5 ಯೇಸು ಏನನ್ನು ಕೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A pitcher	",
-	"	b. A penny	",
-	"	c. A sword	",
-	"	d. A lamp	"
+	"	A. ಒಂದು ಹಲಗೆ	",
+	"	B. ಒಂದು ನಾಣ್ಯ	",
+	"	C. ಒಂದು ಕತ್ತಿ	",
+	"	D. ಒಂದು ದೀಪ	"
 ],			
-"correct" :	"	b. A penny	",
-"explanation" :	"	Shall we pay, or shall we not pay? But He, knowing their hypocrisy, said to them, Why do you test Me? Bring Me a denarius that I may see it.	",
+"correct" :	"	B. ಒಂದು ನಾಣ್ಯ	",
+"explanation" :	"	ಆತನು ಅವರ ಕಪಟವನ್ನು ತಿಳಿದು ನನ್ನನ್ನು ಯಾಕೆ ಪರೀಕ್ಷೆ ಮಾಡುತ್ತೀರಿ? ನನಗೆ ಒಂದು ಹಣವನ್ನು ತಂದು ತೋರಿಸಿರಿ ಅನ್ನಲು ಅವರು ತಂದರು.  ಮಾರ್ಕ 12:15	",
 },			
 {			
-"question" :	"	6. Whose image and superscription was on it?	",
+"question" :	"	6 ಅದರಲ್ಲಿ ಯಾರ ತಲೆಯೂ ಮುದ್ರೆಯೂ ಇತ್ತು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Herod	",
-	"	b. Caesar	",
-	"	c. Pharaoh	",
-	"	d. God	"
+	"	A. ಹೆರೋದ	",
+	"	B. ಕೈಸರ	",
+	"	C. ಫರೋಹ	",
+	"	D. ದೇವರು	"
 ],			
-"correct" :	"	b. Caesar	",
-"explanation" :	"	So they brought it. And He said to them, Whose image and inscription is this? - Mr 12:16	",
+"correct" :	"	B. ಕೈಸರ	",
+"explanation" :	"	ಆಗ ಆತನು ಈ ತಲೆಯೂ ಮುದ್ರೆಯೂ ಯಾರದು ಎಂದು ಕೇಳಿದ್ದಕ್ಕೆ ಅವರು ಕೈಸರನದು ಅಂದರು.  ಮಾರ್ಕ 12:16	",
 },			
 {			
-"question" :	"	7. The Sadducees say there is no	",
+"question" :	"	7 ಸದ್ದುಕಾಯರ ಪ್ರಕಾರ ಇದು ಇರುವುದಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. God.	",
-	"	b. Law.	",
-	"	c. Resurrection.	",
-	"	d. Sin.	"
+	"	A. ದೇವರು	",
+	"	B. ಧರ್ಮಶಾಸ್ತ್ರ	",
+	"	C. ಪುನರುತ್ಥಾನ	",
+	"	D. ಪಾಪ	"
 ],			
-"correct" :	"	c. Resurrection.	",
-"explanation" :	"	Then some Sadducees, who say there is no resurrection, came to Him; and they asked Him, saying - Mr 12:18	",
+"correct" :	"	C. ಪುನರುತ್ಥಾನ	",
+"explanation" :	"	ತರುವಾಯ ಸದ್ದುಕಾಯರು ಆತನ ಬಳಿಗೆ ಬಂದರು.  ಇವರು ಪುನರುತ್ಥಾನವಿಲ್ಲ ಅನ್ನುವವರು.  ಮಾರ್ಕ 12:18	",
 },			
 {			
-"question" :	"	8. Jesus asked them, do ye not err because you know not	",
+"question" :	"	8 ನೀವು ___________ ತಿಳಿಯದಿರುವುದರಿಂದಲೇ ತಪ್ಪುವವರಾಗಿದ್ದೀರೆಂದು ಯೇಸು  ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. God?	",
-	"	b. Who sent Me?	",
-	"	c. The scriptures?	",
-	"	d. The traditions of men?	"
+	"	A. ದೇವರನ್ನು	",
+	"	B. ನನ್ನನ್ನು ಕಳುಹಿಸಿದವನನ್ನು	",
+	"	C. ಶಾಸ್ತ್ರವನ್ನಾದರೂ ದೇವರ ಶಕ್ತಿಯನ್ನಾದರೂ	",
+	"	D. ಮನುಷ್ಯರು ಕಟ್ಟುಪಾಡುಗಳು	"
 ],			
-"correct" :	"	c. The scriptures?	",
-"explanation" :	"	Jesus answered and said to them, Are you not therefore mistaken, because you do not know the Scriptures nor the power of God? - Mr 12:24	",
+"correct" :	"	C. ಶಾಸ್ತ್ರವನ್ನಾದರೂ ದೇವರ ಶಕ್ತಿಯನ್ನಾದರೂ	",
+"explanation" :	"	ಯೇಸು ಅವರಿಗೆ ನೀವು ಶಾಸ್ತ್ರವನ್ನಾದರೂ ದೇವರ ಶಕ್ತಿಯನ್ನಾದರೂ ತಿಳಿಯದಿರುವದರಿಂದಲೇ ತಪ್ಪುವವರಾಗಿದ್ದೀರಲ್ಲವೆ.   ಮಾರ್ಕ 12:24	",
 },			
 {			
 "question" :	"	9. Jesus said, this is the first commandment of all.	",
@@ -109,15 +109,15 @@ var quiz = [
 "explanation" :	"	Jesus answered him, The first of all the commandments is: Hear, O Israel, the Lord our God, the Lord is one. - Mr 12:29	",
 },			
 {			
-"question" :	"	10. How much did the poor widow cast into the offering?	",
+"question" :	"	10 ಬಡವಿಧವೆಯು ಎಷ್ಟು ಕಾಣಿಕೆಯನ್ನು ಹಾಕಿದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. $1,000	",
-	"	b. 30 pieces of silver	",
-	"	c. 100 shekels	",
-	"	d. 2 mites	"
+	"	A. $1000	",
+	"	B. 30 ಬೆಳ್ಳಿ ನಾಣ್ಯಗಳು	",
+	"	C. 100 ಶೆಕೆಲ್	",
+	"	D. 2 ಕಾಸು	"
 ],			
-"correct" :	"	d. 2 mites	",
-"explanation" :	"	Now Jesus sat opposite the treasury and saw how the people put money into the treasury. And many who were rich put in much.Then one poor widow came and threw in two mites, which make a quadrans. - Mr 12:41-42	",
+"correct" :	"	D. 2 ಕಾಸು	",
+"explanation" :	"	ಒಬ್ಬ ಬಡ ವಿಧವೆಯು ಬಂದು ಎರಡು ಕಾಸು ಅಂದರೆ ಒಂದು ದುಗ್ಗಾಣಿ ಹಾಕಿದಳು.  ಮಾರ್ಕ 12:42	",
 },			
 ]			

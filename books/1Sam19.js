@@ -1,4 +1,4 @@
-var quiztitle = " 1 Samuel chapter 19";			
+var quiztitle = " 1 Samuel ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. When Saul first told Jonathan and his servants they should kill David, Jonathan told David to	",

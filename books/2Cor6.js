@@ -1,4 +1,4 @@
-var quiztitle = "2 Corinthians chapter 6";			
+var quiztitle = "2 ಕೊರಿಂಥದವರಿಗೆ ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
 "question" :	"	1. ಪೌಲನು ಹೇಳಿದ್ದು: ನೀವು ಹೊಂದಿದ ________ ವ್ಯರ್ಥ ಮಾಡಿಕೊಳ್ಳಬೇಡಿರೆಂದು ಎಚ್ಚರಿಸುತ್ತೇವೆ.	",

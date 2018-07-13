@@ -1,123 +1,123 @@
-var quiztitle = "Mark chapter 6";			
+var quiztitle = "ಮಾರ್ಕ ಅಧ್ಯಾಯ 6";			
 var quiz = [			
 {			
-"question" :	"	1. Jesus said, a prophet is not without honor	",
+"question" :	"	1 ಯೇಸು ಹೇಳಿದ್ದು: ಪ್ರವಾದಿಯು ………………………………………… ಮಾತ್ರ ಮರ್ಯಾದೆಯಿಲ್ಲ	",
 "image" :	"",		
 "choices" : [			
-	"	a. But among the heathen.	",
-	"	b. But in his own country.	",
-	"	c. God will reward.	",
-	"	d. Or righteousness.	"
+	"	A. ಅನ್ಯಜನರ ಮಧ್ಯದಲ್ಲಿ	",
+	"	B. ತನ್ನ ಸ್ವಂತ ಮನೆಯಲ್ಲಿಯೂ ಸ್ವಂತ ಜನರಲ್ಲಿಯೂ	",
+	"	C. ದೇವರು ಬಹುಮಾನ ಕೊಡುವನು	",
+	"	D. ಸದ್ಧರ್ಮ	"
 ],			
-"correct" :	"	b. But in his own country.	",
-"explanation" :	"	But Jesus said to them,A prophet is not without honor except in his own country, among his own relatives, and in his own house. - Mr 6:4	",
+"correct" :	"	B. ತನ್ನ ಸ್ವಂತ ಮನೆಯಲ್ಲಿಯೂ ಸ್ವಂತ ಜನರಲ್ಲಿಯೂ	",
+"explanation" :	"	ಯೇಸು ಅವರಿಗೆ ಪ್ರವಾದಿಯು ಬೇರೆ ಎಲ್ಲಿದ್ದರೂ ಅವನಿಗೆ ಮರ್ಯಾದೆ ಉಂಟು; ಆದರೆ ಸ್ವದೇಶದಲ್ಲಿಯೂ ಸ್ವಂತ ಜನರಲ್ಲಿಯೂ ಸ್ವಂತ ಮನೆಯಲ್ಲಿಯೂ ಮಾತ್ರ ಮರ್ಯಾದೆಯಿಲ್ಲ ಎಂದು ಹೇಳಿದನು.  ಮಾರ್ಕ 6:4	",
 },			
 {			
-"question" :	"	2. When Jesus sent His disciples out He commanded them to take only	",
+"question" :	"	2 ಯೇಸು ತನ್ನ ಶಿಷ್ಯರನ್ನು ಕಳುಹಿಸಿದಾಗ ಏನನ್ನು ತೆಗೆದುಕೊಂಡುಹೋಗುವಂತೆ ಅಪ್ಪಣೆ ಕೊಟ್ಟನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Bread.	",
-	"	b. Cheese.	",
-	"	c. Oil.	",
-	"	d. A staff.	"
+	"	A. ರೊಟ್ಟಿ	",
+	"	B. ಬೆಣ್ಣೆ	",
+	"	C. ಎಣ್ಣೆ	",
+	"	D. ಒಂದು ಕೋಲು	"
 ],			
-"correct" :	"	d. A staff.	",
-"explanation" :	"	He commanded them to take nothing for the journey except a staff--no bag, no bread, no copper in their money belts - Mr 6: 8	",
+"correct" :	"	D. ಒಂದು ಕೋಲು	",
+"explanation" :	"	ಅವರಿಗೆ ದೆವ್ವಗಳ ಮೇಲೆ ಅಧಿಕಾರ ಕೊಟ್ಟು - ಕೋಲು ಹೊರತು ದಾರಿಗೆ ಏನೂ ತಕ್ಕೊಂಡು ಹೋಗಬೇಡಿರಿ ..        ಮಾರ್ಕ 6:8	",
 },			
 {			
-"question" :	"	3. The disciples healed the sick doing this.	",
+"question" :	"	3 ಶಿಷ್ಯರು ಯಾವುದರಿಂದ ರೋಗಿಗಳನ್ನು ವಾಸಿಮಾಡಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Blowing on them	",
-	"	b. Fasting	",
-	"	c. Anointing them with oil	",
-	"	d. Shouting	"
+	"	A. ಅವರ ಮೇಲೆ ಊದುವುದರಿಂದ	",
+	"	B. ಉಪವಾಸದಿಂದ	",
+	"	C. ಎಣ್ಣೆ ಹಚ್ಚುವುದರಿಂದ	",
+	"	D. ಕೂಗುವುದರಿಂದ	"
 ],			
-"correct" :	"	c. Anointing them with oil	",
-"explanation" :	"	And they cast out many demons, and anointed with oil many who were sick, and healed them. - Mr 6:13	",
+"correct" :	"	C. ಎಣ್ಣೆ ಹಚ್ಚುವುದರಿಂದ	",
+"explanation" :	"	ದೇವರ ಕಡೆಗೆ ತಿರುಗಿಕೊಳ್ಳಬೇಕೆಂದು ಸಾರಿ ಅನೇಕ ದೆವ್ವಗಳನ್ನು ಬಿಡಿಸಿ ಅನೇಕ ರೋಗಿಗಳಿಗೆ ಎಣ್ಣೆಹಚ್ಚಿ ವಾಸಿಮಾಡಿದರು.  ಮಾರ್ಕ 6:13	",
 },			
 {			
-"question" :	"	4. Her daughter danced for Herod.	",
+"question" :	"	4 ಈಕೆಯ ಮಗಳು ಹೆರೋದನಿಗಾಗಿ ನೃತ್ಯ ಮಾಡಿದಳು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Delilah	",
-	"	b. Dina	",
-	"	c. Herodias	",
-	"	d. Deborah	"
+	"	A. ದೆಲೀಲ	",
+	"	B. ದೀನ	",
+	"	C. ಹೆರೋದ್ಯಳು	",
+	"	D. ದೆಬೋರಳು	"
 ],			
-"correct" :	"	c. Herodias	",
-"explanation" :	"	And when Herodias' daughter herself came in and danced, and pleased Herod and those who sat with him, the king said to the girl, Ask me whatever you want, and I will give it to you. - Mr 6:22	",
+"correct" :	"	C. ಹೆರೋದ್ಯಳು	",
+"explanation" :	"	ಹೆರೋದ್ಯಳ ಮಗಳು ಒಳಕ್ಕೆ ಬಂದು ನಾಟ್ಯವಾಡಿ ಹೆರೋದನನ್ನೂ ಅವನ ಸಂಗಡ ಪಂಕ್ತಿಯಲ್ಲಿ ಊಟಕ್ಕೆ ಕೂತಿದ್ದವರನ್ನೂ ಮೆಚ್ಚಿಸಿದಳು.   ಮಾರ್ಕ 6:22\	",
 },			
 {			
-"question" :	"	5. What did she ask for?	",
+"question" :	"	5 ಆಕೆಯು ಏನನ್ನು ಕೇಳಿದಳು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The head of Jesus	",
-	"	b. The head of John the Baptist	",
-	"	c. Half of Herod's kingdom	",
-	"	d. A crown	"
+	"	A. ಯೇಸುವಿನ ತಲೆ	",
+	"	B. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನ ತಲೆ	",
+	"	C. ಹೆರೋದನ ಅರ್ಧಭಾಗ	",
+	"	D. ಕಿರೀಟ	"
 ],			
-"correct" :	"	b. The head of John the Baptist	",
-"explanation" :	"	Immediately she came in with haste to the king and asked, saying, I want you to give me at once the head of John the Baptist on a platter. - Mr 6:25	",
+"correct" :	"	B. ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನ ತಲೆ	",
+"explanation" :	"	ಕೂಡಲೆ ಅವಳು ಅರಸನ ಬಳಿಗೆ ಅವಸರದಿಂದ ಬಂದು ಈ ಕ್ಷಣದಲ್ಲೇ ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನ ತಲೆಯನ್ನು ಪರಾತಿನಲ್ಲಿ ನನಗೆ ತರಿಸಿಕೊಡಬೇಕೆಂದೇ ನನ್ನ ಕೋರಿಕೆ ಎಂದು ಅರಿಕೆ ಮಾಡಿಕೊಂಡಳು.  ಮಾರ್ಕ 6:25	",
 },			
 {			
-"question" :	"	6. What did Jesus feed the multitude with?	",
+"question" :	"	6 ಯೇಸು ಯಾವುದರಿಂದ ಜನರ ಗುಂಪಿಗೆ ಉಣಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 5 loaves & 2 fish	",
-	"	b. 5 fish & 2 loaves	",
-	"	c. 3 fish & 5 loaves	",
-	"	d. 3 loaves & 5 fish	"
+	"	A. 5 ರೊಟ್ಟಿ 2 ಮೀನು	",
+	"	B. 5 ಮೀನು 2 ರೊಟ್ಟಿ	",
+	"	C. 3 ಮೀನು 5 ರೊಟ್ಟಿ	",
+	"	D. 3 ರೊಟ್ಟಿ 5 ಮೀನು	"
 ],			
-"correct" :	"	a. 5 loaves & 2 fish	",
-"explanation" :	"	And when He had taken the five loaves and the two fish, He looked up to heaven, blessed and broke the loaves, and gave them to His disciples to set before them; and the two fish He divided among them all. - Mr 6:41	",
+"correct" :	"	A. 5 ರೊಟ್ಟಿ 2 ಮೀನು	",
+"explanation" :	"	ಆಮೇಲೆ ಆತನು ಆ ಐದು ರೊಟ್ಟಿ ಎರಡು ಮೀನುಗಳನ್ನು ತೆಗೆದುಕೊಂಡು ಆಕಾಶದ ಕಡೆಗೆ ನೋಡಿ ದೇವರ ಸ್ತೋತ್ರಮಾಡಿ ಆ ರೊಟ್ಟಿಗಳನ್ನು ಮುರಿದು ನೀವು ಜನರಿಗೆ ಹಂಚಿರಿ ಎಂದು ಶಿಷ್ಯರ ಕೈಗೆ ಕೊಟ್ಟು ಆ ಎರಡು ಮೀನುಗಳನ್ನೂ ಎಲ್ಲರಿಗೆ ಹಂಚಿಸಿದನು.  ಮಾರ್ಕ 6:41	",
 },			
 {			
-"question" :	"	7. How many men were fed?	",
+"question" :	"	7 ಊಟ ಮಾಡಿದವರಲ್ಲಿ ಎಷ್ಟು ಜನ ಗಂಡಸರಿದ್ದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. About 1,000	",
-	"	b. About 2,000	",
-	"	c. About 4,000	",
-	"	d. About 5,000	"
+	"	A. 1000 ಜನ	",
+	"	B. ಸುಮಾರು 2000	",
+	"	C. ಸುಮಾರು 4000	",
+	"	D. ಸುಮಾರು 5000	"
 ],			
-"correct" :	"	d. About 5,000	",
-"explanation" :	"	Now those who had eaten the loaves were about five thousand men. - Mr 6:44	",
+"correct" :	"	D. ಸುಮಾರು 5000	",
+"explanation" :	"	ಊಟ ಮಾಡಿದವರು ಐದು ಸಾವಿರ ಮಂದಿ ಗಂಡಸರು.  ಮಾರ್ಕ 6:44	",
 },			
 {			
-"question" :	"	8. How many baskets of leftovers were there?	",
+"question" :	"	8 ಎಷ್ಟು ಪುಟ್ಟಿ ರೊಟ್ಟಿ ತುಂಡುಗಳು ಮತ್ತು ಮೀನಿನ ತುಂಡುಗಳು ಉಳಿದವು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. 10	",
-	"	b. 12	",
-	"	c. 7	",
-	"	d. 5	"
+	"	A. 10	",
+	"	B. 12	",
+	"	C. 7	",
+	"	D. 5	"
 ],			
-"correct" :	"	b. 12	",
-"explanation" :	"	And they took up twelve baskets full of fragments and of the fish. - Mr 6:43	",
+"correct" :	"	B. 12	",
+"explanation" :	"	ರೊಟ್ಟಿತುಂಡುಗಳನ್ನೂ ಮೀನಿನ ತುಂಡುಗಳನ್ನೂ ಕೂಡಿಸಲಾಗಿ ಹನ್ನೆರಡು ಪುಟ್ಟಿ ತುಂಬಿತು.  ಮಾರ್ಕ 6:43	",
 },			
 {			
-"question" :	"	9. When the disciples saw Jesus walking on the water, they cried out, because they	",
+"question" :	"	9 ಯೇಸು ಸ್ವಾಮಿಯು ನೀರಿನ ಮೇಲೆ ನಡೆದು ಬರುತ್ತಿರುವುದನ್ನು ನೋಡಿದ ಶಿಷ್ಯರು ಜೋರಾಗಿ ಕಿರುಚಿಕೊಂಡರು, ಯಾಕಂದರೆ ಅವರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Were afraid he would drown.	",
-	"	b. Wanted Him to find them.	",
-	"	c. Thought He was a spirit.	",
-	"	d. Thought He was an angel.	"
+	"	A. ಆತನು ಮುಳುಗಿಹೋಗುತ್ತಾನೆಂದು ಭಯಪಟ್ಟರು	",
+	"	B. ಆತನು ಅವರನ್ನು ಗುರುತಿಸಬೇಕೆಂದಿದ್ದರು	",
+	"	C. ಆತನು ಭೂತವೆಂದು ತಿಳಿದುಕೊಂಡರು	",
+	"	D. ಆತನು ದೇವದೂತನೆಂದು ತಿಳಿದುಕೊಂಡರು	"
 ],			
-"correct" :	"	c. Thought He was a spirit.	",
-"explanation" :	"	And when they saw Him walking on the sea, they supposed it was a ghost, and cried out; - Mr 6:49	",
+"correct" :	"	C. ಆತನು ಭೂತವೆಂದು ತಿಳಿದುಕೊಂಡರು	",
+"explanation" :	"	ಸಮುದ್ರದ ಮೇಲೆ ನಡೆಯುವ ಆತನನ್ನು ಅವರು ಕಂಡು ಭೂತವೆಂದು ಭಾವಿಸಿ ಅಬ್ಬರಿಸಿ ಕೂಗಿದರು.  ಮಾರ್ಕ 6:49	",
 },			
 {			
-"question" :	"	10. In the cities and villages Jesus entered, they laid this in the streets.	",
+"question" :	"	10 ಯೇಸು ಹಳ್ಳಿ ಮತ್ತು ಪಟ್ಟಣಗಳಿಗೆ ಹೋದಾಗ, ಅಲ್ಲಿನ ಜನರು ಇದನ್ನು ರಸ್ತೆಗಳಲ್ಲಿ ಇಟ್ಟರು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Flowers	",
-	"	b. Palm branches	",
-	"	c. The sick	",
-	"	d. Blossoms	"
+	"	A. ಹೂವುಗಳು	",
+	"	B. ತಾಳೆ ರೆಂಬೆಗಳು	",
+	"	C. ರೋಗಿಗಳನ್ನು	",
+	"	D. ಸುವಾಸನೆಗಳು	"
 ],			
-"correct" :	"	c. The sick	",
-"explanation" :	"	Wherever He entered into villages, cities, or in the country, they laid the sick in the marketplaces, and begged Him that they might just touch the hem of His garment. And as many as touched Him were made well.- Mr 6:56	",
+"correct" :	"	C. ರೋಗಿಗಳನ್ನು	",
+"explanation" :	"	ಆತನು ಯಾವ ಗ್ರಾಮಗಳಿಗೂ ಯಾವ ಊರು ಹಳ್ಳಿಗಳಿಗೂ ಹೋದನೋ ಅಲ್ಲಿಯವರು ರೋಗಿಗಳನ್ನು ಪೇಟೆಗಳಲ್ಲಿ ಇಟ್ಟು ನಿನ್ನ ಉಡುಪಿನ ಗೊಂಡೆಯನ್ನಾದರೂ ಮುಟ್ಟಗೊಡಿಸಬೇಕೆಂದು ಆತನನ್ನು ಬೇಡಿಕೊಂಡರು.  ಮಾರ್ಕ 6:56	",
 },			
 ]			

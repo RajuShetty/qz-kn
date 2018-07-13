@@ -1,4 +1,4 @@
-var quiztitle = " 2 Chronicles chapter 33";			
+var quiztitle = " 2 Chronicles ಅಧ್ಯಾಯ 33";			
 var quiz = [			
 {			
 "question" :	"	1. Who was Manasseh’s father?	",

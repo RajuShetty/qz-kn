@@ -1,4 +1,4 @@
-var quiztitle = " Hebrews chapter 9";			
+var quiztitle = " ಇಬ್ರಿಯರಿಗೆ ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. ಎರಡನೆಯ ತೆರೆಯ ಆಚೆಯಲ್ಲಿ ಅತಿಪವಿತ್ರ ಸ್ಥಾನವೆನಿಸಿಕೊಳ್ಳುವ ಇನ್ನೊಂದು ಭಾಗದಲ್ಲಿ ಇದು ಇತ್ತು.	",

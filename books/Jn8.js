@@ -1,123 +1,123 @@
-var quiztitle = "John chapter 8";			
+var quiztitle = "ಯೋಹಾನ ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
-"question" :	"	1. A woman was brought to Jesus taken in the act of it.	",
+"question" :	"	1  ಈ ಆಪಾದನೆಯ ಮೇಲೆ ಒಬ್ಬ ಸ್ತ್ರೀಯನ್ನು ಯೇಸುವಿನ ಬಳಿಗೆ ತಂದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Stealing	",
-	"	b. Murder	",
-	"	c. Adultery	",
-	"	d. Blasphemy	"
+	"	A. ಕಳ್ಳತನ	",
+	"	B. ಕೊಲೆ	",
+	"	C. ವ್ಯಭಿಚಾರ	",
+	"	D. ದೇವದೂಷಣೆ	"
 ],			
-"correct" :	"	c. Adultery	",
-"explanation" :	"	Then the scribes and Pharisees brought to Him a woman caught in adultery. And when they had set her in the midst, - Jn 8:3	",
+"correct" :	"	C. ವ್ಯಭಿಚಾರ	",
+"explanation" :	"	ಆತನು ಕೂತುಕೊಂಡು ಅವರಿಗೆ ಉಪದೇಶಮಾಡುತ್ತಿರುವಲ್ಲಿ ಶಾಸ್ತ್ರಿಗಳೂ ಫರಿಸಾಯರೂ ವ್ಯಭಿಚಾರದಲ್ಲಿ ಸಿಕ್ಕಿದ ಒಬ್ಬ ಹೆಂಗಸನ್ನು ಆತನ ಬಳಿಗೆ ತಂದು ಆಕೆಯನ್ನು ನಡುವೆ ನಿಲ್ಲಿಸಿ - 8:3	",
 },			
 {			
-"question" :	"	2. According to the law, what was the punishment for this?	",
+"question" :	"	2  ಧರ್ಮಶಾಸ್ತ್ರದ ಪ್ರಕಾರ ಈ ತಪ್ಪಿಗೆ ಏನು ಶಿಕ್ಷೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Stoning	",
-	"	b. Burning at the stake	",
-	"	c. Being cast from the camp	",
-	"	d. Divorce	"
+	"	A. ಕಲ್ಲು ಹೊಡೆದು ಸಾಯಿಸುವುದು	",
+	"	B. ಬೆಂಕಿ ಹಚ್ಚುವುದು	",
+	"	C. ಊರು ಬಿಟ್ಟು ಓಡಿಸುವುದು	",
+	"	D. ವಿಚ್ಚೇದನ ನೀಡುವುದು	"
 ],			
-"correct" :	"	a. Stoning	",
-"explanation" :	"	Now Moses, in the law, commanded us that such should be stoned. But what do You say - Jn 8:5	",
+"correct" :	"	D. ವಿಚ್ಚೇದನ ನೀಡುವುದು	",
+"explanation" :	"	ಇಂಥವರನ್ನು ಕಲ್ಲೆಸೆದು ಕೊಲ್ಲಬೇಕೆಂದು ಮೋಶೆಯು ಧರ್ಮಶಾಸ್ತ್ರದಲ್ಲಿ ನಮಗೆ ಅಪ್ಪಣೆಕೊಟ್ಟಿದ್ದಾನೆ; ಈಕೆಯ ವಿಷಯದಲ್ಲಿ ನೀನು ಏನು ಹೇಳುತ್ತೀ ಎಂದು ಆತನನ್ನು ಕೇಳಿದರು. 8:5	",
 },			
 {			
-"question" :	"	3. Who did Jesus say should cast the first stone?	",
+"question" :	"	3  ಮೊದಲ ಕಲ್ಲು ಯಾರು ಹೊಡೆಯಬೇಕೆಂದು ಯೇಸು ಹೇಳಿದರು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. The chief priest	",
-	"	b. The Pharisees	",
-	"	c. The eldest	",
-	"	d. Him without sin	"
+	"	A. ಮಹಾಯಾಜಕ	",
+	"	B. ಫರಿಸಾಯರು	",
+	"	C. ಹಿರಿಯರು	",
+	"	D. ಪಾಪ ಮಾಡದವರು	"
 ],			
-"correct" :	"	d. Him without sin	",
-"explanation" :	"	So when they continued asking Him, He raised Himself up and said to them, He who is without sin among you, let him throw a stone at her first. - Jn 8:7	",
+"correct" :	"	D. ಪಾಪ ಮಾಡದವರು	",
+"explanation" :	"	ಅವರು ಆತನನ್ನು ಬಿಡದೆ ಕೇಳುತ್ತಿರುವಾಗ ಆತನು ನೆಟ್ಟಗೆ ಕೂತುಕೊಂಡು ಅವರಿಗೆ - ನಿಮ್ಮಲ್ಲಿ ಪಾಪವಿಲ್ಲದವನು ಯಾರೋ ಅವನೇ ಮೊದಲು ಆಕೆಯ ಮೇಲೆ ಕಲ್ಲನ್ನು ಹಾಕಲಿ ಎಂದು ಹೇಳಿ 8:7	",
 },			
 {			
-"question" :	"	4. What did Jesus tell the woman?	",
+"question" :	"	4  ಯೇಸು ಆ ಸ್ತ್ರೀಗೆ ಏನು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Go & sin no more.	",
-	"	b. I alone condemn you.	",
-	"	c. You are a disgrace.	",
-	"	d. You have gone too far to be forgiven.	"
+	"	A. ಹೋಗು ಮತ್ತೆ ಪಾಪ ಮಾಡಬೇಡ	",
+	"	B. ನಾನೊಬ್ಬನೇ ನಿನ್ನನ್ನು ದೂಷಿಸುತ್ತೇನೆ	",
+	"	C. ನೀನು ನಾಚಿಕೆಗೆಟ್ಟವಳು	",
+	"	D. ನೀನು ಕ್ಷಮಿಸಲಾರದಷ್ಟು ಪಾಪ ಮಾಡಿದ್ದೀಯ	"
 ],			
-"correct" :	"	a. Go & sin no more.	",
-"explanation" :	"	She said, No one, Lord. And Jesus said to her, Neither do I condemn you; go and sin no more. - Jn 8:11	",
+"correct" :	"	A. ಹೋಗು ಮತ್ತೆ ಪಾಪ ಮಾಡಬೇಡ	",
+"explanation" :	"	ಯೇಸು ಆಕೆಗೆ - ನಾನೂ ನಿನಗೆ ಶಿಕ್ಷೆ ವಿಧಿಸುವದಿಲ್ಲ; ಹೋಗು, ಇನ್ನು ಮೇಲೆ ಪಾಪಮಾಡಬೇಡ ಎಂದು ಹೇಳಿದನು 8:11	",
 },			
 {			
-"question" :	"	5. Jesus said, I am	",
+"question" :	"	5  ಯೇಸು ಹೇಳಿದ್ದು, ನಾನೇ______	",
 "image" :	"",		
 "choices" : [			
-	"	a. A Beam of Hope.	",
-	"	b. The Solid Rock.	",
-	"	c. The Father of Truth.	",
-	"	d. The Light of the World.	"
+	"	A. ನಿರೀಕ್ಷೆ ಸ್ತಂಭ	",
+	"	B. ಗಟ್ಟಿಯಾದ ಕಲ್ಲು	",
+	"	C. ಸತ್ಯದ ತಂದೆ	",
+	"	D. ಲೋಕಕ್ಕೆ ಬೆಳಕು	"
 ],			
-"correct" :	"	d. The Light of the World.	",
-"explanation" :	"	Then Jesus spoke to them again, saying, I am the light of the world. He who follows Me shall not walk in darkness, but have the light of life. - Jn 8:12	",
+"correct" :	"	D. ಲೋಕಕ್ಕೆ ಬೆಳಕು	",
+"explanation" :	"	ಯೇಸು ತಿರಿಗಿ ಅವರ ಸಂಗಡ ಮಾತಾಡಲಾರಂಭಿಸಿ - ನಾನೇ ಲೋಕಕ್ಕೆ ಬೆಳಕು; ನನ್ನನ್ನು ಅನುಸರಿಸುವವನು ಕತ್ತಲೆಯಲ್ಲಿ ನಡೆಯದೆ ಜೀವಕೊಡುವ ಬೆಳಕನ್ನು ಹೊಂದಿದವನಾಗಿರುವನು ಎಂದು ಹೇಳಿದನು 8:12	",
 },			
 {			
-"question" :	"	6. Who did Jesus say beareth witness of Him?	",
+"question" :	"	6  ನನಗೆ ಸಾಕ್ಷಿಯನ್ನು ಯಾರು ಕೊಡುತ್ತಾರೆ ಎಂದು ಯೇಸು ಹೇಳಿದರು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Angels	",
-	"	b. The disciples	",
-	"	c. The Father	",
-	"	d. The devil	"
+	"	A. ದೇವದೂತರು	",
+	"	B. ಶಿಷ್ಯರು	",
+	"	C. ತಂದೆಯು	",
+	"	D. ದೆವ್ವಗಳು	"
 ],			
-"correct" :	"	c. The Father	",
-"explanation" :	"	I am One who bears witness of Myself, and the Father who sent Me bears witness of Me - Jn 8:18	",
+"correct" :	"	C. ತಂದೆಯು	",
+"explanation" :	"	ನನ್ನನ್ನು ಕುರಿತು ನಾನು ಸಾಕ್ಷಿ ಹೇಳುವವನಾಗಿದ್ದೇನೆ, ಅದಲ್ಲದೆ ನನ್ನನ್ನು ಕಳುಹಿಸಿದ ತಂದೆಯೂ ನನ್ನ ವಿಷಯವಾಗಿ ಸಾಕ್ಷಿಹೇಳುತ್ತಾನೆ ಅಂದನು. 8:18	",
 },			
 {			
-"question" :	"	7. If you continue in Jesus’ word, ye shall know this, and it will make you free.	",
+"question" :	"	7  ಯೇಸುವಿನ ವಾಕ್ಯಗಳಲ್ಲಿ ನೀವು ನೆಲೆಗೊಂಡಿದ್ದರೆ, ನಿಮಗೆ ಇದು ಗೊತ್ತಾಗುತ್ತದೆ, ಮತ್ತು ಇದು  ನಿಮ್ಮನ್ನು ಬಿಡಿಸುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Wisdom	",
-	"	b. Love	",
-	"	c. The truth	",
-	"	d. The law	"
+	"	A. ಜ್ಞಾನ	",
+	"	B. ಪ್ರೀತಿ	",
+	"	C. ಸತ್ಯ	",
+	"	D. ಧರ್ಮಶಾಸ್ತ್ರ	"
 ],			
-"correct" :	"	c. The truth	",
-"explanation" :	"	And you shall know the truth, and the truth shall make you free. - Jn 8:32	",
+"correct" :	"	C. ಸತ್ಯ	",
+"explanation" :	"	 ಸತ್ಯವು ನಿಮ್ಮನ್ನು ಬಿಡುಗಡೆಮಾಡುವದು ಎಂದು ಹೇಳಿದನು 8:32	",
 },			
 {			
-"question" :	"	8. Whoever commits sin is	",
+"question" :	"	8  ಪಾಪ ಮಾಡುವವರೆಲ್ಲರೂ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fearful.	",
-	"	b. Without hope.	",
-	"	c. The servant of sin.	",
-	"	d. Without blame.	"
+	"	A. ಭಯವುಳ್ಳವರು	",
+	"	B. ನಿರೀಕ್ಷೆಯಿಲ್ಲದವರು	",
+	"	C. ಪಾಪಕ್ಕೆ ದಾಸರು	",
+	"	D. ದೂಷಣೆ ಇಲ್ಲದವರು	"
 ],			
-"correct" :	"	c. The servant of sin.	",
-"explanation" :	"	Jesus answered them, Most assuredly, I say to you, whoever commits sin is a slave of sin. - Jn 8:34	",
+"correct" :	"	C. ಪಾಪಕ್ಕೆ ದಾಸರು	",
+"explanation" :	"	ಅದಕ್ಕೆ ಯೇಸು - ನಿಮಗೆ ನಿಜನಿಜವಾಗಿ ಹೇಳುತ್ತೇನೆ, ಪಾಪಮಾಡುವವರೆಲ್ಲರು ಪಾಪಕ್ಕೆ ದಾಸರಾಗಿದ್ದಾರೆ 8:34	",
 },			
 {			
-"question" :	"	9. He was a murderer from the beginning.	",
+"question" :	"	9 ಈತನು ಆದಿಯಿಂದಲೇ ಕೊಲೆಗಡುಕನು	",
 "image" :	"",		
 "choices" : [			
-	"	a. Judas Iscariot	",
-	"	b. Abraham	",
-	"	c. Adam	",
-	"	d. The devil	"
+	"	A. ಇಸ್ಕರಿಯೋತ ಯೂದ	",
+	"	B. ಅಬ್ರಹಾಮ	",
+	"	C. ಆದಾಮ	",
+	"	D. ಸೈತಾನನು	"
 ],			
-"correct" :	"	d. The devil	",
-"explanation" :	"	You are of your father the devil, and the desires of your father you want to do. He was a murderer from the beginning, and does not stand in the truth, because there is no truth in him. When he speaks a lie, he speaks from his own resources, for he is a liar and the father of it. - Jn 8:44	",
+"correct" :	"	D. ಸೈತಾನನು	",
+"explanation" :	"	ಸೈತಾನನು ನಿಮ್ಮ ತಂದೆ; ನೀವು ಆ ತಂದೆಯಿಂದ ಹುಟ್ಟಿದವರಾಗಿದ್ದು ನಿಮ್ಮ ತಂದೆಯ ದುರಿಚ್ಫೆಗಳನ್ನೇ ನಡಿಸಬೇಕೆಂದಿದ್ದೀರಿ. ಅವನು ಆದಿಯಿಂದಲೂ ಕೊಲೆಗಾರನಾಗಿದ್ದು ಸತ್ಯದಲ್ಲಿ ನಿಲ್ಲಲಿಲ್ಲ; ಅವನಲ್ಲಿ ಸತ್ಯವು ಇಲ್ಲವೇ ಇಲ್ಲ. ಅವನು ಸುಳ್ಳಾಡುವಾಗ ಸ್ವಭಾವಾನುಸಾರವಾಗಿ ಆಡುತ್ತಾನೆ; ಅವನು ಸುಳ್ಳುಗಾರನೂ ಸುಳ್ಳಿಗೆ ಮೂಲಪುರುಷನೂ ಆಗಿದ್ದಾನೆ.  8:44	",
 },			
 {			
-"question" :	"	10. They would have done this to Jesus, but he hid Himself.	",
+"question" :	"	10 ಅವರು ಯೇಸುವಿಗೆ ಇದನ್ನು ಮಾಡಬೇಕೆಂದಿದ್ದರು, ಆದರೆ ಆತನು ಅವಿತುಕೊಂಡನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Praised	",
-	"	b. Stoned	",
-	"	c. Made Him king	",
-	"	d. Served	"
+	"	A. ಹೊಗಳಬೇಕೆಂದಿದ್ದರು	",
+	"	B. ಕಲ್ಲು ಹೊಡೆದು ಸಾಯಿಸಬೇಕೆಂದಿದ್ದರು	",
+	"	C. ಅರಸನನ್ನಾಗಿ ಮಾಡಬೇಕೆಂದಿದ್ದರು	",
+	"	D. ಸೇವೆ ಮಾಡಬೇಕೆಂದಿದ್ದರು	"
 ],			
-"correct" :	"	b. Stoned	",
-"explanation" :	"	Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by - Jn 8:59	",
+"correct" :	"	B. ಕಲ್ಲು ಹೊಡೆದು ಸಾಯಿಸಬೇಕೆಂದಿದ್ದರು	",
+"explanation" :	"	ಅವರು ಈ ಮಾತನ್ನು ಕೇಳಿ ಆತನನ್ನು ಕೊಲ್ಲುವದಕ್ಕಾಗಿ ಕಲ್ಲು ತಕ್ಕೊಳ್ಳಲು ಯೇಸು ಅಡಗಿಕೊಂಡು ದೇವಾಲಯದೊಳಗಿಂದ ಹೊರಟುಹೋದನು. 8:59	",
 },			
 ]			

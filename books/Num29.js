@@ -1,4 +1,4 @@
-var quiztitle = " Numbers  chapter 29";			
+var quiztitle = " Numbers  ಅಧ್ಯಾಯ 29";			
 var quiz = [			
 {			
 "question" :	"	1. In the seventh month on the first day of the month you shall have a holy convocation you shall	",

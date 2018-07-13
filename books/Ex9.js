@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   chapter 9";			
+var quiztitle = " Exodus   ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. Because Pharaoh would not let the people go all of these died.	",
@@ -42,7 +42,7 @@ var quiz = [
 "choices" : [			
 	"	a. Turned to God.	",
 	"	b. Feared Moses & Aaron.	",
-	"	c. Freed the Hebrews.	",
+	"	c. Freed the ಇಬ್ರಿಯರಿಗೆ.	",
 	"	d. Got boils.	"
 ],			
 "correct" :	"	d. Got boils.	",

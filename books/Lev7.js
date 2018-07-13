@@ -1,4 +1,4 @@
-var quiztitle = " Leviticus  chapter 7";			
+var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. What was to be done with the blood of the trespass offering?	",

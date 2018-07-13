@@ -1,123 +1,123 @@
-var quiztitle = "Matthew chapter 11";			
+var quiztitle = "Matthew ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
-"question" :	"	1. Where was John the Baptist?	",
+"question" :	"	1.  ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು ಎಲ್ಲಿದ್ದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. At the Jordan River	",
-	"	b. In Jerusalem	",
-	"	c. In the temple	",
-	"	d. In prison	"
+	"	A. ಯೋರ್ದಾನ್ ನದಿಯ ಬಳಿ	",
+	"	B. ಯೆರೂಷಲೇಮಿನಲ್ಲಿ	",
+	"	C. ದೇವಾಲಯದಲ್ಲಿ	",
+	"	D. ಸೆರೆಮನೆಯಲ್ಲಿ	"
 ],			
-"correct" :	"	d. In prison	",
-"explanation" :	"	And when John had heard in prison about the works of Christ, he sent two of his disciples - Matt 11:2	",
+"correct" :	"	D. ಸೆರೆಮನೆಯಲ್ಲಿ	",
+"explanation" :	"	ಯೋಹಾನನು ಕ್ರಿಸ್ತನ ಕಾರ್ಯಗಳ ಸುದ್ದಿಯನ್ನು ಸೆರೆಮನೆಯಲ್ಲಿ ಕೇಳಿ .. .. ಮತ್ತಾಯ 11:2	",
 },			
 {			
-"question" :	"	2. John sent two disciples to ask Jesus	",
+"question" :	"	2. ಯೋಹಾನನು ಯೇಸುವನ್ನು ಏನು ಕೇಳಲು ತನ್ನ ಇಬ್ಬರು ಶಿಷ್ಯರನ್ನು ಕಳುಹಿಸಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. For help.	",
-	"	b. If they could be His disciples.	",
-	"	c. Art thou he that should come or shall we seek another.	",
-	"	d. What wouldest thou have me to do?	"
+	"	A. ಸಹಾಯ	",
+	"	B. ಅವರು ಆತನ ಶಿಷ್ಯರಾಗಬಹುದೋ ಎಂದು	",
+	"	C. ಬರಬೇಕಾದವನು ನೀನೋ ಅಥವ ನಾವು ಮತ್ತೊಬ್ಬನ ದಾರಿಯನ್ನು ಕಾಣಬೇಕೊ  ಎಂದು ಕೇಳು	",
+	"	D. ನಾನು ನಿನಗೆ ಏನು ಮಾಡಬೇಕು	"
 ],			
-"correct" :	"	c. Art thou he that should come or shall we seek another.	",
-"explanation" :	"	And when John had heard in prison about the works of Christ, he sent two of his disciples and said to Him,Are You the Coming One, or do we look for another? - matt 11:2,3	",
+"correct" :	"	C. ಬರಬೇಕಾದವನು ನೀನೋ ಅಥವ ನಾವು ಮತ್ತೊಬ್ಬನ ದಾರಿಯನ್ನು ಕಾಣಬೇಕೊ  ಎಂದು ಕೇಳು	",
+"explanation" :	"	ಬರಬೇಕಾದವನು ನೀನೋ, ನಾವು ಬೇರೊಬ್ಬನ ದಾರಿಯನ್ನು ನೋಡಬೇಕೋ ಎಂದು ಕೇಳಿಸಿದನು.  ಮತ್ತಾಯ 11:3	",
 },			
 {			
-"question" :	"	3. What did Jesus say the people went to see when they went to the wilderness to see John the Baptist?	",
+"question" :	"	3. ಜನರು ಯೋಹಾನನನ್ನು ನೋಡಲು ಅಡವಿಗೆ ಹೋಗಿದ್ದಕ್ಕೆ ಯೇಸು ಏನು ನೋಡಲು ಅಡವಿಗೆ ಹೋಗಿದ್ದೀರೆಂದು ಯೇಸು ಕೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A king	",
-	"	b. A prophet	",
-	"	c. A Pharisee	",
-	"	d. A scribe	"
+	"	A. ರಾಜನನ್ನು	",
+	"	B. ಪ್ರವಾದಿಯನ್ನು	",
+	"	C. ಫರಿಸಾಯನನ್ನು	",
+	"	D. ಸದ್ದುಕಾಯರನ್ನು	"
 ],			
-"correct" :	"	b. A prophet	",
-"explanation" :	"	As they departed, Jesus began to say to the multitudes concerning John: What did you go out into the wilderness to see? A reed shaken by the wind?But what did you go out to see? A man clothed in soft garments? Indeed, those who wear soft clothing are in kings' houses. - Matt 11:7-9	",
+"correct" :	"	B. ಪ್ರವಾದಿಯನ್ನು	",
+"explanation" :	"	ಏನು ನೋಡಬೇಕೆಂದು ಅಡವಿಗೆ ಹೋಗಿದ್ದಿರಿ: .. ..  .. ಹಾಗಾದರೆ ಯಾತಕ್ಕೆ ಹೋಗಿದ್ದಿರಿ? ಪ್ರವಾದಿಯನ್ನು ನೋಡುವದಕ್ಕೋ?  ಮತ್ತಾಯ 11:7-9	",
 },			
 {			
-"question" :	"	4. Jesus said, among that are born of woman, there hath not risen a greater than John the Baptist; not withstanding, who did Jesus say was greater than John?	",
+"question" :	"	4. ಯೇಸು ಹೇಳಿದ್ದು: ಸ್ತ್ರೀಯರಲ್ಲಿ ಜನಸಿದವರಲ್ಲಿ  ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನಿಗಿಂತ ದೊಡ್ಡವರಿಲ್ಲ, ಆದರೂ ಅವನಿಗಿಂತ ಯಾರು ದೊಡ್ಡವರೆಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Moses	",
-	"	b. Abraham	",
-	"	c. The angels	",
-	"	d. He that’s least in the kingdom of heaven	"
+	"	A. ಮೋಶೆ	",
+	"	B. ಅಬ್ರಹಾಮ	",
+	"	C. ದೇವದೂತರು	",
+	"	D. ಪರಲೋಕ ರಾಜ್ಯದಲ್ಲಿ ಚಿಕ್ಕವನು	"
 ],			
-"correct" :	"	d. He that’s least in the kingdom of heaven	",
-"explanation" :	"	Assuredly, I say to you, among those born of women there has not risen one greater than John the Baptist; but he who is least in the kingdom of heaven is greater than he. - matt 11:11	",
+"correct" :	"	D. ಪರಲೋಕ ರಾಜ್ಯದಲ್ಲಿ ಚಿಕ್ಕವನು	",
+"explanation" :	"	ಸ್ತ್ರೀಯರಲ್ಲಿ ಹುಟ್ಟಿದವರೊಳಗೆ ಸ್ನಾನಿಕನಾದ ಯೋಹನನಿಗಿಂತ ದೊಡ್ಡವನು ಎದ್ದಿಲ್ಲ, ಆದರೂ ಪರಲೋಕ ರಾಜ್ಯದಲ್ಲಿರುವ ಚಿಕ್ಕವನು ಅವನಿಗಿಂತಲೂ ದೊಡ್ಡವನೆಂದು ನಿಮಗೆ ಸತ್ಯವಾಗಿ ಹೇಳುತ್ತೇನೆ. ಮತ್ತಾಯ 11:11	",
 },			
 {			
-"question" :	"	5. What did Jesus liken that generation to?	",
+"question" :	"	5 ಯೇಸು ಈ ಸಂತತಿಯನ್ನು ಯಾವುದಕ್ಕೆ ಹೋಲಿಸಿದ್ದಾನೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. Children sitting in the markets	",
-	"	b. Men sitting at the gate	",
-	"	c. Sheep & goats	",
-	"	d. Trucebreakers	"
+	"	A. ಸಂತೆಬೀದಿಗಳಲ್ಲಿ ಕುಳಿತಿರುವ ಮಕ್ಕಳು	",
+	"	B. ದ್ವಾರಗಳ ಬಳಿ ಕುಳಿತಿರುವ ಜನರು	",
+	"	C. ಆಡು ಮತ್ತು ಕುರಿಗಳು	",
+	"	D. ಯುದ್ಧವಿರಾಮವನ್ನು ಉಲ್ಲಂಗಿಸುವವರು	"
 ],			
-"correct" :	"	a. Children sitting in the markets	",
-"explanation" :	"	But to what shall I liken this generation? It is like children sitting in the marketplaces and calling to their companions, - Matt 11:16	",
+"correct" :	"	A. ಸಂತೆಬೀದಿಗಳಲ್ಲಿ ಕುಳಿತಿರುವ ಮಕ್ಕಳು	",
+"explanation" :	"	ಆದರೆ ಈ ಸಂತತಿಯನ್ನು ಯಾರಿಗೆ ಹೋಲಿಸಲಿ? ಪೇಟೆಗಳಲ್ಲಿ ಕೂತುಕೊಂಡು ತಮ್ಮ ಗೆಳೆಯರಿಗೆ .. ..   ಮತ್ತಾಯ 11:16	",
 },			
 {			
-"question" :	"	6. What did that generation say about John?	",
+"question" :	"	6  ಆ ಸಂತತಿಯವರು ಯೋಹಾನನನ್ನು  ಕುರಿತು ಏನು ಹೇಳುತ್ತಾರೆ?	",
 "image" :	"",		
 "choices" : [			
-	"	a. He is a servant of God.	",
-	"	b. He is a reed shaken in the wind.	",
-	"	c. He should be in the king’s house.	",
-	"	d. He has a devil.	"
+	"	A. ಆತನು ದೇವರ ಸೇವಕ	",
+	"	B. ಆತನು ಗಾಳಿಯಿಂದ ಅಲ್ಲಾಡಿಸುವ ದಂಟು	",
+	"	C. ಆತನು ಅರಸನ ಮನೆಯಲ್ಲಿರಬೇಕಾಗಿತ್ತು	",
+	"	D. ಆತನು ದೆವ್ವಗಳಿಂದ ಹಿಡಿಯಲ್ಪಟ್ಟಿದ್ದಾನೆ	"
 ],			
-"correct" :	"	d. He has a devil.	",
-"explanation" :	"	For John came neither eating nor drinking, and they say, 'He has a demon. - matt 11:18	",
+"correct" :	"	D. ಆತನು ದೆವ್ವಗಳಿಂದ ಹಿಡಿಯಲ್ಪಟ್ಟಿದ್ದಾನೆ	",
+"explanation" :	"	ಯೋಹಾನನು ಬಂದನು, ಅವನು ಅನ್ನ ಪಾನಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳದವನಾಗಿದ್ದನು, ಅವರು ಅವನಿಗೆ ದೆವ್ವ ಹಿಡಿದದೆ ಅನ್ನುತ್ತಾರೆ.  ಮತ್ತಾಯ 11:8	",
 },			
 {			
-"question" :	"	7. What did Jesus say they called Him?	",
+"question" :	"	7 ಅವರು ಯೇಸುವನ್ನು ಏನೆಂದು ಕರೆದರೆಂದು ಯೇಸು ಹೇಳಿದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. A reed shaken in the wind	",
-	"	b. Great in the kingdom	",
-	"	c. A prophet	",
-	"	d. A glutton	"
+	"	A. ಗಾಳಿಯಿಂದ ಅಲ್ಲಾಡಿಸುವ ದಂಟು	",
+	"	B. ದೇವರ ರಾಜ್ಯದಲ್ಲಿ ದೊಡ್ಡವನು	",
+	"	C. ಪ್ರವಾದಿ	",
+	"	D. ಹೊಟ್ಟಬಾಕ	"
 ],			
-"correct" :	"	d. A glutton	",
-"explanation" :	"	The Son of Man came eating and drinking, and they say, 'Look, a glutton and a winebibber, a friend of tax collectors and sinners!' But wisdom is justified by her children.- matt 11:19	",
+"correct" :	"	D. ಹೊಟ್ಟಬಾಕ	",
+"explanation" :	"	ಅವರು - ಇಗೋ ಇವನು ಹೊಟ್ಟಬಾಕನು, ಕುಡುಕನು, ಭ್ರಷ್ಟರ ಮತ್ತು ಪಾಪಿಷ್ಠರ ಗೆಳೆಯನು ಅನ್ನುತ್ತಾರೆ.   ಮತ್ತಾಯ 11:19	",
 },			
 {			
-"question" :	"	8. Why did Jesus upbraid the cities where most of His miracles were done?	",
+"question" :	"	8 ತಾನು ಅನೇಕ ಅದ್ಭುತಗಳನ್ನು ಮಾಡಿದ ಪಟ್ಟಣಗಳನ್ನು ಯೇಸು ಏಕೆ ಬೈದನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. They didn’t thank Him.	",
-	"	b. They condemned Him.	",
-	"	c. They didn’t repent.	",
-	"	d. They condemned John.	"
+	"	A. ಅವರು ಆತನಿಗೆ ಕೃತಜ್ಞತೆ ತಿಳಿಸಲಿಲ್ಲ	",
+	"	B. ಅವರು ಆತನನ್ನು ಖಂಡಿಸಿದರು	",
+	"	C. ಅವರು ದೇವರ ಕಡೆ ತಿರುಗಿಕೊಳ್ಳಲಿಲ್ಲ	",
+	"	D. ಅವರು ಯೋಹಾನನ್ನು ತಿರಸ್ಕರಿಸಿದರು	"
 ],			
-"correct" :	"	c. They didn’t repent.	",
-"explanation" :	"	Then He began to rebuke the cities in which most of His mighty works had been done, because they did not repent - matt 11:20	",
+"correct" :	"	C. ಅವರು ದೇವರ ಕಡೆ ತಿರುಗಿಕೊಳ್ಳಲಿಲ್ಲ	",
+"explanation" :	"	ಆಗ ಆತನು ತನ್ನ ಮಹತ್ಕಾರ್ಯಗಳು ಬಹಳವಾಗಿ ನಡೆದ ಊರುಗಳು ದೇವರ ಕಡೆಗೆ ತಿರುಗಲಿಲ್ಲವೆಂದು ಅವುಗಳನ್ನು ಗದೆರಿಸತೊಡಗಿದನು. ಮತ್ತಾಯ 11:20	",
 },			
 {			
-"question" :	"	9. Jesus said, come unto Me, all ye that labor and are heavy laden	",
+"question" :	"	9 ಯೇಸು ಹೇಳಿದ್ದು: ಎಲೈ ಕಷ್ಟಪಡುವವರೇ, ಹೊರೆ ಹೊತ್ತವರೇ ..........................	",
 "image" :	"",		
 "choices" : [			
-	"	a. I need your services.	",
-	"	b. Work for my Father.	",
-	"	c. Great shall be your reward.	",
-	"	d. I will give you rest.	"
+	"	A. ನನಗೆ ನಿಮ್ಮ ಸೇವೆ ಬೇಕು	",
+	"	B. ನನ್ನ ತಂದೆಗಾಗಿ ದುಡಿಯಿರಿ	",
+	"	C. ನಿಮ್ಮ ಬಹುಮಾನವು ದೊಡ್ದದಾಗಿರುವುದು	",
+	"	D. ನಾನು ನಿಮಗೆ ವಿಶ್ರಾಂತಿ ಕೊಡುತ್ತೇನೆ	"
 ],			
-"correct" :	"	d. Take his cross	",
-"explanation" :	"	Come to Me, all you who labor and are heavy laden, and I will give you rest.- Mat 11:28	",
+"correct" :	"	D. ನಾನು ನಿಮಗೆ ವಿಶ್ರಾಂತಿ ಕೊಡುತ್ತೇನೆ	",
+"explanation" :	"	ಎಲೈ ಕಷ್ಟಪಡುವವರೇ, ಹೊರೆಹೊತ್ತವರೇ, ನೀವೆಲ್ಲರೂ ನನ್ನ ಬಳಿಗೆ ಬನ್ನಿರಿ, ನಾನು ನಿಮಗೆ ವಿಶ್ರಾಂತಿ ಕೊಡುವೆನು.  ಮತ್ತಾಯ 11:28	",
 },			
 {			
-"question" :	"	10. Jesus said, His yoke is easy and His burden is	",
+"question" :	"	10 ಯೇಸು ಹೇಳಿದ್ದು: ಆತನ ನೊಗವು ಮೃದುವಾದದ್ದು ಮತ್ತು ಆತನ ಹೊರೆಯು ....	",
 "image" :	"",		
 "choices" : [			
-	"	a. Simple.	",
-	"	b. Heavy.	",
-	"	c. Light.	",
-	"	d. Fair.	"
+	"	A. ಸರಳವಾದದ್ದು	",
+	"	B. ಭಾರವಾದದ್ದು	",
+	"	C. ಸುಲಭ	",
+	"	D. ಹೌರವಾದದ್ದು	"
 ],			
-"correct" :	"	c. Light.	",
-"explanation" :	"	For My yoke is easy and My burden is light - matt 11:30	",
+"correct" :	"	D. ಹೌರವಾದದ್ದು	",
+"explanation" :	"	ಯಾಕಂದರೆ ನನ್ನ ನೊಗವು ಮೃದುವಾದದ್ದು, ನನ್ನ ಹೊರೆಯು ಹೌರವಾದದ್ದು  ಮತ್ತಾಯ: 11:30	",
 },			
 ]			

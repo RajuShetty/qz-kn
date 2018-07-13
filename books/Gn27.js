@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  chapter 27";			
+var quiztitle = " Genesis  ಅಧ್ಯಾಯ 27";			
 var quiz = [			
 {			
 "question" :	"	1. When Isaac was old, he could no longer	",

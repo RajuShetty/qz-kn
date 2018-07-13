@@ -1,123 +1,123 @@
-var quiztitle = "Romans chapter 5";			
+var quiztitle = "ರೋಮಾಪುರದವರಿಗೆ ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
-"question" :	"	1. Therefore being justified by faith, we have peace with God through	",
+"question" :	"	1 ನಾವು ನಂಬಿಕೆಯಿಂದ ನೀತಿವಂತರಾದ ಕಾರಣ ___ ಮೂಲಕ ದೇವರೊಂದಿಗೆ ಸಮಾಧಾನದಲ್ಲಿರೋಣ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Works.	",
-	"	b. Hope.	",
-	"	c. Deeds.	",
-	"	d. Jesus.	"
+	"	A. ಕೆಲಸದ	",
+	"	B. ನಿರೀಕ್ಷೆ	",
+	"	C. ಕಾರ್ಯಗಳು	",
+	"	D. ಯೇಸುಕ್ರಿಸ್ತನ	"
 ],			
-"correct" :	"	d. Jesus.	",
-"explanation" :	"	Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:Rom5:1	",
+"correct" :	"	D. ಯೇಸುಕ್ರಿಸ್ತನ	",
+"explanation" :	"	ಹೀಗಿರಲಾಗಿ ನಾವು ನಂಬಿಕೆಯಿಂದ ನೀತಿವಂತರಾದ ಕಾರಣ ನಮ್ಮ ಕರ್ತನಾದ ಯೇಸು ಕ್ರಿಸ್ತನ ಮೂಲಕ ದೇವರೊಂದಿಗೆ ಉಂಟಾದ ಸಮಾಧಾನದಲ್ಲಿ ಇರೋಣ. 5:1	",
 },			
 {			
-"question" :	"	2. Tribulation brings this.	",
+"question" :	"	2 ಸಂಕಟವು ಇದನ್ನು ತರುತ್ತದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Patience	",
-	"	b. Sorrow	",
-	"	c. Joy	",
-	"	d. Fear	"
+	"	A. ತಾಳ್ಮೆ	",
+	"	B. ದು:ಖ	",
+	"	C. ಸಂತೋಷ	",
+	"	D. ಭಯ	"
 ],			
-"correct" :	"	a. Patience	",
-"explanation" :	"	And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;Rom5:3	",
+"correct" :	"	A. ತಾಳ್ಮೆ	",
+"explanation" :	"	ಇದು ಮಾತ್ರವಲ್ಲದೆ ನಮಗೆ ಉಂಟಾಗುವ ಉಪದ್ರವಗಳಲ್ಲಿಯೂ ಉಲ್ಲಾಸವಾಗಿದ್ದೇವೆ 5:3	",
 },			
 {			
-"question" :	"	3. The love of God is shed abroad in our hearts by	",
+"question" :	"	3 _____ ಮೂಲಕವಾಗಿ ದೇವರ ಪ್ರೀತಿತನವು ನಮ್ಮ ಹೃದಯಗಳಲ್ಲಿ ಚೆಲ್ಲಲ್ಪಟ್ಟಿದೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Fear.	",
-	"	b. Sorrow.	",
-	"	c. Experience.	",
-	"	d. The Holy Ghost.	"
+	"	A. ಭಯ	",
+	"	B. ದು:ಖ	",
+	"	C. ಅನುಭವ	",
+	"	D. ಪರಿಶುದ್ಧಾತ್ಮ	"
 ],			
-"correct" :	"	d. The Holy Ghost.	",
-"explanation" :	"	And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.Rom5:5	",
+"correct" :	"	D. ಪರಿಶುದ್ಧಾತ್ಮ	",
+"explanation" :	"	ಈ ನಿರೀಕ್ಷೆಯು ನಮ್ಮ ಆಶೆಯನ್ನು ಭಂಗಪಡಿಸುವದಿಲ್ಲ; ನಮಗೆ ಕೊಟ್ಟಿರುವ ಪವಿತ್ರಾತ್ಮನ ಮೂಲಕವಾಗಿ ದೇವರ ಪ್ರೀತಿರಸವು ನಮ್ಮ ಹೃದಯಗಳಲ್ಲಿ ಧಾರಾಳವಾಗಿ ಸುರಿದದೆಯಲ್ಲಾ. 5:5	",
 },			
 {			
-"question" :	"	4. Who did Christ die for?	",
+"question" :	"	4 ಕ್ರಿಸ್ತನು ಯಾರಿಗಾಗಿ ಸತ್ತನು?	",
 "image" :	"",		
 "choices" : [			
-	"	a. The angels	",
-	"	b. Saints	",
-	"	c. The righteous	",
-	"	d. The ungodly	"
+	"	A. ದೂತರಿಗಾಗಿ	",
+	"	B. ಸಂತರಿಗಾಗಿ	",
+	"	C. ನೀತಿವಂತರಿಗಾಗಿ	",
+	"	D. ಅನೀತಿವಂತರಿಗಾಗಿ	"
 ],			
-"correct" :	"	d. The ungodly	",
-"explanation" :	"	For when we were yet without strength, in due time Christ died for the ungodly.Rom5:6	",
+"correct" :	"	D. ಅನೀತಿವಂತರಿಗಾಗಿ	",
+"explanation" :	"	ನಾವು ಅಶಕ್ತರಾಗಿದ್ದಾಗಲೇ ಕ್ರಿಸ್ತನು ನೇಮಿತ ಕಾಲದಲ್ಲಿ ಭಕ್ತಿಹೀನರಿಗೋಸ್ಕರ ಪ್ರಾಣಕೊಟ್ಟನು 5:6	",
 },			
 {			
-"question" :	"	5. Christ died for us while we were	",
+"question" :	"	5 ನಾವು ____ ಕ್ರಿಸ್ತನು ನಮಗಾಗಿ ಸತ್ತನು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Very young.	",
-	"	b. Still innocent	",
-	"	c. Yet sinners.	",
-	"	d. Praying.	"
+	"	A. ಚಿಕ್ಕ ಪ್ರಾಯದವರಾಗಿದ್ದರೂ	",
+	"	B. ಇನ್ನೂ ಮುಗ್ಧರಾಗಿದ್ದರೂ	",
+	"	C. ಇನ್ನೂ ಪಾಪಿಗಳಾಗಿದ್ದರೂ	",
+	"	D. ಪ್ರಾರ್ಥಿಸುವವರಾಗಿದ್ದರೂ	"
 ],			
-"correct" :	"	c. Yet sinners.	",
-"explanation" :	"	But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.Rom5:8	",
+"correct" :	"	C. ಇನ್ನೂ ಪಾಪಿಗಳಾಗಿದ್ದರೂ	",
+"explanation" :	"	ಆದರೆ ನಾವು ಪಾಪಿಗಳಾಗಿದ್ದಾಗಲೂ ಕ್ರಿಸ್ತನು ನಮಗೋಸ್ಕರ ಪ್ರಾಣ ಕೊಟ್ಟದ್ದರಲ್ಲಿ ದೇವರು ನಮ್ಮ ಮೇಲೆ ತನಗಿರುವ ಪ್ರೀತಿಯನ್ನು ಸಿದ್ಧಾಂತಪಡಿಸಿದ್ದಾನೆ.   5:8	",
 },			
 {			
-"question" :	"	6. We are justified by this.	",
+"question" :	"	6 ನಾವು ಇದರಿಂದ ನೀತಿವಂತರಾಗಿದ್ದೇವೆ.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Work	",
-	"	b. Prayers	",
-	"	c. Penance	",
-	"	d. Jesus' blood	"
+	"	A. ಕಾರ್ಯಗಳು	",
+	"	B. ಪ್ರಾರ್ಥನೆ	",
+	"	C. ಪ್ರಾಯಶ್ಚಿತ್ತ	",
+	"	D. ಯೇಸುವಿನ ರಕ್ತ	"
 ],			
-"correct" :	"	d. Jesus' blood	",
-"explanation" :	"	Much more then, being now justified by his blood, we shall be saved from wrath through him.Rom5:9	",
+"correct" :	"	D. ಯೇಸುವಿನ ರಕ್ತ	",
+"explanation" :	"	ಈಗ ನಾವು ಆತನ ರಕ್ತದಿಂದ ನೀತಿವಂತರಾಗಿರಲಾಗಿ ಆತನ ಮೂಲಕ ಬರುವ ಕೋಪಕ್ಕೆ ತಪ್ಪಿಸಿಕೊಳ್ಳುವದು ಮತ್ತೂ ನಿಶ್ಚಯವಲ್ಲವೇ. 5:9	",
 },			
 {			
-"question" :	"	7. By one man this entered into the world.	",
+"question" :	"	7 ಒಬ್ಬ ಮನುಷ್ಯನಿಂದ ಇದು ಲೋಕಕ್ಕೆ ಬಂದಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Pain	",
-	"	b. Sin	",
-	"	c. Love	",
-	"	d. Rain	"
+	"	A. ನೋವು	",
+	"	B. ಪಾಪ	",
+	"	C. ಪ್ರೀತಿ	",
+	"	D. ಮಳೆ	"
 ],			
-"correct" :	"	b. Sin	",
-"explanation" :	"	Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:Rom5:12	",
+"correct" :	"	B. ಪಾಪ	",
+"explanation" :	"	ಈ ವಿಷಯ ಹೇಗಂದರೆ - ಒಬ್ಬ ಮನುಷ್ಯನಿಂದಲೇ ಪಾಪವೂ ಪಾಪದಿಂದ ಮರಣವೂ ಲೋಕದೊಳಗೆ ಸೇರಿದವು; ಎಲ್ಲರು ಪಾಪ ಮಾಡಿದ್ದರಿಂದ ಮರಣವು ಹೀಗೆ ಎಲ್ಲರಲ್ಲಿಯೂ ವ್ಯಾಪಿಸಿತು 5:12	",
 },			
 {			
-"question" :	"	8. This reigned from Adam to Moses.	",
+"question" :	"	8 ಆದಾಮನಿಂದ ಮೋಶೆಯವರೆಗೂ ಇದು ಆಳ್ವಿಕೆ ಮಾಡಿತು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Love	",
-	"	b. Freedom	",
-	"	c. Death	",
-	"	d. Mercy	"
+	"	A. ಪ್ರೀತಿ	",
+	"	B. ಸ್ವಾತಂತ್ರ	",
+	"	C. ಮರಣ	",
+	"	D. ದಯೆ	"
 ],			
-"correct" :	"	c. Death	",
-"explanation" :	"	Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam's transgression, who is the figure of him that was to come.Rom5:14	",
+"correct" :	"	C. ಮರಣ	",
+"explanation" :	"	ಆದರೂ ಆದಾಮನ ಕಾಲದಿಂದ ಮೋಶೆಯ ಕಾಲದವರೆಗೂ ಮರಣದ ಆಳಿಕೆಯು ನಡೆಯುತ್ತಿತ್ತು. ಆದಾಮನು ದೇವಾಜ್ಞೆಮೀರಿ ಮಾಡಿದ ಪಾಪಕ್ಕೆ ಸಮಾನವಾದ ಪಾಪವನ್ನು ಮಾಡದೆ ಇದ್ದವರ ಮೇಲೆಯೂ ಅದು ನಡೆಯುತ್ತಿತ್ತು. ಆ ಆದಾಮನು ಬರಬೇಕಾದ ಒಬ್ಬಾತನಿಗೆ ಸೂಚಕಪುರುಷನಾಗಿದ್ದಾನೆ. 5:14	",
 },			
 {			
-"question" :	"	9. For as by one man's disobedience many were made sinners, by the obedience of one, shall man	",
+"question" :	"	9 ಒಬ್ಬ ಮನುಷ್ಯನ ಅವಿಧೇಯತೆಯಿಂದ ಎಲ್ಲರೂ ಪಾಪಿಗಳಾದರು ಹಾಗೆಯೇ ಒಬ್ಬ ವಿಧೇಯತೆಯಿಂದ ಎಲ್ಲರೂ	",
 "image" :	"",		
 "choices" : [			
-	"	a. Be deceived.	",
-	"	b. Be made righteous.	",
-	"	c. Die.	",
-	"	d. Perish.	"
+	"	A. ಮೋಸ ಹೋಗುವರು	",
+	"	B. ನೀತಿವಂತರಾಗುವರು	",
+	"	C. ಸಾಯುವರು	",
+	"	D. ನಾಶವಾಗುವರು	"
 ],			
-"correct" :	"	b. Be made righteous.	",
-"explanation" :	"	For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous.Rom5:19	",
+"correct" :	"	B. ನೀತಿವಂತರಾಗುವರು	",
+"explanation" :	"	ಒಬ್ಬನ ಅವಿಧೇಯತ್ವದಿಂದ ಎಲ್ಲರೂ ಹೇಗೆ ಪಾಪಿಗಳಾದರೋ ಹಾಗೆಯೇ ಒಬ್ಬನ ವಿಧೇಯತ್ವದಿಂದ ಎಲ್ಲರೂ ನೀತಿವಂತರಾಗುವರು 5:19	",
 },			
 {			
-"question" :	"	10. Where sin abounded, this abounded much more.	",
+"question" :	"	10 ಪಾಪವು ಹೆಚ್ಚಾಗಿದ್ದಲ್ಲಿ, ಇದು ಇನ್ನೂ ಹೆಚ್ಚಾಗುವುದು.	",
 "image" :	"",		
 "choices" : [			
-	"	a. Grace	",
-	"	b. Death	",
-	"	c. Fear	",
-	"	d. Hope	"
+	"	A. ಕೃಪೆ	",
+	"	B. ಮರಣ	",
+	"	C. ಭಯ	",
+	"	D. ನಿರೀಕ್ಷೆ	"
 ],			
-"correct" :	"	a. Grace	",
-"explanation" :	"	 Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:Rom5:20	",
+"correct" :	"	A. ಕೃಪೆ	",
+"explanation" :	"	ಅಪರಾಧಗಳು ಹೆಚ್ಚಾಗಿ ಕಂಡುಬರುವ ಹಾಗೆ ಧರ್ಮಶಾಸ್ತ್ರವು ಮಧ್ಯೆ ಬಂತು. ಆದರೆ ಪಾಪವು ಹೆಚ್ಚಿದಲ್ಲೇ ಕೃಪೆಯು ಎಷ್ಟೋ ಹೆಚ್ಚಾಗಿ ಪ್ರಬಲವಾಯಿತು.  5:20	",
 },			
 ]			
