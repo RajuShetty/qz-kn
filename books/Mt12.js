@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 12";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. ಯೇಸು ಮತ್ತು ಆತನ ಶಿಷ್ಯರು ಹಸಿದಾಗ ಅವರು ಏನು ತಿಂದರು?	",

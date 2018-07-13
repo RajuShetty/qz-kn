@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 20";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1 ಸಾಮ್ಯದಲ್ಲಿ, ಒಡೆಯನು ಕೂಲಿ ಆಳುಗಳನ್ನು ಎಲ್ಲಿ ಕರೆದನು?	",

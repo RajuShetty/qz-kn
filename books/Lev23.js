@@ -1,7 +1,7 @@
 var quiztitle = " Leviticus  ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
-"question" :	"	1. In this chapter, the Lord speaks concerning	",
+"question" :	"	1. In this ಅಧ್ಯಾಯ, the Lord speaks concerning	",
 "image" :	"",		
 "choices" : [			
 	"	a. Feasts.	",

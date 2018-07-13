@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 28";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 28";			
 var quiz = [			
 {			
 "question" :	"	1. ಯೇಸುವಿನ ಸಮಾಧಿಯ ಬಳಿ ಯಾರು ಹೋದರು?	",

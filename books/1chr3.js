@@ -1,7 +1,7 @@
 var quiztitle = " 1 Chronicles ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
-"question" :	"	1. The sons of this man are first listed in this chapter.	",
+"question" :	"	1. The sons of this man are first listed in this ಅಧ್ಯಾಯ.	",
 "image" :	"",		
 "choices" : [			
 	"	a. David	",

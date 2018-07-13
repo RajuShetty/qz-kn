@@ -101,7 +101,7 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. Thaddeus	",
-	"	b. Matthew	",
+	"	b. ಮತ್ತಾಯ	",
 	"	c. Eliakim	",
 	"	d. Mithredath	"
 ],			

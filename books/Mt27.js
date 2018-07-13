@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 27";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 27";			
 var quiz = [			
 {			
 "question" :	"	1. ಫಸ್ಕ ಹಬ್ಬದ ಪ್ರಯುಕ್ತ ಯಾರು ಸೆರೆಮನೆಯಿಂದ ಬಿಡುಗಡೆ ಹೊಂದಿದರು?	",

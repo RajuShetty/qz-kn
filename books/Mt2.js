@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 2";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. ಯೇಸು ಯಾವ ಪಟ್ಟಣದಲ್ಲಿ ಹುಟ್ಟಿದನು?	",

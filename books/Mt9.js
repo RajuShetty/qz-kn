@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 9";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. ಯೇಸು ಈ ರೋಗದಿಂದ ನರಳುತ್ತಿರುವ ಮನುಷ್ಯನನ್ನು ಗುಣಪಡಿಸಿದನು	",

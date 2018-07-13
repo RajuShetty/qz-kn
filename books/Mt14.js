@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 14";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. ಹೆರೋದನು ಈ ಮನುಷ್ಯನನ್ನು ಸೆರೆಗೆ ಹಾಕಿಸಿದನು.	",

@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 13";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. ದಾರಿಯ ಮಗ್ಗುಲಲ್ಲಿ ಬಿದ್ದ ಬೀಜಗಳು ಏನಾದವು?	",

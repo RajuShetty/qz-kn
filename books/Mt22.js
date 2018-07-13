@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 22";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1 ಒಂದು ಸಾಮ್ಯದಲ್ಲಿ, ಅರಸನು ಯಾರಿಗೆ ಮದುವೆ ಮಾಡಿದನು?	",

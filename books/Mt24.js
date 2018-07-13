@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 24";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 24";			
 var quiz = [			
 {			
 "question" :	"	1. ಶಿಷ್ಯರು ಯೇಸುವನ್ನು ಯಾವುದಕ್ಕೆ ಸೂಚನೆಯನ್ನು ಕೇಳಿದರು?	",

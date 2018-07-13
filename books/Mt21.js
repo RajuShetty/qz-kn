@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 21";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1 ಜನರ ಗುಂಪು ಯೇಸು ಬರುವ ದಾರಿಯಲ್ಲಿ ಏನನ್ನು ಹರಡುತ್ತಿದ್ದರು?	",

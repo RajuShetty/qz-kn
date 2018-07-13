@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 4";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1 ಯೇಸುವನ್ನು ಆತ್ಮನು ಎಲ್ಲಿಗೆ ಒಯ್ದನು?	",

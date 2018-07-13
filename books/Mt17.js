@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 17";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1 ಈ ಕೆಳಗಿನ ಯಾವ ಶಿಷ್ಯರನ್ನು ಯೇಸು ಬೆಟ್ಟಕ್ಕೆ ಕರೆದುಕೊಂಡು ಹೋದನು?	",

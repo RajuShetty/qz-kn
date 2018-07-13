@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 23";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
 "question" :	"	1. ಯೇಸು ಜನರ ಗುಂಪಿಗೆ ಸೂಚಿಸಿದ್ದು,	",

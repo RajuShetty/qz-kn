@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 11";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 11";			
 var quiz = [			
 {			
 "question" :	"	1.  ಸ್ನಾನಿಕನಾದ ಯೋಹಾನನು ಎಲ್ಲಿದ್ದನು?	",

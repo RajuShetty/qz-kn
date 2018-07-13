@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 10";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. ಯೇಸುವನ್ನು ಹಿಡಿದುಕೊಟ್ಟ ಶಿಷ್ಯನು ಯಾರು?	",

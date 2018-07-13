@@ -1,4 +1,4 @@
-var quiztitle = "Matthew ಅಧ್ಯಾಯ 1";			
+var quiztitle = "ಮತ್ತಾಯ ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1  ಯಾರ ವಂಶಾವಳಿಯ ಕ್ರಮದಿಂದ ಈ ಪುಸ್ತಕವು  ಪ್ರಾರಂಭವಾಗುತ್ತದೆ?	",
