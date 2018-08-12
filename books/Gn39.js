@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 39";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 39";			
 var quiz = [			
 {			
 "question" :	"	1. Who purchased Joseph?	",

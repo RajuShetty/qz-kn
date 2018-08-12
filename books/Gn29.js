@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 29";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 29";			
 var quiz = [			
 {			
 "question" :	"	1. When Jacob went on his journey to the land of the people of the east, where did he stop?	",

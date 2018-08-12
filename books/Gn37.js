@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 37";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 37";			
 var quiz = [			
 {			
 "question" :	"	1. How old was Joseph when he brought the report to his father?	",

@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 50";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 50";			
 var quiz = [			
 {			
 "question" :	"	1. What did Joseph command the physicians to do?	",

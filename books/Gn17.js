@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 17";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 17";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord appeared to Abram when he was	",

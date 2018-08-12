@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 49";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 49";			
 var quiz = [			
 {			
 "question" :	"	1. Israel gathered his sons together 	",

@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 3";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. What was the name of Moses' fatherin-law?	",

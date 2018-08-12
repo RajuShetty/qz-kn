@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 13";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 13";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord told Moses sanctify unto me	",

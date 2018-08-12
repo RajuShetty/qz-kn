@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 38";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 38";			
 var quiz = [			
 {			
 "question" :	"	1. The altar of burnt offerings was made of this wood.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 10";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 10";			
 var quiz = [			
 {			
 "question" :	"	1. What did God say He would bring into their coasts?	",

@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 30";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 30";			
 var quiz = [			
 {			
 "question" :	"	1. Why did Rachel envy her sister?	",

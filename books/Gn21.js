@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 21";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1. Abraham called the name of his son, which Sarah gave birth to	",

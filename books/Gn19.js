@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 19";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 19";			
 var quiz = [			
 {			
 "question" :	"	1. Two of them came to Sodom.	",

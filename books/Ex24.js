@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 24";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 24";			
 var quiz = [			
 {			
 "question" :	"	1. God instructed Moses, Aaron, Nadab, Abihu and how many elders of Israel to come up and worship Him afar off?	",

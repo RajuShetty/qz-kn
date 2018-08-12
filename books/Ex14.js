@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 14";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 14";			
 var quiz = [			
 {			
 "question" :	"	1. Where did the Children of Israel camp?	",

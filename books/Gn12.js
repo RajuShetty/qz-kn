@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 12";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 12";			
 var quiz = [			
 {			
 "question" :	"	1. The Lord instructed this man to take his household and leave his country.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 22";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 22";			
 var quiz = [			
 {			
 "question" :	"	1. If a man shall steal an ox, and kill it or sell it, he shall restore this many oxen.	",

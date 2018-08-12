@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 1";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 1";			
 var quiz = [			
 {			
 "question" :	"	1. In the beginning heaven and earth were created by	",

@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 9";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. What did God Command Noah and his sons to do?	",

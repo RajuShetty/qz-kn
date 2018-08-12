@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 32";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 32";			
 var quiz = [			
 {			
 "question" :	"	1. Who met Jacob on his way?	",

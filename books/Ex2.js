@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 2";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 2";			
 var quiz = [			
 {			
 "question" :	"	1. A man and woman from this lineage bare a son.	",

@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 4";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 4";			
 var quiz = [			
 {			
 "question" :	"	1. What did Moses first try to use as an excuse?	",

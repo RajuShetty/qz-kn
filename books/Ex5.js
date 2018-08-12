@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 5";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 5";			
 var quiz = [			
 {			
 "question" :	"	1. Who told Pharaoh, God said, let my people go?	",

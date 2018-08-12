@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 7";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 7";			
 var quiz = [			
 {			
 "question" :	"	1. God said, He had made Moses this, to Pharaoh.	",

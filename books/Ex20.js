@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 20";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 20";			
 var quiz = [			
 {			
 "question" :	"	1. God said, I am the Lord that brought thee out of the house of	",

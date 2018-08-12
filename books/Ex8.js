@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 8";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 8";			
 var quiz = [			
 {			
 "question" :	"	1. When Aaron stretched his rod over the waters as God instructed	",

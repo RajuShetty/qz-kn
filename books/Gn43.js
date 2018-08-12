@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 43";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 43";			
 var quiz = [			
 {			
 "question" :	"	1. What did Israel say to his sons?	",

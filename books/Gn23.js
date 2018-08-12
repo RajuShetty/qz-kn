@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 23";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 23";			
 var quiz = [			
 {			
 "question" :	"	1. How old did Sarah live to be?	",

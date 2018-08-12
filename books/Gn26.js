@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 26";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 26";			
 var quiz = [			
 {			
 "question" :	"	1. Why did Isaac go to King Abimelech?	",

@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 42";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 42";			
 var quiz = [			
 {			
 "question" :	"	1. Who went to Egypt to buy corn?	",

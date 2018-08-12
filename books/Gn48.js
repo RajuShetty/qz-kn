@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 48";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 48";			
 var quiz = [			
 {			
 "question" :	"	1. Joseph took his two sons with him to see his father, when he heard his father	",

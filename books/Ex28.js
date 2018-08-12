@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 28";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 28";			
 var quiz = [			
 {			
 "question" :	"	1. Holy garments were to be made for this man and his sons.	",

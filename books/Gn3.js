@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 3";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 3";			
 var quiz = [			
 {			
 "question" :	"	1. The serpent told Eve, if she ate the fruit of the tree in the midst of the garden, she would	",

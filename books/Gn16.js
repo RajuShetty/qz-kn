@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 16";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 16";			
 var quiz = [			
 {			
 "question" :	"	1. Who was Sarai's handmaid?	",

@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 29";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 29";			
 var quiz = [			
 {			
 "question" :	"	1. This ಅಧ್ಯಾಯ gives instructions to hallow them that are in this office.	",

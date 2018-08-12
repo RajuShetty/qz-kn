@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 21";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 21";			
 var quiz = [			
 {			
 "question" :	"	1. If thou buy a Hebrew servant, after six years of service, in the seventh	",

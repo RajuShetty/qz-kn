@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 46";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 46";			
 var quiz = [			
 {			
 "question" :	"	1. Where did Israel stop on his way to Egypt?	",

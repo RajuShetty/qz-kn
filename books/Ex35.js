@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 35";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 35";			
 var quiz = [			
 {			
 "question" :	"	1. Moses gathered all the congregation together, and told them	",

@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 41";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 41";			
 var quiz = [			
 {			
 "question" :	"	1. What was Pharaoh's first dream about?	",

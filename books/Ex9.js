@@ -1,4 +1,4 @@
-var quiztitle = " Exodus   ಅಧ್ಯಾಯ 9";			
+var quiztitle = " ವಿಮೋಚನಕಾಂಡ   ಅಧ್ಯಾಯ 9";			
 var quiz = [			
 {			
 "question" :	"	1. Because Pharaoh would not let the people go all of these died.	",

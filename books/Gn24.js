@@ -1,4 +1,4 @@
-var quiztitle = " Genesis  ಅಧ್ಯಾಯ 24";			
+var quiztitle = " ಆದಿಕಾಂಡ  ಅಧ್ಯಾಯ 24";			
 var quiz = [			
 {			
 "question" :	"	1. What did Abraham send his servant to get?	",
