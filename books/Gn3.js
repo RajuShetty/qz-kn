@@ -77,7 +77,7 @@ var quiz = [
 "image" :	"",		
 "choices" : [			
 	"	a. I did not.	",
-	"	b. I did and I'm sorry.	",
+	"	b. I did and i am sorry.	",
 	"	c. The serpent beguiled me.	",
 	"	d. The woman you gave me, gave it to me.	"
 ],			
