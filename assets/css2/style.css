@@ -136,6 +136,9 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
 	width: 48px;
 	height: 48px;
 }
+.bg-1 {
+	background: url('../img/dailybread.jpg') no-repeat center / cover;
+}
 .bg-2 {
 	background: url('../img/2.jpg') no-repeat center / cover;
 }
@@ -157,6 +160,19 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
 .bg-8 {
 	background: url('../img/wa.jpg') no-repeat center / cover;
 }
+.bg-9 {
+	background: url('../img/praise.jpg') no-repeat center / cover;
+}
+
+.bg-10 {
+	background: url('../img/background.jpg') no-repeat center / cover;
+}
+.bg-11 {
+	background: url('../img/stories.jpg') no-repeat center / cover;
+}
+.bg-12 {
+	background: url('../img/wallsbg.jpg') no-repeat center / cover;
+}
 .bg-20 {
 	background: url('../img/20.jpg') no-repeat center / cover;
 }
@@ -164,7 +180,7 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
 	background: url('../img/shop.jpg') no-repeat center / cover;
 }
 .bg-blog {
-	background: url('../img/slide-bg.jpg') no-repeat center / cover;
+	background: url('../img/blog.jpg') no-repeat center / cover;
 }
 .bg-product {
 	background: url('../img/product2.jpg') no-repeat center / cover;
@@ -222,7 +238,7 @@ box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
 	border-radius: 50%;
 }
 .border {
-	border: 1px solid rgb(64,196,255);
+	border: 1px solid rgb(243,126,33);
 }
 .no-border {
 	border: none !important;
@@ -682,7 +698,7 @@ textarea.normal {
 .drawer-header {
 	position: relative;
     height: 140px;
-	background: url(../img/slide-bg.jpg) center / cover;
+	background: url(../img/user-bg.jpg) center / cover;
 }
 .drawer-header img {
 	width: 48px;
